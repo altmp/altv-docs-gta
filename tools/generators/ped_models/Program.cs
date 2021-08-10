@@ -44,7 +44,7 @@ namespace PedPageCreator
             {
                 if (ped.DlcName.ToLower() == "titleupdate")
                 {
-                    gallery.WriteLine("![Missing image '" + ped.Name + ".png'](../../images/ped/models/" + ped.Name.ToLower() + ".png)<br/>");
+                    gallery.WriteLine("![Missing image '" + ped.Name + ".png'](~/images/ped/models/" + ped.Name.ToLower() + ".png)<br/>");
                     gallery.WriteLine("**Name:** " + ped.Name + "<br/>");
                     gallery.WriteLine("**Hash:** 0x" + ped.HexHash + "<br/>");
                     gallery.WriteLine("**Type:** " + ped.Pedtype.ToUpper() + "<br/>");
@@ -52,7 +52,7 @@ namespace PedPageCreator
                 }
                 else
                 {
-                    gallery.WriteLine("![Missing image '" + ped.Name + ".png'](../../images/ped/models/" + ped.Name.ToLower() + ".png)<br/>");
+                    gallery.WriteLine("![Missing image '" + ped.Name + ".png'](~/images/ped/models/" + ped.Name.ToLower() + ".png)<br/>");
                     gallery.WriteLine("**Name:** " + ped.Name + "<br/>");
                     gallery.WriteLine("**Hash:** 0x" + ped.HexHash + "<br/>");
                     gallery.WriteLine("**Type:** " + ped.Pedtype.ToUpper() + "<br/>");
@@ -63,15 +63,13 @@ namespace PedPageCreator
 
             gallery.WriteLine("<br/>Created with [GTA V Data Dumps from DurtyFree](https://github.com/DurtyFree/gta-v-data-dumps)<br/>");
 
-
             /*
              * Generate Snippets
              */
 
-
             gallery.WriteLine("# Snippets");
 
-            gallery.WriteLine("## Javascript");
+            gallery.WriteLine("# [JavaScript](#tab/tab1-0)");
             gallery.WriteLine("```js");
             gallery.WriteLine("let PedModel {");
 
@@ -87,10 +85,7 @@ namespace PedPageCreator
             }
             gallery.WriteLine("};");
             gallery.WriteLine("```");
-            gallery.WriteLine("Created with [GTA V Data Dumps from DurtyFree](https://github.com/DurtyFree/gta-v-data-dumps)<br/>");
-
-            gallery.WriteLine("");
-            gallery.WriteLine("## Typescript");
+            gallery.WriteLine("# [TypeScript](#tab/tab1-1)");
             gallery.WriteLine("```ts");
             gallery.WriteLine("export enum PedModel {");
 
@@ -100,13 +95,14 @@ namespace PedPageCreator
                 if (i < sortedPedsByName.Count() - 1)
                     gallery.WriteLine($"\t{ped.Name.ToLower()} = 0x{ped.HexHash},");
                 else
-                    gallery.WriteLine($"\t{ped.Name.ToLower()} =  0x{ped.HexHash}");
+                    gallery.WriteLine($"\t{ped.Name.ToLower()} = 0x{ped.HexHash}");
 
                 i++;
             }
 
             gallery.WriteLine("};");
             gallery.WriteLine("```");
+            gallery.WriteLine("***");
             gallery.WriteLine("Created with [GTA V Data Dumps from DurtyFree](https://github.com/DurtyFree/gta-v-data-dumps)<br/>");
 
             gallery.Close();
