@@ -57,7 +57,7 @@ namespace VehiclePageCreator
                 {
                     if (vehicle.DlcName.ToLower() == "titleupdate")
                     {
-                        gallery.WriteLine("![Missing image '" + vehicle.Name.ToLower() + ".png'](../../images/vehicle/models/" + vehicle.Name.ToLower() + ".png)<br/>");
+                        gallery.WriteLine("![Missing image '" + vehicle.Name.ToLower() + ".png'](~/images/vehicle/models/" + vehicle.Name.ToLower() + ".png)<br/>");
                         gallery.WriteLine("**Name:** " + vehicle.Name + "<br/>");
                         gallery.WriteLine("**Hash:** " + vehicle.HexHash + "<br/>");
                         gallery.WriteLine("**Display Name:** " + vehicle.DisplayName + "<br/>");
@@ -65,7 +65,7 @@ namespace VehiclePageCreator
                     }
                     else
                     {
-                        gallery.WriteLine("![Missing image '" + vehicle.Name.ToLower() + ".png'](../../images/vehicle/models/" + vehicle.Name.ToLower() + ".png)<br/>");
+                        gallery.WriteLine("![Missing image '" + vehicle.Name.ToLower() + ".png'](~/images/vehicle/models/" + vehicle.Name.ToLower() + ".png)<br/>");
                         gallery.WriteLine("**Name:** " + vehicle.Name + "<br/>");
                         gallery.WriteLine("**Hash:** " + vehicle.HexHash + "<br/>");
                         gallery.WriteLine("**Display Name:** " + vehicle.DisplayName + "<br/>");
@@ -75,17 +75,13 @@ namespace VehiclePageCreator
                 }
             }
 
-            gallery.WriteLine("<br/>Created with [GTA V Data Dumps from DurtyFree](https://github.com/DurtyFree/gta-v-data-dumps)<br/>");
-
-
             /*
              * Generate Snippets
              */
-
             
             gallery.WriteLine("# Snippets");
 
-            gallery.WriteLine("## Javascript");
+            gallery.WriteLine("# [JavaScript](#tab/tab1-0)");
             gallery.WriteLine("```js");
             gallery.WriteLine("let VehicleModel {");
 
@@ -101,10 +97,7 @@ namespace VehiclePageCreator
             }
             gallery.WriteLine("};");
             gallery.WriteLine("```");
-            gallery.WriteLine("Created with [GTA V Data Dumps from DurtyFree](https://github.com/DurtyFree/gta-v-data-dumps)<br/>");
-
-            gallery.WriteLine("");
-            gallery.WriteLine("## Typescript");
+            gallery.WriteLine("# [TypeScript](#tab/tab1-1)");
             gallery.WriteLine("```ts");
             gallery.WriteLine("export enum VehicleModel {");
 
@@ -114,13 +107,14 @@ namespace VehiclePageCreator
                 if (i < sortedVehiclesByName.Count() - 1)
                     gallery.WriteLine($"\t{vehicle.Name.ToLower()} = {vehicle.HexHash},");
                 else
-                    gallery.WriteLine($"\t{vehicle.Name.ToLower()} =  {vehicle.HexHash}");
+                    gallery.WriteLine($"\t{vehicle.Name.ToLower()} = {vehicle.HexHash}");
 
                 i++;
             }
 
             gallery.WriteLine("};");
             gallery.WriteLine("```");
+            gallery.WriteLine("***");
             gallery.WriteLine("Created with [GTA V Data Dumps from DurtyFree](https://github.com/DurtyFree/gta-v-data-dumps)<br/>");
 
             gallery.Close();
