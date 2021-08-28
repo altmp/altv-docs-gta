@@ -1,0 +1,13 @@
+# Build results
+_site/
+api/**
+!api/**.md
+_site/
+[Oo]bj/
+**.zip
+common.ps1
+
+# Others
+docfx/
+plugins/
+templates/*
