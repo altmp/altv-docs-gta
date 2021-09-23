@@ -15,6 +15,7 @@ namespace VehiclePageCreator
             var vehiclesJson = depsFolder + "vehicles.json";
 
             var vehiclesModelsFile = "../../../articles/vehicle/models.md";
+            var imagePath = "~/altv-docs-gta-assets/images/vehicle/models/";
 
             /*
              * Read JSON files from gta-v-data-dumps by DurtyFree
@@ -57,7 +58,7 @@ namespace VehiclePageCreator
                 {
                     if (vehicle.DlcName.ToLower() == "titleupdate")
                     {
-                        gallery.WriteLine("![Missing image '" + vehicle.Name.ToLower() + ".png'](~/images/vehicle/models/" + vehicle.Name.ToLower() + ".png)<br/>");
+                        gallery.WriteLine("![Missing image '" + vehicle.Name.ToLower() + ".png'](" + imagePath + vehicle.Name.ToLower() + ".png)<br/>");
                         gallery.WriteLine("**Name:** " + vehicle.Name + "<br/>");
                         gallery.WriteLine("**Hash:** " + vehicle.HexHash + "<br/>");
                         gallery.WriteLine("**Display Name:** " + vehicle.DisplayName + "<br/>");
@@ -65,7 +66,7 @@ namespace VehiclePageCreator
                     }
                     else
                     {
-                        gallery.WriteLine("![Missing image '" + vehicle.Name.ToLower() + ".png'](~/images/vehicle/models/" + vehicle.Name.ToLower() + ".png)<br/>");
+                        gallery.WriteLine("![Missing image '" + vehicle.Name.ToLower() + ".png'](" + imagePath + vehicle.Name.ToLower() + ".png)<br/>");
                         gallery.WriteLine("**Name:** " + vehicle.Name + "<br/>");
                         gallery.WriteLine("**Hash:** " + vehicle.HexHash + "<br/>");
                         gallery.WriteLine("**Display Name:** " + vehicle.DisplayName + "<br/>");
