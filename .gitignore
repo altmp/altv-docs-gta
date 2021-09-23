@@ -11,3 +11,5 @@ common.ps1
 docfx/
 plugins/
 templates/*
+tools/generators/ped_models/bin/*
+tools/generators/vehicle_models/bin/*

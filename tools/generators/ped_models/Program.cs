@@ -14,7 +14,8 @@ namespace PedPageCreator
             var depsFolder = "../../deps/gta-v-data-dumps/";
             var pedsJson = depsFolder + "peds.json";
 
-            var pedModelsFile = "../../../gta/ped/models.md";
+            var pedModelsFile = "../../../articles/ped/models.md";
+            var imagePath = "~/altv-docs-gta-assets/images/ped/models/";
 
             /*
              * Read JSON files from gta-v-data-dumps by DurtyFree
@@ -44,17 +45,17 @@ namespace PedPageCreator
             {
                 if (ped.DlcName.ToLower() == "titleupdate")
                 {
-                    gallery.WriteLine("![Missing image '" + ped.Name + ".png'](~/images/ped/models/" + ped.Name.ToLower() + ".png)<br/>");
+                    gallery.WriteLine("![Missing image '" + ped.Name + ".png'](" + imagePath + ped.Name.ToLower() + ".png)<br/>");
                     gallery.WriteLine("**Name:** " + ped.Name + "<br/>");
-                    gallery.WriteLine("**Hash:** 0x" + ped.HexHash + "<br/>");
+                    gallery.WriteLine("**Hash:** " + ped.HexHash + "<br/>");
                     gallery.WriteLine("**Type:** " + ped.Pedtype.ToUpper() + "<br/>");
                     gallery.WriteLine("<br/>");
                 }
                 else
                 {
-                    gallery.WriteLine("![Missing image '" + ped.Name + ".png'](~/images/ped/models/" + ped.Name.ToLower() + ".png)<br/>");
+                    gallery.WriteLine("![Missing image '" + ped.Name + ".png'](" + imagePath + ped.Name.ToLower() + ".png)<br/>");
                     gallery.WriteLine("**Name:** " + ped.Name + "<br/>");
-                    gallery.WriteLine("**Hash:** 0x" + ped.HexHash + "<br/>");
+                    gallery.WriteLine("**Hash:** " + ped.HexHash + "<br/>");
                     gallery.WriteLine("**Type:** " + ped.Pedtype.ToUpper() + "<br/>");
                     gallery.WriteLine("**DLC:** " + ped.DlcName.ToLower() + "<br/>");
                     gallery.WriteLine("<br/>");
@@ -106,7 +107,7 @@ namespace PedPageCreator
             gallery.WriteLine("Created with [GTA V Data Dumps from DurtyFree](https://github.com/DurtyFree/gta-v-data-dumps)<br/>");
 
             gallery.Close();
-            Console.WriteLine($"{pedModelsFile} created for {peds.Count} vehicles.");
+            Console.WriteLine($"{pedModelsFile} created for {peds.Count} peds.");
 
             Console.WriteLine("This tool is using data files from https://github.com/DurtyFree/gta-v-data-dumps");
         }
