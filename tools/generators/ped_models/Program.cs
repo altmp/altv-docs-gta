@@ -78,9 +78,9 @@ namespace PedPageCreator
             foreach (var ped in sortedPedsByName)
             {
                 if (i < sortedPedsByName.Count() - 1)
-                    gallery.WriteLine($"\t{ped.Name.ToLower()}: 0x{ped.HexHash},");
+                    gallery.WriteLine($"\t{ped.Name.ToLower()}: {ped.HexHash},");
                 else
-                    gallery.WriteLine($"\t{ped.Name.ToLower()}: 0x{ped.HexHash}");
+                    gallery.WriteLine($"\t{ped.Name.ToLower()}: {ped.HexHash}");
 
                 i++;
             }
@@ -94,9 +94,9 @@ namespace PedPageCreator
             foreach (var ped in sortedPedsByName)
             {
                 if (i < sortedPedsByName.Count() - 1)
-                    gallery.WriteLine($"\t{ped.Name.ToLower()} = 0x{ped.HexHash},");
+                    gallery.WriteLine($"\t{ped.Name.ToLower()} = {ped.HexHash},");
                 else
-                    gallery.WriteLine($"\t{ped.Name.ToLower()} = 0x{ped.HexHash}");
+                    gallery.WriteLine($"\t{ped.Name.ToLower()} = {ped.HexHash}");
 
                 i++;
             }
