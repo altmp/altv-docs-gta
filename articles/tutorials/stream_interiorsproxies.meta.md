@@ -3,11 +3,11 @@ This Tutorial will show you, how to stream interiorproxies.meta on your Server. 
 
 This Tutorial will answer the known "why are players invisible in my MLO" question.
 
-# Suggested tools
+## Suggested tools
 * [OpenIV](https://openiv.com/)
 * [Codewalker](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)
 
-# Adding the MLO to the Server
+## Adding the MLO to the Server
 Download the MLO from the link above and add it as a resource to your Server. You can find the tutorial for streaming MLO's here: [MLOs]([Tutorial:Stream)
 # Creating the Resource
 1. Open ```dlc.rpf``` or any other ```*.rpf``` archive with one of the suggested tools from the downloaded resource and search for a file with the ending: ```milo_.ymap```
@@ -15,7 +15,7 @@ Download the MLO from the link above and add it as a resource to your Server. Yo
 3. Create a resourcefolder with the following structure below.
 4. Create a ```interiorproxies.meta``` file inside the stream folder in your resourcefolder. You can see below at ```interiorproxies.meta``` how the file should look.
 
-## **Folder Structure**
+### **Folder Structure**
 ```
 i-streamer/
 |-> stream/
@@ -24,7 +24,7 @@ i-streamer/
 \-> stream.cfg
 ```
 
-## **resource.cfg**
+### **resource.cfg**
 ```
 type: dlc,
 main: stream.cfg,
@@ -34,7 +34,7 @@ client-files: [
 ]
 ```
 
-## **stream.cfg**
+### **stream.cfg**
 ```
 files: [
   stream/*
@@ -45,7 +45,7 @@ meta: {
 }
 ```
 
-## **interiorproxies.meta**
+### **interiorproxies.meta**
 You can add every ```milo_``` as a ```<Item>``` into ```proxies```
 
 ```xml

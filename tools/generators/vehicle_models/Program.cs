@@ -50,6 +50,7 @@ namespace VehiclePageCreator
 
             gallery.WriteLine("<!--- This page gets generated with tools/deps/generators/vehicle_models -->");
             gallery.WriteLine("# Vehicle Models");
+            gallery.WriteLine("## Gallery");
             foreach (var vehicleClass in vehicleClasses)
             {
                 gallery.WriteLine("## " + vehicleClass);
@@ -80,7 +81,7 @@ namespace VehiclePageCreator
              * Generate Snippets
              */
             
-            gallery.WriteLine("# Snippets");
+            gallery.WriteLine("## Snippets");
 
             gallery.WriteLine("# [JavaScript](#tab/tab1-0)");
             gallery.WriteLine("```js");
