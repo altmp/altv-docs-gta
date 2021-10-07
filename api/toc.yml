@@ -1,2 +1,3 @@
-- name: Dummy
-  href: index.md
+- name: Peds
+  href: ped/toc.yml
+  topicHref: ped/index.md
