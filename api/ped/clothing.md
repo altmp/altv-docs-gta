@@ -16,8 +16,8 @@ The utilization of the server-side setters is divided into 2 variants:
 > [!TIP]
 > `setClothes` [JS](https://docs.altv.mp/js/api/alt-server.Player.html#_altmp_altv_types_alt_server_Player_setClothes) [C#](https://docs.altv.mp/cs/api/AltV.Net.Elements.Entities.IPlayer.html#AltV_Net_Elements_Entities_IPlayer_SetClothes_System_Byte_System_UInt16_System_Byte_System_Byte_)
 > `setDlcClothes` [JS](https://docs.altv.mp/js/api/alt-server.Player.html#_altmp_altv_types_alt_server_Player_setDlcClothes) [C#](https://docs.altv.mp/cs/api/AltV.Net.Elements.Entities.IPlayer.html#AltV_Net_Elements_Entities_IPlayer_SetDlcClothes_System_Byte_System_UInt16_System_Byte_System_Byte_System_UInt32_)
-> `setProp(component, drawable, texture)` [JS](https://docs.altv.mp/js/api/alt-server.Player.html#_altmp_altv_types_alt_server_Player_setProp) [C#](https://docs.altv.mp/cs/api/AltV.Net.Elements.Entities.IPlayer.html#AltV_Net_Elements_Entities_IPlayer_SetProps_System_Byte_System_UInt16_System_Byte_)
-> `setDlcProp(dlc, component, drawable, texture)` [JS](https://docs.altv.mp/js/api/alt-server.Player.html#_altmp_altv_types_alt_server_Player_setDlcProp) [C#](https://docs.altv.mp/cs/api/AltV.Net.Elements.Entities.IPlayer.html#AltV_Net_Elements_Entities_IPlayer_SetDlcProps_System_Byte_System_UInt16_System_Byte_System_UInt32_)
+> `setProp` [JS](https://docs.altv.mp/js/api/alt-server.Player.html#_altmp_altv_types_alt_server_Player_setProp) [C#](https://docs.altv.mp/cs/api/AltV.Net.Elements.Entities.IPlayer.html#AltV_Net_Elements_Entities_IPlayer_SetProps_System_Byte_System_UInt16_System_Byte_)
+> `setDlcProp` [JS](https://docs.altv.mp/js/api/alt-server.Player.html#_altmp_altv_types_alt_server_Player_setDlcProp) [C#](https://docs.altv.mp/cs/api/AltV.Net.Elements.Entities.IPlayer.html#AltV_Net_Elements_Entities_IPlayer_SetDlcProps_System_Byte_System_UInt16_System_Byte_System_UInt32_)
 > Remark: hairs are also clothes and therefor set by the setClothes function.
 
 While the `setClothes` function is basically equivalent to the native `setPedComponentVariation`, the `setDlcClothes` function has a slightly different functionality.
