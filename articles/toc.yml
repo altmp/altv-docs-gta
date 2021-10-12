@@ -4,6 +4,9 @@
 - name: Vehicle
   href: vehicle/toc.yml
   topicHref: vehicle/index.md
+- name: Weapons
+  href: weapons/toc.yml
+  topicHref: weapons/index.md
 - name: Tutorials
   href: tutorials/toc.yml
   topicHref: tutorials/index.md
