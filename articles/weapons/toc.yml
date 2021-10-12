@@ -1,4 +1,4 @@
-- name: Weapon Components
+- name: Components
   href: components.md
-- name: Weapon Tints
+- name: Tints
   href: tints.md
