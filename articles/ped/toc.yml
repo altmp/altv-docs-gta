@@ -2,3 +2,5 @@
   href: models.md
 - name: Clothing
   href: clothing.md
+- name: Config Flags
+  href: flags.md
