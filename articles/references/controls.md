@@ -120,7 +120,7 @@
 | 80 | INPUT_VEH_CIN_CAM | R | B |
 | 81 | INPUT_VEH_NEXT_RADIO | . | (NONE) |
 | 82 | INPUT_VEH_PREV_RADIO | , | (NONE) |
-#ERROR!
+| 83 | INPUT_VEH_NEXT_RADIO_TRACK | = | (NONE) |
 | 84 | INPUT_VEH_PREV_RADIO_TRACK | - | (NONE) |
 | 85 | INPUT_VEH_RADIO_WHEEL | Q | DPAD LEFT |
 | 86 | INPUT_VEH_HORN | E | L3 |
@@ -395,6 +395,7 @@
 | 355 | INPUT_VEH_FLY_BOMB_BAY | E | DPAD RIGHT |
 | 356 | INPUT_VEH_FLY_COUNTER | E | DPAD RIGHT |
 | 357 | INPUT_VEH_TRANSFORM | X | A |
+
 # Examples
 ## Disable control action
 ```js
@@ -404,7 +405,7 @@ let controlAction = alt.everyTick(() => {
     // Vehicle
     native.disableControlAction(0, 59, true) // Disable left/right
     native.disableControlAction(0, 60, true) // Disable up/down
-    
+
     // HUD
     native.disableControlAction(0, 199, true) // Disable Pause Menu
 });
