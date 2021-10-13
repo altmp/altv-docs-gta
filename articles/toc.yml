@@ -10,3 +10,6 @@
 - name: Tutorials
   href: tutorials/toc.yml
   topicHref: tutorials/index.md
+- name: References
+  href: references/toc.yml
+  topicHref: references/index.md
