@@ -1,4 +1,4 @@
-# List
+# DLC List
 The release dates are using the format **YYYY.MM.DD** and PC release dates are preferred.
 
 | Name | Release Date |

@@ -1,4 +1,6 @@
-﻿# Input Groups
+﻿# Controls
+
+# Input Groups
 | Index | Name |
 | ----- | ---- |
 | 0 | INPUTGROUP_MOVE |
