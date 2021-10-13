@@ -1,2 +1,14 @@
+- name: Bones
+  href: bones.md
+- name: Classes
+  href: classes.md
+- name: Colors
+  href: colors.md
+- name: Flags
+  href: flags.md
 - name: Models
   href: models.md
+- name: Mods
+  href: mods.md
+- name: Types
+  href: types.md
