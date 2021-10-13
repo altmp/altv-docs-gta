@@ -137,9 +137,9 @@ const GtaDlcList =
 	"mpheist3",
 	"mpsum",
 	"mpheist4",
-    "patchday24ng",
-    "patchday25ng",
-    "mptuner"
+	"patchday24ng",
+	"patchday25ng",
+	"mptuner"
 ];
 ```
 # [C#](#tab/tabid-2)
@@ -206,10 +206,10 @@ public enum GtaDlc
 	mpchristmas2018,
 	mpvinewood,
 	mpheist3,
-    mpsum,
-    mpheist4,
-    patchday24ng,
-    patchday25ng,
-    mptuner
+	mpsum,
+	mpheist4,
+	patchday24ng,
+	patchday25ng,
+	mptuner
 }
 ```
