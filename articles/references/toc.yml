@@ -2,6 +2,8 @@
   href: controls.md
 - name: DLCs
   href: dlcs.md
+- name: HUD Components
+  href: hudcomponents.md
 - name: Interiors & Locations
   href: interiors-and-locations.md
 - name: Time & Date
