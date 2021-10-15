@@ -2,7 +2,7 @@
 
 Audio flags can control ambient audio, they can be set with [setAudioFlag](https://natives.altv.mp/#/0xB9EFD5C25018725A).
 
-## Audio Flag Overview
+# Audio Flag Overview
 | Flag Name | Description |
 | --------- | ----------- |
 | ActivateSwitchWheelAudio |  |
