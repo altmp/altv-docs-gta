@@ -1,5 +1,6 @@
 # Overview of References
 
+[Audio Flags](audio-flags.md)
 [Controls](controls.md)
 [DLCs](dlcs.md)
 [Interiors & Locations](interiors-and-locations.md)
