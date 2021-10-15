@@ -207,12 +207,12 @@ alt.everyTick(() => {
 ```
 
 # Used APIs
-[everyTick](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_everyTick)
-[Vector3()](https://docs.altv.mp/js/api/alt-client.Vector3.html#_altmp_altv_types_alt_client_Vector3_constructor)
-[Vector3.distanceTo](https://docs.altv.mp/js/api/alt-client.Vector3.html#_altmp_altv_types_alt_client_Vector3_distanceTo)
-[requestIpl](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_requestIpl)
-[setIslandHopperEnabled](https://natives.altv.mp/#/0x9A9D1BA639675CF1)
-[setAudioFlag](https://natives.altv.mp/#/0xB9EFD5C25018725A)
-[setAmbientZoneListStatePersistent](https://natives.altv.mp/#/0xF3638DAE8C4045E1)
-[setDeepOceanScaler](https://natives.altv.mp/#/0xB96B00E976BE977F)
-[resetDeepOceanScaler](https://natives.altv.mp/#/0x5E5E99285AE812DB)
+- [everyTick](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_everyTick)
+- [Vector3()](https://docs.altv.mp/js/api/alt-client.Vector3.html#_altmp_altv_types_alt_client_Vector3_constructor)
+- [Vector3.distanceTo](https://docs.altv.mp/js/api/alt-client.Vector3.html#_altmp_altv_types_alt_client_Vector3_distanceTo)
+- [requestIpl](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_requestIpl)
+- [setIslandHopperEnabled](https://natives.altv.mp/#/0x9A9D1BA639675CF1)
+- [setAudioFlag](https://natives.altv.mp/#/0xB9EFD5C25018725A)
+- [setAmbientZoneListStatePersistent](https://natives.altv.mp/#/0xF3638DAE8C4045E1)
+- [setDeepOceanScaler](https://natives.altv.mp/#/0xB96B00E976BE977F)
+- [resetDeepOceanScaler](https://natives.altv.mp/#/0x5E5E99285AE812DB)
