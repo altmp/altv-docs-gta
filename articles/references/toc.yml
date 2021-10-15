@@ -2,6 +2,8 @@
   href: audio-flags.md
 - name: Controls
   href: controls.md
+- name: Data Files
+  href: data-files.md
 - name: DLCs
   href: dlcs.md
 - name: HUD Components
