@@ -4,43 +4,39 @@ Cayo Perico Island has been added with "The Cayo Perico Heist" Update (mpheist4)
 # [Load Island & unload Los Santos](#tab/tabid-1)
 This method is more performant and better for weak PCs. You need to use setIslandHopperEnabled native function.
 ```js
-alt.on("connectionComplete",()=>{
-    let blip = natives.addBlipForCoord(5943.5679611650485, -6272.114833599767,2); // a invisible blip to make the map clickable at the island
-    natives.setBlipSprite(blip, 407);
-    natives.setBlipScale(blip, 0);
-    natives.setBlipAsShortRange(blip, false);
+import * as alt from "alt-client";
+import * as game from "natives";
+
+alt.on("connectionComplete", () => {
+    const blip = new alt.PointBlip(5943.5679611650485, -6272.114833599767, 2)
+    blip.alpha = 0;
 });
 
+const islandCenter = new alt.Vector3(4840.571, -5174.425, 2.0);
 let nearIsland = false;
 
 alt.everyTick(() => {
-	let distance = alt.Player.local.pos.distanceTo(new alt.Vector3(4840.571, -5174.425, 2.0));
+    const distance = alt.Player.local.pos.distanceTo(islandCenter);
 
-    if(distance < 2000) {
-        if(!nearIsland)
-        {
-            nearIsland = true;
-            natives.setIslandHopperEnabled('HeistIsland', true);
-            natives.setScenarioGroupEnabled('Heist_Island_Peds', true);
-            natives.setAudioFlag("PlayerOnDLCHeist4Island", true);
-            natives.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Zones", true, true);
-            natives.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Disabled_Zones", false, true);
-        }
-    } else {
-        if(nearIsland)
-        {
+    if (nearIsland) {
+        game.setRadarAsExteriorThisFrame();
+        game.setRadarAsInteriorThisFrame(alt.hash("h4_fake_islandx"), 4700.0, -5145.0, 0, 0);
+
+        if (distance >= 3000) {
             nearIsland = false;
-            natives.setIslandHopperEnabled('HeistIsland', false);
-            natives.setScenarioGroupEnabled("Heist_Island_Peds", false);
-            natives.setAudioFlag("PlayerOnDLCHeist4Island", false);
-            natives.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Zones", false, false);
-            natives.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Disabled_Zones", false, false);
+            game.setIslandHopperEnabled('HeistIsland', false);
+            game.setScenarioGroupEnabled("Heist_Island_Peds", false);
+            game.setAudioFlag("PlayerOnDLCHeist4Island", false);
+            game.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Zones", false, false);
+            game.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Disabled_Zones", false, false);
         }
-    }
-    if(nearIsland)
-    {
-        natives.setRadarAsExteriorThisFrame();
-        natives.setRadarAsInteriorThisFrame(alt.hash("h4_fake_islandx"), 4700.0, -5145.0, 0, 0);
+    } else if (distance < 2000 && !nearIsland) {
+        nearIsland = true;
+        game.setIslandHopperEnabled('HeistIsland', true);
+        game.setScenarioGroupEnabled('Heist_Island_Peds', true);
+        game.setAudioFlag("PlayerOnDLCHeist4Island", true);
+        game.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Zones", true, true);
+        game.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Disabled_Zones", false, true);
     }
 });
 ```
@@ -52,11 +48,12 @@ This method loads all IPLs and keeps Los Santos loaded, this can have a big perf
 > - Note: You probably need to run additional natives, to reduce wave size etc.
 
 ```js
-alt.on("connectionComplete",()=>{
-    let blip = natives.addBlipForCoord(5943.5679611650485, -6272.114833599767,2); // a invisible blip to make the map clickable at the island
-    natives.setBlipSprite(blip, 407);
-    natives.setBlipScale(blip, 0);
-    natives.setBlipAsShortRange(blip, false);
+import * as alt from "alt-client";
+import * as game from "natives";
+
+alt.on("connectionComplete", () => {
+    const blip = new alt.PointBlip(5943.5679611650485, -6272.114833599767, 2)
+    blip.alpha = 0;
 
     alt.requestIpl("h4_islandairstrip");
     alt.requestIpl("h4_islandairstrip_props");
@@ -171,43 +168,39 @@ alt.on("connectionComplete",()=>{
     alt.requestIpl("h4_mph4_airstrip_interior_0_airstrip_hanger");
 });
 
+const islandCenter = new alt.Vector3(4840.571, -5174.425, 2.0);
 let nearIsland = false;
 
 alt.everyTick(() => {
-	let distance = alt.Player.local.pos.distanceTo(new alt.Vector3(4840.571, -5174.425, 2.0));
+    let distance = alt.Player.local.pos.distanceTo(islandCenter);
 
-    if(distance < 2000) {
-        if(!nearIsland)
-        {
-            nearIsland = true;
-            natives.setScenarioGroupEnabled('Heist_Island_Peds', true);
-            natives.setAudioFlag("PlayerOnDLCHeist4Island", true);
-            natives.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Zones", true, true);
-            natives.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Disabled_Zones", false, true);
-            natives.setDeepOceanScaler(0.1);
-        }
-    } else {
-        if(nearIsland)
-        {
+    if (nearIsland) {
+        game.setRadarAsExteriorThisFrame();
+        game.setRadarAsInteriorThisFrame(alt.hash("h4_fake_islandx"), 4700.0, -5145.0, 0, 0);
+
+        if (distance >= 3000) {
             nearIsland = false;
-            natives.setScenarioGroupEnabled("Heist_Island_Peds", false);
-            natives.setAudioFlag("PlayerOnDLCHeist4Island", false);
-            natives.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Zones", false, false);
-            natives.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Disabled_Zones", false, false);
-            natives.resetDeepOceanScaler();
+            game.setScenarioGroupEnabled("Heist_Island_Peds", false);
+            game.setAudioFlag("PlayerOnDLCHeist4Island", false);
+            game.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Zones", false, false);
+            game.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Disabled_Zones", false, false);
+            game.resetDeepOceanScaler();
         }
-    }
-
-    if(nearIsland)
-    {
-        natives.setRadarAsExteriorThisFrame();
-        natives.setRadarAsInteriorThisFrame(alt.hash("h4_fake_islandx"), 4700.0, -5145.0, 0, 0);
+    } else if (distance < 3000 && !nearIsland) {
+        nearIsland = true;
+        game.setScenarioGroupEnabled('Heist_Island_Peds', true);
+        game.setAudioFlag("PlayerOnDLCHeist4Island", true);
+        game.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Zones", true, true);
+        game.setAmbientZoneListStatePersistent("AZL_DLC_Hei4_Island_Disabled_Zones", false, true);
+        game.setDeepOceanScaler(0.1);
     }
 });
 ```
 
 # Used APIs
 - [everyTick](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_everyTick)
+- [PointBlip()](https://docs.altv.mp/js/api/alt-client.PointBlip.html)
+- [PointBlip.alpha](https://docs.altv.mp/js/api/alt-client.Blip.html#_altmp_altv_types_alt_client_Blip_alpha)
 - [Vector3()](https://docs.altv.mp/js/api/alt-client.Vector3.html#_altmp_altv_types_alt_client_Vector3_constructor)
 - [Vector3.distanceTo](https://docs.altv.mp/js/api/alt-client.Vector3.html#_altmp_altv_types_alt_client_Vector3_distanceTo)
 - [requestIpl](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_requestIpl)
