@@ -48,11 +48,11 @@ natives.createPed(2, modelHash, 0, 0, 70, 0, false, false);
 This example was provided by \[DE] ithr0n#5837.
 
 ## Used APIs
-[hasModelLoaded](https://natives.altv.mp/#/0x98A4EB5D89A0C952)
-[isModelValid](https://natives.altv.mp/#/0xC0296A2EDF545E92)
-[requestModel](https://natives.altv.mp/#/0x963D27A58DF860AC)
-[createPed](https://natives.altv.mp/#/0xD49F9B0955C367DE)
-[setInterval](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_setInterval)
-[clearInterval](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_clearInterval)
-[log](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_log)
-[hash](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_hash)
+- [hasModelLoaded](https://natives.altv.mp/#/0x98A4EB5D89A0C952)
+- [isModelValid](https://natives.altv.mp/#/0xC0296A2EDF545E92)
+- [requestModel](https://natives.altv.mp/#/0x963D27A58DF860AC)
+- [createPed](https://natives.altv.mp/#/0xD49F9B0955C367DE)
+- [setInterval](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_setInterval)
+- [clearInterval](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_clearInterval)
+- [log](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_log)
+- [hash](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_hash)
