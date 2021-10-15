@@ -13,3 +13,6 @@
 - name: References
   href: references/toc.yml
   topicHref: references/index.md
+- name: Snippets
+  href: snippets/toc.yml
+  topicHref: snippets/index.md
