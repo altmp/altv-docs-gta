@@ -1,5 +1,5 @@
 # Cayo Perico Island
-Cayo Perico Island has been added with "The Cayo Perico Heist" Update (mpheist4), the island can be found at 4895.28, -5744.58, 26.351. There are two ways to load the island, never use both at the same time.
+Cayo Perico Island has been added with "The Cayo Perico Heist" Update (mpheist4), the island can be found at `4895.28, -5744.58, 26.351`. There are two ways to load the island, never use both at the same time.
 
 # [Load Island & unload Los Santos](#tab/tabid-1)
 This method is more performant and better for weak PCs. You need to use setIslandHopperEnabled native function.
@@ -8,7 +8,7 @@ import * as alt from "alt-client";
 import * as game from "natives";
 
 alt.on("connectionComplete", () => {
-    const blip = new alt.PointBlip(5943.5679611650485, -6272.114833599767, 2)
+    const blip = new alt.PointBlip(5943.5679611650485, -6272.114833599767, 2);
     blip.alpha = 0;
 });
 
@@ -52,7 +52,7 @@ import * as alt from "alt-client";
 import * as game from "natives";
 
 alt.on("connectionComplete", () => {
-    const blip = new alt.PointBlip(5943.5679611650485, -6272.114833599767, 2)
+    const blip = new alt.PointBlip(5943.5679611650485, -6272.114833599767, 2);
     blip.alpha = 0;
 
     alt.requestIpl("h4_islandairstrip");
