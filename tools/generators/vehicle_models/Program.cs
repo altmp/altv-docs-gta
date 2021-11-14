@@ -85,7 +85,7 @@ namespace VehiclePageCreator
 
             gallery.WriteLine("# [JavaScript](#tab/tab1-0)");
             gallery.WriteLine("```js");
-            gallery.WriteLine("let VehicleModel {");
+            gallery.WriteLine("let VehicleModel = {");
 
             var i = 0;
             foreach (var vehicle in sortedVehiclesByName)

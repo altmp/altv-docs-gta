@@ -74,7 +74,7 @@ namespace PedPageCreator
 
             gallery.WriteLine("# [JavaScript](#tab/tab1-0)");
             gallery.WriteLine("```js");
-            gallery.WriteLine("let PedModel {");
+            gallery.WriteLine("let PedModel = {");
 
             var i = 0;
             foreach (var ped in sortedPedsByName)
