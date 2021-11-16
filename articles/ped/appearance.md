@@ -235,7 +235,7 @@ ColorType is 1 for eyebrows, beards, and chest hair
 ColorType is 2 for blush and lipstick
 ColorType is 0 otherwise.
 
-# [client](#tab/tab3-0)
+# [client](#tab/tab4-0)
 **To set head overlay color**
 [native](https://natives.altv.mp/#/0x497BF74A7B9CB952)
 ```js
@@ -250,7 +250,7 @@ const secondColorID = 0;
 
 native.setPedHeadOverlayColor(ped, overlayID, colorType, colorID, secondColorID);
 ```
-# [server](#tab/tab3-1)
+# [server](#tab/tab4-1)
 **To set head overlay color**
 [JS method](https://docs.altv.mp/js/api/alt-server.Player.html#_altmp_altv_types_alt_server_Player_setHeadOverlayColor)
 [C# method](https://docs.altv.mp/cs/api/AltV.Net.Elements.Entities.Player.html#AltV_Net_Elements_Entities_Player_SetHeadOverlayColor_System_Byte_System_Byte_System_Byte_System_Byte_)
@@ -271,7 +271,7 @@ player.setHeadOverlayColor(overlayID, colorType, colorIndex, secondColorIndex);
 
 Recommended eye color indexes range is from 1 to 31.
 
-# [client](#tab/tab3-0)
+# [client](#tab/tab5-0)
 **To set eye color**
 [native](https://natives.altv.mp/#/0x50B56988B170AFDF)
 ```js
@@ -291,7 +291,7 @@ import * as alt from 'alt-client';
 
 native.getPedEyeColor(alt.Player.local);
 ```
-# [server](#tab/tab3-1)
+# [server](#tab/tab5-1)
 **To set eye color**
 [JS method](https://docs.altv.mp/js/api/alt-server.Player.html#_altmp_altv_types_alt_server_Player_setEyeColor)
 [C# method](https://docs.altv.mp/cs/api/AltV.Net.Elements.Entities.Player.html#AltV_Net_Elements_Entities_Player_SetEyeColor_System_UInt16_)
@@ -317,7 +317,7 @@ player.getEyeColor();
 
 ### Hair color
 
-# [client](#tab/tab3-0)
+# [client](#tab/tab6-0)
 **To set hair color**
 [native](https://natives.altv.mp/#/0x4CFFC65454C93A49)
 ```js
@@ -330,7 +330,7 @@ const highlightColorID = 0;
 
 native.setPedHairColor(ped, colorID, highlightColorID);
 ```
-# [server](#tab/tab3-1)
+# [server](#tab/tab6-1)
 **To set hair color**
 [JS method](https://docs.altv.mp/js/api/alt-server.Player.html#_altmp_altv_types_alt_server_Player_setHairColor)
 [C# method](https://docs.altv.mp/cs/api/AltV.Net.Elements.Entities.Player.html#AltV_Net_Elements_Entities_Player_HairColor)
