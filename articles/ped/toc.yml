@@ -1,3 +1,5 @@
+- name: Appearance
+  href: appearance.md
 - name: Models
   href: models.md
 - name: Clothing
