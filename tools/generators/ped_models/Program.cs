@@ -41,29 +41,32 @@ namespace PedPageCreator
             gallery.WriteLine("<!--- This page gets generated with tools/deps/generators/ped_models -->");
             gallery.WriteLine("# Ped Models");
 
-            gallery.WriteLine("## Gallery");
+            gallery.WriteLine("<div class='grid-container'>");
 
             foreach (var ped in sortedPedsByName)
             {
+                gallery.WriteLine("<div class='grid-item'>");
+
                 if (ped.DlcName.ToLower() == "titleupdate")
                 {
-                    gallery.WriteLine("![Missing image '" + ped.Name + ".png'](" + imagePath + ped.Name.ToLower() + ".png)<br/>");
+                    gallery.WriteLine($"<div class='grid-item-img'><img src='{imagePath + ped.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{ped.Name}' data-toggle='modal' data-src='{imagePath + ped.Name.ToLower()}.png' /></div>");
                     gallery.WriteLine("**Name:** " + ped.Name + "<br/>");
                     gallery.WriteLine("**Hash:** " + ped.HexHash + "<br/>");
-                    gallery.WriteLine("**Type:** " + ped.Pedtype.ToUpper() + "<br/>");
-                    gallery.WriteLine("<br/>");
+                    gallery.WriteLine("**Type:** " + ped.Pedtype.ToUpper());
                 }
                 else
                 {
-                    gallery.WriteLine("![Missing image '" + ped.Name + ".png'](" + imagePath + ped.Name.ToLower() + ".png)<br/>");
+                    gallery.WriteLine($"<div class='grid-item-img'><img src='{imagePath + ped.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{ped.Name}' data-toggle='modal' data-src='{imagePath + ped.Name.ToLower()}.png' /></div>");
                     gallery.WriteLine("**Name:** " + ped.Name + "<br/>");
                     gallery.WriteLine("**Hash:** " + ped.HexHash + "<br/>");
                     gallery.WriteLine("**Type:** " + ped.Pedtype.ToUpper() + "<br/>");
-                    gallery.WriteLine("**DLC:** " + ped.DlcName.ToLower() + "<br/>");
-                    gallery.WriteLine("<br/>");
+                    gallery.WriteLine("**DLC:** " + ped.DlcName.ToLower());
                 }
+
+                gallery.WriteLine("</div>");
             }
 
+            gallery.WriteLine("</div>");
             gallery.WriteLine("<br/>Created with [GTA V Data Dumps from DurtyFree](https://github.com/DurtyFree/gta-v-data-dumps)<br/>");
 
             /*

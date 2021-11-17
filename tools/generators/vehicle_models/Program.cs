@@ -50,31 +50,37 @@ namespace VehiclePageCreator
 
             gallery.WriteLine("<!--- This page gets generated with tools/deps/generators/vehicle_models -->");
             gallery.WriteLine("# Vehicle Models");
-            gallery.WriteLine("## Gallery");
+
             foreach (var vehicleClass in vehicleClasses)
             {
                 gallery.WriteLine("## " + vehicleClass);
+                gallery.WriteLine("<div class='grid-container'>");
+
                 var vehiclesByClass = sortedVehiclesByName.Where(x => x.Class == vehicleClass);
                 foreach (var vehicle in vehiclesByClass)
                 {
+                    gallery.WriteLine("<div class='grid-item'>");
+
                     if (vehicle.DlcName.ToLower() == "titleupdate")
                     {
-                        gallery.WriteLine("![Missing image '" + vehicle.Name.ToLower() + ".png'](" + imagePath + vehicle.Name.ToLower() + ".png)<br/>");
+                        gallery.WriteLine($"<div class='grid-item-img'><img src='{imagePath + vehicle.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{vehicle.Name}' data-toggle='modal' data-src='{imagePath + vehicle.Name.ToLower()}.png' /></div>");
                         gallery.WriteLine("**Name:** " + vehicle.Name + "<br/>");
                         gallery.WriteLine("**Hash:** " + vehicle.HexHash + "<br/>");
-                        gallery.WriteLine("**Display Name:** " + vehicle.DisplayName + "<br/>");
-                        gallery.WriteLine("<br/>");
+                        gallery.WriteLine("**Display Name:** " + vehicle.DisplayName );
                     }
                     else
                     {
-                        gallery.WriteLine("![Missing image '" + vehicle.Name.ToLower() + ".png'](" + imagePath + vehicle.Name.ToLower() + ".png)<br/>");
+                        gallery.WriteLine($"<div class='grid-item-img'><img src='{imagePath + vehicle.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{vehicle.Name}' data-toggle='modal' data-src='{imagePath + vehicle.Name.ToLower()}.png' /></div>");
                         gallery.WriteLine("**Name:** " + vehicle.Name + "<br/>");
                         gallery.WriteLine("**Hash:** " + vehicle.HexHash + "<br/>");
                         gallery.WriteLine("**Display Name:** " + vehicle.DisplayName + "<br/>");
-                        gallery.WriteLine("**DLC:** " + vehicle.DlcName.ToLower() + "<br/>");
-                        gallery.WriteLine("<br/>");
+                        gallery.WriteLine("**DLC:** " + vehicle.DlcName.ToLower());
                     }
+
+                    gallery.WriteLine("</div>");
                 }
+
+                gallery.WriteLine("</div>");
             }
 
             /*
