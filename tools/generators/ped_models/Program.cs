@@ -49,14 +49,14 @@ namespace PedPageCreator
 
                 if (ped.DlcName.ToLower() == "titleupdate")
                 {
-                    gallery.WriteLine($"<div class='grid-item-img'><img src='{imagePath + ped.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{ped.Name}' data-toggle='modal' data-src='{imagePath + ped.Name.ToLower()}.png' /></div>");
+                    gallery.WriteLine($"<div class='grid-item-img'><img alt='Missing image \"{ped.Name}.png\"' src='{imagePath + ped.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{ped.Name}' data-toggle='modal' data-src='{imagePath + ped.Name.ToLower()}.png' /></div>");
                     gallery.WriteLine("**Name:** " + ped.Name + "<br/>");
                     gallery.WriteLine("**Hash:** " + ped.HexHash + "<br/>");
                     gallery.WriteLine("**Type:** " + ped.Pedtype.ToUpper());
                 }
                 else
                 {
-                    gallery.WriteLine($"<div class='grid-item-img'><img src='{imagePath + ped.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{ped.Name}' data-toggle='modal' data-src='{imagePath + ped.Name.ToLower()}.png' /></div>");
+                    gallery.WriteLine($"<div class='grid-item-img'><img alt='Missing image \"{ped.Name}.png\"' src='{imagePath + ped.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{ped.Name}' data-toggle='modal' data-src='{imagePath + ped.Name.ToLower()}.png' /></div>");
                     gallery.WriteLine("**Name:** " + ped.Name + "<br/>");
                     gallery.WriteLine("**Hash:** " + ped.HexHash + "<br/>");
                     gallery.WriteLine("**Type:** " + ped.Pedtype.ToUpper() + "<br/>");

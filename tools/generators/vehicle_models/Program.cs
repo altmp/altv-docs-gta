@@ -63,14 +63,14 @@ namespace VehiclePageCreator
 
                     if (vehicle.DlcName.ToLower() == "titleupdate")
                     {
-                        gallery.WriteLine($"<div class='grid-item-img'><img src='{imagePath + vehicle.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{vehicle.Name}' data-toggle='modal' data-src='{imagePath + vehicle.Name.ToLower()}.png' /></div>");
+                        gallery.WriteLine($"<div class='grid-item-img'><img alt='Missing image \"{vehicle.Name}.png\"' src='{imagePath + vehicle.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{vehicle.Name}' data-toggle='modal' data-src='{imagePath + vehicle.Name.ToLower()}.png' /></div>");
                         gallery.WriteLine("**Name:** " + vehicle.Name + "<br/>");
                         gallery.WriteLine("**Hash:** " + vehicle.HexHash + "<br/>");
                         gallery.WriteLine("**Display Name:** " + vehicle.DisplayName );
                     }
                     else
                     {
-                        gallery.WriteLine($"<div class='grid-item-img'><img src='{imagePath + vehicle.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{vehicle.Name}' data-toggle='modal' data-src='{imagePath + vehicle.Name.ToLower()}.png' /></div>");
+                        gallery.WriteLine($"<div class='grid-item-img'><img alt='Missing image \"{vehicle.Name}.png\"' src='{imagePath + vehicle.Name.ToLower()}_thumbnail.jpg' loading='lazy' title='{vehicle.Name}' data-toggle='modal' data-src='{imagePath + vehicle.Name.ToLower()}.png' /></div>");
                         gallery.WriteLine("**Name:** " + vehicle.Name + "<br/>");
                         gallery.WriteLine("**Hash:** " + vehicle.HexHash + "<br/>");
                         gallery.WriteLine("**Display Name:** " + vehicle.DisplayName + "<br/>");
