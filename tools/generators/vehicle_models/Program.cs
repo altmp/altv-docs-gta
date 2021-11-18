@@ -58,7 +58,7 @@ namespace VehiclePageCreator
 
             foreach (var vehicleClass in vehicleClasses)
             {
-                gallery.WriteLine("## " + vehicleClass);
+                gallery.WriteLine("### " + vehicleClass);
                 gallery.WriteLine("<div class=\"grid-container\">");
 
                 var vehiclesByClass = sortedVehiclesByName.Where(x => x.Class == vehicleClass);
