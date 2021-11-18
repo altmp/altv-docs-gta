@@ -50,6 +50,11 @@ namespace PedPageCreator
 
             foreach (var ped in sortedPedsByName)
             {
+                if ("mp_headtargets".Equals(ped.Name.ToLower()) || ped.Name.ToLower().StartsWith("slod_"))
+                {
+                    continue;
+                }
+
                 gallery.WriteLine("  <div class=\"grid-item\">");
 
                 var pedPath = imagePath + ped.Name.ToLower();
