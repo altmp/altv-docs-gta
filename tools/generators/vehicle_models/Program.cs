@@ -70,7 +70,7 @@ namespace VehiclePageCreator
                     var vehPath = imagePath + vehicle.Name.ToLower();
 
                     gallery.WriteLine($"    <div class=\"grid-item-img\">");
-                    gallery.WriteLine($"      <img src=\"{vehPath}_thumbnail.jpg\" alt=\"Missing image &quot;{vehicle.Name}.png&quot;\" title=\"{vehicle.Name}\" loading=\"lazy\" data-toggle=\"modal\" data-src=\"{vehPath}.png\" />");
+                    gallery.WriteLine($"      <img src=\"{vehPath}.png\" alt=\"Missing image &quot;{vehicle.Name}.png&quot;\" title=\"{vehicle.Name}\" loading=\"lazy\" />");
                     gallery.WriteLine($"    </div>");
 
                     if (vehicle.DlcName.ToLower() == "titleupdate")
