@@ -60,7 +60,7 @@ namespace PedPageCreator
                 var pedPath = imagePath + ped.Name.ToLower();
 
                 gallery.WriteLine($"    <div class=\"grid-item-img\">");
-                gallery.WriteLine($"      <img src=\"{pedPath}_thumbnail.jpg\" alt=\"Missing image &quot;{ped.Name}.png&quot;\" title=\"{ped.Name}\" loading=\"lazy\" data-toggle=\"modal\" data-src=\"{pedPath}.png\" />");
+                gallery.WriteLine($"      <img src=\"{pedPath}.png\" alt=\"Missing image &quot;{ped.Name}.png&quot;\" title=\"{ped.Name}\" loading=\"lazy\" />");
                 gallery.WriteLine($"    </div>");
 
                 if (ped.DlcName.ToLower() == "titleupdate")
