@@ -9,7 +9,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/avisa_thumbnail.jpg" alt="Missing image &quot;avisa.png&quot;" title="avisa" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/avisa.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/avisa.png" alt="Missing image &quot;avisa.png&quot;" title="avisa" loading="lazy" />
     </div>
     <b>Name:</b> avisa<br/>
     <b>Hash:</b> 0x9A474B5E<br/>
@@ -18,7 +18,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dinghy_thumbnail.jpg" alt="Missing image &quot;Dinghy.png&quot;" title="Dinghy" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dinghy.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dinghy.png" alt="Missing image &quot;Dinghy.png&quot;" title="Dinghy" loading="lazy" />
     </div>
     <b>Name:</b> Dinghy<br/>
     <b>Hash:</b> 0x3D961290<br/>
@@ -26,7 +26,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dinghy2_thumbnail.jpg" alt="Missing image &quot;dinghy2.png&quot;" title="dinghy2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dinghy2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dinghy2.png" alt="Missing image &quot;dinghy2.png&quot;" title="dinghy2" loading="lazy" />
     </div>
     <b>Name:</b> dinghy2<br/>
     <b>Hash:</b> 0x107F392C<br/>
@@ -34,7 +34,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dinghy3_thumbnail.jpg" alt="Missing image &quot;dinghy3.png&quot;" title="dinghy3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dinghy3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dinghy3.png" alt="Missing image &quot;dinghy3.png&quot;" title="dinghy3" loading="lazy" />
     </div>
     <b>Name:</b> dinghy3<br/>
     <b>Hash:</b> 0x1E5E54EA<br/>
@@ -43,7 +43,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dinghy4_thumbnail.jpg" alt="Missing image &quot;dinghy4.png&quot;" title="dinghy4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dinghy4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dinghy4.png" alt="Missing image &quot;dinghy4.png&quot;" title="dinghy4" loading="lazy" />
     </div>
     <b>Name:</b> dinghy4<br/>
     <b>Hash:</b> 0x33B47F96<br/>
@@ -52,7 +52,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dinghy5_thumbnail.jpg" alt="Missing image &quot;dinghy5.png&quot;" title="dinghy5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dinghy5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dinghy5.png" alt="Missing image &quot;dinghy5.png&quot;" title="dinghy5" loading="lazy" />
     </div>
     <b>Name:</b> dinghy5<br/>
     <b>Hash:</b> 0xC58DA34A<br/>
@@ -61,7 +61,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/jetmax_thumbnail.jpg" alt="Missing image &quot;jetmax.png&quot;" title="jetmax" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/jetmax.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/jetmax.png" alt="Missing image &quot;jetmax.png&quot;" title="jetmax" loading="lazy" />
     </div>
     <b>Name:</b> jetmax<br/>
     <b>Hash:</b> 0x33581161<br/>
@@ -69,7 +69,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/kosatka_thumbnail.jpg" alt="Missing image &quot;kosatka.png&quot;" title="kosatka" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/kosatka.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/kosatka.png" alt="Missing image &quot;kosatka.png&quot;" title="kosatka" loading="lazy" />
     </div>
     <b>Name:</b> kosatka<br/>
     <b>Hash:</b> 0x4FAF0D70<br/>
@@ -78,7 +78,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/longfin_thumbnail.jpg" alt="Missing image &quot;longfin.png&quot;" title="longfin" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/longfin.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/longfin.png" alt="Missing image &quot;longfin.png&quot;" title="longfin" loading="lazy" />
     </div>
     <b>Name:</b> longfin<br/>
     <b>Hash:</b> 0x6EF89CCC<br/>
@@ -87,7 +87,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/marquis_thumbnail.jpg" alt="Missing image &quot;marquis.png&quot;" title="marquis" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/marquis.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/marquis.png" alt="Missing image &quot;marquis.png&quot;" title="marquis" loading="lazy" />
     </div>
     <b>Name:</b> marquis<br/>
     <b>Hash:</b> 0xC1CE1183<br/>
@@ -95,7 +95,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/patrolboat_thumbnail.jpg" alt="Missing image &quot;patrolboat.png&quot;" title="patrolboat" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/patrolboat.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/patrolboat.png" alt="Missing image &quot;patrolboat.png&quot;" title="patrolboat" loading="lazy" />
     </div>
     <b>Name:</b> patrolboat<br/>
     <b>Hash:</b> 0xEF813606<br/>
@@ -104,7 +104,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/predator_thumbnail.jpg" alt="Missing image &quot;Predator.png&quot;" title="Predator" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/predator.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/predator.png" alt="Missing image &quot;Predator.png&quot;" title="Predator" loading="lazy" />
     </div>
     <b>Name:</b> Predator<br/>
     <b>Hash:</b> 0xE2E7D4AB<br/>
@@ -112,7 +112,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/seashark_thumbnail.jpg" alt="Missing image &quot;seashark.png&quot;" title="seashark" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/seashark.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/seashark.png" alt="Missing image &quot;seashark.png&quot;" title="seashark" loading="lazy" />
     </div>
     <b>Name:</b> seashark<br/>
     <b>Hash:</b> 0xC2974024<br/>
@@ -120,7 +120,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/seashark2_thumbnail.jpg" alt="Missing image &quot;seashark2.png&quot;" title="seashark2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/seashark2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/seashark2.png" alt="Missing image &quot;seashark2.png&quot;" title="seashark2" loading="lazy" />
     </div>
     <b>Name:</b> seashark2<br/>
     <b>Hash:</b> 0xDB4388E4<br/>
@@ -128,7 +128,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/seashark3_thumbnail.jpg" alt="Missing image &quot;seashark3.png&quot;" title="seashark3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/seashark3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/seashark3.png" alt="Missing image &quot;seashark3.png&quot;" title="seashark3" loading="lazy" />
     </div>
     <b>Name:</b> seashark3<br/>
     <b>Hash:</b> 0xED762D49<br/>
@@ -137,7 +137,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/speeder_thumbnail.jpg" alt="Missing image &quot;speeder.png&quot;" title="speeder" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/speeder.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/speeder.png" alt="Missing image &quot;speeder.png&quot;" title="speeder" loading="lazy" />
     </div>
     <b>Name:</b> speeder<br/>
     <b>Hash:</b> 0xDC60D2B<br/>
@@ -146,7 +146,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/speeder2_thumbnail.jpg" alt="Missing image &quot;speeder2.png&quot;" title="speeder2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/speeder2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/speeder2.png" alt="Missing image &quot;speeder2.png&quot;" title="speeder2" loading="lazy" />
     </div>
     <b>Name:</b> speeder2<br/>
     <b>Hash:</b> 0x1A144F2A<br/>
@@ -155,7 +155,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/squalo_thumbnail.jpg" alt="Missing image &quot;squalo.png&quot;" title="squalo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/squalo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/squalo.png" alt="Missing image &quot;squalo.png&quot;" title="squalo" loading="lazy" />
     </div>
     <b>Name:</b> squalo<br/>
     <b>Hash:</b> 0x17DF5EC2<br/>
@@ -163,7 +163,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/submersible_thumbnail.jpg" alt="Missing image &quot;submersible.png&quot;" title="submersible" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/submersible.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/submersible.png" alt="Missing image &quot;submersible.png&quot;" title="submersible" loading="lazy" />
     </div>
     <b>Name:</b> submersible<br/>
     <b>Hash:</b> 0x2DFF622F<br/>
@@ -171,7 +171,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/submersible2_thumbnail.jpg" alt="Missing image &quot;submersible2.png&quot;" title="submersible2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/submersible2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/submersible2.png" alt="Missing image &quot;submersible2.png&quot;" title="submersible2" loading="lazy" />
     </div>
     <b>Name:</b> submersible2<br/>
     <b>Hash:</b> 0xC07107EE<br/>
@@ -180,7 +180,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/suntrap_thumbnail.jpg" alt="Missing image &quot;Suntrap.png&quot;" title="Suntrap" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/suntrap.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/suntrap.png" alt="Missing image &quot;Suntrap.png&quot;" title="Suntrap" loading="lazy" />
     </div>
     <b>Name:</b> Suntrap<br/>
     <b>Hash:</b> 0xEF2295C9<br/>
@@ -188,7 +188,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/toro_thumbnail.jpg" alt="Missing image &quot;toro.png&quot;" title="toro" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/toro.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/toro.png" alt="Missing image &quot;toro.png&quot;" title="toro" loading="lazy" />
     </div>
     <b>Name:</b> toro<br/>
     <b>Hash:</b> 0x3FD5AA2F<br/>
@@ -197,7 +197,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/toro2_thumbnail.jpg" alt="Missing image &quot;toro2.png&quot;" title="toro2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/toro2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/toro2.png" alt="Missing image &quot;toro2.png&quot;" title="toro2" loading="lazy" />
     </div>
     <b>Name:</b> toro2<br/>
     <b>Hash:</b> 0x362CAC6D<br/>
@@ -206,7 +206,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tropic_thumbnail.jpg" alt="Missing image &quot;tropic.png&quot;" title="tropic" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tropic.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tropic.png" alt="Missing image &quot;tropic.png&quot;" title="tropic" loading="lazy" />
     </div>
     <b>Name:</b> tropic<br/>
     <b>Hash:</b> 0x1149422F<br/>
@@ -214,7 +214,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tropic2_thumbnail.jpg" alt="Missing image &quot;tropic2.png&quot;" title="tropic2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tropic2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tropic2.png" alt="Missing image &quot;tropic2.png&quot;" title="tropic2" loading="lazy" />
     </div>
     <b>Name:</b> tropic2<br/>
     <b>Hash:</b> 0x56590FE9<br/>
@@ -223,7 +223,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tug_thumbnail.jpg" alt="Missing image &quot;tug.png&quot;" title="tug" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tug.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tug.png" alt="Missing image &quot;tug.png&quot;" title="tug" loading="lazy" />
     </div>
     <b>Name:</b> tug<br/>
     <b>Hash:</b> 0x82CAC433<br/>
@@ -237,7 +237,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/benson_thumbnail.jpg" alt="Missing image &quot;Benson.png&quot;" title="Benson" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/benson.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/benson.png" alt="Missing image &quot;Benson.png&quot;" title="Benson" loading="lazy" />
     </div>
     <b>Name:</b> Benson<br/>
     <b>Hash:</b> 0x7A61B330<br/>
@@ -245,7 +245,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/biff_thumbnail.jpg" alt="Missing image &quot;Biff.png&quot;" title="Biff" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/biff.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/biff.png" alt="Missing image &quot;Biff.png&quot;" title="Biff" loading="lazy" />
     </div>
     <b>Name:</b> Biff<br/>
     <b>Hash:</b> 0x32B91AE8<br/>
@@ -253,7 +253,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cerberus_thumbnail.jpg" alt="Missing image &quot;cerberus.png&quot;" title="cerberus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cerberus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cerberus.png" alt="Missing image &quot;cerberus.png&quot;" title="cerberus" loading="lazy" />
     </div>
     <b>Name:</b> cerberus<br/>
     <b>Hash:</b> 0xD039510B<br/>
@@ -262,7 +262,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cerberus2_thumbnail.jpg" alt="Missing image &quot;cerberus2.png&quot;" title="cerberus2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cerberus2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cerberus2.png" alt="Missing image &quot;cerberus2.png&quot;" title="cerberus2" loading="lazy" />
     </div>
     <b>Name:</b> cerberus2<br/>
     <b>Hash:</b> 0x287FA449<br/>
@@ -271,7 +271,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cerberus3_thumbnail.jpg" alt="Missing image &quot;cerberus3.png&quot;" title="cerberus3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cerberus3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cerberus3.png" alt="Missing image &quot;cerberus3.png&quot;" title="cerberus3" loading="lazy" />
     </div>
     <b>Name:</b> cerberus3<br/>
     <b>Hash:</b> 0x71D3B6F0<br/>
@@ -280,7 +280,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hauler_thumbnail.jpg" alt="Missing image &quot;Hauler.png&quot;" title="Hauler" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hauler.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hauler.png" alt="Missing image &quot;Hauler.png&quot;" title="Hauler" loading="lazy" />
     </div>
     <b>Name:</b> Hauler<br/>
     <b>Hash:</b> 0x5A82F9AE<br/>
@@ -288,7 +288,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hauler2_thumbnail.jpg" alt="Missing image &quot;Hauler2.png&quot;" title="Hauler2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hauler2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hauler2.png" alt="Missing image &quot;Hauler2.png&quot;" title="Hauler2" loading="lazy" />
     </div>
     <b>Name:</b> Hauler2<br/>
     <b>Hash:</b> 0x171C92C4<br/>
@@ -297,7 +297,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mule_thumbnail.jpg" alt="Missing image &quot;Mule.png&quot;" title="Mule" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mule.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mule.png" alt="Missing image &quot;Mule.png&quot;" title="Mule" loading="lazy" />
     </div>
     <b>Name:</b> Mule<br/>
     <b>Hash:</b> 0x35ED670B<br/>
@@ -305,7 +305,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mule2_thumbnail.jpg" alt="Missing image &quot;Mule2.png&quot;" title="Mule2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mule2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mule2.png" alt="Missing image &quot;Mule2.png&quot;" title="Mule2" loading="lazy" />
     </div>
     <b>Name:</b> Mule2<br/>
     <b>Hash:</b> 0xC1632BEB<br/>
@@ -313,7 +313,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mule3_thumbnail.jpg" alt="Missing image &quot;Mule3.png&quot;" title="Mule3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mule3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mule3.png" alt="Missing image &quot;Mule3.png&quot;" title="Mule3" loading="lazy" />
     </div>
     <b>Name:</b> Mule3<br/>
     <b>Hash:</b> 0x85A5B471<br/>
@@ -322,7 +322,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mule4_thumbnail.jpg" alt="Missing image &quot;mule4.png&quot;" title="mule4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mule4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mule4.png" alt="Missing image &quot;mule4.png&quot;" title="mule4" loading="lazy" />
     </div>
     <b>Name:</b> mule4<br/>
     <b>Hash:</b> 0x73F4110E<br/>
@@ -331,7 +331,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/packer_thumbnail.jpg" alt="Missing image &quot;Packer.png&quot;" title="Packer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/packer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/packer.png" alt="Missing image &quot;Packer.png&quot;" title="Packer" loading="lazy" />
     </div>
     <b>Name:</b> Packer<br/>
     <b>Hash:</b> 0x21EEE87D<br/>
@@ -339,7 +339,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/phantom_thumbnail.jpg" alt="Missing image &quot;Phantom.png&quot;" title="Phantom" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/phantom.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/phantom.png" alt="Missing image &quot;Phantom.png&quot;" title="Phantom" loading="lazy" />
     </div>
     <b>Name:</b> Phantom<br/>
     <b>Hash:</b> 0x809AA4CB<br/>
@@ -347,7 +347,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/phantom2_thumbnail.jpg" alt="Missing image &quot;phantom2.png&quot;" title="phantom2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/phantom2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/phantom2.png" alt="Missing image &quot;phantom2.png&quot;" title="phantom2" loading="lazy" />
     </div>
     <b>Name:</b> phantom2<br/>
     <b>Hash:</b> 0x9DAE1398<br/>
@@ -356,7 +356,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/phantom3_thumbnail.jpg" alt="Missing image &quot;phantom3.png&quot;" title="phantom3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/phantom3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/phantom3.png" alt="Missing image &quot;phantom3.png&quot;" title="phantom3" loading="lazy" />
     </div>
     <b>Name:</b> phantom3<br/>
     <b>Hash:</b> 0xA90ED5C<br/>
@@ -365,7 +365,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pounder_thumbnail.jpg" alt="Missing image &quot;Pounder.png&quot;" title="Pounder" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pounder.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pounder.png" alt="Missing image &quot;Pounder.png&quot;" title="Pounder" loading="lazy" />
     </div>
     <b>Name:</b> Pounder<br/>
     <b>Hash:</b> 0x7DE35E7D<br/>
@@ -373,7 +373,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pounder2_thumbnail.jpg" alt="Missing image &quot;pounder2.png&quot;" title="pounder2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pounder2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pounder2.png" alt="Missing image &quot;pounder2.png&quot;" title="pounder2" loading="lazy" />
     </div>
     <b>Name:</b> pounder2<br/>
     <b>Hash:</b> 0x6290F15B<br/>
@@ -382,7 +382,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stockade_thumbnail.jpg" alt="Missing image &quot;stockade.png&quot;" title="stockade" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stockade.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stockade.png" alt="Missing image &quot;stockade.png&quot;" title="stockade" loading="lazy" />
     </div>
     <b>Name:</b> stockade<br/>
     <b>Hash:</b> 0x6827CF72<br/>
@@ -390,7 +390,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stockade3_thumbnail.jpg" alt="Missing image &quot;stockade3.png&quot;" title="stockade3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stockade3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stockade3.png" alt="Missing image &quot;stockade3.png&quot;" title="stockade3" loading="lazy" />
     </div>
     <b>Name:</b> stockade3<br/>
     <b>Hash:</b> 0xF337AB36<br/>
@@ -398,7 +398,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/terbyte_thumbnail.jpg" alt="Missing image &quot;terbyte.png&quot;" title="terbyte" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/terbyte.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/terbyte.png" alt="Missing image &quot;terbyte.png&quot;" title="terbyte" loading="lazy" />
     </div>
     <b>Name:</b> terbyte<br/>
     <b>Hash:</b> 0x897AFC65<br/>
@@ -412,7 +412,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/asbo_thumbnail.jpg" alt="Missing image &quot;asbo.png&quot;" title="asbo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/asbo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/asbo.png" alt="Missing image &quot;asbo.png&quot;" title="asbo" loading="lazy" />
     </div>
     <b>Name:</b> asbo<br/>
     <b>Hash:</b> 0x42ACA95F<br/>
@@ -421,7 +421,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blista_thumbnail.jpg" alt="Missing image &quot;blista.png&quot;" title="blista" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blista.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blista.png" alt="Missing image &quot;blista.png&quot;" title="blista" loading="lazy" />
     </div>
     <b>Name:</b> blista<br/>
     <b>Hash:</b> 0xEB70965F<br/>
@@ -429,7 +429,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/brioso_thumbnail.jpg" alt="Missing image &quot;brioso.png&quot;" title="brioso" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/brioso.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/brioso.png" alt="Missing image &quot;brioso.png&quot;" title="brioso" loading="lazy" />
     </div>
     <b>Name:</b> brioso<br/>
     <b>Hash:</b> 0x5C55CB39<br/>
@@ -438,7 +438,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/club_thumbnail.jpg" alt="Missing image &quot;club.png&quot;" title="club" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/club.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/club.png" alt="Missing image &quot;club.png&quot;" title="club" loading="lazy" />
     </div>
     <b>Name:</b> club<br/>
     <b>Hash:</b> 0x82E47E85<br/>
@@ -447,7 +447,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dilettante_thumbnail.jpg" alt="Missing image &quot;dilettante.png&quot;" title="dilettante" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dilettante.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dilettante.png" alt="Missing image &quot;dilettante.png&quot;" title="dilettante" loading="lazy" />
     </div>
     <b>Name:</b> dilettante<br/>
     <b>Hash:</b> 0xBC993509<br/>
@@ -455,7 +455,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dilettante2_thumbnail.jpg" alt="Missing image &quot;dilettante2.png&quot;" title="dilettante2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dilettante2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dilettante2.png" alt="Missing image &quot;dilettante2.png&quot;" title="dilettante2" loading="lazy" />
     </div>
     <b>Name:</b> dilettante2<br/>
     <b>Hash:</b> 0x64430650<br/>
@@ -463,7 +463,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi2_thumbnail.jpg" alt="Missing image &quot;issi2.png&quot;" title="issi2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/issi2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi2.png" alt="Missing image &quot;issi2.png&quot;" title="issi2" loading="lazy" />
     </div>
     <b>Name:</b> issi2<br/>
     <b>Hash:</b> 0xB9CB3B69<br/>
@@ -471,7 +471,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/kanjo_thumbnail.jpg" alt="Missing image &quot;kanjo.png&quot;" title="kanjo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/kanjo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/kanjo.png" alt="Missing image &quot;kanjo.png&quot;" title="kanjo" loading="lazy" />
     </div>
     <b>Name:</b> kanjo<br/>
     <b>Hash:</b> 0x18619B7E<br/>
@@ -480,7 +480,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/panto_thumbnail.jpg" alt="Missing image &quot;panto.png&quot;" title="panto" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/panto.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/panto.png" alt="Missing image &quot;panto.png&quot;" title="panto" loading="lazy" />
     </div>
     <b>Name:</b> panto<br/>
     <b>Hash:</b> 0xE644E480<br/>
@@ -489,7 +489,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/prairie_thumbnail.jpg" alt="Missing image &quot;prairie.png&quot;" title="prairie" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/prairie.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/prairie.png" alt="Missing image &quot;prairie.png&quot;" title="prairie" loading="lazy" />
     </div>
     <b>Name:</b> prairie<br/>
     <b>Hash:</b> 0xA988D3A2<br/>
@@ -497,7 +497,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rhapsody_thumbnail.jpg" alt="Missing image &quot;rhapsody.png&quot;" title="rhapsody" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rhapsody.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rhapsody.png" alt="Missing image &quot;rhapsody.png&quot;" title="rhapsody" loading="lazy" />
     </div>
     <b>Name:</b> rhapsody<br/>
     <b>Hash:</b> 0x322CF98F<br/>
@@ -511,7 +511,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/brioso2_thumbnail.jpg" alt="Missing image &quot;brioso2.png&quot;" title="brioso2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/brioso2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/brioso2.png" alt="Missing image &quot;brioso2.png&quot;" title="brioso2" loading="lazy" />
     </div>
     <b>Name:</b> brioso2<br/>
     <b>Hash:</b> 0x55365079<br/>
@@ -520,7 +520,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi3_thumbnail.jpg" alt="Missing image &quot;issi3.png&quot;" title="issi3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/issi3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi3.png" alt="Missing image &quot;issi3.png&quot;" title="issi3" loading="lazy" />
     </div>
     <b>Name:</b> issi3<br/>
     <b>Hash:</b> 0x378236E1<br/>
@@ -529,7 +529,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi4_thumbnail.jpg" alt="Missing image &quot;issi4.png&quot;" title="issi4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/issi4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi4.png" alt="Missing image &quot;issi4.png&quot;" title="issi4" loading="lazy" />
     </div>
     <b>Name:</b> issi4<br/>
     <b>Hash:</b> 0x256E92BA<br/>
@@ -538,7 +538,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi5_thumbnail.jpg" alt="Missing image &quot;issi5.png&quot;" title="issi5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/issi5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi5.png" alt="Missing image &quot;issi5.png&quot;" title="issi5" loading="lazy" />
     </div>
     <b>Name:</b> issi5<br/>
     <b>Hash:</b> 0x5BA0FF1E<br/>
@@ -547,7 +547,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi6_thumbnail.jpg" alt="Missing image &quot;issi6.png&quot;" title="issi6" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/issi6.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi6.png" alt="Missing image &quot;issi6.png&quot;" title="issi6" loading="lazy" />
     </div>
     <b>Name:</b> issi6<br/>
     <b>Hash:</b> 0x49E25BA1<br/>
@@ -556,7 +556,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/weevil_thumbnail.jpg" alt="Missing image &quot;weevil.png&quot;" title="weevil" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/weevil.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/weevil.png" alt="Missing image &quot;weevil.png&quot;" title="weevil" loading="lazy" />
     </div>
     <b>Name:</b> weevil<br/>
     <b>Hash:</b> 0x61FE4D6A<br/>
@@ -570,7 +570,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cogcabrio_thumbnail.jpg" alt="Missing image &quot;cogcabrio.png&quot;" title="cogcabrio" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cogcabrio.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cogcabrio.png" alt="Missing image &quot;cogcabrio.png&quot;" title="cogcabrio" loading="lazy" />
     </div>
     <b>Name:</b> cogcabrio<br/>
     <b>Hash:</b> 0x13B57D8A<br/>
@@ -578,7 +578,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/exemplar_thumbnail.jpg" alt="Missing image &quot;exemplar.png&quot;" title="exemplar" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/exemplar.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/exemplar.png" alt="Missing image &quot;exemplar.png&quot;" title="exemplar" loading="lazy" />
     </div>
     <b>Name:</b> exemplar<br/>
     <b>Hash:</b> 0xFFB15B5E<br/>
@@ -586,7 +586,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/f620_thumbnail.jpg" alt="Missing image &quot;f620.png&quot;" title="f620" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/f620.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/f620.png" alt="Missing image &quot;f620.png&quot;" title="f620" loading="lazy" />
     </div>
     <b>Name:</b> f620<br/>
     <b>Hash:</b> 0xDCBCBE48<br/>
@@ -594,7 +594,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/felon_thumbnail.jpg" alt="Missing image &quot;felon.png&quot;" title="felon" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/felon.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/felon.png" alt="Missing image &quot;felon.png&quot;" title="felon" loading="lazy" />
     </div>
     <b>Name:</b> felon<br/>
     <b>Hash:</b> 0xE8A8BDA8<br/>
@@ -602,7 +602,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/felon2_thumbnail.jpg" alt="Missing image &quot;felon2.png&quot;" title="felon2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/felon2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/felon2.png" alt="Missing image &quot;felon2.png&quot;" title="felon2" loading="lazy" />
     </div>
     <b>Name:</b> felon2<br/>
     <b>Hash:</b> 0xFAAD85EE<br/>
@@ -610,7 +610,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/jackal_thumbnail.jpg" alt="Missing image &quot;jackal.png&quot;" title="jackal" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/jackal.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/jackal.png" alt="Missing image &quot;jackal.png&quot;" title="jackal" loading="lazy" />
     </div>
     <b>Name:</b> jackal<br/>
     <b>Hash:</b> 0xDAC67112<br/>
@@ -618,7 +618,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/oracle_thumbnail.jpg" alt="Missing image &quot;oracle.png&quot;" title="oracle" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/oracle.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/oracle.png" alt="Missing image &quot;oracle.png&quot;" title="oracle" loading="lazy" />
     </div>
     <b>Name:</b> oracle<br/>
     <b>Hash:</b> 0x506434F6<br/>
@@ -626,7 +626,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/oracle2_thumbnail.jpg" alt="Missing image &quot;oracle2.png&quot;" title="oracle2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/oracle2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/oracle2.png" alt="Missing image &quot;oracle2.png&quot;" title="oracle2" loading="lazy" />
     </div>
     <b>Name:</b> oracle2<br/>
     <b>Hash:</b> 0xE18195B2<br/>
@@ -634,7 +634,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/previon_thumbnail.jpg" alt="Missing image &quot;previon.png&quot;" title="previon" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/previon.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/previon.png" alt="Missing image &quot;previon.png&quot;" title="previon" loading="lazy" />
     </div>
     <b>Name:</b> previon<br/>
     <b>Hash:</b> 0x546DA331<br/>
@@ -643,7 +643,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sentinel_thumbnail.jpg" alt="Missing image &quot;sentinel.png&quot;" title="sentinel" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sentinel.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sentinel.png" alt="Missing image &quot;sentinel.png&quot;" title="sentinel" loading="lazy" />
     </div>
     <b>Name:</b> sentinel<br/>
     <b>Hash:</b> 0x50732C82<br/>
@@ -651,7 +651,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sentinel2_thumbnail.jpg" alt="Missing image &quot;sentinel2.png&quot;" title="sentinel2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sentinel2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sentinel2.png" alt="Missing image &quot;sentinel2.png&quot;" title="sentinel2" loading="lazy" />
     </div>
     <b>Name:</b> sentinel2<br/>
     <b>Hash:</b> 0x3412AE2D<br/>
@@ -659,7 +659,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/windsor_thumbnail.jpg" alt="Missing image &quot;windsor.png&quot;" title="windsor" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/windsor.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/windsor.png" alt="Missing image &quot;windsor.png&quot;" title="windsor" loading="lazy" />
     </div>
     <b>Name:</b> windsor<br/>
     <b>Hash:</b> 0x5E4327C8<br/>
@@ -668,7 +668,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/windsor2_thumbnail.jpg" alt="Missing image &quot;windsor2.png&quot;" title="windsor2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/windsor2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/windsor2.png" alt="Missing image &quot;windsor2.png&quot;" title="windsor2" loading="lazy" />
     </div>
     <b>Name:</b> windsor2<br/>
     <b>Hash:</b> 0x8CF5CAE1<br/>
@@ -677,7 +677,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zion_thumbnail.jpg" alt="Missing image &quot;zion.png&quot;" title="zion" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zion.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zion.png" alt="Missing image &quot;zion.png&quot;" title="zion" loading="lazy" />
     </div>
     <b>Name:</b> zion<br/>
     <b>Hash:</b> 0xBD1B39C3<br/>
@@ -685,7 +685,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zion2_thumbnail.jpg" alt="Missing image &quot;zion2.png&quot;" title="zion2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zion2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zion2.png" alt="Missing image &quot;zion2.png&quot;" title="zion2" loading="lazy" />
     </div>
     <b>Name:</b> zion2<br/>
     <b>Hash:</b> 0xB8E2AE18<br/>
@@ -698,7 +698,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bmx_thumbnail.jpg" alt="Missing image &quot;BMX.png&quot;" title="BMX" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bmx.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bmx.png" alt="Missing image &quot;BMX.png&quot;" title="BMX" loading="lazy" />
     </div>
     <b>Name:</b> BMX<br/>
     <b>Hash:</b> 0x43779C54<br/>
@@ -706,7 +706,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cruiser_thumbnail.jpg" alt="Missing image &quot;cruiser.png&quot;" title="cruiser" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cruiser.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cruiser.png" alt="Missing image &quot;cruiser.png&quot;" title="cruiser" loading="lazy" />
     </div>
     <b>Name:</b> cruiser<br/>
     <b>Hash:</b> 0x1ABA13B5<br/>
@@ -714,7 +714,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/fixter_thumbnail.jpg" alt="Missing image &quot;fixter.png&quot;" title="fixter" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/fixter.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/fixter.png" alt="Missing image &quot;fixter.png&quot;" title="fixter" loading="lazy" />
     </div>
     <b>Name:</b> fixter<br/>
     <b>Hash:</b> 0xCE23D3BF<br/>
@@ -722,7 +722,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/scorcher_thumbnail.jpg" alt="Missing image &quot;scorcher.png&quot;" title="scorcher" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/scorcher.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/scorcher.png" alt="Missing image &quot;scorcher.png&quot;" title="scorcher" loading="lazy" />
     </div>
     <b>Name:</b> scorcher<br/>
     <b>Hash:</b> 0xF4E1AA15<br/>
@@ -730,7 +730,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tribike_thumbnail.jpg" alt="Missing image &quot;tribike.png&quot;" title="tribike" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tribike.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tribike.png" alt="Missing image &quot;tribike.png&quot;" title="tribike" loading="lazy" />
     </div>
     <b>Name:</b> tribike<br/>
     <b>Hash:</b> 0x4339CD69<br/>
@@ -738,7 +738,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tribike2_thumbnail.jpg" alt="Missing image &quot;tribike2.png&quot;" title="tribike2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tribike2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tribike2.png" alt="Missing image &quot;tribike2.png&quot;" title="tribike2" loading="lazy" />
     </div>
     <b>Name:</b> tribike2<br/>
     <b>Hash:</b> 0xB67597EC<br/>
@@ -746,7 +746,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tribike3_thumbnail.jpg" alt="Missing image &quot;tribike3.png&quot;" title="tribike3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tribike3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tribike3.png" alt="Missing image &quot;tribike3.png&quot;" title="tribike3" loading="lazy" />
     </div>
     <b>Name:</b> tribike3<br/>
     <b>Hash:</b> 0xE823FB48<br/>
@@ -759,7 +759,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ambulance_thumbnail.jpg" alt="Missing image &quot;AMBULANCE.png&quot;" title="AMBULANCE" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ambulance.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ambulance.png" alt="Missing image &quot;AMBULANCE.png&quot;" title="AMBULANCE" loading="lazy" />
     </div>
     <b>Name:</b> AMBULANCE<br/>
     <b>Hash:</b> 0x45D56ADA<br/>
@@ -767,7 +767,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/fbi_thumbnail.jpg" alt="Missing image &quot;FBI.png&quot;" title="FBI" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/fbi.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/fbi.png" alt="Missing image &quot;FBI.png&quot;" title="FBI" loading="lazy" />
     </div>
     <b>Name:</b> FBI<br/>
     <b>Hash:</b> 0x432EA949<br/>
@@ -775,7 +775,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/fbi2_thumbnail.jpg" alt="Missing image &quot;FBI2.png&quot;" title="FBI2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/fbi2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/fbi2.png" alt="Missing image &quot;FBI2.png&quot;" title="FBI2" loading="lazy" />
     </div>
     <b>Name:</b> FBI2<br/>
     <b>Hash:</b> 0x9DC66994<br/>
@@ -783,7 +783,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/firetruk_thumbnail.jpg" alt="Missing image &quot;firetruk.png&quot;" title="firetruk" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/firetruk.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/firetruk.png" alt="Missing image &quot;firetruk.png&quot;" title="firetruk" loading="lazy" />
     </div>
     <b>Name:</b> firetruk<br/>
     <b>Hash:</b> 0x73920F8E<br/>
@@ -791,7 +791,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/lguard_thumbnail.jpg" alt="Missing image &quot;lguard.png&quot;" title="lguard" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/lguard.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/lguard.png" alt="Missing image &quot;lguard.png&quot;" title="lguard" loading="lazy" />
     </div>
     <b>Name:</b> lguard<br/>
     <b>Hash:</b> 0x1BF8D381<br/>
@@ -799,7 +799,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pbus_thumbnail.jpg" alt="Missing image &quot;pbus.png&quot;" title="pbus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pbus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pbus.png" alt="Missing image &quot;pbus.png&quot;" title="pbus" loading="lazy" />
     </div>
     <b>Name:</b> pbus<br/>
     <b>Hash:</b> 0x885F3671<br/>
@@ -807,7 +807,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/police_thumbnail.jpg" alt="Missing image &quot;police.png&quot;" title="police" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/police.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/police.png" alt="Missing image &quot;police.png&quot;" title="police" loading="lazy" />
     </div>
     <b>Name:</b> police<br/>
     <b>Hash:</b> 0x79FBB0C5<br/>
@@ -815,7 +815,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/police2_thumbnail.jpg" alt="Missing image &quot;police2.png&quot;" title="police2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/police2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/police2.png" alt="Missing image &quot;police2.png&quot;" title="police2" loading="lazy" />
     </div>
     <b>Name:</b> police2<br/>
     <b>Hash:</b> 0x9F05F101<br/>
@@ -823,7 +823,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/police3_thumbnail.jpg" alt="Missing image &quot;police3.png&quot;" title="police3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/police3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/police3.png" alt="Missing image &quot;police3.png&quot;" title="police3" loading="lazy" />
     </div>
     <b>Name:</b> police3<br/>
     <b>Hash:</b> 0x71FA16EA<br/>
@@ -831,7 +831,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/police4_thumbnail.jpg" alt="Missing image &quot;police4.png&quot;" title="police4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/police4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/police4.png" alt="Missing image &quot;police4.png&quot;" title="police4" loading="lazy" />
     </div>
     <b>Name:</b> police4<br/>
     <b>Hash:</b> 0x8A63C7B9<br/>
@@ -839,7 +839,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/policeb_thumbnail.jpg" alt="Missing image &quot;policeb.png&quot;" title="policeb" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/policeb.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/policeb.png" alt="Missing image &quot;policeb.png&quot;" title="policeb" loading="lazy" />
     </div>
     <b>Name:</b> policeb<br/>
     <b>Hash:</b> 0xFDEFAEC3<br/>
@@ -847,7 +847,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/policeold1_thumbnail.jpg" alt="Missing image &quot;policeold1.png&quot;" title="policeold1" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/policeold1.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/policeold1.png" alt="Missing image &quot;policeold1.png&quot;" title="policeold1" loading="lazy" />
     </div>
     <b>Name:</b> policeold1<br/>
     <b>Hash:</b> 0xA46462F7<br/>
@@ -855,7 +855,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/policeold2_thumbnail.jpg" alt="Missing image &quot;policeold2.png&quot;" title="policeold2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/policeold2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/policeold2.png" alt="Missing image &quot;policeold2.png&quot;" title="policeold2" loading="lazy" />
     </div>
     <b>Name:</b> policeold2<br/>
     <b>Hash:</b> 0x95F4C618<br/>
@@ -863,7 +863,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/policet_thumbnail.jpg" alt="Missing image &quot;policet.png&quot;" title="policet" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/policet.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/policet.png" alt="Missing image &quot;policet.png&quot;" title="policet" loading="lazy" />
     </div>
     <b>Name:</b> policet<br/>
     <b>Hash:</b> 0x1B38E955<br/>
@@ -871,7 +871,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pranger_thumbnail.jpg" alt="Missing image &quot;pRanger.png&quot;" title="pRanger" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pranger.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pranger.png" alt="Missing image &quot;pRanger.png&quot;" title="pRanger" loading="lazy" />
     </div>
     <b>Name:</b> pRanger<br/>
     <b>Hash:</b> 0x2C33B46E<br/>
@@ -879,7 +879,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/riot_thumbnail.jpg" alt="Missing image &quot;RIOT.png&quot;" title="RIOT" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/riot.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/riot.png" alt="Missing image &quot;RIOT.png&quot;" title="RIOT" loading="lazy" />
     </div>
     <b>Name:</b> RIOT<br/>
     <b>Hash:</b> 0xB822A1AA<br/>
@@ -887,7 +887,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/riot2_thumbnail.jpg" alt="Missing image &quot;riot2.png&quot;" title="riot2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/riot2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/riot2.png" alt="Missing image &quot;riot2.png&quot;" title="riot2" loading="lazy" />
     </div>
     <b>Name:</b> riot2<br/>
     <b>Hash:</b> 0x9B16A3B4<br/>
@@ -896,7 +896,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sheriff_thumbnail.jpg" alt="Missing image &quot;SHERIFF.png&quot;" title="SHERIFF" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sheriff.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sheriff.png" alt="Missing image &quot;SHERIFF.png&quot;" title="SHERIFF" loading="lazy" />
     </div>
     <b>Name:</b> SHERIFF<br/>
     <b>Hash:</b> 0x9BAA707C<br/>
@@ -904,7 +904,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sheriff2_thumbnail.jpg" alt="Missing image &quot;sheriff2.png&quot;" title="sheriff2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sheriff2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sheriff2.png" alt="Missing image &quot;sheriff2.png&quot;" title="sheriff2" loading="lazy" />
     </div>
     <b>Name:</b> sheriff2<br/>
     <b>Hash:</b> 0x72935408<br/>
@@ -917,7 +917,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/akula_thumbnail.jpg" alt="Missing image &quot;akula.png&quot;" title="akula" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/akula.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/akula.png" alt="Missing image &quot;akula.png&quot;" title="akula" loading="lazy" />
     </div>
     <b>Name:</b> akula<br/>
     <b>Hash:</b> 0x46699F47<br/>
@@ -926,7 +926,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/annihilator_thumbnail.jpg" alt="Missing image &quot;annihilator.png&quot;" title="annihilator" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/annihilator.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/annihilator.png" alt="Missing image &quot;annihilator.png&quot;" title="annihilator" loading="lazy" />
     </div>
     <b>Name:</b> annihilator<br/>
     <b>Hash:</b> 0x31F0B376<br/>
@@ -934,7 +934,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/annihilator2_thumbnail.jpg" alt="Missing image &quot;annihilator2.png&quot;" title="annihilator2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/annihilator2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/annihilator2.png" alt="Missing image &quot;annihilator2.png&quot;" title="annihilator2" loading="lazy" />
     </div>
     <b>Name:</b> annihilator2<br/>
     <b>Hash:</b> 0x11962E49<br/>
@@ -943,7 +943,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/buzzard_thumbnail.jpg" alt="Missing image &quot;buzzard.png&quot;" title="buzzard" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/buzzard.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/buzzard.png" alt="Missing image &quot;buzzard.png&quot;" title="buzzard" loading="lazy" />
     </div>
     <b>Name:</b> buzzard<br/>
     <b>Hash:</b> 0x2F03547B<br/>
@@ -951,7 +951,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/buzzard2_thumbnail.jpg" alt="Missing image &quot;Buzzard2.png&quot;" title="Buzzard2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/buzzard2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/buzzard2.png" alt="Missing image &quot;Buzzard2.png&quot;" title="Buzzard2" loading="lazy" />
     </div>
     <b>Name:</b> Buzzard2<br/>
     <b>Hash:</b> 0x2C75F0DD<br/>
@@ -959,7 +959,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cargobob_thumbnail.jpg" alt="Missing image &quot;Cargobob.png&quot;" title="Cargobob" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cargobob.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cargobob.png" alt="Missing image &quot;Cargobob.png&quot;" title="Cargobob" loading="lazy" />
     </div>
     <b>Name:</b> Cargobob<br/>
     <b>Hash:</b> 0xFCFCB68B<br/>
@@ -967,7 +967,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cargobob2_thumbnail.jpg" alt="Missing image &quot;cargobob2.png&quot;" title="cargobob2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cargobob2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cargobob2.png" alt="Missing image &quot;cargobob2.png&quot;" title="cargobob2" loading="lazy" />
     </div>
     <b>Name:</b> cargobob2<br/>
     <b>Hash:</b> 0x60A7EA10<br/>
@@ -975,7 +975,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cargobob3_thumbnail.jpg" alt="Missing image &quot;Cargobob3.png&quot;" title="Cargobob3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cargobob3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cargobob3.png" alt="Missing image &quot;Cargobob3.png&quot;" title="Cargobob3" loading="lazy" />
     </div>
     <b>Name:</b> Cargobob3<br/>
     <b>Hash:</b> 0x53174EEF<br/>
@@ -983,7 +983,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cargobob4_thumbnail.jpg" alt="Missing image &quot;Cargobob4.png&quot;" title="Cargobob4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cargobob4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cargobob4.png" alt="Missing image &quot;Cargobob4.png&quot;" title="Cargobob4" loading="lazy" />
     </div>
     <b>Name:</b> Cargobob4<br/>
     <b>Hash:</b> 0x78BC1A3C<br/>
@@ -992,7 +992,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/frogger_thumbnail.jpg" alt="Missing image &quot;Frogger.png&quot;" title="Frogger" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/frogger.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/frogger.png" alt="Missing image &quot;Frogger.png&quot;" title="Frogger" loading="lazy" />
     </div>
     <b>Name:</b> Frogger<br/>
     <b>Hash:</b> 0x2C634FBD<br/>
@@ -1000,7 +1000,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/frogger2_thumbnail.jpg" alt="Missing image &quot;frogger2.png&quot;" title="frogger2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/frogger2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/frogger2.png" alt="Missing image &quot;frogger2.png&quot;" title="frogger2" loading="lazy" />
     </div>
     <b>Name:</b> frogger2<br/>
     <b>Hash:</b> 0x742E9AC0<br/>
@@ -1008,7 +1008,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/havok_thumbnail.jpg" alt="Missing image &quot;havok.png&quot;" title="havok" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/havok.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/havok.png" alt="Missing image &quot;havok.png&quot;" title="havok" loading="lazy" />
     </div>
     <b>Name:</b> havok<br/>
     <b>Hash:</b> 0x89BA59F5<br/>
@@ -1017,7 +1017,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hunter_thumbnail.jpg" alt="Missing image &quot;hunter.png&quot;" title="hunter" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hunter.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hunter.png" alt="Missing image &quot;hunter.png&quot;" title="hunter" loading="lazy" />
     </div>
     <b>Name:</b> hunter<br/>
     <b>Hash:</b> 0xFD707EDE<br/>
@@ -1026,7 +1026,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/maverick_thumbnail.jpg" alt="Missing image &quot;maverick.png&quot;" title="maverick" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/maverick.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/maverick.png" alt="Missing image &quot;maverick.png&quot;" title="maverick" loading="lazy" />
     </div>
     <b>Name:</b> maverick<br/>
     <b>Hash:</b> 0x9D0450CA<br/>
@@ -1034,7 +1034,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/polmav_thumbnail.jpg" alt="Missing image &quot;polmav.png&quot;" title="polmav" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/polmav.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/polmav.png" alt="Missing image &quot;polmav.png&quot;" title="polmav" loading="lazy" />
     </div>
     <b>Name:</b> polmav<br/>
     <b>Hash:</b> 0x1517D4D9<br/>
@@ -1042,7 +1042,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/savage_thumbnail.jpg" alt="Missing image &quot;savage.png&quot;" title="savage" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/savage.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/savage.png" alt="Missing image &quot;savage.png&quot;" title="savage" loading="lazy" />
     </div>
     <b>Name:</b> savage<br/>
     <b>Hash:</b> 0xFB133A17<br/>
@@ -1051,7 +1051,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/seasparrow_thumbnail.jpg" alt="Missing image &quot;seasparrow.png&quot;" title="seasparrow" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/seasparrow.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/seasparrow.png" alt="Missing image &quot;seasparrow.png&quot;" title="seasparrow" loading="lazy" />
     </div>
     <b>Name:</b> seasparrow<br/>
     <b>Hash:</b> 0xD4AE63D9<br/>
@@ -1060,7 +1060,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/seasparrow2_thumbnail.jpg" alt="Missing image &quot;seasparrow2.png&quot;" title="seasparrow2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/seasparrow2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/seasparrow2.png" alt="Missing image &quot;seasparrow2.png&quot;" title="seasparrow2" loading="lazy" />
     </div>
     <b>Name:</b> seasparrow2<br/>
     <b>Hash:</b> 0x494752F7<br/>
@@ -1069,7 +1069,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/seasparrow3_thumbnail.jpg" alt="Missing image &quot;seasparrow3.png&quot;" title="seasparrow3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/seasparrow3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/seasparrow3.png" alt="Missing image &quot;seasparrow3.png&quot;" title="seasparrow3" loading="lazy" />
     </div>
     <b>Name:</b> seasparrow3<br/>
     <b>Hash:</b> 0x5F017E6B<br/>
@@ -1078,7 +1078,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/skylift_thumbnail.jpg" alt="Missing image &quot;skylift.png&quot;" title="skylift" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/skylift.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/skylift.png" alt="Missing image &quot;skylift.png&quot;" title="skylift" loading="lazy" />
     </div>
     <b>Name:</b> skylift<br/>
     <b>Hash:</b> 0x3E48BF23<br/>
@@ -1086,7 +1086,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/supervolito_thumbnail.jpg" alt="Missing image &quot;supervolito.png&quot;" title="supervolito" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/supervolito.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/supervolito.png" alt="Missing image &quot;supervolito.png&quot;" title="supervolito" loading="lazy" />
     </div>
     <b>Name:</b> supervolito<br/>
     <b>Hash:</b> 0x2A54C47D<br/>
@@ -1095,7 +1095,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/supervolito2_thumbnail.jpg" alt="Missing image &quot;supervolito2.png&quot;" title="supervolito2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/supervolito2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/supervolito2.png" alt="Missing image &quot;supervolito2.png&quot;" title="supervolito2" loading="lazy" />
     </div>
     <b>Name:</b> supervolito2<br/>
     <b>Hash:</b> 0x9C5E5644<br/>
@@ -1104,7 +1104,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/swift_thumbnail.jpg" alt="Missing image &quot;swift.png&quot;" title="swift" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/swift.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/swift.png" alt="Missing image &quot;swift.png&quot;" title="swift" loading="lazy" />
     </div>
     <b>Name:</b> swift<br/>
     <b>Hash:</b> 0xEBC24DF2<br/>
@@ -1113,7 +1113,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/swift2_thumbnail.jpg" alt="Missing image &quot;swift2.png&quot;" title="swift2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/swift2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/swift2.png" alt="Missing image &quot;swift2.png&quot;" title="swift2" loading="lazy" />
     </div>
     <b>Name:</b> swift2<br/>
     <b>Hash:</b> 0x4019CB4C<br/>
@@ -1122,7 +1122,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/valkyrie_thumbnail.jpg" alt="Missing image &quot;valkyrie.png&quot;" title="valkyrie" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/valkyrie.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/valkyrie.png" alt="Missing image &quot;valkyrie.png&quot;" title="valkyrie" loading="lazy" />
     </div>
     <b>Name:</b> valkyrie<br/>
     <b>Hash:</b> 0xA09E15FD<br/>
@@ -1131,7 +1131,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/valkyrie2_thumbnail.jpg" alt="Missing image &quot;valkyrie2.png&quot;" title="valkyrie2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/valkyrie2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/valkyrie2.png" alt="Missing image &quot;valkyrie2.png&quot;" title="valkyrie2" loading="lazy" />
     </div>
     <b>Name:</b> valkyrie2<br/>
     <b>Hash:</b> 0x5BFA5C4B<br/>
@@ -1140,7 +1140,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/volatus_thumbnail.jpg" alt="Missing image &quot;volatus.png&quot;" title="volatus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/volatus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/volatus.png" alt="Missing image &quot;volatus.png&quot;" title="volatus" loading="lazy" />
     </div>
     <b>Name:</b> volatus<br/>
     <b>Hash:</b> 0x920016F1<br/>
@@ -1154,7 +1154,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bulldozer_thumbnail.jpg" alt="Missing image &quot;bulldozer.png&quot;" title="bulldozer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bulldozer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bulldozer.png" alt="Missing image &quot;bulldozer.png&quot;" title="bulldozer" loading="lazy" />
     </div>
     <b>Name:</b> bulldozer<br/>
     <b>Hash:</b> 0x7074F39D<br/>
@@ -1162,7 +1162,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cutter_thumbnail.jpg" alt="Missing image &quot;cutter.png&quot;" title="cutter" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cutter.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cutter.png" alt="Missing image &quot;cutter.png&quot;" title="cutter" loading="lazy" />
     </div>
     <b>Name:</b> cutter<br/>
     <b>Hash:</b> 0xC3FBA120<br/>
@@ -1170,7 +1170,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dump_thumbnail.jpg" alt="Missing image &quot;dump.png&quot;" title="dump" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dump.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dump.png" alt="Missing image &quot;dump.png&quot;" title="dump" loading="lazy" />
     </div>
     <b>Name:</b> dump<br/>
     <b>Hash:</b> 0x810369E2<br/>
@@ -1178,7 +1178,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/flatbed_thumbnail.jpg" alt="Missing image &quot;FLATBED.png&quot;" title="FLATBED" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/flatbed.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/flatbed.png" alt="Missing image &quot;FLATBED.png&quot;" title="FLATBED" loading="lazy" />
     </div>
     <b>Name:</b> FLATBED<br/>
     <b>Hash:</b> 0x50B0215A<br/>
@@ -1186,7 +1186,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/guardian_thumbnail.jpg" alt="Missing image &quot;guardian.png&quot;" title="guardian" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/guardian.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/guardian.png" alt="Missing image &quot;guardian.png&quot;" title="guardian" loading="lazy" />
     </div>
     <b>Name:</b> guardian<br/>
     <b>Hash:</b> 0x825A9F4C<br/>
@@ -1195,7 +1195,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/handler_thumbnail.jpg" alt="Missing image &quot;handler.png&quot;" title="handler" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/handler.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/handler.png" alt="Missing image &quot;handler.png&quot;" title="handler" loading="lazy" />
     </div>
     <b>Name:</b> handler<br/>
     <b>Hash:</b> 0x1A7FCEFA<br/>
@@ -1203,7 +1203,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mixer_thumbnail.jpg" alt="Missing image &quot;Mixer.png&quot;" title="Mixer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mixer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mixer.png" alt="Missing image &quot;Mixer.png&quot;" title="Mixer" loading="lazy" />
     </div>
     <b>Name:</b> Mixer<br/>
     <b>Hash:</b> 0xD138A6BB<br/>
@@ -1211,7 +1211,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mixer2_thumbnail.jpg" alt="Missing image &quot;Mixer2.png&quot;" title="Mixer2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mixer2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mixer2.png" alt="Missing image &quot;Mixer2.png&quot;" title="Mixer2" loading="lazy" />
     </div>
     <b>Name:</b> Mixer2<br/>
     <b>Hash:</b> 0x1C534995<br/>
@@ -1219,7 +1219,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rubble_thumbnail.jpg" alt="Missing image &quot;Rubble.png&quot;" title="Rubble" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rubble.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rubble.png" alt="Missing image &quot;Rubble.png&quot;" title="Rubble" loading="lazy" />
     </div>
     <b>Name:</b> Rubble<br/>
     <b>Hash:</b> 0x9A5B1DCC<br/>
@@ -1227,7 +1227,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tiptruck_thumbnail.jpg" alt="Missing image &quot;TipTruck.png&quot;" title="TipTruck" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tiptruck.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tiptruck.png" alt="Missing image &quot;TipTruck.png&quot;" title="TipTruck" loading="lazy" />
     </div>
     <b>Name:</b> TipTruck<br/>
     <b>Hash:</b> 0x2E19879<br/>
@@ -1235,7 +1235,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tiptruck2_thumbnail.jpg" alt="Missing image &quot;TipTruck2.png&quot;" title="TipTruck2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tiptruck2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tiptruck2.png" alt="Missing image &quot;TipTruck2.png&quot;" title="TipTruck2" loading="lazy" />
     </div>
     <b>Name:</b> TipTruck2<br/>
     <b>Hash:</b> 0xC7824E5E<br/>
@@ -1248,7 +1248,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/apc_thumbnail.jpg" alt="Missing image &quot;apc.png&quot;" title="apc" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/apc.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/apc.png" alt="Missing image &quot;apc.png&quot;" title="apc" loading="lazy" />
     </div>
     <b>Name:</b> apc<br/>
     <b>Hash:</b> 0x2189D250<br/>
@@ -1257,7 +1257,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/barracks_thumbnail.jpg" alt="Missing image &quot;BARRACKS.png&quot;" title="BARRACKS" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/barracks.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/barracks.png" alt="Missing image &quot;BARRACKS.png&quot;" title="BARRACKS" loading="lazy" />
     </div>
     <b>Name:</b> BARRACKS<br/>
     <b>Hash:</b> 0xCEEA3F4B<br/>
@@ -1265,7 +1265,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/barracks2_thumbnail.jpg" alt="Missing image &quot;BARRACKS2.png&quot;" title="BARRACKS2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/barracks2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/barracks2.png" alt="Missing image &quot;BARRACKS2.png&quot;" title="BARRACKS2" loading="lazy" />
     </div>
     <b>Name:</b> BARRACKS2<br/>
     <b>Hash:</b> 0x4008EABB<br/>
@@ -1273,7 +1273,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/barracks3_thumbnail.jpg" alt="Missing image &quot;BARRACKS3.png&quot;" title="BARRACKS3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/barracks3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/barracks3.png" alt="Missing image &quot;BARRACKS3.png&quot;" title="BARRACKS3" loading="lazy" />
     </div>
     <b>Name:</b> BARRACKS3<br/>
     <b>Hash:</b> 0x2592B5CF<br/>
@@ -1282,7 +1282,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/barrage_thumbnail.jpg" alt="Missing image &quot;barrage.png&quot;" title="barrage" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/barrage.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/barrage.png" alt="Missing image &quot;barrage.png&quot;" title="barrage" loading="lazy" />
     </div>
     <b>Name:</b> barrage<br/>
     <b>Hash:</b> 0xF34DFB25<br/>
@@ -1291,7 +1291,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/chernobog_thumbnail.jpg" alt="Missing image &quot;chernobog.png&quot;" title="chernobog" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/chernobog.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/chernobog.png" alt="Missing image &quot;chernobog.png&quot;" title="chernobog" loading="lazy" />
     </div>
     <b>Name:</b> chernobog<br/>
     <b>Hash:</b> 0xD6BC7523<br/>
@@ -1300,7 +1300,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/crusader_thumbnail.jpg" alt="Missing image &quot;CRUSADER.png&quot;" title="CRUSADER" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/crusader.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/crusader.png" alt="Missing image &quot;CRUSADER.png&quot;" title="CRUSADER" loading="lazy" />
     </div>
     <b>Name:</b> CRUSADER<br/>
     <b>Hash:</b> 0x132D5A1A<br/>
@@ -1308,7 +1308,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/halftrack_thumbnail.jpg" alt="Missing image &quot;halftrack.png&quot;" title="halftrack" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/halftrack.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/halftrack.png" alt="Missing image &quot;halftrack.png&quot;" title="halftrack" loading="lazy" />
     </div>
     <b>Name:</b> halftrack<br/>
     <b>Hash:</b> 0xFE141DA6<br/>
@@ -1317,7 +1317,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/khanjali_thumbnail.jpg" alt="Missing image &quot;khanjali.png&quot;" title="khanjali" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/khanjali.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/khanjali.png" alt="Missing image &quot;khanjali.png&quot;" title="khanjali" loading="lazy" />
     </div>
     <b>Name:</b> khanjali<br/>
     <b>Hash:</b> 0xAA6F980A<br/>
@@ -1326,7 +1326,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/minitank_thumbnail.jpg" alt="Missing image &quot;minitank.png&quot;" title="minitank" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/minitank.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/minitank.png" alt="Missing image &quot;minitank.png&quot;" title="minitank" loading="lazy" />
     </div>
     <b>Name:</b> minitank<br/>
     <b>Hash:</b> 0xB53C6C52<br/>
@@ -1335,7 +1335,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rhino_thumbnail.jpg" alt="Missing image &quot;RHINO.png&quot;" title="RHINO" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rhino.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rhino.png" alt="Missing image &quot;RHINO.png&quot;" title="RHINO" loading="lazy" />
     </div>
     <b>Name:</b> RHINO<br/>
     <b>Hash:</b> 0x2EA68690<br/>
@@ -1343,7 +1343,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/scarab_thumbnail.jpg" alt="Missing image &quot;scarab.png&quot;" title="scarab" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/scarab.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/scarab.png" alt="Missing image &quot;scarab.png&quot;" title="scarab" loading="lazy" />
     </div>
     <b>Name:</b> scarab<br/>
     <b>Hash:</b> 0xBBA2A2F7<br/>
@@ -1352,7 +1352,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/scarab2_thumbnail.jpg" alt="Missing image &quot;scarab2.png&quot;" title="scarab2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/scarab2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/scarab2.png" alt="Missing image &quot;scarab2.png&quot;" title="scarab2" loading="lazy" />
     </div>
     <b>Name:</b> scarab2<br/>
     <b>Hash:</b> 0x5BEB3CE0<br/>
@@ -1361,7 +1361,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/scarab3_thumbnail.jpg" alt="Missing image &quot;scarab3.png&quot;" title="scarab3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/scarab3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/scarab3.png" alt="Missing image &quot;scarab3.png&quot;" title="scarab3" loading="lazy" />
     </div>
     <b>Name:</b> scarab3<br/>
     <b>Hash:</b> 0xDD71BFEB<br/>
@@ -1370,7 +1370,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/thruster_thumbnail.jpg" alt="Missing image &quot;thruster.png&quot;" title="thruster" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/thruster.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/thruster.png" alt="Missing image &quot;thruster.png&quot;" title="thruster" loading="lazy" />
     </div>
     <b>Name:</b> thruster<br/>
     <b>Hash:</b> 0x58CDAF30<br/>
@@ -1379,7 +1379,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailersmall2_thumbnail.jpg" alt="Missing image &quot;trailersmall2.png&quot;" title="trailersmall2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trailersmall2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailersmall2.png" alt="Missing image &quot;trailersmall2.png&quot;" title="trailersmall2" loading="lazy" />
     </div>
     <b>Name:</b> trailersmall2<br/>
     <b>Hash:</b> 0x8FD54EBB<br/>
@@ -1388,7 +1388,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vetir_thumbnail.jpg" alt="Missing image &quot;vetir.png&quot;" title="vetir" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vetir.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vetir.png" alt="Missing image &quot;vetir.png&quot;" title="vetir" loading="lazy" />
     </div>
     <b>Name:</b> vetir<br/>
     <b>Hash:</b> 0x780FFBD2<br/>
@@ -1402,7 +1402,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/akuma_thumbnail.jpg" alt="Missing image &quot;akuma.png&quot;" title="akuma" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/akuma.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/akuma.png" alt="Missing image &quot;akuma.png&quot;" title="akuma" loading="lazy" />
     </div>
     <b>Name:</b> akuma<br/>
     <b>Hash:</b> 0x63ABADE7<br/>
@@ -1410,7 +1410,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/avarus_thumbnail.jpg" alt="Missing image &quot;avarus.png&quot;" title="avarus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/avarus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/avarus.png" alt="Missing image &quot;avarus.png&quot;" title="avarus" loading="lazy" />
     </div>
     <b>Name:</b> avarus<br/>
     <b>Hash:</b> 0x81E38F7F<br/>
@@ -1419,7 +1419,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bagger_thumbnail.jpg" alt="Missing image &quot;bagger.png&quot;" title="bagger" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bagger.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bagger.png" alt="Missing image &quot;bagger.png&quot;" title="bagger" loading="lazy" />
     </div>
     <b>Name:</b> bagger<br/>
     <b>Hash:</b> 0x806B9CC3<br/>
@@ -1427,7 +1427,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bati_thumbnail.jpg" alt="Missing image &quot;bati.png&quot;" title="bati" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bati.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bati.png" alt="Missing image &quot;bati.png&quot;" title="bati" loading="lazy" />
     </div>
     <b>Name:</b> bati<br/>
     <b>Hash:</b> 0xF9300CC5<br/>
@@ -1435,7 +1435,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bati2_thumbnail.jpg" alt="Missing image &quot;bati2.png&quot;" title="bati2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bati2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bati2.png" alt="Missing image &quot;bati2.png&quot;" title="bati2" loading="lazy" />
     </div>
     <b>Name:</b> bati2<br/>
     <b>Hash:</b> 0xCADD5D2D<br/>
@@ -1443,7 +1443,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bf400_thumbnail.jpg" alt="Missing image &quot;bf400.png&quot;" title="bf400" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bf400.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bf400.png" alt="Missing image &quot;bf400.png&quot;" title="bf400" loading="lazy" />
     </div>
     <b>Name:</b> bf400<br/>
     <b>Hash:</b> 0x5283265<br/>
@@ -1452,7 +1452,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/carbonrs_thumbnail.jpg" alt="Missing image &quot;carbonrs.png&quot;" title="carbonrs" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/carbonrs.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/carbonrs.png" alt="Missing image &quot;carbonrs.png&quot;" title="carbonrs" loading="lazy" />
     </div>
     <b>Name:</b> carbonrs<br/>
     <b>Hash:</b> 0xABB0C0<br/>
@@ -1460,7 +1460,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/chimera_thumbnail.jpg" alt="Missing image &quot;chimera.png&quot;" title="chimera" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/chimera.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/chimera.png" alt="Missing image &quot;chimera.png&quot;" title="chimera" loading="lazy" />
     </div>
     <b>Name:</b> chimera<br/>
     <b>Hash:</b> 0x675ED7<br/>
@@ -1469,7 +1469,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cliffhanger_thumbnail.jpg" alt="Missing image &quot;cliffhanger.png&quot;" title="cliffhanger" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cliffhanger.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cliffhanger.png" alt="Missing image &quot;cliffhanger.png&quot;" title="cliffhanger" loading="lazy" />
     </div>
     <b>Name:</b> cliffhanger<br/>
     <b>Hash:</b> 0x17420102<br/>
@@ -1478,7 +1478,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/daemon_thumbnail.jpg" alt="Missing image &quot;daemon.png&quot;" title="daemon" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/daemon.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/daemon.png" alt="Missing image &quot;daemon.png&quot;" title="daemon" loading="lazy" />
     </div>
     <b>Name:</b> daemon<br/>
     <b>Hash:</b> 0x77934CEE<br/>
@@ -1486,7 +1486,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/daemon2_thumbnail.jpg" alt="Missing image &quot;daemon2.png&quot;" title="daemon2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/daemon2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/daemon2.png" alt="Missing image &quot;daemon2.png&quot;" title="daemon2" loading="lazy" />
     </div>
     <b>Name:</b> daemon2<br/>
     <b>Hash:</b> 0xAC4E93C9<br/>
@@ -1495,7 +1495,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/deathbike_thumbnail.jpg" alt="Missing image &quot;deathbike.png&quot;" title="deathbike" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/deathbike.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/deathbike.png" alt="Missing image &quot;deathbike.png&quot;" title="deathbike" loading="lazy" />
     </div>
     <b>Name:</b> deathbike<br/>
     <b>Hash:</b> 0xFE5F0722<br/>
@@ -1504,7 +1504,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/deathbike2_thumbnail.jpg" alt="Missing image &quot;deathbike2.png&quot;" title="deathbike2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/deathbike2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/deathbike2.png" alt="Missing image &quot;deathbike2.png&quot;" title="deathbike2" loading="lazy" />
     </div>
     <b>Name:</b> deathbike2<br/>
     <b>Hash:</b> 0x93F09558<br/>
@@ -1513,7 +1513,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/deathbike3_thumbnail.jpg" alt="Missing image &quot;deathbike3.png&quot;" title="deathbike3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/deathbike3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/deathbike3.png" alt="Missing image &quot;deathbike3.png&quot;" title="deathbike3" loading="lazy" />
     </div>
     <b>Name:</b> deathbike3<br/>
     <b>Hash:</b> 0xAE12C99C<br/>
@@ -1522,7 +1522,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/defiler_thumbnail.jpg" alt="Missing image &quot;defiler.png&quot;" title="defiler" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/defiler.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/defiler.png" alt="Missing image &quot;defiler.png&quot;" title="defiler" loading="lazy" />
     </div>
     <b>Name:</b> defiler<br/>
     <b>Hash:</b> 0x30FF0190<br/>
@@ -1531,7 +1531,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/diablous_thumbnail.jpg" alt="Missing image &quot;diablous.png&quot;" title="diablous" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/diablous.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/diablous.png" alt="Missing image &quot;diablous.png&quot;" title="diablous" loading="lazy" />
     </div>
     <b>Name:</b> diablous<br/>
     <b>Hash:</b> 0xF1B44F44<br/>
@@ -1540,7 +1540,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/diablous2_thumbnail.jpg" alt="Missing image &quot;diablous2.png&quot;" title="diablous2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/diablous2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/diablous2.png" alt="Missing image &quot;diablous2.png&quot;" title="diablous2" loading="lazy" />
     </div>
     <b>Name:</b> diablous2<br/>
     <b>Hash:</b> 0x6ABDF65E<br/>
@@ -1549,7 +1549,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/double_thumbnail.jpg" alt="Missing image &quot;double.png&quot;" title="double" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/double.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/double.png" alt="Missing image &quot;double.png&quot;" title="double" loading="lazy" />
     </div>
     <b>Name:</b> double<br/>
     <b>Hash:</b> 0x9C669788<br/>
@@ -1557,7 +1557,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/enduro_thumbnail.jpg" alt="Missing image &quot;enduro.png&quot;" title="enduro" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/enduro.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/enduro.png" alt="Missing image &quot;enduro.png&quot;" title="enduro" loading="lazy" />
     </div>
     <b>Name:</b> enduro<br/>
     <b>Hash:</b> 0x6882FA73<br/>
@@ -1566,7 +1566,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/esskey_thumbnail.jpg" alt="Missing image &quot;esskey.png&quot;" title="esskey" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/esskey.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/esskey.png" alt="Missing image &quot;esskey.png&quot;" title="esskey" loading="lazy" />
     </div>
     <b>Name:</b> esskey<br/>
     <b>Hash:</b> 0x794CB30C<br/>
@@ -1575,7 +1575,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/faggio_thumbnail.jpg" alt="Missing image &quot;faggio.png&quot;" title="faggio" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/faggio.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/faggio.png" alt="Missing image &quot;faggio.png&quot;" title="faggio" loading="lazy" />
     </div>
     <b>Name:</b> faggio<br/>
     <b>Hash:</b> 0x9229E4EB<br/>
@@ -1584,7 +1584,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/faggio2_thumbnail.jpg" alt="Missing image &quot;faggio2.png&quot;" title="faggio2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/faggio2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/faggio2.png" alt="Missing image &quot;faggio2.png&quot;" title="faggio2" loading="lazy" />
     </div>
     <b>Name:</b> faggio2<br/>
     <b>Hash:</b> 0x350D1AB<br/>
@@ -1592,7 +1592,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/faggio3_thumbnail.jpg" alt="Missing image &quot;faggio3.png&quot;" title="faggio3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/faggio3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/faggio3.png" alt="Missing image &quot;faggio3.png&quot;" title="faggio3" loading="lazy" />
     </div>
     <b>Name:</b> faggio3<br/>
     <b>Hash:</b> 0xB328B188<br/>
@@ -1601,7 +1601,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/fcr_thumbnail.jpg" alt="Missing image &quot;fcr.png&quot;" title="fcr" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/fcr.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/fcr.png" alt="Missing image &quot;fcr.png&quot;" title="fcr" loading="lazy" />
     </div>
     <b>Name:</b> fcr<br/>
     <b>Hash:</b> 0x25676EAF<br/>
@@ -1610,7 +1610,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/fcr2_thumbnail.jpg" alt="Missing image &quot;fcr2.png&quot;" title="fcr2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/fcr2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/fcr2.png" alt="Missing image &quot;fcr2.png&quot;" title="fcr2" loading="lazy" />
     </div>
     <b>Name:</b> fcr2<br/>
     <b>Hash:</b> 0xD2D5E00E<br/>
@@ -1619,7 +1619,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gargoyle_thumbnail.jpg" alt="Missing image &quot;gargoyle.png&quot;" title="gargoyle" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gargoyle.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gargoyle.png" alt="Missing image &quot;gargoyle.png&quot;" title="gargoyle" loading="lazy" />
     </div>
     <b>Name:</b> gargoyle<br/>
     <b>Hash:</b> 0x2C2C2324<br/>
@@ -1628,7 +1628,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hakuchou_thumbnail.jpg" alt="Missing image &quot;hakuchou.png&quot;" title="hakuchou" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hakuchou.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hakuchou.png" alt="Missing image &quot;hakuchou.png&quot;" title="hakuchou" loading="lazy" />
     </div>
     <b>Name:</b> hakuchou<br/>
     <b>Hash:</b> 0x4B6C568A<br/>
@@ -1637,7 +1637,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hakuchou2_thumbnail.jpg" alt="Missing image &quot;hakuchou2.png&quot;" title="hakuchou2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hakuchou2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hakuchou2.png" alt="Missing image &quot;hakuchou2.png&quot;" title="hakuchou2" loading="lazy" />
     </div>
     <b>Name:</b> hakuchou2<br/>
     <b>Hash:</b> 0xF0C2A91F<br/>
@@ -1646,7 +1646,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hexer_thumbnail.jpg" alt="Missing image &quot;hexer.png&quot;" title="hexer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hexer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hexer.png" alt="Missing image &quot;hexer.png&quot;" title="hexer" loading="lazy" />
     </div>
     <b>Name:</b> hexer<br/>
     <b>Hash:</b> 0x11F76C14<br/>
@@ -1654,7 +1654,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/innovation_thumbnail.jpg" alt="Missing image &quot;innovation.png&quot;" title="innovation" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/innovation.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/innovation.png" alt="Missing image &quot;innovation.png&quot;" title="innovation" loading="lazy" />
     </div>
     <b>Name:</b> innovation<br/>
     <b>Hash:</b> 0xF683EACA<br/>
@@ -1663,7 +1663,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/lectro_thumbnail.jpg" alt="Missing image &quot;lectro.png&quot;" title="lectro" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/lectro.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/lectro.png" alt="Missing image &quot;lectro.png&quot;" title="lectro" loading="lazy" />
     </div>
     <b>Name:</b> lectro<br/>
     <b>Hash:</b> 0x26321E67<br/>
@@ -1672,7 +1672,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/manchez_thumbnail.jpg" alt="Missing image &quot;manchez.png&quot;" title="manchez" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/manchez.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/manchez.png" alt="Missing image &quot;manchez.png&quot;" title="manchez" loading="lazy" />
     </div>
     <b>Name:</b> manchez<br/>
     <b>Hash:</b> 0xA5325278<br/>
@@ -1681,7 +1681,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/manchez2_thumbnail.jpg" alt="Missing image &quot;manchez2.png&quot;" title="manchez2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/manchez2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/manchez2.png" alt="Missing image &quot;manchez2.png&quot;" title="manchez2" loading="lazy" />
     </div>
     <b>Name:</b> manchez2<br/>
     <b>Hash:</b> 0x40C332A3<br/>
@@ -1690,7 +1690,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/nemesis_thumbnail.jpg" alt="Missing image &quot;nemesis.png&quot;" title="nemesis" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/nemesis.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/nemesis.png" alt="Missing image &quot;nemesis.png&quot;" title="nemesis" loading="lazy" />
     </div>
     <b>Name:</b> nemesis<br/>
     <b>Hash:</b> 0xDA288376<br/>
@@ -1698,7 +1698,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/nightblade_thumbnail.jpg" alt="Missing image &quot;nightblade.png&quot;" title="nightblade" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/nightblade.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/nightblade.png" alt="Missing image &quot;nightblade.png&quot;" title="nightblade" loading="lazy" />
     </div>
     <b>Name:</b> nightblade<br/>
     <b>Hash:</b> 0xA0438767<br/>
@@ -1707,7 +1707,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/oppressor_thumbnail.jpg" alt="Missing image &quot;oppressor.png&quot;" title="oppressor" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/oppressor.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/oppressor.png" alt="Missing image &quot;oppressor.png&quot;" title="oppressor" loading="lazy" />
     </div>
     <b>Name:</b> oppressor<br/>
     <b>Hash:</b> 0x34B82784<br/>
@@ -1716,7 +1716,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/oppressor2_thumbnail.jpg" alt="Missing image &quot;oppressor2.png&quot;" title="oppressor2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/oppressor2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/oppressor2.png" alt="Missing image &quot;oppressor2.png&quot;" title="oppressor2" loading="lazy" />
     </div>
     <b>Name:</b> oppressor2<br/>
     <b>Hash:</b> 0x7B54A9D3<br/>
@@ -1725,7 +1725,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pcj_thumbnail.jpg" alt="Missing image &quot;pcj.png&quot;" title="pcj" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pcj.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pcj.png" alt="Missing image &quot;pcj.png&quot;" title="pcj" loading="lazy" />
     </div>
     <b>Name:</b> pcj<br/>
     <b>Hash:</b> 0xC9CEAF06<br/>
@@ -1733,7 +1733,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ratbike_thumbnail.jpg" alt="Missing image &quot;ratbike.png&quot;" title="ratbike" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ratbike.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ratbike.png" alt="Missing image &quot;ratbike.png&quot;" title="ratbike" loading="lazy" />
     </div>
     <b>Name:</b> ratbike<br/>
     <b>Hash:</b> 0x6FACDF31<br/>
@@ -1742,7 +1742,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rrocket_thumbnail.jpg" alt="Missing image &quot;rrocket.png&quot;" title="rrocket" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rrocket.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rrocket.png" alt="Missing image &quot;rrocket.png&quot;" title="rrocket" loading="lazy" />
     </div>
     <b>Name:</b> rrocket<br/>
     <b>Hash:</b> 0x36A167E0<br/>
@@ -1751,7 +1751,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ruffian_thumbnail.jpg" alt="Missing image &quot;ruffian.png&quot;" title="ruffian" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ruffian.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ruffian.png" alt="Missing image &quot;ruffian.png&quot;" title="ruffian" loading="lazy" />
     </div>
     <b>Name:</b> ruffian<br/>
     <b>Hash:</b> 0xCABD11E8<br/>
@@ -1759,7 +1759,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sanchez_thumbnail.jpg" alt="Missing image &quot;Sanchez.png&quot;" title="Sanchez" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sanchez.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sanchez.png" alt="Missing image &quot;Sanchez.png&quot;" title="Sanchez" loading="lazy" />
     </div>
     <b>Name:</b> Sanchez<br/>
     <b>Hash:</b> 0x2EF89E46<br/>
@@ -1767,7 +1767,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sanchez2_thumbnail.jpg" alt="Missing image &quot;sanchez2.png&quot;" title="sanchez2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sanchez2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sanchez2.png" alt="Missing image &quot;sanchez2.png&quot;" title="sanchez2" loading="lazy" />
     </div>
     <b>Name:</b> sanchez2<br/>
     <b>Hash:</b> 0xA960B13E<br/>
@@ -1775,7 +1775,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sanctus_thumbnail.jpg" alt="Missing image &quot;sanctus.png&quot;" title="sanctus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sanctus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sanctus.png" alt="Missing image &quot;sanctus.png&quot;" title="sanctus" loading="lazy" />
     </div>
     <b>Name:</b> sanctus<br/>
     <b>Hash:</b> 0x58E316C7<br/>
@@ -1784,7 +1784,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/shotaro_thumbnail.jpg" alt="Missing image &quot;shotaro.png&quot;" title="shotaro" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/shotaro.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/shotaro.png" alt="Missing image &quot;shotaro.png&quot;" title="shotaro" loading="lazy" />
     </div>
     <b>Name:</b> shotaro<br/>
     <b>Hash:</b> 0xE7D2A16E<br/>
@@ -1793,7 +1793,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sovereign_thumbnail.jpg" alt="Missing image &quot;sovereign.png&quot;" title="sovereign" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sovereign.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sovereign.png" alt="Missing image &quot;sovereign.png&quot;" title="sovereign" loading="lazy" />
     </div>
     <b>Name:</b> sovereign<br/>
     <b>Hash:</b> 0x2C509634<br/>
@@ -1802,7 +1802,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stryder_thumbnail.jpg" alt="Missing image &quot;Stryder.png&quot;" title="Stryder" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stryder.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stryder.png" alt="Missing image &quot;Stryder.png&quot;" title="Stryder" loading="lazy" />
     </div>
     <b>Name:</b> Stryder<br/>
     <b>Hash:</b> 0x11F58A5A<br/>
@@ -1811,7 +1811,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/thrust_thumbnail.jpg" alt="Missing image &quot;thrust.png&quot;" title="thrust" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/thrust.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/thrust.png" alt="Missing image &quot;thrust.png&quot;" title="thrust" loading="lazy" />
     </div>
     <b>Name:</b> thrust<br/>
     <b>Hash:</b> 0x6D6F8F43<br/>
@@ -1820,7 +1820,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vader_thumbnail.jpg" alt="Missing image &quot;Vader.png&quot;" title="Vader" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vader.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vader.png" alt="Missing image &quot;Vader.png&quot;" title="Vader" loading="lazy" />
     </div>
     <b>Name:</b> Vader<br/>
     <b>Hash:</b> 0xF79A00F7<br/>
@@ -1828,7 +1828,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vindicator_thumbnail.jpg" alt="Missing image &quot;vindicator.png&quot;" title="vindicator" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vindicator.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vindicator.png" alt="Missing image &quot;vindicator.png&quot;" title="vindicator" loading="lazy" />
     </div>
     <b>Name:</b> vindicator<br/>
     <b>Hash:</b> 0xAF599F01<br/>
@@ -1837,7 +1837,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vortex_thumbnail.jpg" alt="Missing image &quot;vortex.png&quot;" title="vortex" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vortex.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vortex.png" alt="Missing image &quot;vortex.png&quot;" title="vortex" loading="lazy" />
     </div>
     <b>Name:</b> vortex<br/>
     <b>Hash:</b> 0xDBA9DBFC<br/>
@@ -1846,7 +1846,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/wolfsbane_thumbnail.jpg" alt="Missing image &quot;wolfsbane.png&quot;" title="wolfsbane" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/wolfsbane.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/wolfsbane.png" alt="Missing image &quot;wolfsbane.png&quot;" title="wolfsbane" loading="lazy" />
     </div>
     <b>Name:</b> wolfsbane<br/>
     <b>Hash:</b> 0xDB20A373<br/>
@@ -1855,7 +1855,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zombiea_thumbnail.jpg" alt="Missing image &quot;zombiea.png&quot;" title="zombiea" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zombiea.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zombiea.png" alt="Missing image &quot;zombiea.png&quot;" title="zombiea" loading="lazy" />
     </div>
     <b>Name:</b> zombiea<br/>
     <b>Hash:</b> 0xC3D7C72B<br/>
@@ -1864,7 +1864,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zombieb_thumbnail.jpg" alt="Missing image &quot;zombieb.png&quot;" title="zombieb" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zombieb.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zombieb.png" alt="Missing image &quot;zombieb.png&quot;" title="zombieb" loading="lazy" />
     </div>
     <b>Name:</b> zombieb<br/>
     <b>Hash:</b> 0xDE05FB87<br/>
@@ -1878,7 +1878,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blade_thumbnail.jpg" alt="Missing image &quot;blade.png&quot;" title="blade" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blade.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blade.png" alt="Missing image &quot;blade.png&quot;" title="blade" loading="lazy" />
     </div>
     <b>Name:</b> blade<br/>
     <b>Hash:</b> 0xB820ED5E<br/>
@@ -1887,7 +1887,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/buccaneer_thumbnail.jpg" alt="Missing image &quot;buccaneer.png&quot;" title="buccaneer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/buccaneer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/buccaneer.png" alt="Missing image &quot;buccaneer.png&quot;" title="buccaneer" loading="lazy" />
     </div>
     <b>Name:</b> buccaneer<br/>
     <b>Hash:</b> 0xD756460C<br/>
@@ -1895,7 +1895,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/buccaneer2_thumbnail.jpg" alt="Missing image &quot;buccaneer2.png&quot;" title="buccaneer2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/buccaneer2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/buccaneer2.png" alt="Missing image &quot;buccaneer2.png&quot;" title="buccaneer2" loading="lazy" />
     </div>
     <b>Name:</b> buccaneer2<br/>
     <b>Hash:</b> 0xC397F748<br/>
@@ -1904,7 +1904,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/chino_thumbnail.jpg" alt="Missing image &quot;chino.png&quot;" title="chino" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/chino.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/chino.png" alt="Missing image &quot;chino.png&quot;" title="chino" loading="lazy" />
     </div>
     <b>Name:</b> chino<br/>
     <b>Hash:</b> 0x14D69010<br/>
@@ -1913,7 +1913,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/chino2_thumbnail.jpg" alt="Missing image &quot;chino2.png&quot;" title="chino2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/chino2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/chino2.png" alt="Missing image &quot;chino2.png&quot;" title="chino2" loading="lazy" />
     </div>
     <b>Name:</b> chino2<br/>
     <b>Hash:</b> 0xAED64A63<br/>
@@ -1922,7 +1922,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/clique_thumbnail.jpg" alt="Missing image &quot;clique.png&quot;" title="clique" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/clique.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/clique.png" alt="Missing image &quot;clique.png&quot;" title="clique" loading="lazy" />
     </div>
     <b>Name:</b> clique<br/>
     <b>Hash:</b> 0xA29F78B0<br/>
@@ -1931,7 +1931,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/coquette3_thumbnail.jpg" alt="Missing image &quot;coquette3.png&quot;" title="coquette3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/coquette3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/coquette3.png" alt="Missing image &quot;coquette3.png&quot;" title="coquette3" loading="lazy" />
     </div>
     <b>Name:</b> coquette3<br/>
     <b>Hash:</b> 0x2EC385FE<br/>
@@ -1940,7 +1940,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/deviant_thumbnail.jpg" alt="Missing image &quot;deviant.png&quot;" title="deviant" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/deviant.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/deviant.png" alt="Missing image &quot;deviant.png&quot;" title="deviant" loading="lazy" />
     </div>
     <b>Name:</b> deviant<br/>
     <b>Hash:</b> 0x4C3FFF49<br/>
@@ -1949,7 +1949,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator_thumbnail.jpg" alt="Missing image &quot;Dominator.png&quot;" title="Dominator" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dominator.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator.png" alt="Missing image &quot;Dominator.png&quot;" title="Dominator" loading="lazy" />
     </div>
     <b>Name:</b> Dominator<br/>
     <b>Hash:</b> 0x4CE68AC<br/>
@@ -1957,7 +1957,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator2_thumbnail.jpg" alt="Missing image &quot;dominator2.png&quot;" title="dominator2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dominator2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator2.png" alt="Missing image &quot;dominator2.png&quot;" title="dominator2" loading="lazy" />
     </div>
     <b>Name:</b> dominator2<br/>
     <b>Hash:</b> 0xC96B73D9<br/>
@@ -1966,7 +1966,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator3_thumbnail.jpg" alt="Missing image &quot;dominator3.png&quot;" title="dominator3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dominator3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator3.png" alt="Missing image &quot;dominator3.png&quot;" title="dominator3" loading="lazy" />
     </div>
     <b>Name:</b> dominator3<br/>
     <b>Hash:</b> 0xC52C6B93<br/>
@@ -1975,7 +1975,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator4_thumbnail.jpg" alt="Missing image &quot;dominator4.png&quot;" title="dominator4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dominator4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator4.png" alt="Missing image &quot;dominator4.png&quot;" title="dominator4" loading="lazy" />
     </div>
     <b>Name:</b> dominator4<br/>
     <b>Hash:</b> 0xD6FB0F30<br/>
@@ -1984,7 +1984,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator5_thumbnail.jpg" alt="Missing image &quot;dominator5.png&quot;" title="dominator5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dominator5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator5.png" alt="Missing image &quot;dominator5.png&quot;" title="dominator5" loading="lazy" />
     </div>
     <b>Name:</b> dominator5<br/>
     <b>Hash:</b> 0xAE0A3D4F<br/>
@@ -1993,7 +1993,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator6_thumbnail.jpg" alt="Missing image &quot;dominator6.png&quot;" title="dominator6" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dominator6.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator6.png" alt="Missing image &quot;dominator6.png&quot;" title="dominator6" loading="lazy" />
     </div>
     <b>Name:</b> dominator6<br/>
     <b>Hash:</b> 0xB2E046FB<br/>
@@ -2002,7 +2002,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator7_thumbnail.jpg" alt="Missing image &quot;dominator7.png&quot;" title="dominator7" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dominator7.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator7.png" alt="Missing image &quot;dominator7.png&quot;" title="dominator7" loading="lazy" />
     </div>
     <b>Name:</b> dominator7<br/>
     <b>Hash:</b> 0x196F9418<br/>
@@ -2011,7 +2011,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator8_thumbnail.jpg" alt="Missing image &quot;dominator8.png&quot;" title="dominator8" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dominator8.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dominator8.png" alt="Missing image &quot;dominator8.png&quot;" title="dominator8" loading="lazy" />
     </div>
     <b>Name:</b> dominator8<br/>
     <b>Hash:</b> 0x2BE8B90A<br/>
@@ -2020,7 +2020,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dukes_thumbnail.jpg" alt="Missing image &quot;dukes.png&quot;" title="dukes" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dukes.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dukes.png" alt="Missing image &quot;dukes.png&quot;" title="dukes" loading="lazy" />
     </div>
     <b>Name:</b> dukes<br/>
     <b>Hash:</b> 0x2B26F456<br/>
@@ -2029,7 +2029,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dukes2_thumbnail.jpg" alt="Missing image &quot;dukes2.png&quot;" title="dukes2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dukes2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dukes2.png" alt="Missing image &quot;dukes2.png&quot;" title="dukes2" loading="lazy" />
     </div>
     <b>Name:</b> dukes2<br/>
     <b>Hash:</b> 0xEC8F7094<br/>
@@ -2038,7 +2038,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dukes3_thumbnail.jpg" alt="Missing image &quot;dukes3.png&quot;" title="dukes3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dukes3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dukes3.png" alt="Missing image &quot;dukes3.png&quot;" title="dukes3" loading="lazy" />
     </div>
     <b>Name:</b> dukes3<br/>
     <b>Hash:</b> 0x7F3415E3<br/>
@@ -2047,7 +2047,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ellie_thumbnail.jpg" alt="Missing image &quot;ellie.png&quot;" title="ellie" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ellie.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ellie.png" alt="Missing image &quot;ellie.png&quot;" title="ellie" loading="lazy" />
     </div>
     <b>Name:</b> ellie<br/>
     <b>Hash:</b> 0xB472D2B5<br/>
@@ -2056,7 +2056,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/faction_thumbnail.jpg" alt="Missing image &quot;faction.png&quot;" title="faction" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/faction.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/faction.png" alt="Missing image &quot;faction.png&quot;" title="faction" loading="lazy" />
     </div>
     <b>Name:</b> faction<br/>
     <b>Hash:</b> 0x81A9CDDF<br/>
@@ -2065,7 +2065,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/faction2_thumbnail.jpg" alt="Missing image &quot;faction2.png&quot;" title="faction2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/faction2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/faction2.png" alt="Missing image &quot;faction2.png&quot;" title="faction2" loading="lazy" />
     </div>
     <b>Name:</b> faction2<br/>
     <b>Hash:</b> 0x95466BDB<br/>
@@ -2074,7 +2074,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/faction3_thumbnail.jpg" alt="Missing image &quot;faction3.png&quot;" title="faction3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/faction3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/faction3.png" alt="Missing image &quot;faction3.png&quot;" title="faction3" loading="lazy" />
     </div>
     <b>Name:</b> faction3<br/>
     <b>Hash:</b> 0x866BCE26<br/>
@@ -2083,7 +2083,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet_thumbnail.jpg" alt="Missing image &quot;Gauntlet.png&quot;" title="Gauntlet" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet.png" alt="Missing image &quot;Gauntlet.png&quot;" title="Gauntlet" loading="lazy" />
     </div>
     <b>Name:</b> Gauntlet<br/>
     <b>Hash:</b> 0x94B395C5<br/>
@@ -2091,7 +2091,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet2_thumbnail.jpg" alt="Missing image &quot;gauntlet2.png&quot;" title="gauntlet2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet2.png" alt="Missing image &quot;gauntlet2.png&quot;" title="gauntlet2" loading="lazy" />
     </div>
     <b>Name:</b> gauntlet2<br/>
     <b>Hash:</b> 0x14D22159<br/>
@@ -2100,7 +2100,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet3_thumbnail.jpg" alt="Missing image &quot;gauntlet3.png&quot;" title="gauntlet3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet3.png" alt="Missing image &quot;gauntlet3.png&quot;" title="gauntlet3" loading="lazy" />
     </div>
     <b>Name:</b> gauntlet3<br/>
     <b>Hash:</b> 0x2B0C4DCD<br/>
@@ -2109,7 +2109,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet4_thumbnail.jpg" alt="Missing image &quot;gauntlet4.png&quot;" title="gauntlet4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet4.png" alt="Missing image &quot;gauntlet4.png&quot;" title="gauntlet4" loading="lazy" />
     </div>
     <b>Name:</b> gauntlet4<br/>
     <b>Hash:</b> 0x734C5E50<br/>
@@ -2118,7 +2118,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet5_thumbnail.jpg" alt="Missing image &quot;gauntlet5.png&quot;" title="gauntlet5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gauntlet5.png" alt="Missing image &quot;gauntlet5.png&quot;" title="gauntlet5" loading="lazy" />
     </div>
     <b>Name:</b> gauntlet5<br/>
     <b>Hash:</b> 0x817AFAAD<br/>
@@ -2127,7 +2127,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hermes_thumbnail.jpg" alt="Missing image &quot;hermes.png&quot;" title="hermes" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hermes.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hermes.png" alt="Missing image &quot;hermes.png&quot;" title="hermes" loading="lazy" />
     </div>
     <b>Name:</b> hermes<br/>
     <b>Hash:</b> 0xE83C17<br/>
@@ -2136,7 +2136,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hotknife_thumbnail.jpg" alt="Missing image &quot;hotknife.png&quot;" title="hotknife" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hotknife.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hotknife.png" alt="Missing image &quot;hotknife.png&quot;" title="hotknife" loading="lazy" />
     </div>
     <b>Name:</b> hotknife<br/>
     <b>Hash:</b> 0x239E390<br/>
@@ -2144,7 +2144,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hustler_thumbnail.jpg" alt="Missing image &quot;hustler.png&quot;" title="hustler" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hustler.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hustler.png" alt="Missing image &quot;hustler.png&quot;" title="hustler" loading="lazy" />
     </div>
     <b>Name:</b> hustler<br/>
     <b>Hash:</b> 0x23CA25F2<br/>
@@ -2153,7 +2153,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/impaler_thumbnail.jpg" alt="Missing image &quot;impaler.png&quot;" title="impaler" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/impaler.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/impaler.png" alt="Missing image &quot;impaler.png&quot;" title="impaler" loading="lazy" />
     </div>
     <b>Name:</b> impaler<br/>
     <b>Hash:</b> 0x83070B62<br/>
@@ -2162,7 +2162,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/impaler2_thumbnail.jpg" alt="Missing image &quot;impaler2.png&quot;" title="impaler2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/impaler2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/impaler2.png" alt="Missing image &quot;impaler2.png&quot;" title="impaler2" loading="lazy" />
     </div>
     <b>Name:</b> impaler2<br/>
     <b>Hash:</b> 0x3C26BD0C<br/>
@@ -2171,7 +2171,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/impaler3_thumbnail.jpg" alt="Missing image &quot;impaler3.png&quot;" title="impaler3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/impaler3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/impaler3.png" alt="Missing image &quot;impaler3.png&quot;" title="impaler3" loading="lazy" />
     </div>
     <b>Name:</b> impaler3<br/>
     <b>Hash:</b> 0x8D45DF49<br/>
@@ -2180,7 +2180,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/impaler4_thumbnail.jpg" alt="Missing image &quot;impaler4.png&quot;" title="impaler4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/impaler4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/impaler4.png" alt="Missing image &quot;impaler4.png&quot;" title="impaler4" loading="lazy" />
     </div>
     <b>Name:</b> impaler4<br/>
     <b>Hash:</b> 0x9804F4C7<br/>
@@ -2189,7 +2189,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/imperator_thumbnail.jpg" alt="Missing image &quot;imperator.png&quot;" title="imperator" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/imperator.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/imperator.png" alt="Missing image &quot;imperator.png&quot;" title="imperator" loading="lazy" />
     </div>
     <b>Name:</b> imperator<br/>
     <b>Hash:</b> 0x1A861243<br/>
@@ -2198,7 +2198,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/imperator2_thumbnail.jpg" alt="Missing image &quot;imperator2.png&quot;" title="imperator2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/imperator2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/imperator2.png" alt="Missing image &quot;imperator2.png&quot;" title="imperator2" loading="lazy" />
     </div>
     <b>Name:</b> imperator2<br/>
     <b>Hash:</b> 0x619C1B82<br/>
@@ -2207,7 +2207,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/imperator3_thumbnail.jpg" alt="Missing image &quot;imperator3.png&quot;" title="imperator3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/imperator3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/imperator3.png" alt="Missing image &quot;imperator3.png&quot;" title="imperator3" loading="lazy" />
     </div>
     <b>Name:</b> imperator3<br/>
     <b>Hash:</b> 0xD2F77E37<br/>
@@ -2216,7 +2216,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/lurcher_thumbnail.jpg" alt="Missing image &quot;lurcher.png&quot;" title="lurcher" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/lurcher.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/lurcher.png" alt="Missing image &quot;lurcher.png&quot;" title="lurcher" loading="lazy" />
     </div>
     <b>Name:</b> lurcher<br/>
     <b>Hash:</b> 0x7B47A6A7<br/>
@@ -2225,7 +2225,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/manana2_thumbnail.jpg" alt="Missing image &quot;manana2.png&quot;" title="manana2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/manana2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/manana2.png" alt="Missing image &quot;manana2.png&quot;" title="manana2" loading="lazy" />
     </div>
     <b>Name:</b> manana2<br/>
     <b>Hash:</b> 0x665F785D<br/>
@@ -2234,7 +2234,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/moonbeam_thumbnail.jpg" alt="Missing image &quot;moonbeam.png&quot;" title="moonbeam" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/moonbeam.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/moonbeam.png" alt="Missing image &quot;moonbeam.png&quot;" title="moonbeam" loading="lazy" />
     </div>
     <b>Name:</b> moonbeam<br/>
     <b>Hash:</b> 0x1F52A43F<br/>
@@ -2243,7 +2243,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/moonbeam2_thumbnail.jpg" alt="Missing image &quot;moonbeam2.png&quot;" title="moonbeam2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/moonbeam2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/moonbeam2.png" alt="Missing image &quot;moonbeam2.png&quot;" title="moonbeam2" loading="lazy" />
     </div>
     <b>Name:</b> moonbeam2<br/>
     <b>Hash:</b> 0x710A2B9B<br/>
@@ -2252,7 +2252,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/nightshade_thumbnail.jpg" alt="Missing image &quot;nightshade.png&quot;" title="nightshade" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/nightshade.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/nightshade.png" alt="Missing image &quot;nightshade.png&quot;" title="nightshade" loading="lazy" />
     </div>
     <b>Name:</b> nightshade<br/>
     <b>Hash:</b> 0x8C2BD0DC<br/>
@@ -2261,7 +2261,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/peyote2_thumbnail.jpg" alt="Missing image &quot;peyote2.png&quot;" title="peyote2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/peyote2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/peyote2.png" alt="Missing image &quot;peyote2.png&quot;" title="peyote2" loading="lazy" />
     </div>
     <b>Name:</b> peyote2<br/>
     <b>Hash:</b> 0x9472CD24<br/>
@@ -2270,7 +2270,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/phoenix_thumbnail.jpg" alt="Missing image &quot;Phoenix.png&quot;" title="Phoenix" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/phoenix.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/phoenix.png" alt="Missing image &quot;Phoenix.png&quot;" title="Phoenix" loading="lazy" />
     </div>
     <b>Name:</b> Phoenix<br/>
     <b>Hash:</b> 0x831A21D5<br/>
@@ -2278,7 +2278,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/picador_thumbnail.jpg" alt="Missing image &quot;picador.png&quot;" title="picador" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/picador.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/picador.png" alt="Missing image &quot;picador.png&quot;" title="picador" loading="lazy" />
     </div>
     <b>Name:</b> picador<br/>
     <b>Hash:</b> 0x59E0FBF3<br/>
@@ -2286,7 +2286,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ratloader_thumbnail.jpg" alt="Missing image &quot;ratloader.png&quot;" title="ratloader" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ratloader.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ratloader.png" alt="Missing image &quot;ratloader.png&quot;" title="ratloader" loading="lazy" />
     </div>
     <b>Name:</b> ratloader<br/>
     <b>Hash:</b> 0xD83C13CE<br/>
@@ -2294,7 +2294,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ratloader2_thumbnail.jpg" alt="Missing image &quot;ratloader2.png&quot;" title="ratloader2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ratloader2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ratloader2.png" alt="Missing image &quot;ratloader2.png&quot;" title="ratloader2" loading="lazy" />
     </div>
     <b>Name:</b> ratloader2<br/>
     <b>Hash:</b> 0xDCE1D9F7<br/>
@@ -2303,7 +2303,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ruiner_thumbnail.jpg" alt="Missing image &quot;ruiner.png&quot;" title="ruiner" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ruiner.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ruiner.png" alt="Missing image &quot;ruiner.png&quot;" title="ruiner" loading="lazy" />
     </div>
     <b>Name:</b> ruiner<br/>
     <b>Hash:</b> 0xF26CEFF9<br/>
@@ -2311,7 +2311,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ruiner2_thumbnail.jpg" alt="Missing image &quot;ruiner2.png&quot;" title="ruiner2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ruiner2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ruiner2.png" alt="Missing image &quot;ruiner2.png&quot;" title="ruiner2" loading="lazy" />
     </div>
     <b>Name:</b> ruiner2<br/>
     <b>Hash:</b> 0x381E10BD<br/>
@@ -2320,7 +2320,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ruiner3_thumbnail.jpg" alt="Missing image &quot;ruiner3.png&quot;" title="ruiner3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ruiner3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ruiner3.png" alt="Missing image &quot;ruiner3.png&quot;" title="ruiner3" loading="lazy" />
     </div>
     <b>Name:</b> ruiner3<br/>
     <b>Hash:</b> 0x2E5AFD37<br/>
@@ -2329,7 +2329,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sabregt_thumbnail.jpg" alt="Missing image &quot;sabregt.png&quot;" title="sabregt" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sabregt.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sabregt.png" alt="Missing image &quot;sabregt.png&quot;" title="sabregt" loading="lazy" />
     </div>
     <b>Name:</b> sabregt<br/>
     <b>Hash:</b> 0x9B909C94<br/>
@@ -2337,7 +2337,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sabregt2_thumbnail.jpg" alt="Missing image &quot;sabregt2.png&quot;" title="sabregt2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sabregt2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sabregt2.png" alt="Missing image &quot;sabregt2.png&quot;" title="sabregt2" loading="lazy" />
     </div>
     <b>Name:</b> sabregt2<br/>
     <b>Hash:</b> 0xD4EA603<br/>
@@ -2346,7 +2346,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan_thumbnail.jpg" alt="Missing image &quot;slamvan.png&quot;" title="slamvan" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/slamvan.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan.png" alt="Missing image &quot;slamvan.png&quot;" title="slamvan" loading="lazy" />
     </div>
     <b>Name:</b> slamvan<br/>
     <b>Hash:</b> 0x2B7F9DE3<br/>
@@ -2355,7 +2355,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan2_thumbnail.jpg" alt="Missing image &quot;slamvan2.png&quot;" title="slamvan2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/slamvan2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan2.png" alt="Missing image &quot;slamvan2.png&quot;" title="slamvan2" loading="lazy" />
     </div>
     <b>Name:</b> slamvan2<br/>
     <b>Hash:</b> 0x31ADBBFC<br/>
@@ -2364,7 +2364,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan3_thumbnail.jpg" alt="Missing image &quot;slamvan3.png&quot;" title="slamvan3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/slamvan3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan3.png" alt="Missing image &quot;slamvan3.png&quot;" title="slamvan3" loading="lazy" />
     </div>
     <b>Name:</b> slamvan3<br/>
     <b>Hash:</b> 0x42BC5E19<br/>
@@ -2373,7 +2373,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan4_thumbnail.jpg" alt="Missing image &quot;slamvan4.png&quot;" title="slamvan4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/slamvan4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan4.png" alt="Missing image &quot;slamvan4.png&quot;" title="slamvan4" loading="lazy" />
     </div>
     <b>Name:</b> slamvan4<br/>
     <b>Hash:</b> 0x8526E2F5<br/>
@@ -2382,7 +2382,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan5_thumbnail.jpg" alt="Missing image &quot;slamvan5.png&quot;" title="slamvan5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/slamvan5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan5.png" alt="Missing image &quot;slamvan5.png&quot;" title="slamvan5" loading="lazy" />
     </div>
     <b>Name:</b> slamvan5<br/>
     <b>Hash:</b> 0x163F8520<br/>
@@ -2391,7 +2391,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan6_thumbnail.jpg" alt="Missing image &quot;slamvan6.png&quot;" title="slamvan6" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/slamvan6.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamvan6.png" alt="Missing image &quot;slamvan6.png&quot;" title="slamvan6" loading="lazy" />
     </div>
     <b>Name:</b> slamvan6<br/>
     <b>Hash:</b> 0x67D52852<br/>
@@ -2400,7 +2400,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stalion_thumbnail.jpg" alt="Missing image &quot;stalion.png&quot;" title="stalion" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stalion.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stalion.png" alt="Missing image &quot;stalion.png&quot;" title="stalion" loading="lazy" />
     </div>
     <b>Name:</b> stalion<br/>
     <b>Hash:</b> 0x72A4C31E<br/>
@@ -2409,7 +2409,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stalion2_thumbnail.jpg" alt="Missing image &quot;stalion2.png&quot;" title="stalion2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stalion2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stalion2.png" alt="Missing image &quot;stalion2.png&quot;" title="stalion2" loading="lazy" />
     </div>
     <b>Name:</b> stalion2<br/>
     <b>Hash:</b> 0xE80F67EE<br/>
@@ -2418,7 +2418,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tampa_thumbnail.jpg" alt="Missing image &quot;tampa.png&quot;" title="tampa" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tampa.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tampa.png" alt="Missing image &quot;tampa.png&quot;" title="tampa" loading="lazy" />
     </div>
     <b>Name:</b> tampa<br/>
     <b>Hash:</b> 0x39F9C898<br/>
@@ -2427,7 +2427,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tampa3_thumbnail.jpg" alt="Missing image &quot;tampa3.png&quot;" title="tampa3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tampa3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tampa3.png" alt="Missing image &quot;tampa3.png&quot;" title="tampa3" loading="lazy" />
     </div>
     <b>Name:</b> tampa3<br/>
     <b>Hash:</b> 0xB7D9F7F1<br/>
@@ -2436,7 +2436,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tulip_thumbnail.jpg" alt="Missing image &quot;tulip.png&quot;" title="tulip" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tulip.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tulip.png" alt="Missing image &quot;tulip.png&quot;" title="tulip" loading="lazy" />
     </div>
     <b>Name:</b> tulip<br/>
     <b>Hash:</b> 0x56D42971<br/>
@@ -2445,7 +2445,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vamos_thumbnail.jpg" alt="Missing image &quot;vamos.png&quot;" title="vamos" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vamos.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vamos.png" alt="Missing image &quot;vamos.png&quot;" title="vamos" loading="lazy" />
     </div>
     <b>Name:</b> vamos<br/>
     <b>Hash:</b> 0xFD128DFD<br/>
@@ -2454,7 +2454,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vigero_thumbnail.jpg" alt="Missing image &quot;vigero.png&quot;" title="vigero" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vigero.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vigero.png" alt="Missing image &quot;vigero.png&quot;" title="vigero" loading="lazy" />
     </div>
     <b>Name:</b> vigero<br/>
     <b>Hash:</b> 0xCEC6B9B7<br/>
@@ -2462,7 +2462,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/virgo_thumbnail.jpg" alt="Missing image &quot;virgo.png&quot;" title="virgo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/virgo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/virgo.png" alt="Missing image &quot;virgo.png&quot;" title="virgo" loading="lazy" />
     </div>
     <b>Name:</b> virgo<br/>
     <b>Hash:</b> 0xE2504942<br/>
@@ -2471,7 +2471,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/virgo2_thumbnail.jpg" alt="Missing image &quot;virgo2.png&quot;" title="virgo2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/virgo2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/virgo2.png" alt="Missing image &quot;virgo2.png&quot;" title="virgo2" loading="lazy" />
     </div>
     <b>Name:</b> virgo2<br/>
     <b>Hash:</b> 0xCA62927A<br/>
@@ -2480,7 +2480,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/virgo3_thumbnail.jpg" alt="Missing image &quot;virgo3.png&quot;" title="virgo3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/virgo3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/virgo3.png" alt="Missing image &quot;virgo3.png&quot;" title="virgo3" loading="lazy" />
     </div>
     <b>Name:</b> virgo3<br/>
     <b>Hash:</b> 0xFDFFB0<br/>
@@ -2489,7 +2489,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/voodoo_thumbnail.jpg" alt="Missing image &quot;voodoo.png&quot;" title="voodoo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/voodoo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/voodoo.png" alt="Missing image &quot;voodoo.png&quot;" title="voodoo" loading="lazy" />
     </div>
     <b>Name:</b> voodoo<br/>
     <b>Hash:</b> 0x779B4F2D<br/>
@@ -2498,7 +2498,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/voodoo2_thumbnail.jpg" alt="Missing image &quot;voodoo2.png&quot;" title="voodoo2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/voodoo2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/voodoo2.png" alt="Missing image &quot;voodoo2.png&quot;" title="voodoo2" loading="lazy" />
     </div>
     <b>Name:</b> voodoo2<br/>
     <b>Hash:</b> 0x1F3766E3<br/>
@@ -2506,7 +2506,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/yosemite_thumbnail.jpg" alt="Missing image &quot;yosemite.png&quot;" title="yosemite" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/yosemite.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/yosemite.png" alt="Missing image &quot;yosemite.png&quot;" title="yosemite" loading="lazy" />
     </div>
     <b>Name:</b> yosemite<br/>
     <b>Hash:</b> 0x6F946279<br/>
@@ -2515,7 +2515,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/yosemite2_thumbnail.jpg" alt="Missing image &quot;yosemite2.png&quot;" title="yosemite2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/yosemite2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/yosemite2.png" alt="Missing image &quot;yosemite2.png&quot;" title="yosemite2" loading="lazy" />
     </div>
     <b>Name:</b> yosemite2<br/>
     <b>Hash:</b> 0x64F49967<br/>
@@ -2529,7 +2529,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bfinjection_thumbnail.jpg" alt="Missing image &quot;BfInjection.png&quot;" title="BfInjection" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bfinjection.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bfinjection.png" alt="Missing image &quot;BfInjection.png&quot;" title="BfInjection" loading="lazy" />
     </div>
     <b>Name:</b> BfInjection<br/>
     <b>Hash:</b> 0x432AA566<br/>
@@ -2537,7 +2537,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bifta_thumbnail.jpg" alt="Missing image &quot;bifta.png&quot;" title="bifta" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bifta.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bifta.png" alt="Missing image &quot;bifta.png&quot;" title="bifta" loading="lazy" />
     </div>
     <b>Name:</b> bifta<br/>
     <b>Hash:</b> 0xEB298297<br/>
@@ -2546,7 +2546,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blazer_thumbnail.jpg" alt="Missing image &quot;blazer.png&quot;" title="blazer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blazer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blazer.png" alt="Missing image &quot;blazer.png&quot;" title="blazer" loading="lazy" />
     </div>
     <b>Name:</b> blazer<br/>
     <b>Hash:</b> 0x8125BCF9<br/>
@@ -2554,7 +2554,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blazer2_thumbnail.jpg" alt="Missing image &quot;blazer2.png&quot;" title="blazer2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blazer2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blazer2.png" alt="Missing image &quot;blazer2.png&quot;" title="blazer2" loading="lazy" />
     </div>
     <b>Name:</b> blazer2<br/>
     <b>Hash:</b> 0xFD231729<br/>
@@ -2562,7 +2562,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blazer3_thumbnail.jpg" alt="Missing image &quot;blazer3.png&quot;" title="blazer3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blazer3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blazer3.png" alt="Missing image &quot;blazer3.png&quot;" title="blazer3" loading="lazy" />
     </div>
     <b>Name:</b> blazer3<br/>
     <b>Hash:</b> 0xB44F0582<br/>
@@ -2570,7 +2570,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blazer4_thumbnail.jpg" alt="Missing image &quot;blazer4.png&quot;" title="blazer4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blazer4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blazer4.png" alt="Missing image &quot;blazer4.png&quot;" title="blazer4" loading="lazy" />
     </div>
     <b>Name:</b> blazer4<br/>
     <b>Hash:</b> 0xE5BA6858<br/>
@@ -2579,7 +2579,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blazer5_thumbnail.jpg" alt="Missing image &quot;blazer5.png&quot;" title="blazer5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blazer5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blazer5.png" alt="Missing image &quot;blazer5.png&quot;" title="blazer5" loading="lazy" />
     </div>
     <b>Name:</b> blazer5<br/>
     <b>Hash:</b> 0xA1355F67<br/>
@@ -2588,7 +2588,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bodhi2_thumbnail.jpg" alt="Missing image &quot;Bodhi2.png&quot;" title="Bodhi2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bodhi2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bodhi2.png" alt="Missing image &quot;Bodhi2.png&quot;" title="Bodhi2" loading="lazy" />
     </div>
     <b>Name:</b> Bodhi2<br/>
     <b>Hash:</b> 0xAA699BB6<br/>
@@ -2596,7 +2596,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/brawler_thumbnail.jpg" alt="Missing image &quot;brawler.png&quot;" title="brawler" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/brawler.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/brawler.png" alt="Missing image &quot;brawler.png&quot;" title="brawler" loading="lazy" />
     </div>
     <b>Name:</b> brawler<br/>
     <b>Hash:</b> 0xA7CE1BC5<br/>
@@ -2605,7 +2605,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bruiser_thumbnail.jpg" alt="Missing image &quot;bruiser.png&quot;" title="bruiser" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bruiser.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bruiser.png" alt="Missing image &quot;bruiser.png&quot;" title="bruiser" loading="lazy" />
     </div>
     <b>Name:</b> bruiser<br/>
     <b>Hash:</b> 0x27D79225<br/>
@@ -2614,7 +2614,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bruiser2_thumbnail.jpg" alt="Missing image &quot;bruiser2.png&quot;" title="bruiser2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bruiser2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bruiser2.png" alt="Missing image &quot;bruiser2.png&quot;" title="bruiser2" loading="lazy" />
     </div>
     <b>Name:</b> bruiser2<br/>
     <b>Hash:</b> 0x9B065C9E<br/>
@@ -2623,7 +2623,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bruiser3_thumbnail.jpg" alt="Missing image &quot;bruiser3.png&quot;" title="bruiser3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bruiser3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bruiser3.png" alt="Missing image &quot;bruiser3.png&quot;" title="bruiser3" loading="lazy" />
     </div>
     <b>Name:</b> bruiser3<br/>
     <b>Hash:</b> 0x8644331A<br/>
@@ -2632,7 +2632,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/brutus_thumbnail.jpg" alt="Missing image &quot;brutus.png&quot;" title="brutus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/brutus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/brutus.png" alt="Missing image &quot;brutus.png&quot;" title="brutus" loading="lazy" />
     </div>
     <b>Name:</b> brutus<br/>
     <b>Hash:</b> 0x7F81A829<br/>
@@ -2641,7 +2641,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/brutus2_thumbnail.jpg" alt="Missing image &quot;brutus2.png&quot;" title="brutus2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/brutus2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/brutus2.png" alt="Missing image &quot;brutus2.png&quot;" title="brutus2" loading="lazy" />
     </div>
     <b>Name:</b> brutus2<br/>
     <b>Hash:</b> 0x8F49AE28<br/>
@@ -2650,7 +2650,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/brutus3_thumbnail.jpg" alt="Missing image &quot;brutus3.png&quot;" title="brutus3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/brutus3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/brutus3.png" alt="Missing image &quot;brutus3.png&quot;" title="brutus3" loading="lazy" />
     </div>
     <b>Name:</b> brutus3<br/>
     <b>Hash:</b> 0x798682A2<br/>
@@ -2659,7 +2659,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/caracara_thumbnail.jpg" alt="Missing image &quot;caracara.png&quot;" title="caracara" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/caracara.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/caracara.png" alt="Missing image &quot;caracara.png&quot;" title="caracara" loading="lazy" />
     </div>
     <b>Name:</b> caracara<br/>
     <b>Hash:</b> 0x4ABEBF23<br/>
@@ -2668,7 +2668,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/caracara2_thumbnail.jpg" alt="Missing image &quot;caracara2.png&quot;" title="caracara2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/caracara2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/caracara2.png" alt="Missing image &quot;caracara2.png&quot;" title="caracara2" loading="lazy" />
     </div>
     <b>Name:</b> caracara2<br/>
     <b>Hash:</b> 0xAF966F3C<br/>
@@ -2677,7 +2677,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dloader_thumbnail.jpg" alt="Missing image &quot;dloader.png&quot;" title="dloader" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dloader.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dloader.png" alt="Missing image &quot;dloader.png&quot;" title="dloader" loading="lazy" />
     </div>
     <b>Name:</b> dloader<br/>
     <b>Hash:</b> 0x698521E3<br/>
@@ -2685,7 +2685,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dubsta3_thumbnail.jpg" alt="Missing image &quot;dubsta3.png&quot;" title="dubsta3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dubsta3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dubsta3.png" alt="Missing image &quot;dubsta3.png&quot;" title="dubsta3" loading="lazy" />
     </div>
     <b>Name:</b> dubsta3<br/>
     <b>Hash:</b> 0xB6410173<br/>
@@ -2694,7 +2694,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dune_thumbnail.jpg" alt="Missing image &quot;dune.png&quot;" title="dune" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dune.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dune.png" alt="Missing image &quot;dune.png&quot;" title="dune" loading="lazy" />
     </div>
     <b>Name:</b> dune<br/>
     <b>Hash:</b> 0x9CF21E0F<br/>
@@ -2702,7 +2702,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dune2_thumbnail.jpg" alt="Missing image &quot;dune2.png&quot;" title="dune2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dune2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dune2.png" alt="Missing image &quot;dune2.png&quot;" title="dune2" loading="lazy" />
     </div>
     <b>Name:</b> dune2<br/>
     <b>Hash:</b> 0x1FD824AF<br/>
@@ -2710,7 +2710,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dune3_thumbnail.jpg" alt="Missing image &quot;dune3.png&quot;" title="dune3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dune3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dune3.png" alt="Missing image &quot;dune3.png&quot;" title="dune3" loading="lazy" />
     </div>
     <b>Name:</b> dune3<br/>
     <b>Hash:</b> 0x711D4738<br/>
@@ -2719,7 +2719,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dune4_thumbnail.jpg" alt="Missing image &quot;dune4.png&quot;" title="dune4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dune4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dune4.png" alt="Missing image &quot;dune4.png&quot;" title="dune4" loading="lazy" />
     </div>
     <b>Name:</b> dune4<br/>
     <b>Hash:</b> 0xCEB28249<br/>
@@ -2728,7 +2728,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dune5_thumbnail.jpg" alt="Missing image &quot;dune5.png&quot;" title="dune5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dune5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dune5.png" alt="Missing image &quot;dune5.png&quot;" title="dune5" loading="lazy" />
     </div>
     <b>Name:</b> dune5<br/>
     <b>Hash:</b> 0xED62BFA9<br/>
@@ -2737,7 +2737,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/everon_thumbnail.jpg" alt="Missing image &quot;everon.png&quot;" title="everon" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/everon.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/everon.png" alt="Missing image &quot;everon.png&quot;" title="everon" loading="lazy" />
     </div>
     <b>Name:</b> everon<br/>
     <b>Hash:</b> 0x97553C28<br/>
@@ -2746,7 +2746,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/freecrawler_thumbnail.jpg" alt="Missing image &quot;freecrawler.png&quot;" title="freecrawler" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/freecrawler.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/freecrawler.png" alt="Missing image &quot;freecrawler.png&quot;" title="freecrawler" loading="lazy" />
     </div>
     <b>Name:</b> freecrawler<br/>
     <b>Hash:</b> 0xFCC2F483<br/>
@@ -2755,7 +2755,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hellion_thumbnail.jpg" alt="Missing image &quot;hellion.png&quot;" title="hellion" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hellion.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hellion.png" alt="Missing image &quot;hellion.png&quot;" title="hellion" loading="lazy" />
     </div>
     <b>Name:</b> hellion<br/>
     <b>Hash:</b> 0xEA6A047F<br/>
@@ -2764,7 +2764,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/insurgent_thumbnail.jpg" alt="Missing image &quot;insurgent.png&quot;" title="insurgent" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/insurgent.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/insurgent.png" alt="Missing image &quot;insurgent.png&quot;" title="insurgent" loading="lazy" />
     </div>
     <b>Name:</b> insurgent<br/>
     <b>Hash:</b> 0x9114EADA<br/>
@@ -2773,7 +2773,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/insurgent2_thumbnail.jpg" alt="Missing image &quot;insurgent2.png&quot;" title="insurgent2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/insurgent2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/insurgent2.png" alt="Missing image &quot;insurgent2.png&quot;" title="insurgent2" loading="lazy" />
     </div>
     <b>Name:</b> insurgent2<br/>
     <b>Hash:</b> 0x7B7E56F0<br/>
@@ -2782,7 +2782,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/insurgent3_thumbnail.jpg" alt="Missing image &quot;insurgent3.png&quot;" title="insurgent3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/insurgent3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/insurgent3.png" alt="Missing image &quot;insurgent3.png&quot;" title="insurgent3" loading="lazy" />
     </div>
     <b>Name:</b> insurgent3<br/>
     <b>Hash:</b> 0x8D4B7A8A<br/>
@@ -2791,7 +2791,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/kalahari_thumbnail.jpg" alt="Missing image &quot;kalahari.png&quot;" title="kalahari" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/kalahari.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/kalahari.png" alt="Missing image &quot;kalahari.png&quot;" title="kalahari" loading="lazy" />
     </div>
     <b>Name:</b> kalahari<br/>
     <b>Hash:</b> 0x5852838<br/>
@@ -2800,7 +2800,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/kamacho_thumbnail.jpg" alt="Missing image &quot;kamacho.png&quot;" title="kamacho" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/kamacho.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/kamacho.png" alt="Missing image &quot;kamacho.png&quot;" title="kamacho" loading="lazy" />
     </div>
     <b>Name:</b> kamacho<br/>
     <b>Hash:</b> 0xF8C2E0E7<br/>
@@ -2809,7 +2809,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/marshall_thumbnail.jpg" alt="Missing image &quot;marshall.png&quot;" title="marshall" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/marshall.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/marshall.png" alt="Missing image &quot;marshall.png&quot;" title="marshall" loading="lazy" />
     </div>
     <b>Name:</b> marshall<br/>
     <b>Hash:</b> 0x49863E9C<br/>
@@ -2818,7 +2818,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/menacer_thumbnail.jpg" alt="Missing image &quot;menacer.png&quot;" title="menacer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/menacer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/menacer.png" alt="Missing image &quot;menacer.png&quot;" title="menacer" loading="lazy" />
     </div>
     <b>Name:</b> menacer<br/>
     <b>Hash:</b> 0x79DD18AE<br/>
@@ -2827,7 +2827,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mesa3_thumbnail.jpg" alt="Missing image &quot;MESA3.png&quot;" title="MESA3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mesa3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mesa3.png" alt="Missing image &quot;MESA3.png&quot;" title="MESA3" loading="lazy" />
     </div>
     <b>Name:</b> MESA3<br/>
     <b>Hash:</b> 0x84F42E51<br/>
@@ -2835,7 +2835,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/monster_thumbnail.jpg" alt="Missing image &quot;monster.png&quot;" title="monster" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/monster.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/monster.png" alt="Missing image &quot;monster.png&quot;" title="monster" loading="lazy" />
     </div>
     <b>Name:</b> monster<br/>
     <b>Hash:</b> 0xCD93A7DB<br/>
@@ -2844,7 +2844,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/monster3_thumbnail.jpg" alt="Missing image &quot;monster3.png&quot;" title="monster3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/monster3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/monster3.png" alt="Missing image &quot;monster3.png&quot;" title="monster3" loading="lazy" />
     </div>
     <b>Name:</b> monster3<br/>
     <b>Hash:</b> 0x669EB40A<br/>
@@ -2853,7 +2853,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/monster4_thumbnail.jpg" alt="Missing image &quot;monster4.png&quot;" title="monster4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/monster4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/monster4.png" alt="Missing image &quot;monster4.png&quot;" title="monster4" loading="lazy" />
     </div>
     <b>Name:</b> monster4<br/>
     <b>Hash:</b> 0x32174AFC<br/>
@@ -2862,7 +2862,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/monster5_thumbnail.jpg" alt="Missing image &quot;monster5.png&quot;" title="monster5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/monster5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/monster5.png" alt="Missing image &quot;monster5.png&quot;" title="monster5" loading="lazy" />
     </div>
     <b>Name:</b> monster5<br/>
     <b>Hash:</b> 0xD556917C<br/>
@@ -2871,7 +2871,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/nightshark_thumbnail.jpg" alt="Missing image &quot;nightshark.png&quot;" title="nightshark" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/nightshark.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/nightshark.png" alt="Missing image &quot;nightshark.png&quot;" title="nightshark" loading="lazy" />
     </div>
     <b>Name:</b> nightshark<br/>
     <b>Hash:</b> 0x19DD9ED1<br/>
@@ -2880,7 +2880,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/outlaw_thumbnail.jpg" alt="Missing image &quot;outlaw.png&quot;" title="outlaw" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/outlaw.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/outlaw.png" alt="Missing image &quot;outlaw.png&quot;" title="outlaw" loading="lazy" />
     </div>
     <b>Name:</b> outlaw<br/>
     <b>Hash:</b> 0x185E2FF3<br/>
@@ -2889,7 +2889,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rancherxl_thumbnail.jpg" alt="Missing image &quot;RancherXL.png&quot;" title="RancherXL" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rancherxl.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rancherxl.png" alt="Missing image &quot;RancherXL.png&quot;" title="RancherXL" loading="lazy" />
     </div>
     <b>Name:</b> RancherXL<br/>
     <b>Hash:</b> 0x6210CBB0<br/>
@@ -2897,7 +2897,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rancherxl2_thumbnail.jpg" alt="Missing image &quot;rancherxl2.png&quot;" title="rancherxl2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rancherxl2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rancherxl2.png" alt="Missing image &quot;rancherxl2.png&quot;" title="rancherxl2" loading="lazy" />
     </div>
     <b>Name:</b> rancherxl2<br/>
     <b>Hash:</b> 0x7341576B<br/>
@@ -2905,7 +2905,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rcbandito_thumbnail.jpg" alt="Missing image &quot;rcbandito.png&quot;" title="rcbandito" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rcbandito.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rcbandito.png" alt="Missing image &quot;rcbandito.png&quot;" title="rcbandito" loading="lazy" />
     </div>
     <b>Name:</b> rcbandito<br/>
     <b>Hash:</b> 0xEEF345EC<br/>
@@ -2914,7 +2914,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rebel_thumbnail.jpg" alt="Missing image &quot;Rebel.png&quot;" title="Rebel" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rebel.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rebel.png" alt="Missing image &quot;Rebel.png&quot;" title="Rebel" loading="lazy" />
     </div>
     <b>Name:</b> Rebel<br/>
     <b>Hash:</b> 0xB802DD46<br/>
@@ -2922,7 +2922,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rebel2_thumbnail.jpg" alt="Missing image &quot;rebel2.png&quot;" title="rebel2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rebel2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rebel2.png" alt="Missing image &quot;rebel2.png&quot;" title="rebel2" loading="lazy" />
     </div>
     <b>Name:</b> rebel2<br/>
     <b>Hash:</b> 0x8612B64B<br/>
@@ -2930,7 +2930,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/riata_thumbnail.jpg" alt="Missing image &quot;riata.png&quot;" title="riata" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/riata.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/riata.png" alt="Missing image &quot;riata.png&quot;" title="riata" loading="lazy" />
     </div>
     <b>Name:</b> riata<br/>
     <b>Hash:</b> 0xA4A4E453<br/>
@@ -2939,7 +2939,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sandking_thumbnail.jpg" alt="Missing image &quot;sandking.png&quot;" title="sandking" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sandking.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sandking.png" alt="Missing image &quot;sandking.png&quot;" title="sandking" loading="lazy" />
     </div>
     <b>Name:</b> sandking<br/>
     <b>Hash:</b> 0xB9210FD0<br/>
@@ -2947,7 +2947,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sandking2_thumbnail.jpg" alt="Missing image &quot;sandking2.png&quot;" title="sandking2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sandking2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sandking2.png" alt="Missing image &quot;sandking2.png&quot;" title="sandking2" loading="lazy" />
     </div>
     <b>Name:</b> sandking2<br/>
     <b>Hash:</b> 0x3AF8C345<br/>
@@ -2955,7 +2955,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/technical_thumbnail.jpg" alt="Missing image &quot;technical.png&quot;" title="technical" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/technical.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/technical.png" alt="Missing image &quot;technical.png&quot;" title="technical" loading="lazy" />
     </div>
     <b>Name:</b> technical<br/>
     <b>Hash:</b> 0x83051506<br/>
@@ -2964,7 +2964,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/technical2_thumbnail.jpg" alt="Missing image &quot;technical2.png&quot;" title="technical2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/technical2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/technical2.png" alt="Missing image &quot;technical2.png&quot;" title="technical2" loading="lazy" />
     </div>
     <b>Name:</b> technical2<br/>
     <b>Hash:</b> 0x4662BCBB<br/>
@@ -2973,7 +2973,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/technical3_thumbnail.jpg" alt="Missing image &quot;technical3.png&quot;" title="technical3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/technical3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/technical3.png" alt="Missing image &quot;technical3.png&quot;" title="technical3" loading="lazy" />
     </div>
     <b>Name:</b> technical3<br/>
     <b>Hash:</b> 0x50D4D19F<br/>
@@ -2982,7 +2982,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trophytruck_thumbnail.jpg" alt="Missing image &quot;trophytruck.png&quot;" title="trophytruck" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trophytruck.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trophytruck.png" alt="Missing image &quot;trophytruck.png&quot;" title="trophytruck" loading="lazy" />
     </div>
     <b>Name:</b> trophytruck<br/>
     <b>Hash:</b> 0x612F4B6<br/>
@@ -2991,7 +2991,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trophytruck2_thumbnail.jpg" alt="Missing image &quot;trophytruck2.png&quot;" title="trophytruck2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trophytruck2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trophytruck2.png" alt="Missing image &quot;trophytruck2.png&quot;" title="trophytruck2" loading="lazy" />
     </div>
     <b>Name:</b> trophytruck2<br/>
     <b>Hash:</b> 0xD876DBE2<br/>
@@ -3000,7 +3000,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vagrant_thumbnail.jpg" alt="Missing image &quot;vagrant.png&quot;" title="vagrant" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vagrant.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vagrant.png" alt="Missing image &quot;vagrant.png&quot;" title="vagrant" loading="lazy" />
     </div>
     <b>Name:</b> vagrant<br/>
     <b>Hash:</b> 0x2C1FEA99<br/>
@@ -3009,7 +3009,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/verus_thumbnail.jpg" alt="Missing image &quot;verus.png&quot;" title="verus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/verus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/verus.png" alt="Missing image &quot;verus.png&quot;" title="verus" loading="lazy" />
     </div>
     <b>Name:</b> verus<br/>
     <b>Hash:</b> 0x11CBC051<br/>
@@ -3018,7 +3018,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/winky_thumbnail.jpg" alt="Missing image &quot;winky.png&quot;" title="winky" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/winky.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/winky.png" alt="Missing image &quot;winky.png&quot;" title="winky" loading="lazy" />
     </div>
     <b>Name:</b> winky<br/>
     <b>Hash:</b> 0xF376F1E6<br/>
@@ -3027,7 +3027,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/yosemite3_thumbnail.jpg" alt="Missing image &quot;yosemite3.png&quot;" title="yosemite3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/yosemite3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/yosemite3.png" alt="Missing image &quot;yosemite3.png&quot;" title="yosemite3" loading="lazy" />
     </div>
     <b>Name:</b> yosemite3<br/>
     <b>Hash:</b> 0x409D787<br/>
@@ -3036,7 +3036,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zhaba_thumbnail.jpg" alt="Missing image &quot;zhaba.png&quot;" title="zhaba" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zhaba.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zhaba.png" alt="Missing image &quot;zhaba.png&quot;" title="zhaba" loading="lazy" />
     </div>
     <b>Name:</b> zhaba<br/>
     <b>Hash:</b> 0x4C8DBA51<br/>
@@ -3050,7 +3050,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/formula_thumbnail.jpg" alt="Missing image &quot;formula.png&quot;" title="formula" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/formula.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/formula.png" alt="Missing image &quot;formula.png&quot;" title="formula" loading="lazy" />
     </div>
     <b>Name:</b> formula<br/>
     <b>Hash:</b> 0x1446590A<br/>
@@ -3059,7 +3059,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/formula2_thumbnail.jpg" alt="Missing image &quot;formula2.png&quot;" title="formula2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/formula2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/formula2.png" alt="Missing image &quot;formula2.png&quot;" title="formula2" loading="lazy" />
     </div>
     <b>Name:</b> formula2<br/>
     <b>Hash:</b> 0x8B213907<br/>
@@ -3068,7 +3068,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/openwheel1_thumbnail.jpg" alt="Missing image &quot;openwheel1.png&quot;" title="openwheel1" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/openwheel1.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/openwheel1.png" alt="Missing image &quot;openwheel1.png&quot;" title="openwheel1" loading="lazy" />
     </div>
     <b>Name:</b> openwheel1<br/>
     <b>Hash:</b> 0x58F77553<br/>
@@ -3077,7 +3077,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/openwheel2_thumbnail.jpg" alt="Missing image &quot;openwheel2.png&quot;" title="openwheel2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/openwheel2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/openwheel2.png" alt="Missing image &quot;openwheel2.png&quot;" title="openwheel2" loading="lazy" />
     </div>
     <b>Name:</b> openwheel2<br/>
     <b>Hash:</b> 0x4669D038<br/>
@@ -3091,7 +3091,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/alkonost_thumbnail.jpg" alt="Missing image &quot;alkonost.png&quot;" title="alkonost" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/alkonost.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/alkonost.png" alt="Missing image &quot;alkonost.png&quot;" title="alkonost" loading="lazy" />
     </div>
     <b>Name:</b> alkonost<br/>
     <b>Hash:</b> 0xEA313705<br/>
@@ -3100,7 +3100,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/alphaz1_thumbnail.jpg" alt="Missing image &quot;alphaz1.png&quot;" title="alphaz1" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/alphaz1.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/alphaz1.png" alt="Missing image &quot;alphaz1.png&quot;" title="alphaz1" loading="lazy" />
     </div>
     <b>Name:</b> alphaz1<br/>
     <b>Hash:</b> 0xA52F6866<br/>
@@ -3109,7 +3109,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/avenger_thumbnail.jpg" alt="Missing image &quot;avenger.png&quot;" title="avenger" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/avenger.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/avenger.png" alt="Missing image &quot;avenger.png&quot;" title="avenger" loading="lazy" />
     </div>
     <b>Name:</b> avenger<br/>
     <b>Hash:</b> 0x81BD2ED0<br/>
@@ -3118,7 +3118,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/avenger2_thumbnail.jpg" alt="Missing image &quot;avenger2.png&quot;" title="avenger2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/avenger2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/avenger2.png" alt="Missing image &quot;avenger2.png&quot;" title="avenger2" loading="lazy" />
     </div>
     <b>Name:</b> avenger2<br/>
     <b>Hash:</b> 0x18606535<br/>
@@ -3127,7 +3127,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/besra_thumbnail.jpg" alt="Missing image &quot;besra.png&quot;" title="besra" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/besra.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/besra.png" alt="Missing image &quot;besra.png&quot;" title="besra" loading="lazy" />
     </div>
     <b>Name:</b> besra<br/>
     <b>Hash:</b> 0x6CBD1D6D<br/>
@@ -3136,7 +3136,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blimp_thumbnail.jpg" alt="Missing image &quot;BLIMP.png&quot;" title="BLIMP" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blimp.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blimp.png" alt="Missing image &quot;BLIMP.png&quot;" title="BLIMP" loading="lazy" />
     </div>
     <b>Name:</b> BLIMP<br/>
     <b>Hash:</b> 0xF7004C86<br/>
@@ -3144,7 +3144,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blimp2_thumbnail.jpg" alt="Missing image &quot;BLIMP2.png&quot;" title="BLIMP2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blimp2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blimp2.png" alt="Missing image &quot;BLIMP2.png&quot;" title="BLIMP2" loading="lazy" />
     </div>
     <b>Name:</b> BLIMP2<br/>
     <b>Hash:</b> 0xDB6B4924<br/>
@@ -3153,7 +3153,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blimp3_thumbnail.jpg" alt="Missing image &quot;blimp3.png&quot;" title="blimp3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blimp3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blimp3.png" alt="Missing image &quot;blimp3.png&quot;" title="blimp3" loading="lazy" />
     </div>
     <b>Name:</b> blimp3<br/>
     <b>Hash:</b> 0xEDA4ED97<br/>
@@ -3162,7 +3162,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bombushka_thumbnail.jpg" alt="Missing image &quot;bombushka.png&quot;" title="bombushka" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bombushka.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bombushka.png" alt="Missing image &quot;bombushka.png&quot;" title="bombushka" loading="lazy" />
     </div>
     <b>Name:</b> bombushka<br/>
     <b>Hash:</b> 0xFE0A508C<br/>
@@ -3171,7 +3171,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cargoplane_thumbnail.jpg" alt="Missing image &quot;cargoplane.png&quot;" title="cargoplane" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cargoplane.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cargoplane.png" alt="Missing image &quot;cargoplane.png&quot;" title="cargoplane" loading="lazy" />
     </div>
     <b>Name:</b> cargoplane<br/>
     <b>Hash:</b> 0x15F27762<br/>
@@ -3179,7 +3179,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cuban800_thumbnail.jpg" alt="Missing image &quot;cuban800.png&quot;" title="cuban800" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cuban800.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cuban800.png" alt="Missing image &quot;cuban800.png&quot;" title="cuban800" loading="lazy" />
     </div>
     <b>Name:</b> cuban800<br/>
     <b>Hash:</b> 0xD9927FE3<br/>
@@ -3187,7 +3187,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dodo_thumbnail.jpg" alt="Missing image &quot;dodo.png&quot;" title="dodo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dodo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dodo.png" alt="Missing image &quot;dodo.png&quot;" title="dodo" loading="lazy" />
     </div>
     <b>Name:</b> dodo<br/>
     <b>Hash:</b> 0xCA495705<br/>
@@ -3196,7 +3196,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/duster_thumbnail.jpg" alt="Missing image &quot;duster.png&quot;" title="duster" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/duster.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/duster.png" alt="Missing image &quot;duster.png&quot;" title="duster" loading="lazy" />
     </div>
     <b>Name:</b> duster<br/>
     <b>Hash:</b> 0x39D6779E<br/>
@@ -3204,7 +3204,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/howard_thumbnail.jpg" alt="Missing image &quot;howard.png&quot;" title="howard" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/howard.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/howard.png" alt="Missing image &quot;howard.png&quot;" title="howard" loading="lazy" />
     </div>
     <b>Name:</b> howard<br/>
     <b>Hash:</b> 0xC3F25753<br/>
@@ -3213,7 +3213,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hydra_thumbnail.jpg" alt="Missing image &quot;hydra.png&quot;" title="hydra" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hydra.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hydra.png" alt="Missing image &quot;hydra.png&quot;" title="hydra" loading="lazy" />
     </div>
     <b>Name:</b> hydra<br/>
     <b>Hash:</b> 0x39D6E83F<br/>
@@ -3222,7 +3222,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/jet_thumbnail.jpg" alt="Missing image &quot;jet.png&quot;" title="jet" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/jet.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/jet.png" alt="Missing image &quot;jet.png&quot;" title="jet" loading="lazy" />
     </div>
     <b>Name:</b> jet<br/>
     <b>Hash:</b> 0x3F119114<br/>
@@ -3230,7 +3230,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/lazer_thumbnail.jpg" alt="Missing image &quot;Lazer.png&quot;" title="Lazer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/lazer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/lazer.png" alt="Missing image &quot;Lazer.png&quot;" title="Lazer" loading="lazy" />
     </div>
     <b>Name:</b> Lazer<br/>
     <b>Hash:</b> 0xB39B0AE6<br/>
@@ -3238,7 +3238,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/luxor_thumbnail.jpg" alt="Missing image &quot;luxor.png&quot;" title="luxor" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/luxor.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/luxor.png" alt="Missing image &quot;luxor.png&quot;" title="luxor" loading="lazy" />
     </div>
     <b>Name:</b> luxor<br/>
     <b>Hash:</b> 0x250B0C5E<br/>
@@ -3246,7 +3246,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/luxor2_thumbnail.jpg" alt="Missing image &quot;luxor2.png&quot;" title="luxor2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/luxor2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/luxor2.png" alt="Missing image &quot;luxor2.png&quot;" title="luxor2" loading="lazy" />
     </div>
     <b>Name:</b> luxor2<br/>
     <b>Hash:</b> 0xB79F589E<br/>
@@ -3255,7 +3255,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mammatus_thumbnail.jpg" alt="Missing image &quot;mammatus.png&quot;" title="mammatus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mammatus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mammatus.png" alt="Missing image &quot;mammatus.png&quot;" title="mammatus" loading="lazy" />
     </div>
     <b>Name:</b> mammatus<br/>
     <b>Hash:</b> 0x97E55D11<br/>
@@ -3263,7 +3263,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/microlight_thumbnail.jpg" alt="Missing image &quot;microlight.png&quot;" title="microlight" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/microlight.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/microlight.png" alt="Missing image &quot;microlight.png&quot;" title="microlight" loading="lazy" />
     </div>
     <b>Name:</b> microlight<br/>
     <b>Hash:</b> 0x96E24857<br/>
@@ -3272,7 +3272,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/miljet_thumbnail.jpg" alt="Missing image &quot;Miljet.png&quot;" title="Miljet" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/miljet.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/miljet.png" alt="Missing image &quot;Miljet.png&quot;" title="Miljet" loading="lazy" />
     </div>
     <b>Name:</b> Miljet<br/>
     <b>Hash:</b> 0x9D80F93<br/>
@@ -3281,7 +3281,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mogul_thumbnail.jpg" alt="Missing image &quot;mogul.png&quot;" title="mogul" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mogul.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mogul.png" alt="Missing image &quot;mogul.png&quot;" title="mogul" loading="lazy" />
     </div>
     <b>Name:</b> mogul<br/>
     <b>Hash:</b> 0xD35698EF<br/>
@@ -3290,7 +3290,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/molotok_thumbnail.jpg" alt="Missing image &quot;molotok.png&quot;" title="molotok" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/molotok.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/molotok.png" alt="Missing image &quot;molotok.png&quot;" title="molotok" loading="lazy" />
     </div>
     <b>Name:</b> molotok<br/>
     <b>Hash:</b> 0x5D56F01B<br/>
@@ -3299,7 +3299,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/nimbus_thumbnail.jpg" alt="Missing image &quot;nimbus.png&quot;" title="nimbus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/nimbus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/nimbus.png" alt="Missing image &quot;nimbus.png&quot;" title="nimbus" loading="lazy" />
     </div>
     <b>Name:</b> nimbus<br/>
     <b>Hash:</b> 0xB2CF7250<br/>
@@ -3308,7 +3308,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/nokota_thumbnail.jpg" alt="Missing image &quot;nokota.png&quot;" title="nokota" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/nokota.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/nokota.png" alt="Missing image &quot;nokota.png&quot;" title="nokota" loading="lazy" />
     </div>
     <b>Name:</b> nokota<br/>
     <b>Hash:</b> 0x3DC92356<br/>
@@ -3317,7 +3317,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pyro_thumbnail.jpg" alt="Missing image &quot;pyro.png&quot;" title="pyro" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pyro.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pyro.png" alt="Missing image &quot;pyro.png&quot;" title="pyro" loading="lazy" />
     </div>
     <b>Name:</b> pyro<br/>
     <b>Hash:</b> 0xAD6065C0<br/>
@@ -3326,7 +3326,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rogue_thumbnail.jpg" alt="Missing image &quot;rogue.png&quot;" title="rogue" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rogue.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rogue.png" alt="Missing image &quot;rogue.png&quot;" title="rogue" loading="lazy" />
     </div>
     <b>Name:</b> rogue<br/>
     <b>Hash:</b> 0xC5DD6967<br/>
@@ -3335,7 +3335,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/seabreeze_thumbnail.jpg" alt="Missing image &quot;seabreeze.png&quot;" title="seabreeze" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/seabreeze.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/seabreeze.png" alt="Missing image &quot;seabreeze.png&quot;" title="seabreeze" loading="lazy" />
     </div>
     <b>Name:</b> seabreeze<br/>
     <b>Hash:</b> 0xE8983F9F<br/>
@@ -3344,7 +3344,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/shamal_thumbnail.jpg" alt="Missing image &quot;Shamal.png&quot;" title="Shamal" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/shamal.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/shamal.png" alt="Missing image &quot;Shamal.png&quot;" title="Shamal" loading="lazy" />
     </div>
     <b>Name:</b> Shamal<br/>
     <b>Hash:</b> 0xB79C1BF5<br/>
@@ -3352,7 +3352,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/starling_thumbnail.jpg" alt="Missing image &quot;starling.png&quot;" title="starling" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/starling.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/starling.png" alt="Missing image &quot;starling.png&quot;" title="starling" loading="lazy" />
     </div>
     <b>Name:</b> starling<br/>
     <b>Hash:</b> 0x9A9EB7DE<br/>
@@ -3361,7 +3361,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/strikeforce_thumbnail.jpg" alt="Missing image &quot;strikeforce.png&quot;" title="strikeforce" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/strikeforce.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/strikeforce.png" alt="Missing image &quot;strikeforce.png&quot;" title="strikeforce" loading="lazy" />
     </div>
     <b>Name:</b> strikeforce<br/>
     <b>Hash:</b> 0x64DE07A1<br/>
@@ -3370,7 +3370,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stunt_thumbnail.jpg" alt="Missing image &quot;Stunt.png&quot;" title="Stunt" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stunt.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stunt.png" alt="Missing image &quot;Stunt.png&quot;" title="Stunt" loading="lazy" />
     </div>
     <b>Name:</b> Stunt<br/>
     <b>Hash:</b> 0x81794C70<br/>
@@ -3378,7 +3378,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/titan_thumbnail.jpg" alt="Missing image &quot;titan.png&quot;" title="titan" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/titan.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/titan.png" alt="Missing image &quot;titan.png&quot;" title="titan" loading="lazy" />
     </div>
     <b>Name:</b> titan<br/>
     <b>Hash:</b> 0x761E2AD3<br/>
@@ -3386,7 +3386,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tula_thumbnail.jpg" alt="Missing image &quot;tula.png&quot;" title="tula" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tula.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tula.png" alt="Missing image &quot;tula.png&quot;" title="tula" loading="lazy" />
     </div>
     <b>Name:</b> tula<br/>
     <b>Hash:</b> 0x3E2E4F8A<br/>
@@ -3395,7 +3395,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/velum_thumbnail.jpg" alt="Missing image &quot;velum.png&quot;" title="velum" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/velum.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/velum.png" alt="Missing image &quot;velum.png&quot;" title="velum" loading="lazy" />
     </div>
     <b>Name:</b> velum<br/>
     <b>Hash:</b> 0x9C429B6A<br/>
@@ -3403,7 +3403,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/velum2_thumbnail.jpg" alt="Missing image &quot;velum2.png&quot;" title="velum2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/velum2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/velum2.png" alt="Missing image &quot;velum2.png&quot;" title="velum2" loading="lazy" />
     </div>
     <b>Name:</b> velum2<br/>
     <b>Hash:</b> 0x403820E8<br/>
@@ -3412,7 +3412,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vestra_thumbnail.jpg" alt="Missing image &quot;vestra.png&quot;" title="vestra" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vestra.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vestra.png" alt="Missing image &quot;vestra.png&quot;" title="vestra" loading="lazy" />
     </div>
     <b>Name:</b> vestra<br/>
     <b>Hash:</b> 0x4FF77E37<br/>
@@ -3421,7 +3421,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/volatol_thumbnail.jpg" alt="Missing image &quot;volatol.png&quot;" title="volatol" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/volatol.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/volatol.png" alt="Missing image &quot;volatol.png&quot;" title="volatol" loading="lazy" />
     </div>
     <b>Name:</b> volatol<br/>
     <b>Hash:</b> 0x1AAD0DED<br/>
@@ -3435,7 +3435,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cablecar_thumbnail.jpg" alt="Missing image &quot;cablecar.png&quot;" title="cablecar" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cablecar.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cablecar.png" alt="Missing image &quot;cablecar.png&quot;" title="cablecar" loading="lazy" />
     </div>
     <b>Name:</b> cablecar<br/>
     <b>Hash:</b> 0xC6C3242D<br/>
@@ -3443,7 +3443,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/freight_thumbnail.jpg" alt="Missing image &quot;freight.png&quot;" title="freight" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/freight.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/freight.png" alt="Missing image &quot;freight.png&quot;" title="freight" loading="lazy" />
     </div>
     <b>Name:</b> freight<br/>
     <b>Hash:</b> 0x3D6AAA9B<br/>
@@ -3451,7 +3451,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/freightcar_thumbnail.jpg" alt="Missing image &quot;freightcar.png&quot;" title="freightcar" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/freightcar.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/freightcar.png" alt="Missing image &quot;freightcar.png&quot;" title="freightcar" loading="lazy" />
     </div>
     <b>Name:</b> freightcar<br/>
     <b>Hash:</b> 0xAFD22A6<br/>
@@ -3459,7 +3459,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/freightcar2_thumbnail.jpg" alt="Missing image &quot;freightcar2.png&quot;" title="freightcar2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/freightcar2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/freightcar2.png" alt="Missing image &quot;freightcar2.png&quot;" title="freightcar2" loading="lazy" />
     </div>
     <b>Name:</b> freightcar2<br/>
     <b>Hash:</b> 0xBDEC3D99<br/>
@@ -3468,7 +3468,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/freightcont1_thumbnail.jpg" alt="Missing image &quot;freightcont1.png&quot;" title="freightcont1" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/freightcont1.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/freightcont1.png" alt="Missing image &quot;freightcont1.png&quot;" title="freightcont1" loading="lazy" />
     </div>
     <b>Name:</b> freightcont1<br/>
     <b>Hash:</b> 0x36DCFF98<br/>
@@ -3476,7 +3476,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/freightcont2_thumbnail.jpg" alt="Missing image &quot;freightcont2.png&quot;" title="freightcont2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/freightcont2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/freightcont2.png" alt="Missing image &quot;freightcont2.png&quot;" title="freightcont2" loading="lazy" />
     </div>
     <b>Name:</b> freightcont2<br/>
     <b>Hash:</b> 0xE512E79<br/>
@@ -3484,7 +3484,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/freightgrain_thumbnail.jpg" alt="Missing image &quot;freightgrain.png&quot;" title="freightgrain" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/freightgrain.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/freightgrain.png" alt="Missing image &quot;freightgrain.png&quot;" title="freightgrain" loading="lazy" />
     </div>
     <b>Name:</b> freightgrain<br/>
     <b>Hash:</b> 0x264D9262<br/>
@@ -3492,7 +3492,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/metrotrain_thumbnail.jpg" alt="Missing image &quot;metrotrain.png&quot;" title="metrotrain" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/metrotrain.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/metrotrain.png" alt="Missing image &quot;metrotrain.png&quot;" title="metrotrain" loading="lazy" />
     </div>
     <b>Name:</b> metrotrain<br/>
     <b>Hash:</b> 0x33C9E158<br/>
@@ -3500,7 +3500,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tankercar_thumbnail.jpg" alt="Missing image &quot;tankercar.png&quot;" title="tankercar" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tankercar.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tankercar.png" alt="Missing image &quot;tankercar.png&quot;" title="tankercar" loading="lazy" />
     </div>
     <b>Name:</b> tankercar<br/>
     <b>Hash:</b> 0x22EDDC30<br/>
@@ -3513,7 +3513,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/asea_thumbnail.jpg" alt="Missing image &quot;asea.png&quot;" title="asea" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/asea.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/asea.png" alt="Missing image &quot;asea.png&quot;" title="asea" loading="lazy" />
     </div>
     <b>Name:</b> asea<br/>
     <b>Hash:</b> 0x94204D89<br/>
@@ -3521,7 +3521,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/asea2_thumbnail.jpg" alt="Missing image &quot;asea2.png&quot;" title="asea2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/asea2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/asea2.png" alt="Missing image &quot;asea2.png&quot;" title="asea2" loading="lazy" />
     </div>
     <b>Name:</b> asea2<br/>
     <b>Hash:</b> 0x9441D8D5<br/>
@@ -3529,7 +3529,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/asterope_thumbnail.jpg" alt="Missing image &quot;asterope.png&quot;" title="asterope" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/asterope.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/asterope.png" alt="Missing image &quot;asterope.png&quot;" title="asterope" loading="lazy" />
     </div>
     <b>Name:</b> asterope<br/>
     <b>Hash:</b> 0x8E9254FB<br/>
@@ -3537,7 +3537,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cog55_thumbnail.jpg" alt="Missing image &quot;cog55.png&quot;" title="cog55" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cog55.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cog55.png" alt="Missing image &quot;cog55.png&quot;" title="cog55" loading="lazy" />
     </div>
     <b>Name:</b> cog55<br/>
     <b>Hash:</b> 0x360A438E<br/>
@@ -3546,7 +3546,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cog552_thumbnail.jpg" alt="Missing image &quot;cog552.png&quot;" title="cog552" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cog552.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cog552.png" alt="Missing image &quot;cog552.png&quot;" title="cog552" loading="lazy" />
     </div>
     <b>Name:</b> cog552<br/>
     <b>Hash:</b> 0x29FCD3E4<br/>
@@ -3555,7 +3555,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cognoscenti_thumbnail.jpg" alt="Missing image &quot;cognoscenti.png&quot;" title="cognoscenti" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cognoscenti.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cognoscenti.png" alt="Missing image &quot;cognoscenti.png&quot;" title="cognoscenti" loading="lazy" />
     </div>
     <b>Name:</b> cognoscenti<br/>
     <b>Hash:</b> 0x86FE0B60<br/>
@@ -3564,7 +3564,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cognoscenti2_thumbnail.jpg" alt="Missing image &quot;cognoscenti2.png&quot;" title="cognoscenti2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cognoscenti2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cognoscenti2.png" alt="Missing image &quot;cognoscenti2.png&quot;" title="cognoscenti2" loading="lazy" />
     </div>
     <b>Name:</b> cognoscenti2<br/>
     <b>Hash:</b> 0xDBF2D57A<br/>
@@ -3573,7 +3573,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/emperor_thumbnail.jpg" alt="Missing image &quot;emperor.png&quot;" title="emperor" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/emperor.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/emperor.png" alt="Missing image &quot;emperor.png&quot;" title="emperor" loading="lazy" />
     </div>
     <b>Name:</b> emperor<br/>
     <b>Hash:</b> 0xD7278283<br/>
@@ -3581,7 +3581,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/emperor2_thumbnail.jpg" alt="Missing image &quot;Emperor2.png&quot;" title="Emperor2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/emperor2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/emperor2.png" alt="Missing image &quot;Emperor2.png&quot;" title="Emperor2" loading="lazy" />
     </div>
     <b>Name:</b> Emperor2<br/>
     <b>Hash:</b> 0x8FC3AADC<br/>
@@ -3589,7 +3589,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/emperor3_thumbnail.jpg" alt="Missing image &quot;emperor3.png&quot;" title="emperor3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/emperor3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/emperor3.png" alt="Missing image &quot;emperor3.png&quot;" title="emperor3" loading="lazy" />
     </div>
     <b>Name:</b> emperor3<br/>
     <b>Hash:</b> 0xB5FCF74E<br/>
@@ -3597,7 +3597,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/fugitive_thumbnail.jpg" alt="Missing image &quot;fugitive.png&quot;" title="fugitive" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/fugitive.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/fugitive.png" alt="Missing image &quot;fugitive.png&quot;" title="fugitive" loading="lazy" />
     </div>
     <b>Name:</b> fugitive<br/>
     <b>Hash:</b> 0x71CB2FFB<br/>
@@ -3605,7 +3605,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/glendale_thumbnail.jpg" alt="Missing image &quot;glendale.png&quot;" title="glendale" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/glendale.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/glendale.png" alt="Missing image &quot;glendale.png&quot;" title="glendale" loading="lazy" />
     </div>
     <b>Name:</b> glendale<br/>
     <b>Hash:</b> 0x47A6BC1<br/>
@@ -3614,7 +3614,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/glendale2_thumbnail.jpg" alt="Missing image &quot;glendale2.png&quot;" title="glendale2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/glendale2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/glendale2.png" alt="Missing image &quot;glendale2.png&quot;" title="glendale2" loading="lazy" />
     </div>
     <b>Name:</b> glendale2<br/>
     <b>Hash:</b> 0xC98BBAD6<br/>
@@ -3623,7 +3623,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ingot_thumbnail.jpg" alt="Missing image &quot;ingot.png&quot;" title="ingot" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ingot.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ingot.png" alt="Missing image &quot;ingot.png&quot;" title="ingot" loading="lazy" />
     </div>
     <b>Name:</b> ingot<br/>
     <b>Hash:</b> 0xB3206692<br/>
@@ -3631,7 +3631,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/intruder_thumbnail.jpg" alt="Missing image &quot;intruder.png&quot;" title="intruder" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/intruder.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/intruder.png" alt="Missing image &quot;intruder.png&quot;" title="intruder" loading="lazy" />
     </div>
     <b>Name:</b> intruder<br/>
     <b>Hash:</b> 0x34DD8AA1<br/>
@@ -3639,7 +3639,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/limo2_thumbnail.jpg" alt="Missing image &quot;limo2.png&quot;" title="limo2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/limo2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/limo2.png" alt="Missing image &quot;limo2.png&quot;" title="limo2" loading="lazy" />
     </div>
     <b>Name:</b> limo2<br/>
     <b>Hash:</b> 0xF92AEC4D<br/>
@@ -3648,7 +3648,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/premier_thumbnail.jpg" alt="Missing image &quot;premier.png&quot;" title="premier" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/premier.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/premier.png" alt="Missing image &quot;premier.png&quot;" title="premier" loading="lazy" />
     </div>
     <b>Name:</b> premier<br/>
     <b>Hash:</b> 0x8FB66F9B<br/>
@@ -3656,7 +3656,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/primo_thumbnail.jpg" alt="Missing image &quot;primo.png&quot;" title="primo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/primo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/primo.png" alt="Missing image &quot;primo.png&quot;" title="primo" loading="lazy" />
     </div>
     <b>Name:</b> primo<br/>
     <b>Hash:</b> 0xBB6B404F<br/>
@@ -3664,7 +3664,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/primo2_thumbnail.jpg" alt="Missing image &quot;primo2.png&quot;" title="primo2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/primo2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/primo2.png" alt="Missing image &quot;primo2.png&quot;" title="primo2" loading="lazy" />
     </div>
     <b>Name:</b> primo2<br/>
     <b>Hash:</b> 0x86618EDA<br/>
@@ -3673,7 +3673,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/regina_thumbnail.jpg" alt="Missing image &quot;regina.png&quot;" title="regina" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/regina.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/regina.png" alt="Missing image &quot;regina.png&quot;" title="regina" loading="lazy" />
     </div>
     <b>Name:</b> regina<br/>
     <b>Hash:</b> 0xFF22D208<br/>
@@ -3681,7 +3681,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/romero_thumbnail.jpg" alt="Missing image &quot;romero.png&quot;" title="romero" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/romero.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/romero.png" alt="Missing image &quot;romero.png&quot;" title="romero" loading="lazy" />
     </div>
     <b>Name:</b> romero<br/>
     <b>Hash:</b> 0x2560B2FC<br/>
@@ -3689,7 +3689,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/schafter2_thumbnail.jpg" alt="Missing image &quot;schafter2.png&quot;" title="schafter2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/schafter2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/schafter2.png" alt="Missing image &quot;schafter2.png&quot;" title="schafter2" loading="lazy" />
     </div>
     <b>Name:</b> schafter2<br/>
     <b>Hash:</b> 0xB52B5113<br/>
@@ -3697,7 +3697,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/schafter5_thumbnail.jpg" alt="Missing image &quot;schafter5.png&quot;" title="schafter5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/schafter5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/schafter5.png" alt="Missing image &quot;schafter5.png&quot;" title="schafter5" loading="lazy" />
     </div>
     <b>Name:</b> schafter5<br/>
     <b>Hash:</b> 0xCB0E7CD9<br/>
@@ -3706,7 +3706,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/schafter6_thumbnail.jpg" alt="Missing image &quot;schafter6.png&quot;" title="schafter6" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/schafter6.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/schafter6.png" alt="Missing image &quot;schafter6.png&quot;" title="schafter6" loading="lazy" />
     </div>
     <b>Name:</b> schafter6<br/>
     <b>Hash:</b> 0x72934BE4<br/>
@@ -3715,7 +3715,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stafford_thumbnail.jpg" alt="Missing image &quot;stafford.png&quot;" title="stafford" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stafford.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stafford.png" alt="Missing image &quot;stafford.png&quot;" title="stafford" loading="lazy" />
     </div>
     <b>Name:</b> stafford<br/>
     <b>Hash:</b> 0x1324E960<br/>
@@ -3724,7 +3724,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stanier_thumbnail.jpg" alt="Missing image &quot;stanier.png&quot;" title="stanier" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stanier.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stanier.png" alt="Missing image &quot;stanier.png&quot;" title="stanier" loading="lazy" />
     </div>
     <b>Name:</b> stanier<br/>
     <b>Hash:</b> 0xA7EDE74D<br/>
@@ -3732,7 +3732,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stratum_thumbnail.jpg" alt="Missing image &quot;stratum.png&quot;" title="stratum" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stratum.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stratum.png" alt="Missing image &quot;stratum.png&quot;" title="stratum" loading="lazy" />
     </div>
     <b>Name:</b> stratum<br/>
     <b>Hash:</b> 0x66B4FC45<br/>
@@ -3740,7 +3740,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stretch_thumbnail.jpg" alt="Missing image &quot;stretch.png&quot;" title="stretch" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stretch.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stretch.png" alt="Missing image &quot;stretch.png&quot;" title="stretch" loading="lazy" />
     </div>
     <b>Name:</b> stretch<br/>
     <b>Hash:</b> 0x8B13F083<br/>
@@ -3748,7 +3748,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/superd_thumbnail.jpg" alt="Missing image &quot;superd.png&quot;" title="superd" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/superd.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/superd.png" alt="Missing image &quot;superd.png&quot;" title="superd" loading="lazy" />
     </div>
     <b>Name:</b> superd<br/>
     <b>Hash:</b> 0x42F2ED16<br/>
@@ -3756,7 +3756,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/surge_thumbnail.jpg" alt="Missing image &quot;surge.png&quot;" title="surge" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/surge.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/surge.png" alt="Missing image &quot;surge.png&quot;" title="surge" loading="lazy" />
     </div>
     <b>Name:</b> surge<br/>
     <b>Hash:</b> 0x8F0E3594<br/>
@@ -3764,7 +3764,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tailgater_thumbnail.jpg" alt="Missing image &quot;tailgater.png&quot;" title="tailgater" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tailgater.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tailgater.png" alt="Missing image &quot;tailgater.png&quot;" title="tailgater" loading="lazy" />
     </div>
     <b>Name:</b> tailgater<br/>
     <b>Hash:</b> 0xC3DDFDCE<br/>
@@ -3772,7 +3772,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tailgater2_thumbnail.jpg" alt="Missing image &quot;tailgater2.png&quot;" title="tailgater2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tailgater2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tailgater2.png" alt="Missing image &quot;tailgater2.png&quot;" title="tailgater2" loading="lazy" />
     </div>
     <b>Name:</b> tailgater2<br/>
     <b>Hash:</b> 0xB5D306A4<br/>
@@ -3781,7 +3781,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/warrener_thumbnail.jpg" alt="Missing image &quot;warrener.png&quot;" title="warrener" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/warrener.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/warrener.png" alt="Missing image &quot;warrener.png&quot;" title="warrener" loading="lazy" />
     </div>
     <b>Name:</b> warrener<br/>
     <b>Hash:</b> 0x51D83328<br/>
@@ -3790,7 +3790,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/warrener2_thumbnail.jpg" alt="Missing image &quot;warrener2.png&quot;" title="warrener2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/warrener2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/warrener2.png" alt="Missing image &quot;warrener2.png&quot;" title="warrener2" loading="lazy" />
     </div>
     <b>Name:</b> warrener2<br/>
     <b>Hash:</b> 0x2290C50A<br/>
@@ -3799,7 +3799,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/washington_thumbnail.jpg" alt="Missing image &quot;washington.png&quot;" title="washington" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/washington.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/washington.png" alt="Missing image &quot;washington.png&quot;" title="washington" loading="lazy" />
     </div>
     <b>Name:</b> washington<br/>
     <b>Hash:</b> 0x69F06B57<br/>
@@ -3812,7 +3812,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/airbus_thumbnail.jpg" alt="Missing image &quot;Airbus.png&quot;" title="Airbus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/airbus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/airbus.png" alt="Missing image &quot;Airbus.png&quot;" title="Airbus" loading="lazy" />
     </div>
     <b>Name:</b> Airbus<br/>
     <b>Hash:</b> 0x4C80EB0E<br/>
@@ -3820,7 +3820,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/brickade_thumbnail.jpg" alt="Missing image &quot;brickade.png&quot;" title="brickade" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/brickade.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/brickade.png" alt="Missing image &quot;brickade.png&quot;" title="brickade" loading="lazy" />
     </div>
     <b>Name:</b> brickade<br/>
     <b>Hash:</b> 0xEDC6F847<br/>
@@ -3829,7 +3829,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bus_thumbnail.jpg" alt="Missing image &quot;BUS.png&quot;" title="BUS" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bus.png" alt="Missing image &quot;BUS.png&quot;" title="BUS" loading="lazy" />
     </div>
     <b>Name:</b> BUS<br/>
     <b>Hash:</b> 0xD577C962<br/>
@@ -3837,7 +3837,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/coach_thumbnail.jpg" alt="Missing image &quot;coach.png&quot;" title="coach" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/coach.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/coach.png" alt="Missing image &quot;coach.png&quot;" title="coach" loading="lazy" />
     </div>
     <b>Name:</b> coach<br/>
     <b>Hash:</b> 0x84718D34<br/>
@@ -3845,7 +3845,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pbus2_thumbnail.jpg" alt="Missing image &quot;pbus2.png&quot;" title="pbus2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pbus2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pbus2.png" alt="Missing image &quot;pbus2.png&quot;" title="pbus2" loading="lazy" />
     </div>
     <b>Name:</b> pbus2<br/>
     <b>Hash:</b> 0x149BD32A<br/>
@@ -3854,7 +3854,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rallytruck_thumbnail.jpg" alt="Missing image &quot;rallytruck.png&quot;" title="rallytruck" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rallytruck.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rallytruck.png" alt="Missing image &quot;rallytruck.png&quot;" title="rallytruck" loading="lazy" />
     </div>
     <b>Name:</b> rallytruck<br/>
     <b>Hash:</b> 0x829A3C44<br/>
@@ -3863,7 +3863,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rentalbus_thumbnail.jpg" alt="Missing image &quot;Rentalbus.png&quot;" title="Rentalbus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rentalbus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rentalbus.png" alt="Missing image &quot;Rentalbus.png&quot;" title="Rentalbus" loading="lazy" />
     </div>
     <b>Name:</b> Rentalbus<br/>
     <b>Hash:</b> 0xBE819C63<br/>
@@ -3871,7 +3871,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/taxi_thumbnail.jpg" alt="Missing image &quot;taxi.png&quot;" title="taxi" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/taxi.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/taxi.png" alt="Missing image &quot;taxi.png&quot;" title="taxi" loading="lazy" />
     </div>
     <b>Name:</b> taxi<br/>
     <b>Hash:</b> 0xC703DB5F<br/>
@@ -3879,7 +3879,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tourbus_thumbnail.jpg" alt="Missing image &quot;TOURBUS.png&quot;" title="TOURBUS" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tourbus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tourbus.png" alt="Missing image &quot;TOURBUS.png&quot;" title="TOURBUS" loading="lazy" />
     </div>
     <b>Name:</b> TOURBUS<br/>
     <b>Hash:</b> 0x73B1C3CB<br/>
@@ -3887,7 +3887,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trash_thumbnail.jpg" alt="Missing image &quot;Trash.png&quot;" title="Trash" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trash.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trash.png" alt="Missing image &quot;Trash.png&quot;" title="Trash" loading="lazy" />
     </div>
     <b>Name:</b> Trash<br/>
     <b>Hash:</b> 0x72435A19<br/>
@@ -3895,7 +3895,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trash2_thumbnail.jpg" alt="Missing image &quot;trash2.png&quot;" title="trash2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trash2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trash2.png" alt="Missing image &quot;trash2.png&quot;" title="trash2" loading="lazy" />
     </div>
     <b>Name:</b> trash2<br/>
     <b>Hash:</b> 0xB527915C<br/>
@@ -3904,7 +3904,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/wastelander_thumbnail.jpg" alt="Missing image &quot;wastelander.png&quot;" title="wastelander" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/wastelander.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/wastelander.png" alt="Missing image &quot;wastelander.png&quot;" title="wastelander" loading="lazy" />
     </div>
     <b>Name:</b> wastelander<br/>
     <b>Hash:</b> 0x8E08EC82<br/>
@@ -3918,7 +3918,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/alpha_thumbnail.jpg" alt="Missing image &quot;alpha.png&quot;" title="alpha" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/alpha.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/alpha.png" alt="Missing image &quot;alpha.png&quot;" title="alpha" loading="lazy" />
     </div>
     <b>Name:</b> alpha<br/>
     <b>Hash:</b> 0x2DB8D1AA<br/>
@@ -3927,7 +3927,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/banshee_thumbnail.jpg" alt="Missing image &quot;banshee.png&quot;" title="banshee" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/banshee.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/banshee.png" alt="Missing image &quot;banshee.png&quot;" title="banshee" loading="lazy" />
     </div>
     <b>Name:</b> banshee<br/>
     <b>Hash:</b> 0xC1E908D2<br/>
@@ -3935,7 +3935,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bestiagts_thumbnail.jpg" alt="Missing image &quot;bestiagts.png&quot;" title="bestiagts" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bestiagts.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bestiagts.png" alt="Missing image &quot;bestiagts.png&quot;" title="bestiagts" loading="lazy" />
     </div>
     <b>Name:</b> bestiagts<br/>
     <b>Hash:</b> 0x4BFCF28B<br/>
@@ -3944,7 +3944,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blista2_thumbnail.jpg" alt="Missing image &quot;blista2.png&quot;" title="blista2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blista2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blista2.png" alt="Missing image &quot;blista2.png&quot;" title="blista2" loading="lazy" />
     </div>
     <b>Name:</b> blista2<br/>
     <b>Hash:</b> 0x3DEE5EDA<br/>
@@ -3953,7 +3953,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/blista3_thumbnail.jpg" alt="Missing image &quot;blista3.png&quot;" title="blista3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/blista3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/blista3.png" alt="Missing image &quot;blista3.png&quot;" title="blista3" loading="lazy" />
     </div>
     <b>Name:</b> blista3<br/>
     <b>Hash:</b> 0xDCBC1C3B<br/>
@@ -3962,7 +3962,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/buffalo_thumbnail.jpg" alt="Missing image &quot;buffalo.png&quot;" title="buffalo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/buffalo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/buffalo.png" alt="Missing image &quot;buffalo.png&quot;" title="buffalo" loading="lazy" />
     </div>
     <b>Name:</b> buffalo<br/>
     <b>Hash:</b> 0xEDD516C6<br/>
@@ -3970,7 +3970,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/buffalo2_thumbnail.jpg" alt="Missing image &quot;buffalo2.png&quot;" title="buffalo2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/buffalo2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/buffalo2.png" alt="Missing image &quot;buffalo2.png&quot;" title="buffalo2" loading="lazy" />
     </div>
     <b>Name:</b> buffalo2<br/>
     <b>Hash:</b> 0x2BEC3CBE<br/>
@@ -3978,7 +3978,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/buffalo3_thumbnail.jpg" alt="Missing image &quot;buffalo3.png&quot;" title="buffalo3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/buffalo3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/buffalo3.png" alt="Missing image &quot;buffalo3.png&quot;" title="buffalo3" loading="lazy" />
     </div>
     <b>Name:</b> buffalo3<br/>
     <b>Hash:</b> 0xE2C013E<br/>
@@ -3987,7 +3987,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/calico_thumbnail.jpg" alt="Missing image &quot;calico.png&quot;" title="calico" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/calico.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/calico.png" alt="Missing image &quot;calico.png&quot;" title="calico" loading="lazy" />
     </div>
     <b>Name:</b> calico<br/>
     <b>Hash:</b> 0xB8D657AD<br/>
@@ -3996,7 +3996,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/carbonizzare_thumbnail.jpg" alt="Missing image &quot;carbonizzare.png&quot;" title="carbonizzare" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/carbonizzare.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/carbonizzare.png" alt="Missing image &quot;carbonizzare.png&quot;" title="carbonizzare" loading="lazy" />
     </div>
     <b>Name:</b> carbonizzare<br/>
     <b>Hash:</b> 0x7B8AB45F<br/>
@@ -4004,7 +4004,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/comet2_thumbnail.jpg" alt="Missing image &quot;comet2.png&quot;" title="comet2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/comet2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/comet2.png" alt="Missing image &quot;comet2.png&quot;" title="comet2" loading="lazy" />
     </div>
     <b>Name:</b> comet2<br/>
     <b>Hash:</b> 0xC1AE4D16<br/>
@@ -4012,7 +4012,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/comet3_thumbnail.jpg" alt="Missing image &quot;comet3.png&quot;" title="comet3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/comet3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/comet3.png" alt="Missing image &quot;comet3.png&quot;" title="comet3" loading="lazy" />
     </div>
     <b>Name:</b> comet3<br/>
     <b>Hash:</b> 0x877358AD<br/>
@@ -4021,7 +4021,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/comet4_thumbnail.jpg" alt="Missing image &quot;comet4.png&quot;" title="comet4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/comet4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/comet4.png" alt="Missing image &quot;comet4.png&quot;" title="comet4" loading="lazy" />
     </div>
     <b>Name:</b> comet4<br/>
     <b>Hash:</b> 0x5D1903F9<br/>
@@ -4030,7 +4030,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/comet5_thumbnail.jpg" alt="Missing image &quot;comet5.png&quot;" title="comet5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/comet5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/comet5.png" alt="Missing image &quot;comet5.png&quot;" title="comet5" loading="lazy" />
     </div>
     <b>Name:</b> comet5<br/>
     <b>Hash:</b> 0x276D98A3<br/>
@@ -4039,7 +4039,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/comet6_thumbnail.jpg" alt="Missing image &quot;comet6.png&quot;" title="comet6" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/comet6.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/comet6.png" alt="Missing image &quot;comet6.png&quot;" title="comet6" loading="lazy" />
     </div>
     <b>Name:</b> comet6<br/>
     <b>Hash:</b> 0x991EFC04<br/>
@@ -4048,7 +4048,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/coquette_thumbnail.jpg" alt="Missing image &quot;coquette.png&quot;" title="coquette" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/coquette.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/coquette.png" alt="Missing image &quot;coquette.png&quot;" title="coquette" loading="lazy" />
     </div>
     <b>Name:</b> coquette<br/>
     <b>Hash:</b> 0x67BC037<br/>
@@ -4056,7 +4056,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/coquette4_thumbnail.jpg" alt="Missing image &quot;coquette4.png&quot;" title="coquette4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/coquette4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/coquette4.png" alt="Missing image &quot;coquette4.png&quot;" title="coquette4" loading="lazy" />
     </div>
     <b>Name:</b> coquette4<br/>
     <b>Hash:</b> 0x98F65A5E<br/>
@@ -4065,7 +4065,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cypher_thumbnail.jpg" alt="Missing image &quot;cypher.png&quot;" title="cypher" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cypher.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cypher.png" alt="Missing image &quot;cypher.png&quot;" title="cypher" loading="lazy" />
     </div>
     <b>Name:</b> cypher<br/>
     <b>Hash:</b> 0x68A5D1EF<br/>
@@ -4074,7 +4074,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/drafter_thumbnail.jpg" alt="Missing image &quot;drafter.png&quot;" title="drafter" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/drafter.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/drafter.png" alt="Missing image &quot;drafter.png&quot;" title="drafter" loading="lazy" />
     </div>
     <b>Name:</b> drafter<br/>
     <b>Hash:</b> 0x28EAB80F<br/>
@@ -4083,7 +4083,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/elegy_thumbnail.jpg" alt="Missing image &quot;elegy.png&quot;" title="elegy" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/elegy.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/elegy.png" alt="Missing image &quot;elegy.png&quot;" title="elegy" loading="lazy" />
     </div>
     <b>Name:</b> elegy<br/>
     <b>Hash:</b> 0xBBA2261<br/>
@@ -4092,7 +4092,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/elegy2_thumbnail.jpg" alt="Missing image &quot;elegy2.png&quot;" title="elegy2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/elegy2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/elegy2.png" alt="Missing image &quot;elegy2.png&quot;" title="elegy2" loading="lazy" />
     </div>
     <b>Name:</b> elegy2<br/>
     <b>Hash:</b> 0xDE3D9D22<br/>
@@ -4100,7 +4100,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/euros_thumbnail.jpg" alt="Missing image &quot;Euros.png&quot;" title="Euros" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/euros.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/euros.png" alt="Missing image &quot;Euros.png&quot;" title="Euros" loading="lazy" />
     </div>
     <b>Name:</b> Euros<br/>
     <b>Hash:</b> 0x7980BDD5<br/>
@@ -4109,7 +4109,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/feltzer2_thumbnail.jpg" alt="Missing image &quot;feltzer2.png&quot;" title="feltzer2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/feltzer2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/feltzer2.png" alt="Missing image &quot;feltzer2.png&quot;" title="feltzer2" loading="lazy" />
     </div>
     <b>Name:</b> feltzer2<br/>
     <b>Hash:</b> 0x8911B9F5<br/>
@@ -4117,7 +4117,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/flashgt_thumbnail.jpg" alt="Missing image &quot;flashgt.png&quot;" title="flashgt" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/flashgt.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/flashgt.png" alt="Missing image &quot;flashgt.png&quot;" title="flashgt" loading="lazy" />
     </div>
     <b>Name:</b> flashgt<br/>
     <b>Hash:</b> 0xB4F32118<br/>
@@ -4126,7 +4126,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/furoregt_thumbnail.jpg" alt="Missing image &quot;furoregt.png&quot;" title="furoregt" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/furoregt.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/furoregt.png" alt="Missing image &quot;furoregt.png&quot;" title="furoregt" loading="lazy" />
     </div>
     <b>Name:</b> furoregt<br/>
     <b>Hash:</b> 0xBF1691E0<br/>
@@ -4135,7 +4135,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/fusilade_thumbnail.jpg" alt="Missing image &quot;fusilade.png&quot;" title="fusilade" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/fusilade.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/fusilade.png" alt="Missing image &quot;fusilade.png&quot;" title="fusilade" loading="lazy" />
     </div>
     <b>Name:</b> fusilade<br/>
     <b>Hash:</b> 0x1DC0BA53<br/>
@@ -4143,7 +4143,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/futo_thumbnail.jpg" alt="Missing image &quot;futo.png&quot;" title="futo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/futo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/futo.png" alt="Missing image &quot;futo.png&quot;" title="futo" loading="lazy" />
     </div>
     <b>Name:</b> futo<br/>
     <b>Hash:</b> 0x7836CE2F<br/>
@@ -4151,7 +4151,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/futo2_thumbnail.jpg" alt="Missing image &quot;futo2.png&quot;" title="futo2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/futo2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/futo2.png" alt="Missing image &quot;futo2.png&quot;" title="futo2" loading="lazy" />
     </div>
     <b>Name:</b> futo2<br/>
     <b>Hash:</b> 0xA6297CC8<br/>
@@ -4160,7 +4160,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gb200_thumbnail.jpg" alt="Missing image &quot;gb200.png&quot;" title="gb200" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gb200.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gb200.png" alt="Missing image &quot;gb200.png&quot;" title="gb200" loading="lazy" />
     </div>
     <b>Name:</b> gb200<br/>
     <b>Hash:</b> 0x71CBEA98<br/>
@@ -4169,7 +4169,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/growler_thumbnail.jpg" alt="Missing image &quot;growler.png&quot;" title="growler" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/growler.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/growler.png" alt="Missing image &quot;growler.png&quot;" title="growler" loading="lazy" />
     </div>
     <b>Name:</b> growler<br/>
     <b>Hash:</b> 0x4DC079D7<br/>
@@ -4178,7 +4178,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/hotring_thumbnail.jpg" alt="Missing image &quot;hotring.png&quot;" title="hotring" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/hotring.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/hotring.png" alt="Missing image &quot;hotring.png&quot;" title="hotring" loading="lazy" />
     </div>
     <b>Name:</b> hotring<br/>
     <b>Hash:</b> 0x42836BE5<br/>
@@ -4187,7 +4187,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/imorgon_thumbnail.jpg" alt="Missing image &quot;imorgon.png&quot;" title="imorgon" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/imorgon.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/imorgon.png" alt="Missing image &quot;imorgon.png&quot;" title="imorgon" loading="lazy" />
     </div>
     <b>Name:</b> imorgon<br/>
     <b>Hash:</b> 0xBC7C0A00<br/>
@@ -4196,7 +4196,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi7_thumbnail.jpg" alt="Missing image &quot;issi7.png&quot;" title="issi7" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/issi7.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/issi7.png" alt="Missing image &quot;issi7.png&quot;" title="issi7" loading="lazy" />
     </div>
     <b>Name:</b> issi7<br/>
     <b>Hash:</b> 0x6E8DA4F7<br/>
@@ -4205,7 +4205,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/italigto_thumbnail.jpg" alt="Missing image &quot;italigto.png&quot;" title="italigto" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/italigto.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/italigto.png" alt="Missing image &quot;italigto.png&quot;" title="italigto" loading="lazy" />
     </div>
     <b>Name:</b> italigto<br/>
     <b>Hash:</b> 0xEC3E3404<br/>
@@ -4214,7 +4214,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/italirsx_thumbnail.jpg" alt="Missing image &quot;italirsx.png&quot;" title="italirsx" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/italirsx.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/italirsx.png" alt="Missing image &quot;italirsx.png&quot;" title="italirsx" loading="lazy" />
     </div>
     <b>Name:</b> italirsx<br/>
     <b>Hash:</b> 0xBB78956A<br/>
@@ -4223,7 +4223,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/jester_thumbnail.jpg" alt="Missing image &quot;jester.png&quot;" title="jester" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/jester.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/jester.png" alt="Missing image &quot;jester.png&quot;" title="jester" loading="lazy" />
     </div>
     <b>Name:</b> jester<br/>
     <b>Hash:</b> 0xB2A716A3<br/>
@@ -4232,7 +4232,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/jester2_thumbnail.jpg" alt="Missing image &quot;jester2.png&quot;" title="jester2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/jester2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/jester2.png" alt="Missing image &quot;jester2.png&quot;" title="jester2" loading="lazy" />
     </div>
     <b>Name:</b> jester2<br/>
     <b>Hash:</b> 0xBE0E6126<br/>
@@ -4241,7 +4241,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/jester3_thumbnail.jpg" alt="Missing image &quot;jester3.png&quot;" title="jester3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/jester3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/jester3.png" alt="Missing image &quot;jester3.png&quot;" title="jester3" loading="lazy" />
     </div>
     <b>Name:</b> jester3<br/>
     <b>Hash:</b> 0xF330CB6A<br/>
@@ -4250,7 +4250,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/jester4_thumbnail.jpg" alt="Missing image &quot;jester4.png&quot;" title="jester4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/jester4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/jester4.png" alt="Missing image &quot;jester4.png&quot;" title="jester4" loading="lazy" />
     </div>
     <b>Name:</b> jester4<br/>
     <b>Hash:</b> 0xA1B3A871<br/>
@@ -4259,7 +4259,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/jugular_thumbnail.jpg" alt="Missing image &quot;jugular.png&quot;" title="jugular" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/jugular.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/jugular.png" alt="Missing image &quot;jugular.png&quot;" title="jugular" loading="lazy" />
     </div>
     <b>Name:</b> jugular<br/>
     <b>Hash:</b> 0xF38C4245<br/>
@@ -4268,7 +4268,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/khamelion_thumbnail.jpg" alt="Missing image &quot;khamelion.png&quot;" title="khamelion" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/khamelion.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/khamelion.png" alt="Missing image &quot;khamelion.png&quot;" title="khamelion" loading="lazy" />
     </div>
     <b>Name:</b> khamelion<br/>
     <b>Hash:</b> 0x206D1B68<br/>
@@ -4276,7 +4276,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/komoda_thumbnail.jpg" alt="Missing image &quot;komoda.png&quot;" title="komoda" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/komoda.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/komoda.png" alt="Missing image &quot;komoda.png&quot;" title="komoda" loading="lazy" />
     </div>
     <b>Name:</b> komoda<br/>
     <b>Hash:</b> 0xCE44C4B9<br/>
@@ -4285,7 +4285,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/kuruma_thumbnail.jpg" alt="Missing image &quot;kuruma.png&quot;" title="kuruma" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/kuruma.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/kuruma.png" alt="Missing image &quot;kuruma.png&quot;" title="kuruma" loading="lazy" />
     </div>
     <b>Name:</b> kuruma<br/>
     <b>Hash:</b> 0xAE2BFE94<br/>
@@ -4294,7 +4294,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/kuruma2_thumbnail.jpg" alt="Missing image &quot;kuruma2.png&quot;" title="kuruma2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/kuruma2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/kuruma2.png" alt="Missing image &quot;kuruma2.png&quot;" title="kuruma2" loading="lazy" />
     </div>
     <b>Name:</b> kuruma2<br/>
     <b>Hash:</b> 0x187D938D<br/>
@@ -4303,7 +4303,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/locust_thumbnail.jpg" alt="Missing image &quot;locust.png&quot;" title="locust" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/locust.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/locust.png" alt="Missing image &quot;locust.png&quot;" title="locust" loading="lazy" />
     </div>
     <b>Name:</b> locust<br/>
     <b>Hash:</b> 0xC7E55211<br/>
@@ -4312,7 +4312,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/lynx_thumbnail.jpg" alt="Missing image &quot;lynx.png&quot;" title="lynx" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/lynx.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/lynx.png" alt="Missing image &quot;lynx.png&quot;" title="lynx" loading="lazy" />
     </div>
     <b>Name:</b> lynx<br/>
     <b>Hash:</b> 0x1CBDC10B<br/>
@@ -4321,7 +4321,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/massacro_thumbnail.jpg" alt="Missing image &quot;massacro.png&quot;" title="massacro" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/massacro.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/massacro.png" alt="Missing image &quot;massacro.png&quot;" title="massacro" loading="lazy" />
     </div>
     <b>Name:</b> massacro<br/>
     <b>Hash:</b> 0xF77ADE32<br/>
@@ -4330,7 +4330,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/massacro2_thumbnail.jpg" alt="Missing image &quot;massacro2.png&quot;" title="massacro2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/massacro2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/massacro2.png" alt="Missing image &quot;massacro2.png&quot;" title="massacro2" loading="lazy" />
     </div>
     <b>Name:</b> massacro2<br/>
     <b>Hash:</b> 0xDA5819A3<br/>
@@ -4339,7 +4339,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/neo_thumbnail.jpg" alt="Missing image &quot;neo.png&quot;" title="neo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/neo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/neo.png" alt="Missing image &quot;neo.png&quot;" title="neo" loading="lazy" />
     </div>
     <b>Name:</b> neo<br/>
     <b>Hash:</b> 0x9F6ED5A2<br/>
@@ -4348,7 +4348,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/neon_thumbnail.jpg" alt="Missing image &quot;neon.png&quot;" title="neon" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/neon.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/neon.png" alt="Missing image &quot;neon.png&quot;" title="neon" loading="lazy" />
     </div>
     <b>Name:</b> neon<br/>
     <b>Hash:</b> 0x91CA96EE<br/>
@@ -4357,7 +4357,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ninef_thumbnail.jpg" alt="Missing image &quot;ninef.png&quot;" title="ninef" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ninef.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ninef.png" alt="Missing image &quot;ninef.png&quot;" title="ninef" loading="lazy" />
     </div>
     <b>Name:</b> ninef<br/>
     <b>Hash:</b> 0x3D8FA25C<br/>
@@ -4365,7 +4365,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ninef2_thumbnail.jpg" alt="Missing image &quot;ninef2.png&quot;" title="ninef2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ninef2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ninef2.png" alt="Missing image &quot;ninef2.png&quot;" title="ninef2" loading="lazy" />
     </div>
     <b>Name:</b> ninef2<br/>
     <b>Hash:</b> 0xA8E38B01<br/>
@@ -4373,7 +4373,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/omnis_thumbnail.jpg" alt="Missing image &quot;omnis.png&quot;" title="omnis" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/omnis.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/omnis.png" alt="Missing image &quot;omnis.png&quot;" title="omnis" loading="lazy" />
     </div>
     <b>Name:</b> omnis<br/>
     <b>Hash:</b> 0xD1AD4937<br/>
@@ -4382,7 +4382,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/paragon_thumbnail.jpg" alt="Missing image &quot;paragon.png&quot;" title="paragon" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/paragon.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/paragon.png" alt="Missing image &quot;paragon.png&quot;" title="paragon" loading="lazy" />
     </div>
     <b>Name:</b> paragon<br/>
     <b>Hash:</b> 0xE550775B<br/>
@@ -4391,7 +4391,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/paragon2_thumbnail.jpg" alt="Missing image &quot;paragon2.png&quot;" title="paragon2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/paragon2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/paragon2.png" alt="Missing image &quot;paragon2.png&quot;" title="paragon2" loading="lazy" />
     </div>
     <b>Name:</b> paragon2<br/>
     <b>Hash:</b> 0x546D8EEE<br/>
@@ -4400,7 +4400,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pariah_thumbnail.jpg" alt="Missing image &quot;pariah.png&quot;" title="pariah" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pariah.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pariah.png" alt="Missing image &quot;pariah.png&quot;" title="pariah" loading="lazy" />
     </div>
     <b>Name:</b> pariah<br/>
     <b>Hash:</b> 0x33B98FE2<br/>
@@ -4409,7 +4409,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/penumbra_thumbnail.jpg" alt="Missing image &quot;penumbra.png&quot;" title="penumbra" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/penumbra.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/penumbra.png" alt="Missing image &quot;penumbra.png&quot;" title="penumbra" loading="lazy" />
     </div>
     <b>Name:</b> penumbra<br/>
     <b>Hash:</b> 0xE9805550<br/>
@@ -4417,7 +4417,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/penumbra2_thumbnail.jpg" alt="Missing image &quot;penumbra2.png&quot;" title="penumbra2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/penumbra2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/penumbra2.png" alt="Missing image &quot;penumbra2.png&quot;" title="penumbra2" loading="lazy" />
     </div>
     <b>Name:</b> penumbra2<br/>
     <b>Hash:</b> 0xDA5EC7DA<br/>
@@ -4426,7 +4426,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/raiden_thumbnail.jpg" alt="Missing image &quot;raiden.png&quot;" title="raiden" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/raiden.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/raiden.png" alt="Missing image &quot;raiden.png&quot;" title="raiden" loading="lazy" />
     </div>
     <b>Name:</b> raiden<br/>
     <b>Hash:</b> 0xA4D99B7D<br/>
@@ -4435,7 +4435,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rapidgt_thumbnail.jpg" alt="Missing image &quot;RapidGT.png&quot;" title="RapidGT" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rapidgt.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rapidgt.png" alt="Missing image &quot;RapidGT.png&quot;" title="RapidGT" loading="lazy" />
     </div>
     <b>Name:</b> RapidGT<br/>
     <b>Hash:</b> 0x8CB29A14<br/>
@@ -4443,7 +4443,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rapidgt2_thumbnail.jpg" alt="Missing image &quot;RapidGT2.png&quot;" title="RapidGT2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rapidgt2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rapidgt2.png" alt="Missing image &quot;RapidGT2.png&quot;" title="RapidGT2" loading="lazy" />
     </div>
     <b>Name:</b> RapidGT2<br/>
     <b>Hash:</b> 0x679450AF<br/>
@@ -4451,7 +4451,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/raptor_thumbnail.jpg" alt="Missing image &quot;raptor.png&quot;" title="raptor" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/raptor.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/raptor.png" alt="Missing image &quot;raptor.png&quot;" title="raptor" loading="lazy" />
     </div>
     <b>Name:</b> raptor<br/>
     <b>Hash:</b> 0xD7C56D39<br/>
@@ -4460,7 +4460,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/remus_thumbnail.jpg" alt="Missing image &quot;remus.png&quot;" title="remus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/remus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/remus.png" alt="Missing image &quot;remus.png&quot;" title="remus" loading="lazy" />
     </div>
     <b>Name:</b> remus<br/>
     <b>Hash:</b> 0x5216AD5E<br/>
@@ -4469,7 +4469,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/revolter_thumbnail.jpg" alt="Missing image &quot;revolter.png&quot;" title="revolter" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/revolter.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/revolter.png" alt="Missing image &quot;revolter.png&quot;" title="revolter" loading="lazy" />
     </div>
     <b>Name:</b> revolter<br/>
     <b>Hash:</b> 0xE78CC3D9<br/>
@@ -4478,7 +4478,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rt3000_thumbnail.jpg" alt="Missing image &quot;rt3000.png&quot;" title="rt3000" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rt3000.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rt3000.png" alt="Missing image &quot;rt3000.png&quot;" title="rt3000" loading="lazy" />
     </div>
     <b>Name:</b> rt3000<br/>
     <b>Hash:</b> 0xE505CF99<br/>
@@ -4487,7 +4487,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ruston_thumbnail.jpg" alt="Missing image &quot;ruston.png&quot;" title="ruston" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ruston.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ruston.png" alt="Missing image &quot;ruston.png&quot;" title="ruston" loading="lazy" />
     </div>
     <b>Name:</b> ruston<br/>
     <b>Hash:</b> 0x2AE524A8<br/>
@@ -4496,7 +4496,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/schafter3_thumbnail.jpg" alt="Missing image &quot;schafter3.png&quot;" title="schafter3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/schafter3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/schafter3.png" alt="Missing image &quot;schafter3.png&quot;" title="schafter3" loading="lazy" />
     </div>
     <b>Name:</b> schafter3<br/>
     <b>Hash:</b> 0xA774B5A6<br/>
@@ -4505,7 +4505,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/schafter4_thumbnail.jpg" alt="Missing image &quot;schafter4.png&quot;" title="schafter4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/schafter4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/schafter4.png" alt="Missing image &quot;schafter4.png&quot;" title="schafter4" loading="lazy" />
     </div>
     <b>Name:</b> schafter4<br/>
     <b>Hash:</b> 0x58CF185C<br/>
@@ -4514,7 +4514,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/schlagen_thumbnail.jpg" alt="Missing image &quot;schlagen.png&quot;" title="schlagen" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/schlagen.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/schlagen.png" alt="Missing image &quot;schlagen.png&quot;" title="schlagen" loading="lazy" />
     </div>
     <b>Name:</b> schlagen<br/>
     <b>Hash:</b> 0xE1C03AB0<br/>
@@ -4523,7 +4523,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/schwarzer_thumbnail.jpg" alt="Missing image &quot;schwarzer.png&quot;" title="schwarzer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/schwarzer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/schwarzer.png" alt="Missing image &quot;schwarzer.png&quot;" title="schwarzer" loading="lazy" />
     </div>
     <b>Name:</b> schwarzer<br/>
     <b>Hash:</b> 0xD37B7976<br/>
@@ -4531,7 +4531,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sentinel3_thumbnail.jpg" alt="Missing image &quot;sentinel3.png&quot;" title="sentinel3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sentinel3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sentinel3.png" alt="Missing image &quot;sentinel3.png&quot;" title="sentinel3" loading="lazy" />
     </div>
     <b>Name:</b> sentinel3<br/>
     <b>Hash:</b> 0x41D149AA<br/>
@@ -4540,7 +4540,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/seven70_thumbnail.jpg" alt="Missing image &quot;SEVEN70.png&quot;" title="SEVEN70" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/seven70.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/seven70.png" alt="Missing image &quot;SEVEN70.png&quot;" title="SEVEN70" loading="lazy" />
     </div>
     <b>Name:</b> SEVEN70<br/>
     <b>Hash:</b> 0x97398A4B<br/>
@@ -4549,7 +4549,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/specter_thumbnail.jpg" alt="Missing image &quot;SPECTER.png&quot;" title="SPECTER" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/specter.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/specter.png" alt="Missing image &quot;SPECTER.png&quot;" title="SPECTER" loading="lazy" />
     </div>
     <b>Name:</b> SPECTER<br/>
     <b>Hash:</b> 0x706E2B40<br/>
@@ -4558,7 +4558,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/specter2_thumbnail.jpg" alt="Missing image &quot;SPECTER2.png&quot;" title="SPECTER2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/specter2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/specter2.png" alt="Missing image &quot;SPECTER2.png&quot;" title="SPECTER2" loading="lazy" />
     </div>
     <b>Name:</b> SPECTER2<br/>
     <b>Hash:</b> 0x400F5147<br/>
@@ -4567,7 +4567,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/streiter_thumbnail.jpg" alt="Missing image &quot;streiter.png&quot;" title="streiter" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/streiter.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/streiter.png" alt="Missing image &quot;streiter.png&quot;" title="streiter" loading="lazy" />
     </div>
     <b>Name:</b> streiter<br/>
     <b>Hash:</b> 0x67D2B389<br/>
@@ -4576,7 +4576,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sugoi_thumbnail.jpg" alt="Missing image &quot;Sugoi.png&quot;" title="Sugoi" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sugoi.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sugoi.png" alt="Missing image &quot;Sugoi.png&quot;" title="Sugoi" loading="lazy" />
     </div>
     <b>Name:</b> Sugoi<br/>
     <b>Hash:</b> 0x3ADB9758<br/>
@@ -4585,7 +4585,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sultan_thumbnail.jpg" alt="Missing image &quot;sultan.png&quot;" title="sultan" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sultan.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sultan.png" alt="Missing image &quot;sultan.png&quot;" title="sultan" loading="lazy" />
     </div>
     <b>Name:</b> sultan<br/>
     <b>Hash:</b> 0x39DA2754<br/>
@@ -4593,7 +4593,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sultan2_thumbnail.jpg" alt="Missing image &quot;sultan2.png&quot;" title="sultan2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sultan2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sultan2.png" alt="Missing image &quot;sultan2.png&quot;" title="sultan2" loading="lazy" />
     </div>
     <b>Name:</b> sultan2<br/>
     <b>Hash:</b> 0x3404691C<br/>
@@ -4602,7 +4602,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sultan3_thumbnail.jpg" alt="Missing image &quot;sultan3.png&quot;" title="sultan3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sultan3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sultan3.png" alt="Missing image &quot;sultan3.png&quot;" title="sultan3" loading="lazy" />
     </div>
     <b>Name:</b> sultan3<br/>
     <b>Hash:</b> 0xEEA75E63<br/>
@@ -4611,7 +4611,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/surano_thumbnail.jpg" alt="Missing image &quot;Surano.png&quot;" title="Surano" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/surano.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/surano.png" alt="Missing image &quot;Surano.png&quot;" title="Surano" loading="lazy" />
     </div>
     <b>Name:</b> Surano<br/>
     <b>Hash:</b> 0x16E478C1<br/>
@@ -4619,7 +4619,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tampa2_thumbnail.jpg" alt="Missing image &quot;tampa2.png&quot;" title="tampa2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tampa2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tampa2.png" alt="Missing image &quot;tampa2.png&quot;" title="tampa2" loading="lazy" />
     </div>
     <b>Name:</b> tampa2<br/>
     <b>Hash:</b> 0xC0240885<br/>
@@ -4628,7 +4628,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tropos_thumbnail.jpg" alt="Missing image &quot;tropos.png&quot;" title="tropos" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tropos.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tropos.png" alt="Missing image &quot;tropos.png&quot;" title="tropos" loading="lazy" />
     </div>
     <b>Name:</b> tropos<br/>
     <b>Hash:</b> 0x707E63A4<br/>
@@ -4637,7 +4637,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vectre_thumbnail.jpg" alt="Missing image &quot;vectre.png&quot;" title="vectre" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vectre.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vectre.png" alt="Missing image &quot;vectre.png&quot;" title="vectre" loading="lazy" />
     </div>
     <b>Name:</b> vectre<br/>
     <b>Hash:</b> 0xA42FC3A5<br/>
@@ -4646,7 +4646,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/verlierer2_thumbnail.jpg" alt="Missing image &quot;verlierer2.png&quot;" title="verlierer2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/verlierer2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/verlierer2.png" alt="Missing image &quot;verlierer2.png&quot;" title="verlierer2" loading="lazy" />
     </div>
     <b>Name:</b> verlierer2<br/>
     <b>Hash:</b> 0x41B77FA4<br/>
@@ -4655,7 +4655,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/veto_thumbnail.jpg" alt="Missing image &quot;veto.png&quot;" title="veto" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/veto.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/veto.png" alt="Missing image &quot;veto.png&quot;" title="veto" loading="lazy" />
     </div>
     <b>Name:</b> veto<br/>
     <b>Hash:</b> 0xCCE5C8FA<br/>
@@ -4664,7 +4664,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/veto2_thumbnail.jpg" alt="Missing image &quot;veto2.png&quot;" title="veto2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/veto2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/veto2.png" alt="Missing image &quot;veto2.png&quot;" title="veto2" loading="lazy" />
     </div>
     <b>Name:</b> veto2<br/>
     <b>Hash:</b> 0xA703E4A9<br/>
@@ -4673,7 +4673,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vstr_thumbnail.jpg" alt="Missing image &quot;vstr.png&quot;" title="vstr" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vstr.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vstr.png" alt="Missing image &quot;vstr.png&quot;" title="vstr" loading="lazy" />
     </div>
     <b>Name:</b> vstr<br/>
     <b>Hash:</b> 0x56CDEE7D<br/>
@@ -4682,7 +4682,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zr350_thumbnail.jpg" alt="Missing image &quot;zr350.png&quot;" title="zr350" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zr350.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zr350.png" alt="Missing image &quot;zr350.png&quot;" title="zr350" loading="lazy" />
     </div>
     <b>Name:</b> zr350<br/>
     <b>Hash:</b> 0x91373058<br/>
@@ -4691,7 +4691,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zr380_thumbnail.jpg" alt="Missing image &quot;zr380.png&quot;" title="zr380" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zr380.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zr380.png" alt="Missing image &quot;zr380.png&quot;" title="zr380" loading="lazy" />
     </div>
     <b>Name:</b> zr380<br/>
     <b>Hash:</b> 0x20314B42<br/>
@@ -4700,7 +4700,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zr3802_thumbnail.jpg" alt="Missing image &quot;zr3802.png&quot;" title="zr3802" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zr3802.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zr3802.png" alt="Missing image &quot;zr3802.png&quot;" title="zr3802" loading="lazy" />
     </div>
     <b>Name:</b> zr3802<br/>
     <b>Hash:</b> 0xBE11EFC6<br/>
@@ -4709,7 +4709,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zr3803_thumbnail.jpg" alt="Missing image &quot;zr3803.png&quot;" title="zr3803" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zr3803.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zr3803.png" alt="Missing image &quot;zr3803.png&quot;" title="zr3803" loading="lazy" />
     </div>
     <b>Name:</b> zr3803<br/>
     <b>Hash:</b> 0xA7DCC35C<br/>
@@ -4723,7 +4723,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ardent_thumbnail.jpg" alt="Missing image &quot;ardent.png&quot;" title="ardent" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ardent.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ardent.png" alt="Missing image &quot;ardent.png&quot;" title="ardent" loading="lazy" />
     </div>
     <b>Name:</b> ardent<br/>
     <b>Hash:</b> 0x97E5533<br/>
@@ -4732,7 +4732,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/btype_thumbnail.jpg" alt="Missing image &quot;btype.png&quot;" title="btype" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/btype.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/btype.png" alt="Missing image &quot;btype.png&quot;" title="btype" loading="lazy" />
     </div>
     <b>Name:</b> btype<br/>
     <b>Hash:</b> 0x6FF6914<br/>
@@ -4741,7 +4741,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/btype2_thumbnail.jpg" alt="Missing image &quot;btype2.png&quot;" title="btype2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/btype2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/btype2.png" alt="Missing image &quot;btype2.png&quot;" title="btype2" loading="lazy" />
     </div>
     <b>Name:</b> btype2<br/>
     <b>Hash:</b> 0xCE6B35A4<br/>
@@ -4750,7 +4750,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/btype3_thumbnail.jpg" alt="Missing image &quot;btype3.png&quot;" title="btype3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/btype3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/btype3.png" alt="Missing image &quot;btype3.png&quot;" title="btype3" loading="lazy" />
     </div>
     <b>Name:</b> btype3<br/>
     <b>Hash:</b> 0xDC19D101<br/>
@@ -4759,7 +4759,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/casco_thumbnail.jpg" alt="Missing image &quot;casco.png&quot;" title="casco" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/casco.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/casco.png" alt="Missing image &quot;casco.png&quot;" title="casco" loading="lazy" />
     </div>
     <b>Name:</b> casco<br/>
     <b>Hash:</b> 0x3822BDFE<br/>
@@ -4768,7 +4768,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cheburek_thumbnail.jpg" alt="Missing image &quot;cheburek.png&quot;" title="cheburek" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cheburek.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cheburek.png" alt="Missing image &quot;cheburek.png&quot;" title="cheburek" loading="lazy" />
     </div>
     <b>Name:</b> cheburek<br/>
     <b>Hash:</b> 0xC514AAE0<br/>
@@ -4777,7 +4777,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cheetah2_thumbnail.jpg" alt="Missing image &quot;cheetah2.png&quot;" title="cheetah2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cheetah2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cheetah2.png" alt="Missing image &quot;cheetah2.png&quot;" title="cheetah2" loading="lazy" />
     </div>
     <b>Name:</b> cheetah2<br/>
     <b>Hash:</b> 0xD4E5F4D<br/>
@@ -4786,7 +4786,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/coquette2_thumbnail.jpg" alt="Missing image &quot;coquette2.png&quot;" title="coquette2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/coquette2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/coquette2.png" alt="Missing image &quot;coquette2.png&quot;" title="coquette2" loading="lazy" />
     </div>
     <b>Name:</b> coquette2<br/>
     <b>Hash:</b> 0x3C4E2113<br/>
@@ -4795,7 +4795,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/deluxo_thumbnail.jpg" alt="Missing image &quot;deluxo.png&quot;" title="deluxo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/deluxo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/deluxo.png" alt="Missing image &quot;deluxo.png&quot;" title="deluxo" loading="lazy" />
     </div>
     <b>Name:</b> deluxo<br/>
     <b>Hash:</b> 0x586765FB<br/>
@@ -4804,7 +4804,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dynasty_thumbnail.jpg" alt="Missing image &quot;Dynasty.png&quot;" title="Dynasty" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dynasty.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dynasty.png" alt="Missing image &quot;Dynasty.png&quot;" title="Dynasty" loading="lazy" />
     </div>
     <b>Name:</b> Dynasty<br/>
     <b>Hash:</b> 0x127E90D5<br/>
@@ -4813,7 +4813,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/fagaloa_thumbnail.jpg" alt="Missing image &quot;fagaloa.png&quot;" title="fagaloa" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/fagaloa.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/fagaloa.png" alt="Missing image &quot;fagaloa.png&quot;" title="fagaloa" loading="lazy" />
     </div>
     <b>Name:</b> fagaloa<br/>
     <b>Hash:</b> 0x6068AD86<br/>
@@ -4822,7 +4822,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/feltzer3_thumbnail.jpg" alt="Missing image &quot;feltzer3.png&quot;" title="feltzer3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/feltzer3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/feltzer3.png" alt="Missing image &quot;feltzer3.png&quot;" title="feltzer3" loading="lazy" />
     </div>
     <b>Name:</b> feltzer3<br/>
     <b>Hash:</b> 0xA29D6D10<br/>
@@ -4831,7 +4831,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gt500_thumbnail.jpg" alt="Missing image &quot;gt500.png&quot;" title="gt500" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gt500.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gt500.png" alt="Missing image &quot;gt500.png&quot;" title="gt500" loading="lazy" />
     </div>
     <b>Name:</b> gt500<br/>
     <b>Hash:</b> 0x8408F33A<br/>
@@ -4840,7 +4840,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/infernus2_thumbnail.jpg" alt="Missing image &quot;infernus2.png&quot;" title="infernus2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/infernus2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/infernus2.png" alt="Missing image &quot;infernus2.png&quot;" title="infernus2" loading="lazy" />
     </div>
     <b>Name:</b> infernus2<br/>
     <b>Hash:</b> 0xAC33179C<br/>
@@ -4849,7 +4849,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/jb700_thumbnail.jpg" alt="Missing image &quot;jb700.png&quot;" title="jb700" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/jb700.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/jb700.png" alt="Missing image &quot;jb700.png&quot;" title="jb700" loading="lazy" />
     </div>
     <b>Name:</b> jb700<br/>
     <b>Hash:</b> 0x3EAB5555<br/>
@@ -4857,7 +4857,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/jb7002_thumbnail.jpg" alt="Missing image &quot;jb7002.png&quot;" title="jb7002" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/jb7002.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/jb7002.png" alt="Missing image &quot;jb7002.png&quot;" title="jb7002" loading="lazy" />
     </div>
     <b>Name:</b> jb7002<br/>
     <b>Hash:</b> 0x177DA45C<br/>
@@ -4866,7 +4866,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mamba_thumbnail.jpg" alt="Missing image &quot;mamba.png&quot;" title="mamba" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mamba.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mamba.png" alt="Missing image &quot;mamba.png&quot;" title="mamba" loading="lazy" />
     </div>
     <b>Name:</b> mamba<br/>
     <b>Hash:</b> 0x9CFFFC56<br/>
@@ -4875,7 +4875,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/manana_thumbnail.jpg" alt="Missing image &quot;manana.png&quot;" title="manana" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/manana.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/manana.png" alt="Missing image &quot;manana.png&quot;" title="manana" loading="lazy" />
     </div>
     <b>Name:</b> manana<br/>
     <b>Hash:</b> 0x81634188<br/>
@@ -4883,7 +4883,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/michelli_thumbnail.jpg" alt="Missing image &quot;michelli.png&quot;" title="michelli" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/michelli.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/michelli.png" alt="Missing image &quot;michelli.png&quot;" title="michelli" loading="lazy" />
     </div>
     <b>Name:</b> michelli<br/>
     <b>Hash:</b> 0x3E5BD8D9<br/>
@@ -4892,7 +4892,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/monroe_thumbnail.jpg" alt="Missing image &quot;monroe.png&quot;" title="monroe" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/monroe.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/monroe.png" alt="Missing image &quot;monroe.png&quot;" title="monroe" loading="lazy" />
     </div>
     <b>Name:</b> monroe<br/>
     <b>Hash:</b> 0xE62B361B<br/>
@@ -4900,7 +4900,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/nebula_thumbnail.jpg" alt="Missing image &quot;nebula.png&quot;" title="nebula" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/nebula.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/nebula.png" alt="Missing image &quot;nebula.png&quot;" title="nebula" loading="lazy" />
     </div>
     <b>Name:</b> nebula<br/>
     <b>Hash:</b> 0xCB642637<br/>
@@ -4909,7 +4909,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/peyote_thumbnail.jpg" alt="Missing image &quot;peyote.png&quot;" title="peyote" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/peyote.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/peyote.png" alt="Missing image &quot;peyote.png&quot;" title="peyote" loading="lazy" />
     </div>
     <b>Name:</b> peyote<br/>
     <b>Hash:</b> 0x6D19CCBC<br/>
@@ -4917,7 +4917,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/peyote3_thumbnail.jpg" alt="Missing image &quot;peyote3.png&quot;" title="peyote3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/peyote3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/peyote3.png" alt="Missing image &quot;peyote3.png&quot;" title="peyote3" loading="lazy" />
     </div>
     <b>Name:</b> peyote3<br/>
     <b>Hash:</b> 0x4201A843<br/>
@@ -4926,7 +4926,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pigalle_thumbnail.jpg" alt="Missing image &quot;pigalle.png&quot;" title="pigalle" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pigalle.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pigalle.png" alt="Missing image &quot;pigalle.png&quot;" title="pigalle" loading="lazy" />
     </div>
     <b>Name:</b> pigalle<br/>
     <b>Hash:</b> 0x404B6381<br/>
@@ -4935,7 +4935,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rapidgt3_thumbnail.jpg" alt="Missing image &quot;rapidgt3.png&quot;" title="rapidgt3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rapidgt3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rapidgt3.png" alt="Missing image &quot;rapidgt3.png&quot;" title="rapidgt3" loading="lazy" />
     </div>
     <b>Name:</b> rapidgt3<br/>
     <b>Hash:</b> 0x7A2EF5E4<br/>
@@ -4944,7 +4944,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/retinue_thumbnail.jpg" alt="Missing image &quot;retinue.png&quot;" title="retinue" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/retinue.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/retinue.png" alt="Missing image &quot;retinue.png&quot;" title="retinue" loading="lazy" />
     </div>
     <b>Name:</b> retinue<br/>
     <b>Hash:</b> 0x6DBD6C0A<br/>
@@ -4953,7 +4953,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/retinue2_thumbnail.jpg" alt="Missing image &quot;retinue2.png&quot;" title="retinue2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/retinue2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/retinue2.png" alt="Missing image &quot;retinue2.png&quot;" title="retinue2" loading="lazy" />
     </div>
     <b>Name:</b> retinue2<br/>
     <b>Hash:</b> 0x79178F0A<br/>
@@ -4962,7 +4962,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/savestra_thumbnail.jpg" alt="Missing image &quot;savestra.png&quot;" title="savestra" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/savestra.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/savestra.png" alt="Missing image &quot;savestra.png&quot;" title="savestra" loading="lazy" />
     </div>
     <b>Name:</b> savestra<br/>
     <b>Hash:</b> 0x35DED0DD<br/>
@@ -4971,7 +4971,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stinger_thumbnail.jpg" alt="Missing image &quot;stinger.png&quot;" title="stinger" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stinger.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stinger.png" alt="Missing image &quot;stinger.png&quot;" title="stinger" loading="lazy" />
     </div>
     <b>Name:</b> stinger<br/>
     <b>Hash:</b> 0x5C23AF9B<br/>
@@ -4979,7 +4979,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stingergt_thumbnail.jpg" alt="Missing image &quot;stingergt.png&quot;" title="stingergt" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stingergt.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stingergt.png" alt="Missing image &quot;stingergt.png&quot;" title="stingergt" loading="lazy" />
     </div>
     <b>Name:</b> stingergt<br/>
     <b>Hash:</b> 0x82E499FA<br/>
@@ -4987,7 +4987,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/stromberg_thumbnail.jpg" alt="Missing image &quot;stromberg.png&quot;" title="stromberg" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/stromberg.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/stromberg.png" alt="Missing image &quot;stromberg.png&quot;" title="stromberg" loading="lazy" />
     </div>
     <b>Name:</b> stromberg<br/>
     <b>Hash:</b> 0x34DBA661<br/>
@@ -4996,7 +4996,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/swinger_thumbnail.jpg" alt="Missing image &quot;swinger.png&quot;" title="swinger" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/swinger.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/swinger.png" alt="Missing image &quot;swinger.png&quot;" title="swinger" loading="lazy" />
     </div>
     <b>Name:</b> swinger<br/>
     <b>Hash:</b> 0x1DD4C0FF<br/>
@@ -5005,7 +5005,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/toreador_thumbnail.jpg" alt="Missing image &quot;toreador.png&quot;" title="toreador" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/toreador.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/toreador.png" alt="Missing image &quot;toreador.png&quot;" title="toreador" loading="lazy" />
     </div>
     <b>Name:</b> toreador<br/>
     <b>Hash:</b> 0x56C8A5EF<br/>
@@ -5014,7 +5014,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/torero_thumbnail.jpg" alt="Missing image &quot;torero.png&quot;" title="torero" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/torero.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/torero.png" alt="Missing image &quot;torero.png&quot;" title="torero" loading="lazy" />
     </div>
     <b>Name:</b> torero<br/>
     <b>Hash:</b> 0x59A9E570<br/>
@@ -5023,7 +5023,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado_thumbnail.jpg" alt="Missing image &quot;tornado.png&quot;" title="tornado" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tornado.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado.png" alt="Missing image &quot;tornado.png&quot;" title="tornado" loading="lazy" />
     </div>
     <b>Name:</b> tornado<br/>
     <b>Hash:</b> 0x1BB290BC<br/>
@@ -5031,7 +5031,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado2_thumbnail.jpg" alt="Missing image &quot;tornado2.png&quot;" title="tornado2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tornado2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado2.png" alt="Missing image &quot;tornado2.png&quot;" title="tornado2" loading="lazy" />
     </div>
     <b>Name:</b> tornado2<br/>
     <b>Hash:</b> 0x5B42A5C4<br/>
@@ -5039,7 +5039,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado3_thumbnail.jpg" alt="Missing image &quot;tornado3.png&quot;" title="tornado3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tornado3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado3.png" alt="Missing image &quot;tornado3.png&quot;" title="tornado3" loading="lazy" />
     </div>
     <b>Name:</b> tornado3<br/>
     <b>Hash:</b> 0x690A4153<br/>
@@ -5047,7 +5047,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado4_thumbnail.jpg" alt="Missing image &quot;tornado4.png&quot;" title="tornado4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tornado4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado4.png" alt="Missing image &quot;tornado4.png&quot;" title="tornado4" loading="lazy" />
     </div>
     <b>Name:</b> tornado4<br/>
     <b>Hash:</b> 0x86CF7CDD<br/>
@@ -5055,7 +5055,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado5_thumbnail.jpg" alt="Missing image &quot;tornado5.png&quot;" title="tornado5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tornado5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado5.png" alt="Missing image &quot;tornado5.png&quot;" title="tornado5" loading="lazy" />
     </div>
     <b>Name:</b> tornado5<br/>
     <b>Hash:</b> 0x94DA98EF<br/>
@@ -5064,7 +5064,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado6_thumbnail.jpg" alt="Missing image &quot;tornado6.png&quot;" title="tornado6" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tornado6.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tornado6.png" alt="Missing image &quot;tornado6.png&quot;" title="tornado6" loading="lazy" />
     </div>
     <b>Name:</b> tornado6<br/>
     <b>Hash:</b> 0xA31CB573<br/>
@@ -5073,7 +5073,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/turismo2_thumbnail.jpg" alt="Missing image &quot;turismo2.png&quot;" title="turismo2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/turismo2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/turismo2.png" alt="Missing image &quot;turismo2.png&quot;" title="turismo2" loading="lazy" />
     </div>
     <b>Name:</b> turismo2<br/>
     <b>Hash:</b> 0xC575DF11<br/>
@@ -5082,7 +5082,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/viseris_thumbnail.jpg" alt="Missing image &quot;viseris.png&quot;" title="viseris" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/viseris.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/viseris.png" alt="Missing image &quot;viseris.png&quot;" title="viseris" loading="lazy" />
     </div>
     <b>Name:</b> viseris<br/>
     <b>Hash:</b> 0xE8A8BA94<br/>
@@ -5091,7 +5091,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/z190_thumbnail.jpg" alt="Missing image &quot;z190.png&quot;" title="z190" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/z190.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/z190.png" alt="Missing image &quot;z190.png&quot;" title="z190" loading="lazy" />
     </div>
     <b>Name:</b> z190<br/>
     <b>Hash:</b> 0x3201DD49<br/>
@@ -5100,7 +5100,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zion3_thumbnail.jpg" alt="Missing image &quot;zion3.png&quot;" title="zion3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zion3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zion3.png" alt="Missing image &quot;zion3.png&quot;" title="zion3" loading="lazy" />
     </div>
     <b>Name:</b> zion3<br/>
     <b>Hash:</b> 0x6F039A67<br/>
@@ -5109,7 +5109,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ztype_thumbnail.jpg" alt="Missing image &quot;Ztype.png&quot;" title="Ztype" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ztype.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ztype.png" alt="Missing image &quot;Ztype.png&quot;" title="Ztype" loading="lazy" />
     </div>
     <b>Name:</b> Ztype<br/>
     <b>Hash:</b> 0x2D3BD401<br/>
@@ -5122,7 +5122,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/adder_thumbnail.jpg" alt="Missing image &quot;adder.png&quot;" title="adder" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/adder.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/adder.png" alt="Missing image &quot;adder.png&quot;" title="adder" loading="lazy" />
     </div>
     <b>Name:</b> adder<br/>
     <b>Hash:</b> 0xB779A091<br/>
@@ -5130,7 +5130,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/autarch_thumbnail.jpg" alt="Missing image &quot;autarch.png&quot;" title="autarch" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/autarch.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/autarch.png" alt="Missing image &quot;autarch.png&quot;" title="autarch" loading="lazy" />
     </div>
     <b>Name:</b> autarch<br/>
     <b>Hash:</b> 0xED552C74<br/>
@@ -5139,7 +5139,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/banshee2_thumbnail.jpg" alt="Missing image &quot;banshee2.png&quot;" title="banshee2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/banshee2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/banshee2.png" alt="Missing image &quot;banshee2.png&quot;" title="banshee2" loading="lazy" />
     </div>
     <b>Name:</b> banshee2<br/>
     <b>Hash:</b> 0x25C5AF13<br/>
@@ -5148,7 +5148,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bullet_thumbnail.jpg" alt="Missing image &quot;bullet.png&quot;" title="bullet" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bullet.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bullet.png" alt="Missing image &quot;bullet.png&quot;" title="bullet" loading="lazy" />
     </div>
     <b>Name:</b> bullet<br/>
     <b>Hash:</b> 0x9AE6DDA1<br/>
@@ -5156,7 +5156,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cheetah_thumbnail.jpg" alt="Missing image &quot;cheetah.png&quot;" title="cheetah" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cheetah.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cheetah.png" alt="Missing image &quot;cheetah.png&quot;" title="cheetah" loading="lazy" />
     </div>
     <b>Name:</b> cheetah<br/>
     <b>Hash:</b> 0xB1D95DA0<br/>
@@ -5164,7 +5164,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cyclone_thumbnail.jpg" alt="Missing image &quot;cyclone.png&quot;" title="cyclone" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cyclone.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cyclone.png" alt="Missing image &quot;cyclone.png&quot;" title="cyclone" loading="lazy" />
     </div>
     <b>Name:</b> cyclone<br/>
     <b>Hash:</b> 0x52FF9437<br/>
@@ -5173,7 +5173,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/deveste_thumbnail.jpg" alt="Missing image &quot;deveste.png&quot;" title="deveste" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/deveste.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/deveste.png" alt="Missing image &quot;deveste.png&quot;" title="deveste" loading="lazy" />
     </div>
     <b>Name:</b> deveste<br/>
     <b>Hash:</b> 0x5EE005DA<br/>
@@ -5182,7 +5182,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/emerus_thumbnail.jpg" alt="Missing image &quot;emerus.png&quot;" title="emerus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/emerus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/emerus.png" alt="Missing image &quot;emerus.png&quot;" title="emerus" loading="lazy" />
     </div>
     <b>Name:</b> emerus<br/>
     <b>Hash:</b> 0x4EE74355<br/>
@@ -5191,7 +5191,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/entity2_thumbnail.jpg" alt="Missing image &quot;entity2.png&quot;" title="entity2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/entity2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/entity2.png" alt="Missing image &quot;entity2.png&quot;" title="entity2" loading="lazy" />
     </div>
     <b>Name:</b> entity2<br/>
     <b>Hash:</b> 0x8198AEDC<br/>
@@ -5200,7 +5200,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/entityxf_thumbnail.jpg" alt="Missing image &quot;entityxf.png&quot;" title="entityxf" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/entityxf.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/entityxf.png" alt="Missing image &quot;entityxf.png&quot;" title="entityxf" loading="lazy" />
     </div>
     <b>Name:</b> entityxf<br/>
     <b>Hash:</b> 0xB2FE5CF9<br/>
@@ -5208,7 +5208,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/fmj_thumbnail.jpg" alt="Missing image &quot;fmj.png&quot;" title="fmj" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/fmj.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/fmj.png" alt="Missing image &quot;fmj.png&quot;" title="fmj" loading="lazy" />
     </div>
     <b>Name:</b> fmj<br/>
     <b>Hash:</b> 0x5502626C<br/>
@@ -5217,7 +5217,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/furia_thumbnail.jpg" alt="Missing image &quot;furia.png&quot;" title="furia" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/furia.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/furia.png" alt="Missing image &quot;furia.png&quot;" title="furia" loading="lazy" />
     </div>
     <b>Name:</b> furia<br/>
     <b>Hash:</b> 0x3944D5A0<br/>
@@ -5226,7 +5226,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gp1_thumbnail.jpg" alt="Missing image &quot;gp1.png&quot;" title="gp1" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gp1.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gp1.png" alt="Missing image &quot;gp1.png&quot;" title="gp1" loading="lazy" />
     </div>
     <b>Name:</b> gp1<br/>
     <b>Hash:</b> 0x4992196C<br/>
@@ -5235,7 +5235,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/infernus_thumbnail.jpg" alt="Missing image &quot;infernus.png&quot;" title="infernus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/infernus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/infernus.png" alt="Missing image &quot;infernus.png&quot;" title="infernus" loading="lazy" />
     </div>
     <b>Name:</b> infernus<br/>
     <b>Hash:</b> 0x18F25AC7<br/>
@@ -5243,7 +5243,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/italigtb_thumbnail.jpg" alt="Missing image &quot;italigtb.png&quot;" title="italigtb" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/italigtb.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/italigtb.png" alt="Missing image &quot;italigtb.png&quot;" title="italigtb" loading="lazy" />
     </div>
     <b>Name:</b> italigtb<br/>
     <b>Hash:</b> 0x85E8E76B<br/>
@@ -5252,7 +5252,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/italigtb2_thumbnail.jpg" alt="Missing image &quot;italigtb2.png&quot;" title="italigtb2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/italigtb2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/italigtb2.png" alt="Missing image &quot;italigtb2.png&quot;" title="italigtb2" loading="lazy" />
     </div>
     <b>Name:</b> italigtb2<br/>
     <b>Hash:</b> 0xE33A477B<br/>
@@ -5261,7 +5261,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/krieger_thumbnail.jpg" alt="Missing image &quot;krieger.png&quot;" title="krieger" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/krieger.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/krieger.png" alt="Missing image &quot;krieger.png&quot;" title="krieger" loading="lazy" />
     </div>
     <b>Name:</b> krieger<br/>
     <b>Hash:</b> 0xD86A0247<br/>
@@ -5270,7 +5270,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/le7b_thumbnail.jpg" alt="Missing image &quot;le7b.png&quot;" title="le7b" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/le7b.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/le7b.png" alt="Missing image &quot;le7b.png&quot;" title="le7b" loading="lazy" />
     </div>
     <b>Name:</b> le7b<br/>
     <b>Hash:</b> 0xB6846A55<br/>
@@ -5279,7 +5279,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/nero_thumbnail.jpg" alt="Missing image &quot;nero.png&quot;" title="nero" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/nero.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/nero.png" alt="Missing image &quot;nero.png&quot;" title="nero" loading="lazy" />
     </div>
     <b>Name:</b> nero<br/>
     <b>Hash:</b> 0x3DA47243<br/>
@@ -5288,7 +5288,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/nero2_thumbnail.jpg" alt="Missing image &quot;nero2.png&quot;" title="nero2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/nero2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/nero2.png" alt="Missing image &quot;nero2.png&quot;" title="nero2" loading="lazy" />
     </div>
     <b>Name:</b> nero2<br/>
     <b>Hash:</b> 0x4131F378<br/>
@@ -5297,7 +5297,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/osiris_thumbnail.jpg" alt="Missing image &quot;osiris.png&quot;" title="osiris" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/osiris.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/osiris.png" alt="Missing image &quot;osiris.png&quot;" title="osiris" loading="lazy" />
     </div>
     <b>Name:</b> osiris<br/>
     <b>Hash:</b> 0x767164D6<br/>
@@ -5306,7 +5306,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/penetrator_thumbnail.jpg" alt="Missing image &quot;penetrator.png&quot;" title="penetrator" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/penetrator.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/penetrator.png" alt="Missing image &quot;penetrator.png&quot;" title="penetrator" loading="lazy" />
     </div>
     <b>Name:</b> penetrator<br/>
     <b>Hash:</b> 0x9734F3EA<br/>
@@ -5315,7 +5315,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pfister811_thumbnail.jpg" alt="Missing image &quot;pfister811.png&quot;" title="pfister811" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pfister811.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pfister811.png" alt="Missing image &quot;pfister811.png&quot;" title="pfister811" loading="lazy" />
     </div>
     <b>Name:</b> pfister811<br/>
     <b>Hash:</b> 0x92EF6E04<br/>
@@ -5324,7 +5324,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/prototipo_thumbnail.jpg" alt="Missing image &quot;prototipo.png&quot;" title="prototipo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/prototipo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/prototipo.png" alt="Missing image &quot;prototipo.png&quot;" title="prototipo" loading="lazy" />
     </div>
     <b>Name:</b> prototipo<br/>
     <b>Hash:</b> 0x7E8F677F<br/>
@@ -5333,7 +5333,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/reaper_thumbnail.jpg" alt="Missing image &quot;reaper.png&quot;" title="reaper" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/reaper.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/reaper.png" alt="Missing image &quot;reaper.png&quot;" title="reaper" loading="lazy" />
     </div>
     <b>Name:</b> reaper<br/>
     <b>Hash:</b> 0xDF381E5<br/>
@@ -5342,7 +5342,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/s80_thumbnail.jpg" alt="Missing image &quot;s80.png&quot;" title="s80" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/s80.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/s80.png" alt="Missing image &quot;s80.png&quot;" title="s80" loading="lazy" />
     </div>
     <b>Name:</b> s80<br/>
     <b>Hash:</b> 0xECA6B6A3<br/>
@@ -5351,7 +5351,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sc1_thumbnail.jpg" alt="Missing image &quot;sc1.png&quot;" title="sc1" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sc1.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sc1.png" alt="Missing image &quot;sc1.png&quot;" title="sc1" loading="lazy" />
     </div>
     <b>Name:</b> sc1<br/>
     <b>Hash:</b> 0x5097F589<br/>
@@ -5360,7 +5360,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/scramjet_thumbnail.jpg" alt="Missing image &quot;scramjet.png&quot;" title="scramjet" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/scramjet.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/scramjet.png" alt="Missing image &quot;scramjet.png&quot;" title="scramjet" loading="lazy" />
     </div>
     <b>Name:</b> scramjet<br/>
     <b>Hash:</b> 0xD9F0503D<br/>
@@ -5369,7 +5369,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sheava_thumbnail.jpg" alt="Missing image &quot;sheava.png&quot;" title="sheava" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sheava.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sheava.png" alt="Missing image &quot;sheava.png&quot;" title="sheava" loading="lazy" />
     </div>
     <b>Name:</b> sheava<br/>
     <b>Hash:</b> 0x30D3F6D8<br/>
@@ -5378,7 +5378,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sultanrs_thumbnail.jpg" alt="Missing image &quot;sultanrs.png&quot;" title="sultanrs" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sultanrs.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sultanrs.png" alt="Missing image &quot;sultanrs.png&quot;" title="sultanrs" loading="lazy" />
     </div>
     <b>Name:</b> sultanrs<br/>
     <b>Hash:</b> 0xEE6024BC<br/>
@@ -5387,7 +5387,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/t20_thumbnail.jpg" alt="Missing image &quot;t20.png&quot;" title="t20" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/t20.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/t20.png" alt="Missing image &quot;t20.png&quot;" title="t20" loading="lazy" />
     </div>
     <b>Name:</b> t20<br/>
     <b>Hash:</b> 0x6322B39A<br/>
@@ -5396,7 +5396,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/taipan_thumbnail.jpg" alt="Missing image &quot;taipan.png&quot;" title="taipan" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/taipan.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/taipan.png" alt="Missing image &quot;taipan.png&quot;" title="taipan" loading="lazy" />
     </div>
     <b>Name:</b> taipan<br/>
     <b>Hash:</b> 0xBC5DC07E<br/>
@@ -5405,7 +5405,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tempesta_thumbnail.jpg" alt="Missing image &quot;tempesta.png&quot;" title="tempesta" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tempesta.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tempesta.png" alt="Missing image &quot;tempesta.png&quot;" title="tempesta" loading="lazy" />
     </div>
     <b>Name:</b> tempesta<br/>
     <b>Hash:</b> 0x1044926F<br/>
@@ -5414,7 +5414,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tezeract_thumbnail.jpg" alt="Missing image &quot;tezeract.png&quot;" title="tezeract" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tezeract.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tezeract.png" alt="Missing image &quot;tezeract.png&quot;" title="tezeract" loading="lazy" />
     </div>
     <b>Name:</b> tezeract<br/>
     <b>Hash:</b> 0x3D7C6410<br/>
@@ -5423,7 +5423,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/thrax_thumbnail.jpg" alt="Missing image &quot;thrax.png&quot;" title="thrax" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/thrax.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/thrax.png" alt="Missing image &quot;thrax.png&quot;" title="thrax" loading="lazy" />
     </div>
     <b>Name:</b> thrax<br/>
     <b>Hash:</b> 0x3E3D1F59<br/>
@@ -5432,7 +5432,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tigon_thumbnail.jpg" alt="Missing image &quot;tigon.png&quot;" title="tigon" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tigon.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tigon.png" alt="Missing image &quot;tigon.png&quot;" title="tigon" loading="lazy" />
     </div>
     <b>Name:</b> tigon<br/>
     <b>Hash:</b> 0xAF0B8D48<br/>
@@ -5441,7 +5441,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/turismor_thumbnail.jpg" alt="Missing image &quot;turismor.png&quot;" title="turismor" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/turismor.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/turismor.png" alt="Missing image &quot;turismor.png&quot;" title="turismor" loading="lazy" />
     </div>
     <b>Name:</b> turismor<br/>
     <b>Hash:</b> 0x185484E1<br/>
@@ -5450,7 +5450,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tyrant_thumbnail.jpg" alt="Missing image &quot;tyrant.png&quot;" title="tyrant" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tyrant.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tyrant.png" alt="Missing image &quot;tyrant.png&quot;" title="tyrant" loading="lazy" />
     </div>
     <b>Name:</b> tyrant<br/>
     <b>Hash:</b> 0xE99011C2<br/>
@@ -5459,7 +5459,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tyrus_thumbnail.jpg" alt="Missing image &quot;tyrus.png&quot;" title="tyrus" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tyrus.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tyrus.png" alt="Missing image &quot;tyrus.png&quot;" title="tyrus" loading="lazy" />
     </div>
     <b>Name:</b> tyrus<br/>
     <b>Hash:</b> 0x7B406EFB<br/>
@@ -5468,7 +5468,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vacca_thumbnail.jpg" alt="Missing image &quot;vacca.png&quot;" title="vacca" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vacca.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vacca.png" alt="Missing image &quot;vacca.png&quot;" title="vacca" loading="lazy" />
     </div>
     <b>Name:</b> vacca<br/>
     <b>Hash:</b> 0x142E0DC3<br/>
@@ -5476,7 +5476,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vagner_thumbnail.jpg" alt="Missing image &quot;vagner.png&quot;" title="vagner" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vagner.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vagner.png" alt="Missing image &quot;vagner.png&quot;" title="vagner" loading="lazy" />
     </div>
     <b>Name:</b> vagner<br/>
     <b>Hash:</b> 0x7397224C<br/>
@@ -5485,7 +5485,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/vigilante_thumbnail.jpg" alt="Missing image &quot;vigilante.png&quot;" title="vigilante" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/vigilante.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/vigilante.png" alt="Missing image &quot;vigilante.png&quot;" title="vigilante" loading="lazy" />
     </div>
     <b>Name:</b> vigilante<br/>
     <b>Hash:</b> 0xB5EF4C33<br/>
@@ -5494,7 +5494,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/visione_thumbnail.jpg" alt="Missing image &quot;visione.png&quot;" title="visione" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/visione.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/visione.png" alt="Missing image &quot;visione.png&quot;" title="visione" loading="lazy" />
     </div>
     <b>Name:</b> visione<br/>
     <b>Hash:</b> 0xC4810400<br/>
@@ -5503,7 +5503,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/voltic_thumbnail.jpg" alt="Missing image &quot;voltic.png&quot;" title="voltic" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/voltic.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/voltic.png" alt="Missing image &quot;voltic.png&quot;" title="voltic" loading="lazy" />
     </div>
     <b>Name:</b> voltic<br/>
     <b>Hash:</b> 0x9F4B77BE<br/>
@@ -5511,7 +5511,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/voltic2_thumbnail.jpg" alt="Missing image &quot;voltic2.png&quot;" title="voltic2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/voltic2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/voltic2.png" alt="Missing image &quot;voltic2.png&quot;" title="voltic2" loading="lazy" />
     </div>
     <b>Name:</b> voltic2<br/>
     <b>Hash:</b> 0x3AF76F4A<br/>
@@ -5520,7 +5520,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/xa21_thumbnail.jpg" alt="Missing image &quot;xa21.png&quot;" title="xa21" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/xa21.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/xa21.png" alt="Missing image &quot;xa21.png&quot;" title="xa21" loading="lazy" />
     </div>
     <b>Name:</b> xa21<br/>
     <b>Hash:</b> 0x36B4A8A9<br/>
@@ -5529,7 +5529,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zentorno_thumbnail.jpg" alt="Missing image &quot;zentorno.png&quot;" title="zentorno" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zentorno.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zentorno.png" alt="Missing image &quot;zentorno.png&quot;" title="zentorno" loading="lazy" />
     </div>
     <b>Name:</b> zentorno<br/>
     <b>Hash:</b> 0xAC5DF515<br/>
@@ -5538,7 +5538,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/zorrusso_thumbnail.jpg" alt="Missing image &quot;zorrusso.png&quot;" title="zorrusso" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/zorrusso.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zorrusso.png" alt="Missing image &quot;zorrusso.png&quot;" title="zorrusso" loading="lazy" />
     </div>
     <b>Name:</b> zorrusso<br/>
     <b>Hash:</b> 0xD757D97D<br/>
@@ -5552,7 +5552,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller_thumbnail.jpg" alt="Missing image &quot;Baller.png&quot;" title="Baller" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/baller.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller.png" alt="Missing image &quot;Baller.png&quot;" title="Baller" loading="lazy" />
     </div>
     <b>Name:</b> Baller<br/>
     <b>Hash:</b> 0xCFCA3668<br/>
@@ -5560,7 +5560,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller2_thumbnail.jpg" alt="Missing image &quot;baller2.png&quot;" title="baller2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/baller2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller2.png" alt="Missing image &quot;baller2.png&quot;" title="baller2" loading="lazy" />
     </div>
     <b>Name:</b> baller2<br/>
     <b>Hash:</b> 0x8852855<br/>
@@ -5568,7 +5568,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller3_thumbnail.jpg" alt="Missing image &quot;baller3.png&quot;" title="baller3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/baller3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller3.png" alt="Missing image &quot;baller3.png&quot;" title="baller3" loading="lazy" />
     </div>
     <b>Name:</b> baller3<br/>
     <b>Hash:</b> 0x6FF0F727<br/>
@@ -5577,7 +5577,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller4_thumbnail.jpg" alt="Missing image &quot;baller4.png&quot;" title="baller4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/baller4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller4.png" alt="Missing image &quot;baller4.png&quot;" title="baller4" loading="lazy" />
     </div>
     <b>Name:</b> baller4<br/>
     <b>Hash:</b> 0x25CBE2E2<br/>
@@ -5586,7 +5586,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller5_thumbnail.jpg" alt="Missing image &quot;baller5.png&quot;" title="baller5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/baller5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller5.png" alt="Missing image &quot;baller5.png&quot;" title="baller5" loading="lazy" />
     </div>
     <b>Name:</b> baller5<br/>
     <b>Hash:</b> 0x1C09CF5E<br/>
@@ -5595,7 +5595,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller6_thumbnail.jpg" alt="Missing image &quot;baller6.png&quot;" title="baller6" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/baller6.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller6.png" alt="Missing image &quot;baller6.png&quot;" title="baller6" loading="lazy" />
     </div>
     <b>Name:</b> baller6<br/>
     <b>Hash:</b> 0x27B4E6B0<br/>
@@ -5604,7 +5604,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bjxl_thumbnail.jpg" alt="Missing image &quot;BjXL.png&quot;" title="BjXL" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bjxl.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bjxl.png" alt="Missing image &quot;BjXL.png&quot;" title="BjXL" loading="lazy" />
     </div>
     <b>Name:</b> BjXL<br/>
     <b>Hash:</b> 0x32B29A4B<br/>
@@ -5612,7 +5612,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cavalcade_thumbnail.jpg" alt="Missing image &quot;cavalcade.png&quot;" title="cavalcade" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cavalcade.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cavalcade.png" alt="Missing image &quot;cavalcade.png&quot;" title="cavalcade" loading="lazy" />
     </div>
     <b>Name:</b> cavalcade<br/>
     <b>Hash:</b> 0x779F23AA<br/>
@@ -5620,7 +5620,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/cavalcade2_thumbnail.jpg" alt="Missing image &quot;cavalcade2.png&quot;" title="cavalcade2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/cavalcade2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cavalcade2.png" alt="Missing image &quot;cavalcade2.png&quot;" title="cavalcade2" loading="lazy" />
     </div>
     <b>Name:</b> cavalcade2<br/>
     <b>Hash:</b> 0xD0EB2BE5<br/>
@@ -5628,7 +5628,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/contender_thumbnail.jpg" alt="Missing image &quot;contender.png&quot;" title="contender" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/contender.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/contender.png" alt="Missing image &quot;contender.png&quot;" title="contender" loading="lazy" />
     </div>
     <b>Name:</b> contender<br/>
     <b>Hash:</b> 0x28B67ACA<br/>
@@ -5637,7 +5637,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dubsta_thumbnail.jpg" alt="Missing image &quot;dubsta.png&quot;" title="dubsta" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dubsta.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dubsta.png" alt="Missing image &quot;dubsta.png&quot;" title="dubsta" loading="lazy" />
     </div>
     <b>Name:</b> dubsta<br/>
     <b>Hash:</b> 0x462FE277<br/>
@@ -5645,7 +5645,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/dubsta2_thumbnail.jpg" alt="Missing image &quot;dubsta2.png&quot;" title="dubsta2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/dubsta2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/dubsta2.png" alt="Missing image &quot;dubsta2.png&quot;" title="dubsta2" loading="lazy" />
     </div>
     <b>Name:</b> dubsta2<br/>
     <b>Hash:</b> 0xE882E5F6<br/>
@@ -5653,7 +5653,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/fq2_thumbnail.jpg" alt="Missing image &quot;fq2.png&quot;" title="fq2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/fq2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/fq2.png" alt="Missing image &quot;fq2.png&quot;" title="fq2" loading="lazy" />
     </div>
     <b>Name:</b> fq2<br/>
     <b>Hash:</b> 0xBC32A33B<br/>
@@ -5661,7 +5661,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/granger_thumbnail.jpg" alt="Missing image &quot;GRANGER.png&quot;" title="GRANGER" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/granger.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/granger.png" alt="Missing image &quot;GRANGER.png&quot;" title="GRANGER" loading="lazy" />
     </div>
     <b>Name:</b> GRANGER<br/>
     <b>Hash:</b> 0x9628879C<br/>
@@ -5669,7 +5669,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gresley_thumbnail.jpg" alt="Missing image &quot;gresley.png&quot;" title="gresley" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gresley.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gresley.png" alt="Missing image &quot;gresley.png&quot;" title="gresley" loading="lazy" />
     </div>
     <b>Name:</b> gresley<br/>
     <b>Hash:</b> 0xA3FC0F4D<br/>
@@ -5677,7 +5677,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/habanero_thumbnail.jpg" alt="Missing image &quot;habanero.png&quot;" title="habanero" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/habanero.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/habanero.png" alt="Missing image &quot;habanero.png&quot;" title="habanero" loading="lazy" />
     </div>
     <b>Name:</b> habanero<br/>
     <b>Hash:</b> 0x34B7390F<br/>
@@ -5685,7 +5685,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/huntley_thumbnail.jpg" alt="Missing image &quot;huntley.png&quot;" title="huntley" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/huntley.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/huntley.png" alt="Missing image &quot;huntley.png&quot;" title="huntley" loading="lazy" />
     </div>
     <b>Name:</b> huntley<br/>
     <b>Hash:</b> 0x1D06D681<br/>
@@ -5694,7 +5694,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/landstalker_thumbnail.jpg" alt="Missing image &quot;landstalker.png&quot;" title="landstalker" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/landstalker.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/landstalker.png" alt="Missing image &quot;landstalker.png&quot;" title="landstalker" loading="lazy" />
     </div>
     <b>Name:</b> landstalker<br/>
     <b>Hash:</b> 0x4BA4E8DC<br/>
@@ -5702,7 +5702,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/landstalker2_thumbnail.jpg" alt="Missing image &quot;landstalker2.png&quot;" title="landstalker2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/landstalker2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/landstalker2.png" alt="Missing image &quot;landstalker2.png&quot;" title="landstalker2" loading="lazy" />
     </div>
     <b>Name:</b> landstalker2<br/>
     <b>Hash:</b> 0xCE0B9F22<br/>
@@ -5711,7 +5711,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mesa_thumbnail.jpg" alt="Missing image &quot;MESA.png&quot;" title="MESA" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mesa.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mesa.png" alt="Missing image &quot;MESA.png&quot;" title="MESA" loading="lazy" />
     </div>
     <b>Name:</b> MESA<br/>
     <b>Hash:</b> 0x36848602<br/>
@@ -5719,7 +5719,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mesa2_thumbnail.jpg" alt="Missing image &quot;mesa2.png&quot;" title="mesa2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mesa2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mesa2.png" alt="Missing image &quot;mesa2.png&quot;" title="mesa2" loading="lazy" />
     </div>
     <b>Name:</b> mesa2<br/>
     <b>Hash:</b> 0xD36A4B44<br/>
@@ -5727,7 +5727,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/novak_thumbnail.jpg" alt="Missing image &quot;Novak.png&quot;" title="Novak" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/novak.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/novak.png" alt="Missing image &quot;Novak.png&quot;" title="Novak" loading="lazy" />
     </div>
     <b>Name:</b> Novak<br/>
     <b>Hash:</b> 0x92F5024E<br/>
@@ -5736,7 +5736,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/patriot_thumbnail.jpg" alt="Missing image &quot;patriot.png&quot;" title="patriot" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/patriot.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/patriot.png" alt="Missing image &quot;patriot.png&quot;" title="patriot" loading="lazy" />
     </div>
     <b>Name:</b> patriot<br/>
     <b>Hash:</b> 0xCFCFEB3B<br/>
@@ -5744,7 +5744,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/patriot2_thumbnail.jpg" alt="Missing image &quot;patriot2.png&quot;" title="patriot2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/patriot2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/patriot2.png" alt="Missing image &quot;patriot2.png&quot;" title="patriot2" loading="lazy" />
     </div>
     <b>Name:</b> patriot2<br/>
     <b>Hash:</b> 0xE6E967F8<br/>
@@ -5753,7 +5753,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/radi_thumbnail.jpg" alt="Missing image &quot;radi.png&quot;" title="radi" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/radi.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/radi.png" alt="Missing image &quot;radi.png&quot;" title="radi" loading="lazy" />
     </div>
     <b>Name:</b> radi<br/>
     <b>Hash:</b> 0x9D96B45B<br/>
@@ -5761,7 +5761,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rebla_thumbnail.jpg" alt="Missing image &quot;rebla.png&quot;" title="rebla" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rebla.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rebla.png" alt="Missing image &quot;rebla.png&quot;" title="rebla" loading="lazy" />
     </div>
     <b>Name:</b> rebla<br/>
     <b>Hash:</b> 0x4F48FC4<br/>
@@ -5770,7 +5770,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rocoto_thumbnail.jpg" alt="Missing image &quot;rocoto.png&quot;" title="rocoto" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rocoto.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rocoto.png" alt="Missing image &quot;rocoto.png&quot;" title="rocoto" loading="lazy" />
     </div>
     <b>Name:</b> rocoto<br/>
     <b>Hash:</b> 0x7F5C91F1<br/>
@@ -5778,7 +5778,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/seminole_thumbnail.jpg" alt="Missing image &quot;Seminole.png&quot;" title="Seminole" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/seminole.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/seminole.png" alt="Missing image &quot;Seminole.png&quot;" title="Seminole" loading="lazy" />
     </div>
     <b>Name:</b> Seminole<br/>
     <b>Hash:</b> 0x48CECED3<br/>
@@ -5786,7 +5786,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/seminole2_thumbnail.jpg" alt="Missing image &quot;seminole2.png&quot;" title="seminole2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/seminole2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/seminole2.png" alt="Missing image &quot;seminole2.png&quot;" title="seminole2" loading="lazy" />
     </div>
     <b>Name:</b> seminole2<br/>
     <b>Hash:</b> 0x94114926<br/>
@@ -5795,7 +5795,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/serrano_thumbnail.jpg" alt="Missing image &quot;serrano.png&quot;" title="serrano" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/serrano.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/serrano.png" alt="Missing image &quot;serrano.png&quot;" title="serrano" loading="lazy" />
     </div>
     <b>Name:</b> serrano<br/>
     <b>Hash:</b> 0x4FB1A214<br/>
@@ -5803,7 +5803,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/squaddie_thumbnail.jpg" alt="Missing image &quot;squaddie.png&quot;" title="squaddie" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/squaddie.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/squaddie.png" alt="Missing image &quot;squaddie.png&quot;" title="squaddie" loading="lazy" />
     </div>
     <b>Name:</b> squaddie<br/>
     <b>Hash:</b> 0xF9E67C05<br/>
@@ -5812,7 +5812,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/toros_thumbnail.jpg" alt="Missing image &quot;toros.png&quot;" title="toros" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/toros.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/toros.png" alt="Missing image &quot;toros.png&quot;" title="toros" loading="lazy" />
     </div>
     <b>Name:</b> toros<br/>
     <b>Hash:</b> 0xBA5334AC<br/>
@@ -5821,7 +5821,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/xls_thumbnail.jpg" alt="Missing image &quot;xls.png&quot;" title="xls" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/xls.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/xls.png" alt="Missing image &quot;xls.png&quot;" title="xls" loading="lazy" />
     </div>
     <b>Name:</b> xls<br/>
     <b>Hash:</b> 0x47BBCF2E<br/>
@@ -5830,7 +5830,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/xls2_thumbnail.jpg" alt="Missing image &quot;xls2.png&quot;" title="xls2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/xls2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/xls2.png" alt="Missing image &quot;xls2.png&quot;" title="xls2" loading="lazy" />
     </div>
     <b>Name:</b> xls2<br/>
     <b>Hash:</b> 0xE6401328<br/>
@@ -5844,7 +5844,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/airtug_thumbnail.jpg" alt="Missing image &quot;Airtug.png&quot;" title="Airtug" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/airtug.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/airtug.png" alt="Missing image &quot;Airtug.png&quot;" title="Airtug" loading="lazy" />
     </div>
     <b>Name:</b> Airtug<br/>
     <b>Hash:</b> 0x5D0AAC8F<br/>
@@ -5852,7 +5852,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/armytanker_thumbnail.jpg" alt="Missing image &quot;armytanker.png&quot;" title="armytanker" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/armytanker.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/armytanker.png" alt="Missing image &quot;armytanker.png&quot;" title="armytanker" loading="lazy" />
     </div>
     <b>Name:</b> armytanker<br/>
     <b>Hash:</b> 0xB8081009<br/>
@@ -5860,7 +5860,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/armytrailer_thumbnail.jpg" alt="Missing image &quot;armytrailer.png&quot;" title="armytrailer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/armytrailer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/armytrailer.png" alt="Missing image &quot;armytrailer.png&quot;" title="armytrailer" loading="lazy" />
     </div>
     <b>Name:</b> armytrailer<br/>
     <b>Hash:</b> 0xA7FF33F5<br/>
@@ -5868,7 +5868,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/armytrailer2_thumbnail.jpg" alt="Missing image &quot;armytrailer2.png&quot;" title="armytrailer2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/armytrailer2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/armytrailer2.png" alt="Missing image &quot;armytrailer2.png&quot;" title="armytrailer2" loading="lazy" />
     </div>
     <b>Name:</b> armytrailer2<br/>
     <b>Hash:</b> 0x9E6B14D6<br/>
@@ -5876,7 +5876,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/baletrailer_thumbnail.jpg" alt="Missing image &quot;baletrailer.png&quot;" title="baletrailer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/baletrailer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/baletrailer.png" alt="Missing image &quot;baletrailer.png&quot;" title="baletrailer" loading="lazy" />
     </div>
     <b>Name:</b> baletrailer<br/>
     <b>Hash:</b> 0xE82AE656<br/>
@@ -5884,7 +5884,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/boattrailer_thumbnail.jpg" alt="Missing image &quot;boattrailer.png&quot;" title="boattrailer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/boattrailer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/boattrailer.png" alt="Missing image &quot;boattrailer.png&quot;" title="boattrailer" loading="lazy" />
     </div>
     <b>Name:</b> boattrailer<br/>
     <b>Hash:</b> 0x1F3D44B5<br/>
@@ -5892,7 +5892,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/caddy_thumbnail.jpg" alt="Missing image &quot;caddy.png&quot;" title="caddy" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/caddy.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/caddy.png" alt="Missing image &quot;caddy.png&quot;" title="caddy" loading="lazy" />
     </div>
     <b>Name:</b> caddy<br/>
     <b>Hash:</b> 0x44623884<br/>
@@ -5900,7 +5900,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/caddy2_thumbnail.jpg" alt="Missing image &quot;Caddy2.png&quot;" title="Caddy2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/caddy2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/caddy2.png" alt="Missing image &quot;Caddy2.png&quot;" title="Caddy2" loading="lazy" />
     </div>
     <b>Name:</b> Caddy2<br/>
     <b>Hash:</b> 0xDFF0594C<br/>
@@ -5908,7 +5908,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/caddy3_thumbnail.jpg" alt="Missing image &quot;caddy3.png&quot;" title="caddy3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/caddy3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/caddy3.png" alt="Missing image &quot;caddy3.png&quot;" title="caddy3" loading="lazy" />
     </div>
     <b>Name:</b> caddy3<br/>
     <b>Hash:</b> 0xD227BDBB<br/>
@@ -5917,7 +5917,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/docktrailer_thumbnail.jpg" alt="Missing image &quot;docktrailer.png&quot;" title="docktrailer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/docktrailer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/docktrailer.png" alt="Missing image &quot;docktrailer.png&quot;" title="docktrailer" loading="lazy" />
     </div>
     <b>Name:</b> docktrailer<br/>
     <b>Hash:</b> 0x806EFBEE<br/>
@@ -5925,7 +5925,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/docktug_thumbnail.jpg" alt="Missing image &quot;docktug.png&quot;" title="docktug" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/docktug.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/docktug.png" alt="Missing image &quot;docktug.png&quot;" title="docktug" loading="lazy" />
     </div>
     <b>Name:</b> docktug<br/>
     <b>Hash:</b> 0xCB44B1CA<br/>
@@ -5933,7 +5933,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/forklift_thumbnail.jpg" alt="Missing image &quot;FORKLIFT.png&quot;" title="FORKLIFT" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/forklift.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/forklift.png" alt="Missing image &quot;FORKLIFT.png&quot;" title="FORKLIFT" loading="lazy" />
     </div>
     <b>Name:</b> FORKLIFT<br/>
     <b>Hash:</b> 0x58E49664<br/>
@@ -5941,7 +5941,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/freighttrailer_thumbnail.jpg" alt="Missing image &quot;freighttrailer.png&quot;" title="freighttrailer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/freighttrailer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/freighttrailer.png" alt="Missing image &quot;freighttrailer.png&quot;" title="freighttrailer" loading="lazy" />
     </div>
     <b>Name:</b> freighttrailer<br/>
     <b>Hash:</b> 0xD1ABB666<br/>
@@ -5949,7 +5949,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/graintrailer_thumbnail.jpg" alt="Missing image &quot;graintrailer.png&quot;" title="graintrailer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/graintrailer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/graintrailer.png" alt="Missing image &quot;graintrailer.png&quot;" title="graintrailer" loading="lazy" />
     </div>
     <b>Name:</b> graintrailer<br/>
     <b>Hash:</b> 0x3CC7F596<br/>
@@ -5957,7 +5957,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/mower_thumbnail.jpg" alt="Missing image &quot;Mower.png&quot;" title="Mower" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/mower.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mower.png" alt="Missing image &quot;Mower.png&quot;" title="Mower" loading="lazy" />
     </div>
     <b>Name:</b> Mower<br/>
     <b>Hash:</b> 0x6A4BD8F6<br/>
@@ -5965,7 +5965,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/proptrailer_thumbnail.jpg" alt="Missing image &quot;proptrailer.png&quot;" title="proptrailer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/proptrailer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/proptrailer.png" alt="Missing image &quot;proptrailer.png&quot;" title="proptrailer" loading="lazy" />
     </div>
     <b>Name:</b> proptrailer<br/>
     <b>Hash:</b> 0x153E1B0A<br/>
@@ -5973,7 +5973,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/raketrailer_thumbnail.jpg" alt="Missing image &quot;raketrailer.png&quot;" title="raketrailer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/raketrailer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/raketrailer.png" alt="Missing image &quot;raketrailer.png&quot;" title="raketrailer" loading="lazy" />
     </div>
     <b>Name:</b> raketrailer<br/>
     <b>Hash:</b> 0x174CB172<br/>
@@ -5981,7 +5981,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/ripley_thumbnail.jpg" alt="Missing image &quot;Ripley.png&quot;" title="Ripley" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/ripley.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ripley.png" alt="Missing image &quot;Ripley.png&quot;" title="Ripley" loading="lazy" />
     </div>
     <b>Name:</b> Ripley<br/>
     <b>Hash:</b> 0xCD935EF9<br/>
@@ -5989,7 +5989,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sadler_thumbnail.jpg" alt="Missing image &quot;Sadler.png&quot;" title="Sadler" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sadler.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sadler.png" alt="Missing image &quot;Sadler.png&quot;" title="Sadler" loading="lazy" />
     </div>
     <b>Name:</b> Sadler<br/>
     <b>Hash:</b> 0xDC434E51<br/>
@@ -5997,7 +5997,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/sadler2_thumbnail.jpg" alt="Missing image &quot;sadler2.png&quot;" title="sadler2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/sadler2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/sadler2.png" alt="Missing image &quot;sadler2.png&quot;" title="sadler2" loading="lazy" />
     </div>
     <b>Name:</b> sadler2<br/>
     <b>Hash:</b> 0x2BC345D1<br/>
@@ -6005,7 +6005,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/scrap_thumbnail.jpg" alt="Missing image &quot;scrap.png&quot;" title="scrap" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/scrap.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/scrap.png" alt="Missing image &quot;scrap.png&quot;" title="scrap" loading="lazy" />
     </div>
     <b>Name:</b> scrap<br/>
     <b>Hash:</b> 0x9A9FD3DF<br/>
@@ -6013,7 +6013,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamtruck_thumbnail.jpg" alt="Missing image &quot;slamtruck.png&quot;" title="slamtruck" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/slamtruck.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/slamtruck.png" alt="Missing image &quot;slamtruck.png&quot;" title="slamtruck" loading="lazy" />
     </div>
     <b>Name:</b> slamtruck<br/>
     <b>Hash:</b> 0xC1A8A914<br/>
@@ -6022,7 +6022,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tanker_thumbnail.jpg" alt="Missing image &quot;tanker.png&quot;" title="tanker" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tanker.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tanker.png" alt="Missing image &quot;tanker.png&quot;" title="tanker" loading="lazy" />
     </div>
     <b>Name:</b> tanker<br/>
     <b>Hash:</b> 0xD46F4737<br/>
@@ -6030,7 +6030,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tanker2_thumbnail.jpg" alt="Missing image &quot;tanker2.png&quot;" title="tanker2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tanker2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tanker2.png" alt="Missing image &quot;tanker2.png&quot;" title="tanker2" loading="lazy" />
     </div>
     <b>Name:</b> tanker2<br/>
     <b>Hash:</b> 0x74998082<br/>
@@ -6039,7 +6039,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/towtruck_thumbnail.jpg" alt="Missing image &quot;TOWTRUCK.png&quot;" title="TOWTRUCK" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/towtruck.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/towtruck.png" alt="Missing image &quot;TOWTRUCK.png&quot;" title="TOWTRUCK" loading="lazy" />
     </div>
     <b>Name:</b> TOWTRUCK<br/>
     <b>Hash:</b> 0xB12314E0<br/>
@@ -6047,7 +6047,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/towtruck2_thumbnail.jpg" alt="Missing image &quot;Towtruck2.png&quot;" title="Towtruck2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/towtruck2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/towtruck2.png" alt="Missing image &quot;Towtruck2.png&quot;" title="Towtruck2" loading="lazy" />
     </div>
     <b>Name:</b> Towtruck2<br/>
     <b>Hash:</b> 0xE5A2D6C6<br/>
@@ -6055,7 +6055,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tr2_thumbnail.jpg" alt="Missing image &quot;tr2.png&quot;" title="tr2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tr2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tr2.png" alt="Missing image &quot;tr2.png&quot;" title="tr2" loading="lazy" />
     </div>
     <b>Name:</b> tr2<br/>
     <b>Hash:</b> 0x7BE032C6<br/>
@@ -6063,7 +6063,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tr3_thumbnail.jpg" alt="Missing image &quot;tr3.png&quot;" title="tr3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tr3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tr3.png" alt="Missing image &quot;tr3.png&quot;" title="tr3" loading="lazy" />
     </div>
     <b>Name:</b> tr3<br/>
     <b>Hash:</b> 0x6A59902D<br/>
@@ -6071,7 +6071,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tr4_thumbnail.jpg" alt="Missing image &quot;tr4.png&quot;" title="tr4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tr4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tr4.png" alt="Missing image &quot;tr4.png&quot;" title="tr4" loading="lazy" />
     </div>
     <b>Name:</b> tr4<br/>
     <b>Hash:</b> 0x7CAB34D0<br/>
@@ -6079,7 +6079,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tractor_thumbnail.jpg" alt="Missing image &quot;TRACTOR.png&quot;" title="TRACTOR" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tractor.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tractor.png" alt="Missing image &quot;TRACTOR.png&quot;" title="TRACTOR" loading="lazy" />
     </div>
     <b>Name:</b> TRACTOR<br/>
     <b>Hash:</b> 0x61D6BA8C<br/>
@@ -6087,7 +6087,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tractor2_thumbnail.jpg" alt="Missing image &quot;tractor2.png&quot;" title="tractor2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tractor2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tractor2.png" alt="Missing image &quot;tractor2.png&quot;" title="tractor2" loading="lazy" />
     </div>
     <b>Name:</b> tractor2<br/>
     <b>Hash:</b> 0x843B73DE<br/>
@@ -6095,7 +6095,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tractor3_thumbnail.jpg" alt="Missing image &quot;tractor3.png&quot;" title="tractor3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tractor3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tractor3.png" alt="Missing image &quot;tractor3.png&quot;" title="tractor3" loading="lazy" />
     </div>
     <b>Name:</b> tractor3<br/>
     <b>Hash:</b> 0x562A97BD<br/>
@@ -6103,7 +6103,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailerlarge_thumbnail.jpg" alt="Missing image &quot;trailerlarge.png&quot;" title="trailerlarge" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trailerlarge.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailerlarge.png" alt="Missing image &quot;trailerlarge.png&quot;" title="trailerlarge" loading="lazy" />
     </div>
     <b>Name:</b> trailerlarge<br/>
     <b>Hash:</b> 0x5993F939<br/>
@@ -6112,7 +6112,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailerlogs_thumbnail.jpg" alt="Missing image &quot;trailerlogs.png&quot;" title="trailerlogs" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trailerlogs.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailerlogs.png" alt="Missing image &quot;trailerlogs.png&quot;" title="trailerlogs" loading="lazy" />
     </div>
     <b>Name:</b> trailerlogs<br/>
     <b>Hash:</b> 0x782A236D<br/>
@@ -6120,7 +6120,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailers_thumbnail.jpg" alt="Missing image &quot;trailers.png&quot;" title="trailers" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trailers.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailers.png" alt="Missing image &quot;trailers.png&quot;" title="trailers" loading="lazy" />
     </div>
     <b>Name:</b> trailers<br/>
     <b>Hash:</b> 0xCBB2BE0E<br/>
@@ -6128,7 +6128,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailers2_thumbnail.jpg" alt="Missing image &quot;trailers2.png&quot;" title="trailers2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trailers2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailers2.png" alt="Missing image &quot;trailers2.png&quot;" title="trailers2" loading="lazy" />
     </div>
     <b>Name:</b> trailers2<br/>
     <b>Hash:</b> 0xA1DA3C91<br/>
@@ -6136,7 +6136,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailers3_thumbnail.jpg" alt="Missing image &quot;trailers3.png&quot;" title="trailers3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trailers3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailers3.png" alt="Missing image &quot;trailers3.png&quot;" title="trailers3" loading="lazy" />
     </div>
     <b>Name:</b> trailers3<br/>
     <b>Hash:</b> 0x8548036D<br/>
@@ -6144,7 +6144,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailers4_thumbnail.jpg" alt="Missing image &quot;trailers4.png&quot;" title="trailers4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trailers4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailers4.png" alt="Missing image &quot;trailers4.png&quot;" title="trailers4" loading="lazy" />
     </div>
     <b>Name:</b> trailers4<br/>
     <b>Hash:</b> 0xBE66F5AA<br/>
@@ -6153,7 +6153,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailersmall_thumbnail.jpg" alt="Missing image &quot;trailersmall.png&quot;" title="trailersmall" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trailersmall.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trailersmall.png" alt="Missing image &quot;trailersmall.png&quot;" title="trailersmall" loading="lazy" />
     </div>
     <b>Name:</b> trailersmall<br/>
     <b>Hash:</b> 0x2A72BEAB<br/>
@@ -6161,7 +6161,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/trflat_thumbnail.jpg" alt="Missing image &quot;trflat.png&quot;" title="trflat" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/trflat.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/trflat.png" alt="Missing image &quot;trflat.png&quot;" title="trflat" loading="lazy" />
     </div>
     <b>Name:</b> trflat<br/>
     <b>Hash:</b> 0xAF62F6B2<br/>
@@ -6169,7 +6169,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/tvtrailer_thumbnail.jpg" alt="Missing image &quot;tvtrailer.png&quot;" title="tvtrailer" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/tvtrailer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/tvtrailer.png" alt="Missing image &quot;tvtrailer.png&quot;" title="tvtrailer" loading="lazy" />
     </div>
     <b>Name:</b> tvtrailer<br/>
     <b>Hash:</b> 0x967620BE<br/>
@@ -6177,7 +6177,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/utillitruck_thumbnail.jpg" alt="Missing image &quot;utillitruck.png&quot;" title="utillitruck" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/utillitruck.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/utillitruck.png" alt="Missing image &quot;utillitruck.png&quot;" title="utillitruck" loading="lazy" />
     </div>
     <b>Name:</b> utillitruck<br/>
     <b>Hash:</b> 0x1ED0A534<br/>
@@ -6185,7 +6185,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/utillitruck2_thumbnail.jpg" alt="Missing image &quot;utillitruck2.png&quot;" title="utillitruck2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/utillitruck2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/utillitruck2.png" alt="Missing image &quot;utillitruck2.png&quot;" title="utillitruck2" loading="lazy" />
     </div>
     <b>Name:</b> utillitruck2<br/>
     <b>Hash:</b> 0x34E6BF6B<br/>
@@ -6193,7 +6193,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/utillitruck3_thumbnail.jpg" alt="Missing image &quot;Utillitruck3.png&quot;" title="Utillitruck3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/utillitruck3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/utillitruck3.png" alt="Missing image &quot;Utillitruck3.png&quot;" title="Utillitruck3" loading="lazy" />
     </div>
     <b>Name:</b> Utillitruck3<br/>
     <b>Hash:</b> 0x7F2153DF<br/>
@@ -6206,7 +6206,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bison_thumbnail.jpg" alt="Missing image &quot;bison.png&quot;" title="bison" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bison.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bison.png" alt="Missing image &quot;bison.png&quot;" title="bison" loading="lazy" />
     </div>
     <b>Name:</b> bison<br/>
     <b>Hash:</b> 0xFEFD644F<br/>
@@ -6214,7 +6214,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bison2_thumbnail.jpg" alt="Missing image &quot;Bison2.png&quot;" title="Bison2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bison2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bison2.png" alt="Missing image &quot;Bison2.png&quot;" title="Bison2" loading="lazy" />
     </div>
     <b>Name:</b> Bison2<br/>
     <b>Hash:</b> 0x7B8297C5<br/>
@@ -6222,7 +6222,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bison3_thumbnail.jpg" alt="Missing image &quot;Bison3.png&quot;" title="Bison3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bison3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bison3.png" alt="Missing image &quot;Bison3.png&quot;" title="Bison3" loading="lazy" />
     </div>
     <b>Name:</b> Bison3<br/>
     <b>Hash:</b> 0x67B3F020<br/>
@@ -6230,7 +6230,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/bobcatxl_thumbnail.jpg" alt="Missing image &quot;bobcatXL.png&quot;" title="bobcatXL" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/bobcatxl.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/bobcatxl.png" alt="Missing image &quot;bobcatXL.png&quot;" title="bobcatXL" loading="lazy" />
     </div>
     <b>Name:</b> bobcatXL<br/>
     <b>Hash:</b> 0x3FC5D440<br/>
@@ -6238,7 +6238,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/boxville_thumbnail.jpg" alt="Missing image &quot;boxville.png&quot;" title="boxville" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/boxville.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/boxville.png" alt="Missing image &quot;boxville.png&quot;" title="boxville" loading="lazy" />
     </div>
     <b>Name:</b> boxville<br/>
     <b>Hash:</b> 0x898ECCEA<br/>
@@ -6246,7 +6246,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/boxville2_thumbnail.jpg" alt="Missing image &quot;boxville2.png&quot;" title="boxville2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/boxville2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/boxville2.png" alt="Missing image &quot;boxville2.png&quot;" title="boxville2" loading="lazy" />
     </div>
     <b>Name:</b> boxville2<br/>
     <b>Hash:</b> 0xF21B33BE<br/>
@@ -6254,7 +6254,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/boxville3_thumbnail.jpg" alt="Missing image &quot;boxville3.png&quot;" title="boxville3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/boxville3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/boxville3.png" alt="Missing image &quot;boxville3.png&quot;" title="boxville3" loading="lazy" />
     </div>
     <b>Name:</b> boxville3<br/>
     <b>Hash:</b> 0x7405E08<br/>
@@ -6262,7 +6262,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/boxville4_thumbnail.jpg" alt="Missing image &quot;boxville4.png&quot;" title="boxville4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/boxville4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/boxville4.png" alt="Missing image &quot;boxville4.png&quot;" title="boxville4" loading="lazy" />
     </div>
     <b>Name:</b> boxville4<br/>
     <b>Hash:</b> 0x1A79847A<br/>
@@ -6271,7 +6271,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/boxville5_thumbnail.jpg" alt="Missing image &quot;boxville5.png&quot;" title="boxville5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/boxville5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/boxville5.png" alt="Missing image &quot;boxville5.png&quot;" title="boxville5" loading="lazy" />
     </div>
     <b>Name:</b> boxville5<br/>
     <b>Hash:</b> 0x28AD20E1<br/>
@@ -6280,7 +6280,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/burrito_thumbnail.jpg" alt="Missing image &quot;Burrito.png&quot;" title="Burrito" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/burrito.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/burrito.png" alt="Missing image &quot;Burrito.png&quot;" title="Burrito" loading="lazy" />
     </div>
     <b>Name:</b> Burrito<br/>
     <b>Hash:</b> 0xAFBB2CA4<br/>
@@ -6288,7 +6288,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/burrito2_thumbnail.jpg" alt="Missing image &quot;burrito2.png&quot;" title="burrito2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/burrito2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/burrito2.png" alt="Missing image &quot;burrito2.png&quot;" title="burrito2" loading="lazy" />
     </div>
     <b>Name:</b> burrito2<br/>
     <b>Hash:</b> 0xC9E8FF76<br/>
@@ -6296,7 +6296,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/burrito3_thumbnail.jpg" alt="Missing image &quot;burrito3.png&quot;" title="burrito3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/burrito3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/burrito3.png" alt="Missing image &quot;burrito3.png&quot;" title="burrito3" loading="lazy" />
     </div>
     <b>Name:</b> burrito3<br/>
     <b>Hash:</b> 0x98171BD3<br/>
@@ -6304,7 +6304,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/burrito4_thumbnail.jpg" alt="Missing image &quot;Burrito4.png&quot;" title="Burrito4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/burrito4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/burrito4.png" alt="Missing image &quot;Burrito4.png&quot;" title="Burrito4" loading="lazy" />
     </div>
     <b>Name:</b> Burrito4<br/>
     <b>Hash:</b> 0x353B561D<br/>
@@ -6312,7 +6312,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/burrito5_thumbnail.jpg" alt="Missing image &quot;burrito5.png&quot;" title="burrito5" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/burrito5.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/burrito5.png" alt="Missing image &quot;burrito5.png&quot;" title="burrito5" loading="lazy" />
     </div>
     <b>Name:</b> burrito5<br/>
     <b>Hash:</b> 0x437CF2A0<br/>
@@ -6320,7 +6320,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/camper_thumbnail.jpg" alt="Missing image &quot;CAMPER.png&quot;" title="CAMPER" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/camper.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/camper.png" alt="Missing image &quot;CAMPER.png&quot;" title="CAMPER" loading="lazy" />
     </div>
     <b>Name:</b> CAMPER<br/>
     <b>Hash:</b> 0x6FD95F68<br/>
@@ -6328,7 +6328,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gburrito_thumbnail.jpg" alt="Missing image &quot;gburrito.png&quot;" title="gburrito" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gburrito.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gburrito.png" alt="Missing image &quot;gburrito.png&quot;" title="gburrito" loading="lazy" />
     </div>
     <b>Name:</b> gburrito<br/>
     <b>Hash:</b> 0x97FA4F36<br/>
@@ -6336,7 +6336,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/gburrito2_thumbnail.jpg" alt="Missing image &quot;gburrito2.png&quot;" title="gburrito2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/gburrito2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/gburrito2.png" alt="Missing image &quot;gburrito2.png&quot;" title="gburrito2" loading="lazy" />
     </div>
     <b>Name:</b> gburrito2<br/>
     <b>Hash:</b> 0x11AA0E14<br/>
@@ -6345,7 +6345,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/journey_thumbnail.jpg" alt="Missing image &quot;journey.png&quot;" title="journey" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/journey.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/journey.png" alt="Missing image &quot;journey.png&quot;" title="journey" loading="lazy" />
     </div>
     <b>Name:</b> journey<br/>
     <b>Hash:</b> 0xF8D48E7A<br/>
@@ -6353,7 +6353,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/minivan_thumbnail.jpg" alt="Missing image &quot;minivan.png&quot;" title="minivan" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/minivan.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/minivan.png" alt="Missing image &quot;minivan.png&quot;" title="minivan" loading="lazy" />
     </div>
     <b>Name:</b> minivan<br/>
     <b>Hash:</b> 0xED7EADA4<br/>
@@ -6361,7 +6361,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/minivan2_thumbnail.jpg" alt="Missing image &quot;minivan2.png&quot;" title="minivan2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/minivan2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/minivan2.png" alt="Missing image &quot;minivan2.png&quot;" title="minivan2" loading="lazy" />
     </div>
     <b>Name:</b> minivan2<br/>
     <b>Hash:</b> 0xBCDE91F0<br/>
@@ -6370,7 +6370,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/paradise_thumbnail.jpg" alt="Missing image &quot;paradise.png&quot;" title="paradise" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/paradise.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/paradise.png" alt="Missing image &quot;paradise.png&quot;" title="paradise" loading="lazy" />
     </div>
     <b>Name:</b> paradise<br/>
     <b>Hash:</b> 0x58B3979C<br/>
@@ -6379,7 +6379,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pony_thumbnail.jpg" alt="Missing image &quot;pony.png&quot;" title="pony" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pony.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pony.png" alt="Missing image &quot;pony.png&quot;" title="pony" loading="lazy" />
     </div>
     <b>Name:</b> pony<br/>
     <b>Hash:</b> 0xF8DE29A8<br/>
@@ -6387,7 +6387,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/pony2_thumbnail.jpg" alt="Missing image &quot;pony2.png&quot;" title="pony2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/pony2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/pony2.png" alt="Missing image &quot;pony2.png&quot;" title="pony2" loading="lazy" />
     </div>
     <b>Name:</b> pony2<br/>
     <b>Hash:</b> 0x38408341<br/>
@@ -6395,7 +6395,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rumpo_thumbnail.jpg" alt="Missing image &quot;rumpo.png&quot;" title="rumpo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rumpo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rumpo.png" alt="Missing image &quot;rumpo.png&quot;" title="rumpo" loading="lazy" />
     </div>
     <b>Name:</b> rumpo<br/>
     <b>Hash:</b> 0x4543B74D<br/>
@@ -6403,7 +6403,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rumpo2_thumbnail.jpg" alt="Missing image &quot;rumpo2.png&quot;" title="rumpo2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rumpo2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rumpo2.png" alt="Missing image &quot;rumpo2.png&quot;" title="rumpo2" loading="lazy" />
     </div>
     <b>Name:</b> rumpo2<br/>
     <b>Hash:</b> 0x961AFEF7<br/>
@@ -6411,7 +6411,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/rumpo3_thumbnail.jpg" alt="Missing image &quot;rumpo3.png&quot;" title="rumpo3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/rumpo3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/rumpo3.png" alt="Missing image &quot;rumpo3.png&quot;" title="rumpo3" loading="lazy" />
     </div>
     <b>Name:</b> rumpo3<br/>
     <b>Hash:</b> 0x57F682AF<br/>
@@ -6420,7 +6420,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/speedo_thumbnail.jpg" alt="Missing image &quot;speedo.png&quot;" title="speedo" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/speedo.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/speedo.png" alt="Missing image &quot;speedo.png&quot;" title="speedo" loading="lazy" />
     </div>
     <b>Name:</b> speedo<br/>
     <b>Hash:</b> 0xCFB3870C<br/>
@@ -6428,7 +6428,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/speedo2_thumbnail.jpg" alt="Missing image &quot;speedo2.png&quot;" title="speedo2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/speedo2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/speedo2.png" alt="Missing image &quot;speedo2.png&quot;" title="speedo2" loading="lazy" />
     </div>
     <b>Name:</b> speedo2<br/>
     <b>Hash:</b> 0x2B6DC64A<br/>
@@ -6436,7 +6436,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/speedo4_thumbnail.jpg" alt="Missing image &quot;speedo4.png&quot;" title="speedo4" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/speedo4.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/speedo4.png" alt="Missing image &quot;speedo4.png&quot;" title="speedo4" loading="lazy" />
     </div>
     <b>Name:</b> speedo4<br/>
     <b>Hash:</b> 0xD17099D<br/>
@@ -6445,7 +6445,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/surfer_thumbnail.jpg" alt="Missing image &quot;SURFER.png&quot;" title="SURFER" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/surfer.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/surfer.png" alt="Missing image &quot;SURFER.png&quot;" title="SURFER" loading="lazy" />
     </div>
     <b>Name:</b> SURFER<br/>
     <b>Hash:</b> 0x29B0DA97<br/>
@@ -6453,7 +6453,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/surfer2_thumbnail.jpg" alt="Missing image &quot;Surfer2.png&quot;" title="Surfer2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/surfer2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/surfer2.png" alt="Missing image &quot;Surfer2.png&quot;" title="Surfer2" loading="lazy" />
     </div>
     <b>Name:</b> Surfer2<br/>
     <b>Hash:</b> 0xB1D80E06<br/>
@@ -6461,7 +6461,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/taco_thumbnail.jpg" alt="Missing image &quot;Taco.png&quot;" title="Taco" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/taco.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/taco.png" alt="Missing image &quot;Taco.png&quot;" title="Taco" loading="lazy" />
     </div>
     <b>Name:</b> Taco<br/>
     <b>Hash:</b> 0x744CA80D<br/>
@@ -6469,7 +6469,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/youga_thumbnail.jpg" alt="Missing image &quot;youga.png&quot;" title="youga" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/youga.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/youga.png" alt="Missing image &quot;youga.png&quot;" title="youga" loading="lazy" />
     </div>
     <b>Name:</b> youga<br/>
     <b>Hash:</b> 0x3E5F6B8<br/>
@@ -6477,7 +6477,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/youga2_thumbnail.jpg" alt="Missing image &quot;youga2.png&quot;" title="youga2" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/youga2.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/youga2.png" alt="Missing image &quot;youga2.png&quot;" title="youga2" loading="lazy" />
     </div>
     <b>Name:</b> youga2<br/>
     <b>Hash:</b> 0x3D29CD2B<br/>
@@ -6486,7 +6486,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/vehicle/models/youga3_thumbnail.jpg" alt="Missing image &quot;youga3.png&quot;" title="youga3" loading="lazy" data-toggle="modal" data-src="~/altv-docs-gta-assets/images/vehicle/models/youga3.png" />
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/youga3.png" alt="Missing image &quot;youga3.png&quot;" title="youga3" loading="lazy" />
     </div>
     <b>Name:</b> youga3<br/>
     <b>Hash:</b> 0x6B73A9BE<br/>
