@@ -2,6 +2,8 @@
   href: ambient-zones.md
 - name: Audio Flags
   href: audio-flags.md
+- name: Checkpoint Types
+  href: checkpoints.md
 - name: Controls
   href: controls.md
 - name: Data Files
