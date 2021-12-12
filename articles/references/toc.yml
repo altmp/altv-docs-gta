@@ -16,6 +16,8 @@
   href: time-and-date.md
 - name: Trains
   href: trains.md
+- name: Weather
+  href: weather.md
 - name: Versions
   href: versions.md
 - name: Ybn
