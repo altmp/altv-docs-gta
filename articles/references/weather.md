@@ -19,7 +19,7 @@
 | 13    | Christmas         |
 | 14    | Halloween         |
 
-## Preview
+## General Preview
 
 <div class="grid-container">
     <div class="grid-item">
@@ -74,7 +74,7 @@
         <div class="grid-item-img">
             <img src="~/altv-docs-gta-assets/images/world/weather/8_day.jpg" alt="Missing image &quot;8_day.jpg&quot;" title="Light rain" loading="lazy" />
         </div>
-        <b>ID 9</b>
+        <b>ID 8</b>
     </div>
     <div class="grid-item">
         <div class="grid-item-img">
@@ -111,5 +111,167 @@
             <img src="~/altv-docs-gta-assets/images/world/weather/14_day.jpg" alt="Missing image &quot;14_day.jpg&quot;" title="Halloween" loading="lazy" />
         </div>
         <b>ID 14</b>
+    </div>
+</div>
+
+## Weather ID 9
+Depending on the time.
+
+<div class="grid-container">
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_0.jpg" alt="Missing image &quot;9_hour_0.jpg&quot;" title="Time: 00:00" loading="lazy" />
+        </div>
+        <b>Time: 00:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_1.jpg" alt="Missing image &quot;9_hour_1.jpg&quot;" title="Time: 01:00" loading="lazy" />
+        </div>
+        <b>Time: 01:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_2.jpg" alt="Missing image &quot;9_hour_2.jpg&quot;" title="Time: 02:00" loading="lazy" />
+        </div>
+        <b>Time: 02:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_3.jpg" alt="Missing image &quot;9_hour_3.jpg&quot;" title="Time: 03:00" loading="lazy" />
+        </div>
+        <b>Time: 03:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_4.jpg" alt="Missing image &quot;9_hour_4.jpg&quot;" title="Time: 04:00" loading="lazy" />
+        </div>
+        <b>Time: 04:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_5.jpg" alt="Missing image &quot;9_hour_5.jpg&quot;" title="Time: 05:00" loading="lazy" />
+        </div>
+        <b>Time: 05:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_6.jpg" alt="Missing image &quot;9_hour_6.jpg&quot;" title="Time: 06:00" loading="lazy" />
+        </div>
+        <b>Time: 06:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_7.jpg" alt="Missing image &quot;9_hour_7.jpg&quot;" title="Time: 07:00" loading="lazy" />
+        </div>
+        <b>Time: 07:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_8.jpg" alt="Missing image &quot;9_hour_8.jpg&quot;" title="Time: 08:00" loading="lazy" />
+        </div>
+        <b>Time: 08:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_9.jpg" alt="Missing image &quot;9_hour_9.jpg&quot;" title="Time: 09:00" loading="lazy" />
+        </div>
+        <b>Time: 09:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_10.jpg" alt="Missing image &quot;9_hour_10.jpg&quot;" title="Time: 10:00" loading="lazy" />
+        </div>
+        <b>Time: 10:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_11.jpg" alt="Missing image &quot;9_hour_11.jpg&quot;" title="Time: 11:00" loading="lazy" />
+        </div>
+        <b>Time: 11:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_12.jpg" alt="Missing image &quot;9_hour_12.jpg&quot;" title="Time: 12:00" loading="lazy" />
+        </div>
+        <b>Time: 12:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_13.jpg" alt="Missing image &quot;9_hour_13.jpg&quot;" title="Time: 13:00" loading="lazy" />
+        </div>
+        <b>Time: 13:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_14.jpg" alt="Missing image &quot;9_hour_14.jpg&quot;" title="Time: 14:00" loading="lazy" />
+        </div>
+        <b>Time: 14:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_15.jpg" alt="Missing image &quot;9_hour_15.jpg&quot;" title="Time: 15:00" loading="lazy" />
+        </div>
+        <b>Time: 15:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_16.jpg" alt="Missing image &quot;9_hour_16.jpg&quot;" title="Time: 16:00" loading="lazy" />
+        </div>
+        <b>Time: 16:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_17.jpg" alt="Missing image &quot;9_hour_17.jpg&quot;" title="Time: 17:00" loading="lazy" />
+        </div>
+        <b>Time: 17:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_18.jpg" alt="Missing image &quot;9_hour_18.jpg&quot;" title="Time: 18:00" loading="lazy" />
+        </div>
+        <b>Time: 18:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_19.jpg" alt="Missing image &quot;9_hour_19.jpg&quot;" title="Time: 19:00" loading="lazy" />
+        </div>
+        <b>Time: 19:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_20.jpg" alt="Missing image &quot;9_hour_20.jpg&quot;" title="Time: 20:00" loading="lazy" />
+        </div>
+        <b>Time: 20:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_21.jpg" alt="Missing image &quot;9_hour_21.jpg&quot;" title="Time: 21:00" loading="lazy" />
+        </div>
+        <b>Time: 21:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_22.jpg" alt="Missing image &quot;9_hour_22.jpg&quot;" title="Time: 22:00" loading="lazy" />
+        </div>
+        <b>Time: 22:00</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/9_hour_23.jpg" alt="Missing image &quot;9_hour_23.jpg&quot;" title="Time: 23:00" loading="lazy" />
+        </div>
+        <b>Time: 23:00</b>
+    </div>
+</div>
+
+## Weather ID 14
+This weather ID is more noticeable at night.
+
+<div class="grid-container">
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-gta-assets/images/world/weather/14_night.jpg" alt="Missing image &quot;14_night.jpg&quot;" title="Time: 00:00" loading="lazy" />
+        </div>
+        <b>Time: 00:00</b>
     </div>
 </div>
