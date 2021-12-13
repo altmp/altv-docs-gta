@@ -13,3 +13,4 @@ plugins/
 templates/*
 tools/generators/ped_models/bin/*
 tools/generators/vehicle_models/bin/*
+tools/generators/weapon_models/bin/*
