@@ -1,4 +1,6 @@
 - name: Components
   href: components.md
+- name: Models
+  href: models.md
 - name: Tints
   href: tints.md
