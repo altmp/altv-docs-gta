@@ -52,6 +52,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/a_c_chop_02.png" alt="Missing image &quot;A_C_Chop_02.png&quot;" title="A_C_Chop_02" loading="lazy" />
+    </div>
+    <b>Name:</b> A_C_Chop_02<br/>
+    <b>Hash:</b> 0x3DF40FC1<br/>
+    <b>Type:</b> ANIMAL<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/a_c_cormorant.png" alt="Missing image &quot;A_C_Cormorant.png&quot;" title="A_C_Cormorant" loading="lazy" />
     </div>
     <b>Name:</b> A_C_Cormorant<br/>
@@ -934,6 +943,24 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/a_f_y_studioparty_01.png" alt="Missing image &quot;A_F_Y_StudioParty_01.png&quot;" title="A_F_Y_StudioParty_01" loading="lazy" />
+    </div>
+    <b>Name:</b> A_F_Y_StudioParty_01<br/>
+    <b>Hash:</b> 0x44B4D748<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/a_f_y_studioparty_02.png" alt="Missing image &quot;A_F_Y_StudioParty_02.png&quot;" title="A_F_Y_StudioParty_02" loading="lazy" />
+    </div>
+    <b>Name:</b> A_F_Y_StudioParty_02<br/>
+    <b>Hash:</b> 0x76463A5E<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/a_f_y_tennis_01.png" alt="Missing image &quot;A_F_Y_Tennis_01.png&quot;" title="A_F_Y_Tennis_01" loading="lazy" />
     </div>
     <b>Name:</b> A_F_Y_Tennis_01<br/>
@@ -1372,6 +1399,15 @@
     <b>Hash:</b> 0xC2A87702<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> basegame
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/a_m_m_studioparty_01.png" alt="Missing image &quot;A_M_M_StudioParty_01.png&quot;" title="A_M_M_StudioParty_01" loading="lazy" />
+    </div>
+    <b>Name:</b> A_M_M_StudioParty_01<br/>
+    <b>Hash:</b> 0x8B996025<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -2122,6 +2158,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/a_m_y_studioparty_01.png" alt="Missing image &quot;A_M_Y_StudioParty_01.png&quot;" title="A_M_Y_StudioParty_01" loading="lazy" />
+    </div>
+    <b>Name:</b> A_M_Y_StudioParty_01<br/>
+    <b>Hash:</b> 0xB231229D<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/a_m_y_stwhi_01.png" alt="Missing image &quot;A_M_Y_StWhi_01.png&quot;" title="A_M_Y_StWhi_01" loading="lazy" />
     </div>
     <b>Name:</b> A_M_Y_StWhi_01<br/>
@@ -2560,6 +2605,15 @@
     <b>Hash:</b> 0x45463A0D<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> basegame
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/cs_lamardavis_02.png" alt="Missing image &quot;CS_LamarDavis_02.png&quot;" title="CS_LamarDavis_02" loading="lazy" />
+    </div>
+    <b>Name:</b> CS_LamarDavis_02<br/>
+    <b>Hash:</b> 0x1562E05<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -3058,6 +3112,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_ary_02.png" alt="Missing image &quot;CSB_ARY_02.png&quot;" title="CSB_ARY_02" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_ARY_02<br/>
+    <b>Hash:</b> 0xEA177CDD<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/csb_avery.png" alt="Missing image &quot;CSB_Avery.png&quot;" title="CSB_Avery" loading="lazy" />
     </div>
     <b>Name:</b> CSB_Avery<br/>
@@ -3085,12 +3148,30 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_ballas_leader.png" alt="Missing image &quot;CSB_Ballas_Leader.png&quot;" title="CSB_Ballas_Leader" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Ballas_Leader<br/>
+    <b>Hash:</b> 0xB8A90E13<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/csb_ballasog.png" alt="Missing image &quot;CSB_BallasOG.png&quot;" title="CSB_BallasOG" loading="lazy" />
     </div>
     <b>Name:</b> CSB_BallasOG<br/>
     <b>Hash:</b> 0xABEF0004<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> basegame
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_billionaire.png" alt="Missing image &quot;CSB_Billionaire.png&quot;" title="CSB_Billionaire" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Billionaire<br/>
+    <b>Hash:</b> 0xCA846157<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -3301,6 +3382,24 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_golfer_a.png" alt="Missing image &quot;CSB_Golfer_A.png&quot;" title="CSB_Golfer_A" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Golfer_A<br/>
+    <b>Hash:</b> 0x7E5F1188<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_golfer_b.png" alt="Missing image &quot;CSB_Golfer_B.png&quot;" title="CSB_Golfer_B" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Golfer_B<br/>
+    <b>Hash:</b> 0xDCEDCEA4<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/csb_groom.png" alt="Missing image &quot;CSB_Groom.png&quot;" title="CSB_Groom" loading="lazy" />
     </div>
     <b>Name:</b> CSB_Groom<br/>
@@ -3342,7 +3441,7 @@
     <b>Name:</b> CSB_Hao_02<br/>
     <b>Hash:</b> 0xBF71EF93<br/>
     <b>Type:</b> CIVMALE<br/>
-    <b>DLC:</b> mptuner
+    <b>DLC:</b> patchday26ng
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -3370,6 +3469,15 @@
     <b>Hash:</b> 0x6F139B54<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> basegame
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_imani.png" alt="Missing image &quot;CSB_Imani.png&quot;" title="CSB_Imani" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Imani<br/>
+    <b>Hash:</b> 0x7671A8F6<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -3454,6 +3562,24 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_jio_02.png" alt="Missing image &quot;CSB_JIO_02.png&quot;" title="CSB_JIO_02" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_JIO_02<br/>
+    <b>Hash:</b> 0xDCB110B0<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_johnny_guns.png" alt="Missing image &quot;CSB_Johnny_Guns.png&quot;" title="CSB_Johnny_Guns" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Johnny_Guns<br/>
+    <b>Hash:</b> 0x7DA9C6A1<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/csb_juanstrickler.png" alt="Missing image &quot;CSB_JuanStrickler.png&quot;" title="CSB_JuanStrickler" loading="lazy" />
     </div>
     <b>Name:</b> CSB_JuanStrickler<br/>
@@ -3499,6 +3625,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_mjo_02.png" alt="Missing image &quot;CSB_MJO_02.png&quot;" title="CSB_MJO_02" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_MJO_02<br/>
+    <b>Hash:</b> 0x98F3FA18<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/csb_money.png" alt="Missing image &quot;CSB_Money.png&quot;" title="CSB_Money" loading="lazy" />
     </div>
     <b>Name:</b> CSB_Money<br/>
@@ -3535,6 +3670,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_musician_00.png" alt="Missing image &quot;CSB_Musician_00.png&quot;" title="CSB_Musician_00" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Musician_00<br/>
+    <b>Hash:</b> 0xC7BC9E2C<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/csb_mweather.png" alt="Missing image &quot;CSB_MWeather.png&quot;" title="CSB_MWeather" loading="lazy" />
     </div>
     <b>Name:</b> CSB_MWeather<br/>
@@ -3568,6 +3712,15 @@
     <b>Hash:</b> 0x5B1FA0C3<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> mpheist
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_party_promo.png" alt="Missing image &quot;CSB_Party_Promo.png&quot;" title="CSB_Party_Promo" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Party_Promo<br/>
+    <b>Hash:</b> 0x98D8449F<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -3670,6 +3823,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_req_officer.png" alt="Missing image &quot;CSB_Req_Officer.png&quot;" title="CSB_Req_Officer" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Req_Officer<br/>
+    <b>Hash:</b> 0x88F76B3A<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/csb_roccopelosi.png" alt="Missing image &quot;CSB_RoccoPelosi.png&quot;" title="CSB_RoccoPelosi" loading="lazy" />
     </div>
     <b>Name:</b> CSB_RoccoPelosi<br/>
@@ -3688,6 +3850,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_security_a.png" alt="Missing image &quot;CSB_Security_A.png&quot;" title="CSB_Security_A" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Security_A<br/>
+    <b>Hash:</b> 0x2BC9001C<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/csb_sessanta.png" alt="Missing image &quot;CSB_Sessanta.png&quot;" title="CSB_Sessanta" loading="lazy" />
     </div>
     <b>Name:</b> CSB_Sessanta<br/>
@@ -3703,6 +3874,15 @@
     <b>Hash:</b> 0x4EF92B55<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> mpbattle
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_soundeng_00.png" alt="Missing image &quot;CSB_SoundEng_00.png&quot;" title="CSB_SoundEng_00" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_SoundEng_00<br/>
+    <b>Hash:</b> 0x20606D6C<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -3805,12 +3985,30 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_vagos_leader.png" alt="Missing image &quot;CSB_Vagos_Leader.png&quot;" title="CSB_Vagos_Leader" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Vagos_Leader<br/>
+    <b>Hash:</b> 0x8332EBE5<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/csb_vagspeak.png" alt="Missing image &quot;CSB_VagSpeak.png&quot;" title="CSB_VagSpeak" loading="lazy" />
     </div>
     <b>Name:</b> CSB_VagSpeak<br/>
     <b>Hash:</b> 0x48FF4CA9<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> mplowrider
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/csb_vernon.png" alt="Missing image &quot;CSB_Vernon.png&quot;" title="CSB_Vernon" loading="lazy" />
+    </div>
+    <b>Name:</b> CSB_Vernon<br/>
+    <b>Hash:</b> 0xBD7713C6<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -3991,6 +4189,15 @@
     <b>Hash:</b> 0xFF71F826<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> patchday3ng
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/g_m_m_goons_01.png" alt="Missing image &quot;G_M_M_Goons_01.png&quot;" title="G_M_M_Goons_01" loading="lazy" />
+    </div>
+    <b>Name:</b> G_M_M_Goons_01<br/>
+    <b>Hash:</b> 0x61ECD362<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -4354,6 +4561,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_ary_02.png" alt="Missing image &quot;IG_ARY_02.png&quot;" title="IG_ARY_02" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_ARY_02<br/>
+    <b>Hash:</b> 0x879F366F<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/ig_ashley.png" alt="Missing image &quot;IG_Ashley.png&quot;" title="IG_Ashley" loading="lazy" />
     </div>
     <b>Name:</b> IG_Ashley<br/>
@@ -4387,6 +4603,15 @@
     <b>Hash:</b> 0xFCE270C2<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> mpchristmas2017
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_ballas_leader.png" alt="Missing image &quot;IG_Ballas_Leader.png&quot;" title="IG_Ballas_Leader" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Ballas_Leader<br/>
+    <b>Hash:</b> 0xDB41B4EF<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -4450,6 +4675,15 @@
     <b>Hash:</b> 0xBDA21E5C<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> patchday4ng
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_billionaire.png" alt="Missing image &quot;IG_Billionaire.png&quot;" title="IG_Billionaire" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Billionaire<br/>
+    <b>Hash:</b> 0x1AD5181<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -4795,6 +5029,24 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_entourage_a.png" alt="Missing image &quot;IG_Entourage_A.png&quot;" title="IG_Entourage_A" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Entourage_A<br/>
+    <b>Hash:</b> 0x19F5CED2<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_entourage_b.png" alt="Missing image &quot;IG_Entourage_B.png&quot;" title="IG_Entourage_B" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Entourage_B<br/>
+    <b>Hash:</b> 0xC866ABB5<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/ig_fabien.png" alt="Missing image &quot;IG_Fabien.png&quot;" title="IG_Fabien" loading="lazy" />
     </div>
     <b>Name:</b> IG_Fabien<br/>
@@ -4840,6 +5092,24 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_golfer_a.png" alt="Missing image &quot;IG_Golfer_A.png&quot;" title="IG_Golfer_A" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Golfer_A<br/>
+    <b>Hash:</b> 0x3F9B1A4D<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_golfer_b.png" alt="Missing image &quot;IG_Golfer_B.png&quot;" title="IG_Golfer_B" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Golfer_B<br/>
+    <b>Hash:</b> 0x6ECC78AF<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/ig_groom.png" alt="Missing image &quot;IG_Groom.png&quot;" title="IG_Groom" loading="lazy" />
     </div>
     <b>Name:</b> IG_Groom<br/>
@@ -4872,7 +5142,7 @@
     <b>Name:</b> IG_Hao_02<br/>
     <b>Hash:</b> 0xF0837160<br/>
     <b>Type:</b> CIVMALE<br/>
-    <b>DLC:</b> mptuner
+    <b>DLC:</b> patchday26ng
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -4900,6 +5170,15 @@
     <b>Hash:</b> 0xCE1324DE<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> basegame
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_imani.png" alt="Missing image &quot;IG_Imani.png&quot;" title="IG_Imani" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Imani<br/>
+    <b>Hash:</b> 0x2E0A4F4A<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -5056,12 +5335,30 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_jio_02.png" alt="Missing image &quot;IG_JIO_02.png&quot;" title="IG_JIO_02" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_JIO_02<br/>
+    <b>Hash:</b> 0xD047EE3E<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/ig_joeminuteman.png" alt="Missing image &quot;IG_JoeMinuteMan.png&quot;" title="IG_JoeMinuteMan" loading="lazy" />
     </div>
     <b>Name:</b> IG_JoeMinuteMan<br/>
     <b>Hash:</b> 0xBE204C9B<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> basegame
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_johnny_guns.png" alt="Missing image &quot;IG_Johnny_Guns.png&quot;" title="IG_Johnny_Guns" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Johnny_Guns<br/>
+    <b>Hash:</b> 0x27474FFA<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -5152,6 +5449,15 @@
     <b>Hash:</b> 0x65B93076<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> basegame
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_lamardavis_02.png" alt="Missing image &quot;IG_LamarDavis_02.png&quot;" title="IG_LamarDavis_02" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_LamarDavis_02<br/>
+    <b>Hash:</b> 0x1924A05E<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -5326,6 +5632,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_mjo_02.png" alt="Missing image &quot;IG_MJO_02.png&quot;" title="IG_MJO_02" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_MJO_02<br/>
+    <b>Hash:</b> 0x38C749C4<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/ig_molly.png" alt="Missing image &quot;IG_Molly.png&quot;" title="IG_Molly" loading="lazy" />
     </div>
     <b>Name:</b> IG_Molly<br/>
@@ -5386,6 +5701,15 @@
     <b>Hash:</b> 0x3862EEA8<br/>
     <b>Type:</b> CIVFEMALE<br/>
     <b>DLC:</b> mppatchesng
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_musician_00.png" alt="Missing image &quot;IG_Musician_00.png&quot;" title="IG_Musician_00" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Musician_00<br/>
+    <b>Hash:</b> 0x23791ABF<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -5497,6 +5821,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_party_promo.png" alt="Missing image &quot;IG_Party_Promo.png&quot;" title="IG_Party_Promo" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Party_Promo<br/>
+    <b>Hash:</b> 0x85B8A435<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/ig_patricia.png" alt="Missing image &quot;IG_Patricia.png&quot;" title="IG_Patricia" loading="lazy" />
     </div>
     <b>Name:</b> IG_Patricia<br/>
@@ -5596,6 +5929,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_req_officer.png" alt="Missing image &quot;IG_Req_Officer.png&quot;" title="IG_Req_Officer" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Req_Officer<br/>
+    <b>Hash:</b> 0xEB176014<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/ig_roccopelosi.png" alt="Missing image &quot;IG_RoccoPelosi.png&quot;" title="IG_RoccoPelosi" loading="lazy" />
     </div>
     <b>Name:</b> IG_RoccoPelosi<br/>
@@ -5632,6 +5974,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_security_a.png" alt="Missing image &quot;IG_Security_A.png&quot;" title="IG_Security_A" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Security_A<br/>
+    <b>Hash:</b> 0x2F4E5C7B<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/ig_sessanta.png" alt="Missing image &quot;IG_Sessanta.png&quot;" title="IG_Sessanta" loading="lazy" />
     </div>
     <b>Name:</b> IG_Sessanta<br/>
@@ -5665,6 +6016,15 @@
     <b>Hash:</b> 0x86BDFE26<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> patchday3ng
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_soundeng_00.png" alt="Missing image &quot;IG_SoundEng_00.png&quot;" title="IG_SoundEng_00" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_SoundEng_00<br/>
+    <b>Hash:</b> 0xDA3BDDE8<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -5866,12 +6226,30 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_vagos_leader.png" alt="Missing image &quot;IG_Vagos_Leader.png&quot;" title="IG_Vagos_Leader" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Vagos_Leader<br/>
+    <b>Hash:</b> 0x837B64DE<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/ig_vagspeak.png" alt="Missing image &quot;IG_VagSpeak.png&quot;" title="IG_VagSpeak" loading="lazy" />
     </div>
     <b>Name:</b> IG_VagSpeak<br/>
     <b>Hash:</b> 0xF9FD068C<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> mplowrider
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_vernon.png" alt="Missing image &quot;IG_Vernon.png&quot;" title="IG_Vernon" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Vernon<br/>
+    <b>Hash:</b> 0xCDB291A2<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -5890,6 +6268,15 @@
     <b>Hash:</b> 0xBC4BDD3<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> mpheist3
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/ig_vincent_3.png" alt="Missing image &quot;IG_Vincent_3.png&quot;" title="IG_Vincent_3" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Vincent_3<br/>
+    <b>Hash:</b> 0x15ADD1A5<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -6280,6 +6667,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/p_franklin_02.png" alt="Missing image &quot;P_Franklin_02.png&quot;" title="P_Franklin_02" loading="lazy" />
+    </div>
+    <b>Name:</b> P_Franklin_02<br/>
+    <b>Hash:</b> 0xAF10BD56<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/player_one.png" alt="Missing image &quot;Player_One.png&quot;" title="Player_One" loading="lazy" />
     </div>
     <b>Name:</b> Player_One<br/>
@@ -6349,6 +6745,15 @@
     <b>Hash:</b> 0xAE47E4B0<br/>
     <b>Type:</b> CIVFEMALE<br/>
     <b>DLC:</b> mppatchesng
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/s_f_m_studioassist_01.png" alt="Missing image &quot;S_F_M_StudioAssist_01.png&quot;" title="S_F_M_StudioAssist_01" loading="lazy" />
+    </div>
+    <b>Name:</b> S_F_M_StudioAssist_01<br/>
+    <b>Hash:</b> 0xC155ACC0<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -6811,6 +7216,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/s_m_m_highsec_05.png" alt="Missing image &quot;S_M_M_HighSec_05.png&quot;" title="S_M_M_HighSec_05" loading="lazy" />
+    </div>
+    <b>Name:</b> S_M_M_HighSec_05<br/>
+    <b>Hash:</b> 0x3ABB64C0<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/ped/models/s_m_m_janitor.png" alt="Missing image &quot;S_M_M_Janitor.png&quot;" title="S_M_M_Janitor" loading="lazy" />
     </div>
     <b>Name:</b> S_M_M_Janitor<br/>
@@ -7033,6 +7447,33 @@
     <b>Hash:</b> 0xCE9113A9<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> basegame
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/s_m_m_studioassist_02.png" alt="Missing image &quot;S_M_M_StudioAssist_02.png&quot;" title="S_M_M_StudioAssist_02" loading="lazy" />
+    </div>
+    <b>Name:</b> S_M_M_StudioAssist_02<br/>
+    <b>Hash:</b> 0x9FB16928<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/s_m_m_studioprod_01.png" alt="Missing image &quot;S_M_M_StudioProd_01.png&quot;" title="S_M_M_StudioProd_01" loading="lazy" />
+    </div>
+    <b>Name:</b> S_M_M_StudioProd_01<br/>
+    <b>Hash:</b> 0xE3A30BBF<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/ped/models/s_m_m_studiosoueng_02.png" alt="Missing image &quot;S_M_M_StudioSouEng_02.png&quot;" title="S_M_M_StudioSouEng_02" loading="lazy" />
+    </div>
+    <b>Name:</b> S_M_M_StudioSouEng_02<br/>
+    <b>Hash:</b> 0xDE08C410<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -8387,6 +8828,7 @@ export class PedModel {
   static a_c_chickenhawk = 0xAAB71F62;
   static a_c_chimp = 0xA8683715;
   static a_c_chop = 0x14EC17EA;
+  static a_c_chop_02 = 0x3DF40FC1;
   static a_c_cormorant = 0x56E29962;
   static a_c_cow = 0xFCFA9E1E;
   static a_c_coyote = 0x644AC75E;
@@ -8485,6 +8927,8 @@ export class PedModel {
   static a_f_y_soucent_01 = 0x2C641D7A;
   static a_f_y_soucent_02 = 0x5A8EF9CF;
   static a_f_y_soucent_03 = 0x87B25415;
+  static a_f_y_studioparty_01 = 0x44B4D748;
+  static a_f_y_studioparty_02 = 0x76463A5E;
   static a_f_y_tennis_01 = 0x550C79C6;
   static a_f_y_topless_01 = 0x9CF26183;
   static a_f_y_tourist_01 = 0x563B8570;
@@ -8534,6 +8978,7 @@ export class PedModel {
   static a_m_m_soucent_03 = 0x8BD990BA;
   static a_m_m_soucent_04 = 0xC2FBFEFE;
   static a_m_m_stlat_02 = 0xC2A87702;
+  static a_m_m_studioparty_01 = 0x8B996025;
   static a_m_m_tennis_01 = 0x546A5344;
   static a_m_m_tourist_01 = 0xC89F0184;
   static a_m_m_tramp_01 = 0x1EC93FD0;
@@ -8617,6 +9062,7 @@ export class PedModel {
   static a_m_y_stbla_01 = 0xCF92ADE9;
   static a_m_y_stbla_02 = 0x98C7404F;
   static a_m_y_stlat_01 = 0x8674D5FC;
+  static a_m_y_studioparty_01 = 0xB231229D;
   static a_m_y_stwhi_01 = 0x2418C430;
   static a_m_y_stwhi_02 = 0x36C6E98C;
   static a_m_y_sunbathe_01 = 0xB7292F0C;
@@ -8666,6 +9112,7 @@ export class PedModel {
   static cs_josh = 0x450EEF9D;
   static cs_karen_daniels = 0x4BAF381C;
   static cs_lamardavis = 0x45463A0D;
+  static cs_lamardavis_02 = 0x1562E05;
   static cs_lazlow = 0x38951A1B;
   static cs_lazlow_2 = 0x5F4C593D;
   static cs_lestercrest = 0xB594F5C3;
@@ -8721,10 +9168,13 @@ export class PedModel {
   static csb_anita = 0x703F106;
   static csb_anton = 0xA5C787B6;
   static csb_ary = 0xB65C594E;
+  static csb_ary_02 = 0xEA177CDD;
   static csb_avery = 0x551CC92D;
   static csb_avischwartzman_02 = 0x89FEFCE0;
   static csb_avon = 0x1833364D;
+  static csb_ballas_leader = 0xB8A90E13;
   static csb_ballasog = 0xABEF0004;
+  static csb_billionaire = 0xCA846157;
   static csb_bogdan = 0x5F06D73D;
   static csb_bride = 0x82BF7EA1;
   static csb_brucie2 = 0xC860AE15;
@@ -8748,6 +9198,8 @@ export class PedModel {
   static csb_fos_rep = 0x1BCC157B;
   static csb_g = 0xA28E71D7;
   static csb_georginacheng = 0x1491EABB;
+  static csb_golfer_a = 0x7E5F1188;
+  static csb_golfer_b = 0xDCEDCEA4;
   static csb_groom = 0x7AAB19D2;
   static csb_grove_str_dlr = 0xE8594E22;
   static csb_gustavo = 0x8AF43D22;
@@ -8756,6 +9208,7 @@ export class PedModel {
   static csb_helmsmanpavel = 0x9F7E81F8;
   static csb_huang = 0x3F6E6283;
   static csb_hugh = 0x6F139B54;
+  static csb_imani = 0x7671A8F6;
   static csb_imran = 0xE3420BDB;
   static csb_isldj_00 = 0x7A5EE1A5;
   static csb_isldj_01 = 0x34DFD6A4;
@@ -8765,19 +9218,24 @@ export class PedModel {
   static csb_jackhowitzer = 0x44BC7BB1;
   static csb_janitor = 0xC2005A40;
   static csb_jio = 0xA28B9E2D;
+  static csb_jio_02 = 0xDCB110B0;
+  static csb_johnny_guns = 0x7DA9C6A1;
   static csb_juanstrickler = 0xD74B8139;
   static csb_maude = 0xBCC475CB;
   static csb_miguelmadrazo = 0xDBB17082;
   static csb_mimi = 0x86C1FFE8;
   static csb_mjo = 0xA0FDA755;
+  static csb_mjo_02 = 0x98F3FA18;
   static csb_money = 0x989DFD9A;
   static csb_moodyman_02 = 0x8D7EE5A4;
   static csb_mp_agent14 = 0x6DBBFC8B;
   static csb_mrs_r = 0x9D79C026;
+  static csb_musician_00 = 0xC7BC9E2C;
   static csb_mweather = 0x613E626C;
   static csb_ortega = 0xC0DB04CF;
   static csb_oscar = 0xF41F399B;
   static csb_paige = 0x5B1FA0C3;
+  static csb_party_promo = 0x98D8449F;
   static csb_popov = 0x617D89E2;
   static csb_porndudes = 0x2F4AFE35;
   static csb_prologuedriver = 0xF00B49DB;
@@ -8789,10 +9247,13 @@ export class PedModel {
   static csb_ramp_mex = 0xF64ED7D0;
   static csb_rashcosvki = 0x188099A9;
   static csb_reporter = 0x2E420A24;
+  static csb_req_officer = 0x88F76B3A;
   static csb_roccopelosi = 0xAA64168C;
   static csb_screen_writer = 0x8BE12CEC;
+  static csb_security_a = 0x2BC9001C;
   static csb_sessanta = 0xD3BAC7E0;
   static csb_sol = 0x4EF92B55;
+  static csb_soundeng_00 = 0x20606D6C;
   static csb_sss = 0xE0DBDC60;
   static csb_stripper_01 = 0xAEEA76B5;
   static csb_stripper_02 = 0x81441B71;
@@ -8804,7 +9265,9 @@ export class PedModel {
   static csb_tonyprince = 0x5D5F971B;
   static csb_trafficwarden = 0xDE2937F3;
   static csb_undercover = 0xEF785A6A;
+  static csb_vagos_leader = 0x8332EBE5;
   static csb_vagspeak = 0x48FF4CA9;
+  static csb_vernon = 0xBD7713C6;
   static csb_vincent = 0x1F0846A7;
   static csb_vincent_2 = 0xA5E08E20;
   static csb_wendy = 0x55A789AF;
@@ -8825,6 +9288,7 @@ export class PedModel {
   static g_m_m_chicold_01 = 0x106D9A99;
   static g_m_m_chigoon_01 = 0x7E4F763F;
   static g_m_m_chigoon_02 = 0xFF71F826;
+  static g_m_m_goons_01 = 0x61ECD362;
   static g_m_m_korboss_01 = 0x352A026F;
   static g_m_m_mexboss_01 = 0x5761F4AD;
   static g_m_m_mexboss_02 = 0x4914D813;
@@ -8865,10 +9329,12 @@ export class PedModel {
   static ig_amandatownley = 0x6D1E15F7;
   static ig_andreas = 0x47E4EEA0;
   static ig_ary = 0xCF0C7037;
+  static ig_ary_02 = 0x879F366F;
   static ig_ashley = 0x7EF440DB;
   static ig_avery = 0xB8133F6F;
   static ig_avischwartzman_02 = 0xDEA6E105;
   static ig_avon = 0xFCE270C2;
+  static ig_ballas_leader = 0xDB41B4EF;
   static ig_ballasog = 0xA70B4A92;
   static ig_bankman = 0x909D9E7F;
   static ig_barry = 0x2F8845A3;
@@ -8876,6 +9342,7 @@ export class PedModel {
   static ig_benny_02 = 0x73D1907B;
   static ig_bestmen = 0x5746CD96;
   static ig_beverly = 0xBDA21E5C;
+  static ig_billionaire = 0x1AD5181;
   static ig_brad = 0xBDBB4922;
   static ig_bride = 0x6162EC47;
   static ig_brucie2 = 0xE80E9160;
@@ -8914,11 +9381,15 @@ export class PedModel {
   static ig_drugdealer = 0x1F0CA79D;
   static ig_englishdave = 0xC3CEB0C;
   static ig_englishdave_02 = 0x35FFA54A;
+  static ig_entourage_a = 0x19F5CED2;
+  static ig_entourage_b = 0xC866ABB5;
   static ig_fabien = 0xD090C350;
   static ig_fbisuit_01 = 0x3AE4A33B;
   static ig_floyd = 0xB1B196B2;
   static ig_g = 0x841BA933;
   static ig_georginacheng = 0xEF4BAB2F;
+  static ig_golfer_a = 0x3F9B1A4D;
+  static ig_golfer_b = 0x6ECC78AF;
   static ig_groom = 0xFECE8B85;
   static ig_gustavo = 0xB585B217;
   static ig_hao = 0x65978363;
@@ -8926,6 +9397,7 @@ export class PedModel {
   static ig_helmsmanpavel = 0xD7C1E2B1;
   static ig_huang = 0xBFD2A133;
   static ig_hunter = 0xCE1324DE;
+  static ig_imani = 0x2E0A4F4A;
   static ig_isldj_00 = 0xE2A32E68;
   static ig_isldj_01 = 0x6F4747CE;
   static ig_isldj_02 = 0x5D1DA37B;
@@ -8943,7 +9415,9 @@ export class PedModel {
   static ig_jimmydisanto = 0x570462B9;
   static ig_jimmydisanto2 = 0x842DC2D6;
   static ig_jio = 0x73775F3F;
+  static ig_jio_02 = 0xD047EE3E;
   static ig_joeminuteman = 0xBE204C9B;
+  static ig_johnny_guns = 0x27474FFA;
   static ig_johnnyklebitz = 0x87CA80AE;
   static ig_josef = 0xE11A9FB4;
   static ig_josh = 0x799E9EEE;
@@ -8954,6 +9428,7 @@ export class PedModel {
   static ig_kerrymcintosh_02 = 0xD842BE92;
   static ig_lacey_jones_02 = 0xCC36BEEC;
   static ig_lamardavis = 0x65B93076;
+  static ig_lamardavis_02 = 0x1924A05E;
   static ig_lazlow = 0xDFE443E5;
   static ig_lazlow_2 = 0x850446EC;
   static ig_lestercrest = 0x4DA6E849;
@@ -8973,6 +9448,7 @@ export class PedModel {
   static ig_milton = 0xCB3059B2;
   static ig_mimi = 0x784F9C95;
   static ig_mjo = 0x2D5DB362;
+  static ig_mjo_02 = 0x38C749C4;
   static ig_molly = 0xAF03DDE1;
   static ig_money = 0x37FACDA6;
   static ig_moodyman_02 = 0x97D144B3;
@@ -8980,6 +9456,7 @@ export class PedModel {
   static ig_mrk = 0xEDDCAB6D;
   static ig_mrs_thornhill = 0x1E04A96B;
   static ig_mrsphillips = 0x3862EEA8;
+  static ig_musician_00 = 0x23791ABF;
   static ig_natalia = 0xDE17DD3B;
   static ig_nervousron = 0xBD006AF1;
   static ig_nigel = 0xC8B7167D;
@@ -8992,6 +9469,7 @@ export class PedModel {
   static ig_ortega = 0x26A562B7;
   static ig_paige = 0x154FCF3F;
   static ig_paper = 0x999B00C6;
+  static ig_party_promo = 0x85B8A435;
   static ig_patricia = 0xC56E118C;
   static ig_patricia_02 = 0xC3114CB1;
   static ig_pilot = 0x864ED68E;
@@ -9003,14 +9481,17 @@ export class PedModel {
   static ig_ramp_hipster = 0xDEEF9F6E;
   static ig_ramp_mex = 0xE6AC74A4;
   static ig_rashcosvki = 0x380C4DE6;
+  static ig_req_officer = 0xEB176014;
   static ig_roccopelosi = 0xD5BA52FF;
   static ig_russiandrunk = 0x3D0A5EB1;
   static ig_sacha = 0x5802D9F5;
   static ig_screen_writer = 0xFFE63677;
+  static ig_security_a = 0x2F4E5C7B;
   static ig_sessanta = 0x371B9DA9;
   static ig_siemonyetarian = 0x4C7B2F05;
   static ig_sol = 0xE1AB915C;
   static ig_solomon = 0x86BDFE26;
+  static ig_soundeng_00 = 0xDA3BDDE8;
   static ig_sss = 0x3B18E305;
   static ig_stevehains = 0x382121C8;
   static ig_stretch = 0x36984358;
@@ -9033,9 +9514,12 @@ export class PedModel {
   static ig_trafficwarden = 0x5719786D;
   static ig_tylerdix = 0x5265F707;
   static ig_tylerdix_02 = 0x5A185477;
+  static ig_vagos_leader = 0x837B64DE;
   static ig_vagspeak = 0xF9FD068C;
+  static ig_vernon = 0xCDB291A2;
   static ig_vincent = 0x2BE886B2;
   static ig_vincent_2 = 0xBC4BDD3;
+  static ig_vincent_3 = 0x15ADD1A5;
   static ig_wade = 0x92991B72;
   static ig_wendy = 0x6E47A411;
   static ig_zimbor = 0xB34D6F5;
@@ -9080,6 +9564,7 @@ export class PedModel {
   static mp_m_weapwork_01 = 0x4186506E;
   static mp_m_weed_01 = 0x917ED459;
   static mp_s_m_armoured_01 = 0xCDEF5408;
+  static p_franklin_02 = 0xAF10BD56;
   static player_one = 0x9B22DBAF;
   static player_two = 0x9B810FA2;
   static player_zero = 0xD7114C9;
@@ -9088,6 +9573,7 @@ export class PedModel {
   static s_f_m_maid_01 = 0xE093C5C6;
   static s_f_m_retailstaff_01 = 0xC19C2462;
   static s_f_m_shop_high = 0xAE47E4B0;
+  static s_f_m_studioassist_01 = 0xC155ACC0;
   static s_f_m_sweatshop_01 = 0x312B5BC0;
   static s_f_y_airhostess_01 = 0x5D71A46F;
   static s_f_y_bartender_01 = 0x780C01BD;
@@ -9139,6 +9625,7 @@ export class PedModel {
   static s_m_m_highsec_02 = 0x2930C1AB;
   static s_m_m_highsec_03 = 0x1EEAAD1F;
   static s_m_m_highsec_04 = 0x55FE9B46;
+  static s_m_m_highsec_05 = 0x3ABB64C0;
   static s_m_m_janitor = 0xA96BD9EC;
   static s_m_m_lathandy_01 = 0x9E80D2CE;
   static s_m_m_lifeinvad_01 = 0xDE0077FD;
@@ -9164,6 +9651,9 @@ export class PedModel {
   static s_m_m_strperf_01 = 0x795AC7A8;
   static s_m_m_strpreach_01 = 0x1C0077FB;
   static s_m_m_strvend_01 = 0xCE9113A9;
+  static s_m_m_studioassist_02 = 0x9FB16928;
+  static s_m_m_studioprod_01 = 0xE3A30BBF;
+  static s_m_m_studiosoueng_02 = 0xDE08C410;
   static s_m_m_tattoo_01 = 0xC41743EB;
   static s_m_m_trucker_01 = 0x59511A6C;
   static s_m_m_ups_01 = 0x9FC37F22;
@@ -9326,6 +9816,7 @@ export enum PedModel {
   a_c_chickenhawk = 0xAAB71F62,
   a_c_chimp = 0xA8683715,
   a_c_chop = 0x14EC17EA,
+  a_c_chop_02 = 0x3DF40FC1,
   a_c_cormorant = 0x56E29962,
   a_c_cow = 0xFCFA9E1E,
   a_c_coyote = 0x644AC75E,
@@ -9424,6 +9915,8 @@ export enum PedModel {
   a_f_y_soucent_01 = 0x2C641D7A,
   a_f_y_soucent_02 = 0x5A8EF9CF,
   a_f_y_soucent_03 = 0x87B25415,
+  a_f_y_studioparty_01 = 0x44B4D748,
+  a_f_y_studioparty_02 = 0x76463A5E,
   a_f_y_tennis_01 = 0x550C79C6,
   a_f_y_topless_01 = 0x9CF26183,
   a_f_y_tourist_01 = 0x563B8570,
@@ -9473,6 +9966,7 @@ export enum PedModel {
   a_m_m_soucent_03 = 0x8BD990BA,
   a_m_m_soucent_04 = 0xC2FBFEFE,
   a_m_m_stlat_02 = 0xC2A87702,
+  a_m_m_studioparty_01 = 0x8B996025,
   a_m_m_tennis_01 = 0x546A5344,
   a_m_m_tourist_01 = 0xC89F0184,
   a_m_m_tramp_01 = 0x1EC93FD0,
@@ -9556,6 +10050,7 @@ export enum PedModel {
   a_m_y_stbla_01 = 0xCF92ADE9,
   a_m_y_stbla_02 = 0x98C7404F,
   a_m_y_stlat_01 = 0x8674D5FC,
+  a_m_y_studioparty_01 = 0xB231229D,
   a_m_y_stwhi_01 = 0x2418C430,
   a_m_y_stwhi_02 = 0x36C6E98C,
   a_m_y_sunbathe_01 = 0xB7292F0C,
@@ -9605,6 +10100,7 @@ export enum PedModel {
   cs_josh = 0x450EEF9D,
   cs_karen_daniels = 0x4BAF381C,
   cs_lamardavis = 0x45463A0D,
+  cs_lamardavis_02 = 0x1562E05,
   cs_lazlow = 0x38951A1B,
   cs_lazlow_2 = 0x5F4C593D,
   cs_lestercrest = 0xB594F5C3,
@@ -9660,10 +10156,13 @@ export enum PedModel {
   csb_anita = 0x703F106,
   csb_anton = 0xA5C787B6,
   csb_ary = 0xB65C594E,
+  csb_ary_02 = 0xEA177CDD,
   csb_avery = 0x551CC92D,
   csb_avischwartzman_02 = 0x89FEFCE0,
   csb_avon = 0x1833364D,
+  csb_ballas_leader = 0xB8A90E13,
   csb_ballasog = 0xABEF0004,
+  csb_billionaire = 0xCA846157,
   csb_bogdan = 0x5F06D73D,
   csb_bride = 0x82BF7EA1,
   csb_brucie2 = 0xC860AE15,
@@ -9687,6 +10186,8 @@ export enum PedModel {
   csb_fos_rep = 0x1BCC157B,
   csb_g = 0xA28E71D7,
   csb_georginacheng = 0x1491EABB,
+  csb_golfer_a = 0x7E5F1188,
+  csb_golfer_b = 0xDCEDCEA4,
   csb_groom = 0x7AAB19D2,
   csb_grove_str_dlr = 0xE8594E22,
   csb_gustavo = 0x8AF43D22,
@@ -9695,6 +10196,7 @@ export enum PedModel {
   csb_helmsmanpavel = 0x9F7E81F8,
   csb_huang = 0x3F6E6283,
   csb_hugh = 0x6F139B54,
+  csb_imani = 0x7671A8F6,
   csb_imran = 0xE3420BDB,
   csb_isldj_00 = 0x7A5EE1A5,
   csb_isldj_01 = 0x34DFD6A4,
@@ -9704,19 +10206,24 @@ export enum PedModel {
   csb_jackhowitzer = 0x44BC7BB1,
   csb_janitor = 0xC2005A40,
   csb_jio = 0xA28B9E2D,
+  csb_jio_02 = 0xDCB110B0,
+  csb_johnny_guns = 0x7DA9C6A1,
   csb_juanstrickler = 0xD74B8139,
   csb_maude = 0xBCC475CB,
   csb_miguelmadrazo = 0xDBB17082,
   csb_mimi = 0x86C1FFE8,
   csb_mjo = 0xA0FDA755,
+  csb_mjo_02 = 0x98F3FA18,
   csb_money = 0x989DFD9A,
   csb_moodyman_02 = 0x8D7EE5A4,
   csb_mp_agent14 = 0x6DBBFC8B,
   csb_mrs_r = 0x9D79C026,
+  csb_musician_00 = 0xC7BC9E2C,
   csb_mweather = 0x613E626C,
   csb_ortega = 0xC0DB04CF,
   csb_oscar = 0xF41F399B,
   csb_paige = 0x5B1FA0C3,
+  csb_party_promo = 0x98D8449F,
   csb_popov = 0x617D89E2,
   csb_porndudes = 0x2F4AFE35,
   csb_prologuedriver = 0xF00B49DB,
@@ -9728,10 +10235,13 @@ export enum PedModel {
   csb_ramp_mex = 0xF64ED7D0,
   csb_rashcosvki = 0x188099A9,
   csb_reporter = 0x2E420A24,
+  csb_req_officer = 0x88F76B3A,
   csb_roccopelosi = 0xAA64168C,
   csb_screen_writer = 0x8BE12CEC,
+  csb_security_a = 0x2BC9001C,
   csb_sessanta = 0xD3BAC7E0,
   csb_sol = 0x4EF92B55,
+  csb_soundeng_00 = 0x20606D6C,
   csb_sss = 0xE0DBDC60,
   csb_stripper_01 = 0xAEEA76B5,
   csb_stripper_02 = 0x81441B71,
@@ -9743,7 +10253,9 @@ export enum PedModel {
   csb_tonyprince = 0x5D5F971B,
   csb_trafficwarden = 0xDE2937F3,
   csb_undercover = 0xEF785A6A,
+  csb_vagos_leader = 0x8332EBE5,
   csb_vagspeak = 0x48FF4CA9,
+  csb_vernon = 0xBD7713C6,
   csb_vincent = 0x1F0846A7,
   csb_vincent_2 = 0xA5E08E20,
   csb_wendy = 0x55A789AF,
@@ -9764,6 +10276,7 @@ export enum PedModel {
   g_m_m_chicold_01 = 0x106D9A99,
   g_m_m_chigoon_01 = 0x7E4F763F,
   g_m_m_chigoon_02 = 0xFF71F826,
+  g_m_m_goons_01 = 0x61ECD362,
   g_m_m_korboss_01 = 0x352A026F,
   g_m_m_mexboss_01 = 0x5761F4AD,
   g_m_m_mexboss_02 = 0x4914D813,
@@ -9804,10 +10317,12 @@ export enum PedModel {
   ig_amandatownley = 0x6D1E15F7,
   ig_andreas = 0x47E4EEA0,
   ig_ary = 0xCF0C7037,
+  ig_ary_02 = 0x879F366F,
   ig_ashley = 0x7EF440DB,
   ig_avery = 0xB8133F6F,
   ig_avischwartzman_02 = 0xDEA6E105,
   ig_avon = 0xFCE270C2,
+  ig_ballas_leader = 0xDB41B4EF,
   ig_ballasog = 0xA70B4A92,
   ig_bankman = 0x909D9E7F,
   ig_barry = 0x2F8845A3,
@@ -9815,6 +10330,7 @@ export enum PedModel {
   ig_benny_02 = 0x73D1907B,
   ig_bestmen = 0x5746CD96,
   ig_beverly = 0xBDA21E5C,
+  ig_billionaire = 0x1AD5181,
   ig_brad = 0xBDBB4922,
   ig_bride = 0x6162EC47,
   ig_brucie2 = 0xE80E9160,
@@ -9853,11 +10369,15 @@ export enum PedModel {
   ig_drugdealer = 0x1F0CA79D,
   ig_englishdave = 0xC3CEB0C,
   ig_englishdave_02 = 0x35FFA54A,
+  ig_entourage_a = 0x19F5CED2,
+  ig_entourage_b = 0xC866ABB5,
   ig_fabien = 0xD090C350,
   ig_fbisuit_01 = 0x3AE4A33B,
   ig_floyd = 0xB1B196B2,
   ig_g = 0x841BA933,
   ig_georginacheng = 0xEF4BAB2F,
+  ig_golfer_a = 0x3F9B1A4D,
+  ig_golfer_b = 0x6ECC78AF,
   ig_groom = 0xFECE8B85,
   ig_gustavo = 0xB585B217,
   ig_hao = 0x65978363,
@@ -9865,6 +10385,7 @@ export enum PedModel {
   ig_helmsmanpavel = 0xD7C1E2B1,
   ig_huang = 0xBFD2A133,
   ig_hunter = 0xCE1324DE,
+  ig_imani = 0x2E0A4F4A,
   ig_isldj_00 = 0xE2A32E68,
   ig_isldj_01 = 0x6F4747CE,
   ig_isldj_02 = 0x5D1DA37B,
@@ -9882,7 +10403,9 @@ export enum PedModel {
   ig_jimmydisanto = 0x570462B9,
   ig_jimmydisanto2 = 0x842DC2D6,
   ig_jio = 0x73775F3F,
+  ig_jio_02 = 0xD047EE3E,
   ig_joeminuteman = 0xBE204C9B,
+  ig_johnny_guns = 0x27474FFA,
   ig_johnnyklebitz = 0x87CA80AE,
   ig_josef = 0xE11A9FB4,
   ig_josh = 0x799E9EEE,
@@ -9893,6 +10416,7 @@ export enum PedModel {
   ig_kerrymcintosh_02 = 0xD842BE92,
   ig_lacey_jones_02 = 0xCC36BEEC,
   ig_lamardavis = 0x65B93076,
+  ig_lamardavis_02 = 0x1924A05E,
   ig_lazlow = 0xDFE443E5,
   ig_lazlow_2 = 0x850446EC,
   ig_lestercrest = 0x4DA6E849,
@@ -9912,6 +10436,7 @@ export enum PedModel {
   ig_milton = 0xCB3059B2,
   ig_mimi = 0x784F9C95,
   ig_mjo = 0x2D5DB362,
+  ig_mjo_02 = 0x38C749C4,
   ig_molly = 0xAF03DDE1,
   ig_money = 0x37FACDA6,
   ig_moodyman_02 = 0x97D144B3,
@@ -9919,6 +10444,7 @@ export enum PedModel {
   ig_mrk = 0xEDDCAB6D,
   ig_mrs_thornhill = 0x1E04A96B,
   ig_mrsphillips = 0x3862EEA8,
+  ig_musician_00 = 0x23791ABF,
   ig_natalia = 0xDE17DD3B,
   ig_nervousron = 0xBD006AF1,
   ig_nigel = 0xC8B7167D,
@@ -9931,6 +10457,7 @@ export enum PedModel {
   ig_ortega = 0x26A562B7,
   ig_paige = 0x154FCF3F,
   ig_paper = 0x999B00C6,
+  ig_party_promo = 0x85B8A435,
   ig_patricia = 0xC56E118C,
   ig_patricia_02 = 0xC3114CB1,
   ig_pilot = 0x864ED68E,
@@ -9942,14 +10469,17 @@ export enum PedModel {
   ig_ramp_hipster = 0xDEEF9F6E,
   ig_ramp_mex = 0xE6AC74A4,
   ig_rashcosvki = 0x380C4DE6,
+  ig_req_officer = 0xEB176014,
   ig_roccopelosi = 0xD5BA52FF,
   ig_russiandrunk = 0x3D0A5EB1,
   ig_sacha = 0x5802D9F5,
   ig_screen_writer = 0xFFE63677,
+  ig_security_a = 0x2F4E5C7B,
   ig_sessanta = 0x371B9DA9,
   ig_siemonyetarian = 0x4C7B2F05,
   ig_sol = 0xE1AB915C,
   ig_solomon = 0x86BDFE26,
+  ig_soundeng_00 = 0xDA3BDDE8,
   ig_sss = 0x3B18E305,
   ig_stevehains = 0x382121C8,
   ig_stretch = 0x36984358,
@@ -9972,9 +10502,12 @@ export enum PedModel {
   ig_trafficwarden = 0x5719786D,
   ig_tylerdix = 0x5265F707,
   ig_tylerdix_02 = 0x5A185477,
+  ig_vagos_leader = 0x837B64DE,
   ig_vagspeak = 0xF9FD068C,
+  ig_vernon = 0xCDB291A2,
   ig_vincent = 0x2BE886B2,
   ig_vincent_2 = 0xBC4BDD3,
+  ig_vincent_3 = 0x15ADD1A5,
   ig_wade = 0x92991B72,
   ig_wendy = 0x6E47A411,
   ig_zimbor = 0xB34D6F5,
@@ -10019,6 +10552,7 @@ export enum PedModel {
   mp_m_weapwork_01 = 0x4186506E,
   mp_m_weed_01 = 0x917ED459,
   mp_s_m_armoured_01 = 0xCDEF5408,
+  p_franklin_02 = 0xAF10BD56,
   player_one = 0x9B22DBAF,
   player_two = 0x9B810FA2,
   player_zero = 0xD7114C9,
@@ -10027,6 +10561,7 @@ export enum PedModel {
   s_f_m_maid_01 = 0xE093C5C6,
   s_f_m_retailstaff_01 = 0xC19C2462,
   s_f_m_shop_high = 0xAE47E4B0,
+  s_f_m_studioassist_01 = 0xC155ACC0,
   s_f_m_sweatshop_01 = 0x312B5BC0,
   s_f_y_airhostess_01 = 0x5D71A46F,
   s_f_y_bartender_01 = 0x780C01BD,
@@ -10078,6 +10613,7 @@ export enum PedModel {
   s_m_m_highsec_02 = 0x2930C1AB,
   s_m_m_highsec_03 = 0x1EEAAD1F,
   s_m_m_highsec_04 = 0x55FE9B46,
+  s_m_m_highsec_05 = 0x3ABB64C0,
   s_m_m_janitor = 0xA96BD9EC,
   s_m_m_lathandy_01 = 0x9E80D2CE,
   s_m_m_lifeinvad_01 = 0xDE0077FD,
@@ -10103,6 +10639,9 @@ export enum PedModel {
   s_m_m_strperf_01 = 0x795AC7A8,
   s_m_m_strpreach_01 = 0x1C0077FB,
   s_m_m_strvend_01 = 0xCE9113A9,
+  s_m_m_studioassist_02 = 0x9FB16928,
+  s_m_m_studioprod_01 = 0xE3A30BBF,
+  s_m_m_studiosoueng_02 = 0xDE08C410,
   s_m_m_tattoo_01 = 0xC41743EB,
   s_m_m_trucker_01 = 0x59511A6C,
   s_m_m_ups_01 = 0x9FC37F22,

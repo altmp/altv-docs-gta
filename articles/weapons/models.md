@@ -31,6 +31,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_emplauncher.png" alt="Missing image &quot;WEAPON_EMPLAUNCHER.png&quot;" title="WEAPON_EMPLAUNCHER" loading="lazy" />
+    </div>
+    <b>Name:</b> WEAPON_EMPLAUNCHER<br/>
+    <b>Hash:</b> 0xDB26713A<br/>
+    <b>Display Name:</b> Compact EMP Launcher<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_firework.png" alt="Missing image &quot;WEAPON_FIREWORK.png&quot;" title="WEAPON_FIREWORK" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_FIREWORK<br/>
@@ -347,6 +356,15 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_fertilizercan.png" alt="Missing image &quot;WEAPON_FERTILIZERCAN.png&quot;" title="WEAPON_FERTILIZERCAN" loading="lazy" />
+    </div>
+    <b>Name:</b> WEAPON_FERTILIZERCAN<br/>
+    <b>Hash:</b> 0x184140A1<br/>
+    <b>Display Name:</b> Fertilizer Can<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_hazardcan.png" alt="Missing image &quot;WEAPON_HAZARDCAN.png&quot;" title="WEAPON_HAZARDCAN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_HAZARDCAN<br/>
@@ -601,6 +619,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_heavyrifle.png" alt="Missing image &quot;WEAPON_HEAVYRIFLE.png&quot;" title="WEAPON_HEAVYRIFLE" loading="lazy" />
+    </div>
+    <b>Name:</b> WEAPON_HEAVYRIFLE<br/>
+    <b>Hash:</b> 0xC78D71B4<br/>
+    <b>Display Name:</b> Heavy Rifle<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_militaryrifle.png" alt="Missing image &quot;WEAPON_MILITARYRIFLE.png&quot;" title="WEAPON_MILITARYRIFLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MILITARYRIFLE<br/>
@@ -843,6 +870,15 @@
     <b>Hash:</b> 0x3656C8C1<br/>
     <b>Display Name:</b> Stun Gun
   </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_stungun_mp.png" alt="Missing image &quot;WEAPON_STUNGUN_MP.png&quot;" title="WEAPON_STUNGUN_MP" loading="lazy" />
+    </div>
+    <b>Name:</b> WEAPON_STUNGUN_MP<br/>
+    <b>Hash:</b> 0x45CD9CF3<br/>
+    <b>Display Name:</b> Stun Gun<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
 </div>
 
 ### THROWN
@@ -1015,6 +1051,8 @@ export class VehicleModel {
   static weapon_dagger = 0x92A27487;
   static weapon_dbshotgun = 0xEF951FBB;
   static weapon_doubleaction = 0x97EA20B8;
+  static weapon_emplauncher = 0xDB26713A;
+  static weapon_fertilizercan = 0x184140A1;
   static weapon_fireextinguisher = 0x60EC506;
   static weapon_firework = 0x7F7497E5;
   static weapon_flare = 0x497FACC3;
@@ -1032,6 +1070,7 @@ export class VehicleModel {
   static weapon_hatchet = 0xF9DCBF2D;
   static weapon_hazardcan = 0xBA536372;
   static weapon_heavypistol = 0xD205520E;
+  static weapon_heavyrifle = 0xC78D71B4;
   static weapon_heavyshotgun = 0x3AABBBAA;
   static weapon_heavysniper = 0xC472FE2;
   static weapon_heavysniper_mk2 = 0xA914799;
@@ -1082,6 +1121,7 @@ export class VehicleModel {
   static weapon_stinger = 0x687652CE;
   static weapon_stone_hatchet = 0x3813FC08;
   static weapon_stungun = 0x3656C8C1;
+  static weapon_stungun_mp = 0x45CD9CF3;
   static weapon_switchblade = 0xDFE37640;
   static weapon_tranquilizer = 0x32A888BD;
   static weapon_unarmed = 0xA2719263;
@@ -1124,6 +1164,8 @@ export enum WeaponModel {
   weapon_dagger = 0x92A27487;
   weapon_dbshotgun = 0xEF951FBB;
   weapon_doubleaction = 0x97EA20B8;
+  weapon_emplauncher = 0xDB26713A;
+  weapon_fertilizercan = 0x184140A1;
   weapon_fireextinguisher = 0x60EC506;
   weapon_firework = 0x7F7497E5;
   weapon_flare = 0x497FACC3;
@@ -1141,6 +1183,7 @@ export enum WeaponModel {
   weapon_hatchet = 0xF9DCBF2D;
   weapon_hazardcan = 0xBA536372;
   weapon_heavypistol = 0xD205520E;
+  weapon_heavyrifle = 0xC78D71B4;
   weapon_heavyshotgun = 0x3AABBBAA;
   weapon_heavysniper = 0xC472FE2;
   weapon_heavysniper_mk2 = 0xA914799;
@@ -1191,6 +1234,7 @@ export enum WeaponModel {
   weapon_stinger = 0x687652CE;
   weapon_stone_hatchet = 0x3813FC08;
   weapon_stungun = 0x3656C8C1;
+  weapon_stungun_mp = 0x45CD9CF3;
   weapon_switchblade = 0xDFE37640;
   weapon_tranquilizer = 0x32A888BD;
   weapon_unarmed = 0xA2719263;

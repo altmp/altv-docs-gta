@@ -331,6 +331,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/mule5.png" alt="Missing image &quot;mule5.png&quot;" title="mule5" loading="lazy" />
+    </div>
+    <b>Name:</b> mule5<br/>
+    <b>Hash:</b> 0x501AC93C<br/>
+    <b>Display Name:</b> Mule<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/vehicle/models/packer.png" alt="Missing image &quot;Packer.png&quot;" title="Packer" loading="lazy" />
     </div>
     <b>Name:</b> Packer<br/>
@@ -1742,6 +1751,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/reever.png" alt="Missing image &quot;reever.png&quot;" title="reever" loading="lazy" />
+    </div>
+    <b>Name:</b> reever<br/>
+    <b>Hash:</b> 0x76D7C404<br/>
+    <b>Display Name:</b> Reever<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/vehicle/models/rrocket.png" alt="Missing image &quot;rrocket.png&quot;" title="rrocket" loading="lazy" />
     </div>
     <b>Name:</b> rrocket<br/>
@@ -1781,6 +1799,15 @@
     <b>Hash:</b> 0x58E316C7<br/>
     <b>Display Name:</b> Sanctus<br/>
     <b>DLC:</b> mpbiker
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/shinobi.png" alt="Missing image &quot;shinobi.png&quot;" title="shinobi" loading="lazy" />
+    </div>
+    <b>Name:</b> shinobi<br/>
+    <b>Hash:</b> 0x50A6FB9C<br/>
+    <b>Display Name:</b> Shinobi<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -1901,6 +1928,15 @@
     <b>Hash:</b> 0xC397F748<br/>
     <b>Display Name:</b> Buccaneer Custom<br/>
     <b>DLC:</b> mplowrider
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/buffalo4.png" alt="Missing image &quot;buffalo4.png&quot;" title="buffalo4" loading="lazy" />
+    </div>
+    <b>Name:</b> buffalo4<br/>
+    <b>Hash:</b> 0xDB0C9B04<br/>
+    <b>Display Name:</b> Buffalo STX<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -2889,6 +2925,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/patriot3.png" alt="Missing image &quot;patriot3.png&quot;" title="patriot3" loading="lazy" />
+    </div>
+    <b>Name:</b> patriot3<br/>
+    <b>Hash:</b> 0xD80F4A44<br/>
+    <b>Display Name:</b> Patriot Mil-Spec<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/vehicle/models/rancherxl.png" alt="Missing image &quot;RancherXL.png&quot;" title="RancherXL" loading="lazy" />
     </div>
     <b>Name:</b> RancherXL<br/>
@@ -3537,6 +3582,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/cinquemila.png" alt="Missing image &quot;cinquemila.png&quot;" title="cinquemila" loading="lazy" />
+    </div>
+    <b>Name:</b> cinquemila<br/>
+    <b>Hash:</b> 0xA4F52C13<br/>
+    <b>Display Name:</b> Cinquemila<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/vehicle/models/cog55.png" alt="Missing image &quot;cog55.png&quot;" title="cog55" loading="lazy" />
     </div>
     <b>Name:</b> cog55<br/>
@@ -3570,6 +3624,15 @@
     <b>Hash:</b> 0xDBF2D57A<br/>
     <b>Display Name:</b> Cognoscenti (Armored)<br/>
     <b>DLC:</b> mpapartment
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/deity.png" alt="Missing image &quot;deity.png&quot;" title="deity" loading="lazy" />
+    </div>
+    <b>Name:</b> deity<br/>
+    <b>Hash:</b> 0x5B531351<br/>
+    <b>Display Name:</b> Deity<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -4045,6 +4108,15 @@
     <b>Hash:</b> 0x991EFC04<br/>
     <b>Display Name:</b> Comet S2<br/>
     <b>DLC:</b> mptuner
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/comet7.png" alt="Missing image &quot;comet7.png&quot;" title="comet7" loading="lazy" />
+    </div>
+    <b>Name:</b> comet7<br/>
+    <b>Hash:</b> 0x440851D8<br/>
+    <b>Display Name:</b> Comet S2 Cabrio<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -5156,6 +5228,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/champion.png" alt="Missing image &quot;champion.png&quot;" title="champion" loading="lazy" />
+    </div>
+    <b>Name:</b> champion<br/>
+    <b>Hash:</b> 0xC972A155<br/>
+    <b>Display Name:</b> Champion<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/vehicle/models/cheetah.png" alt="Missing image &quot;cheetah.png&quot;" title="cheetah" loading="lazy" />
     </div>
     <b>Name:</b> cheetah<br/>
@@ -5232,6 +5313,15 @@
     <b>Hash:</b> 0x4992196C<br/>
     <b>Display Name:</b> GP1<br/>
     <b>DLC:</b> mpspecialraces
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/ignus.png" alt="Missing image &quot;ignus.png&quot;" title="ignus" loading="lazy" />
+    </div>
+    <b>Name:</b> ignus<br/>
+    <b>Hash:</b> 0xA9EC907B<br/>
+    <b>Display Name:</b> Ignus<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -5529,6 +5619,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/zeno.png" alt="Missing image &quot;zeno.png&quot;" title="zeno" loading="lazy" />
+    </div>
+    <b>Name:</b> zeno<br/>
+    <b>Hash:</b> 0x2714AA93<br/>
+    <b>Display Name:</b> Zeno<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/vehicle/models/zentorno.png" alt="Missing image &quot;zentorno.png&quot;" title="zentorno" loading="lazy" />
     </div>
     <b>Name:</b> zentorno<br/>
@@ -5550,6 +5649,15 @@
 ### SUV
 
 <div class="grid-container">
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/astron.png" alt="Missing image &quot;astron.png&quot;" title="astron" loading="lazy" />
+    </div>
+    <b>Name:</b> astron<br/>
+    <b>Hash:</b> 0x258C9364<br/>
+    <b>Display Name:</b> Astron<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
   <div class="grid-item">
     <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/vehicle/models/baller.png" alt="Missing image &quot;Baller.png&quot;" title="Baller" loading="lazy" />
@@ -5601,6 +5709,15 @@
     <b>Hash:</b> 0x27B4E6B0<br/>
     <b>Display Name:</b> Baller LE LWB (Armored)<br/>
     <b>DLC:</b> mpapartment
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/baller7.png" alt="Missing image &quot;baller7.png&quot;" title="baller7" loading="lazy" />
+    </div>
+    <b>Name:</b> baller7<br/>
+    <b>Hash:</b> 0x1573422D<br/>
+    <b>Display Name:</b> Baller ST<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -5669,6 +5786,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/granger2.png" alt="Missing image &quot;granger2.png&quot;" title="granger2" loading="lazy" />
+    </div>
+    <b>Name:</b> granger2<br/>
+    <b>Hash:</b> 0xF06C29C7<br/>
+    <b>Display Name:</b> Granger 3600LX<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-gta-assets/images/vehicle/models/gresley.png" alt="Missing image &quot;gresley.png&quot;" title="gresley" loading="lazy" />
     </div>
     <b>Name:</b> gresley<br/>
@@ -5691,6 +5817,24 @@
     <b>Hash:</b> 0x1D06D681<br/>
     <b>Display Name:</b> Huntley S<br/>
     <b>DLC:</b> mpbusiness2
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/iwagen.png" alt="Missing image &quot;iwagen.png&quot;" title="iwagen" loading="lazy" />
+    </div>
+    <b>Name:</b> iwagen<br/>
+    <b>Hash:</b> 0x27816B7E<br/>
+    <b>Display Name:</b> I-Wagen<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/jubilee.png" alt="Missing image &quot;jubilee.png&quot;" title="jubilee" loading="lazy" />
+    </div>
+    <b>Name:</b> jubilee<br/>
+    <b>Hash:</b> 0x1B8165D3<br/>
+    <b>Display Name:</b> Jubilee<br/>
+    <b>DLC:</b> mpsecurity
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -6493,6 +6637,15 @@
     <b>Display Name:</b> Youga Classic 4x4<br/>
     <b>DLC:</b> mpsum
   </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-gta-assets/images/vehicle/models/youga4.png" alt="Missing image &quot;youga4.png&quot;" title="youga4" loading="lazy" />
+    </div>
+    <b>Name:</b> youga4<br/>
+    <b>Hash:</b> 0x589A840C<br/>
+    <b>Display Name:</b> Youga Custom<br/>
+    <b>DLC:</b> mpsecurity
+  </div>
 </div>
 
 
@@ -6521,6 +6674,7 @@ export class VehicleModel {
   static asea = 0x94204D89;
   static asea2 = 0x9441D8D5;
   static asterope = 0x8E9254FB;
+  static astron = 0x258C9364;
   static autarch = 0xED552C74;
   static avarus = 0x81E38F7F;
   static avenger = 0x81BD2ED0;
@@ -6534,6 +6688,7 @@ export class VehicleModel {
   static baller4 = 0x25CBE2E2;
   static baller5 = 0x1C09CF5E;
   static baller6 = 0x27B4E6B0;
+  static baller7 = 0x1573422D;
   static banshee = 0xC1E908D2;
   static banshee2 = 0x25C5AF13;
   static barracks = 0xCEEA3F4B;
@@ -6593,6 +6748,7 @@ export class VehicleModel {
   static buffalo = 0xEDD516C6;
   static buffalo2 = 0x2BEC3CBE;
   static buffalo3 = 0xE2C013E;
+  static buffalo4 = 0xDB0C9B04;
   static bulldozer = 0x7074F39D;
   static bullet = 0x9AE6DDA1;
   static burrito = 0xAFBB2CA4;
@@ -6624,6 +6780,7 @@ export class VehicleModel {
   static cerberus = 0xD039510B;
   static cerberus2 = 0x287FA449;
   static cerberus3 = 0x71D3B6F0;
+  static champion = 0xC972A155;
   static cheburek = 0xC514AAE0;
   static cheetah = 0xB1D95DA0;
   static cheetah2 = 0xD4E5F4D;
@@ -6631,6 +6788,7 @@ export class VehicleModel {
   static chimera = 0x675ED7;
   static chino = 0x14D69010;
   static chino2 = 0xAED64A63;
+  static cinquemila = 0xA4F52C13;
   static cliffhanger = 0x17420102;
   static clique = 0xA29F78B0;
   static club = 0x82E47E85;
@@ -6645,6 +6803,7 @@ export class VehicleModel {
   static comet4 = 0x5D1903F9;
   static comet5 = 0x276D98A3;
   static comet6 = 0x991EFC04;
+  static comet7 = 0x440851D8;
   static contender = 0x28B67ACA;
   static coquette = 0x67BC037;
   static coquette2 = 0x3C4E2113;
@@ -6662,6 +6821,7 @@ export class VehicleModel {
   static deathbike2 = 0x93F09558;
   static deathbike3 = 0xAE12C99C;
   static defiler = 0x30FF0190;
+  static deity = 0x5B531351;
   static deluxo = 0x586765FB;
   static deveste = 0x5EE005DA;
   static deviant = 0x4C3FFF49;
@@ -6771,6 +6931,7 @@ export class VehicleModel {
   static gp1 = 0x4992196C;
   static graintrailer = 0x3CC7F596;
   static granger = 0x9628879C;
+  static granger2 = 0xF06C29C7;
   static gresley = 0xA3FC0F4D;
   static growler = 0x4DC079D7;
   static gt500 = 0x8408F33A;
@@ -6793,6 +6954,7 @@ export class VehicleModel {
   static huntley = 0x1D06D681;
   static hustler = 0x23CA25F2;
   static hydra = 0x39D6E83F;
+  static ignus = 0xA9EC907B;
   static imorgon = 0xBC7C0A00;
   static impaler = 0x83070B62;
   static impaler2 = 0x3C26BD0C;
@@ -6819,6 +6981,7 @@ export class VehicleModel {
   static italigtb2 = 0xE33A477B;
   static italigto = 0xEC3E3404;
   static italirsx = 0xBB78956A;
+  static iwagen = 0x27816B7E;
   static jackal = 0xDAC67112;
   static jb700 = 0x3EAB5555;
   static jb7002 = 0x177DA45C;
@@ -6829,6 +6992,7 @@ export class VehicleModel {
   static jet = 0x3F119114;
   static jetmax = 0x33581161;
   static journey = 0xF8D48E7A;
+  static jubilee = 0x1B8165D3;
   static jugular = 0xF38C4245;
   static kalahari = 0x5852838;
   static kamacho = 0xF8C2E0E7;
@@ -6891,6 +7055,7 @@ export class VehicleModel {
   static mule2 = 0xC1632BEB;
   static mule3 = 0x85A5B471;
   static mule4 = 0x73F4110E;
+  static mule5 = 0x501AC93C;
   static nebula = 0xCB642637;
   static nemesis = 0xDA288376;
   static neo = 0x9F6ED5A2;
@@ -6922,6 +7087,7 @@ export class VehicleModel {
   static pariah = 0x33B98FE2;
   static patriot = 0xCFCFEB3B;
   static patriot2 = 0xE6E967F8;
+  static patriot3 = 0xD80F4A44;
   static patrolboat = 0xEF813606;
   static pbus = 0x885F3671;
   static pbus2 = 0x149BD32A;
@@ -6980,6 +7146,7 @@ export class VehicleModel {
   static rebel = 0xB802DD46;
   static rebel2 = 0x8612B64B;
   static rebla = 0x4F48FC4;
+  static reever = 0x76D7C404;
   static regina = 0xFF22D208;
   static remus = 0x5216AD5E;
   static rentalbus = 0xBE819C63;
@@ -7050,6 +7217,7 @@ export class VehicleModel {
   static sheava = 0x30D3F6D8;
   static sheriff = 0x9BAA707C;
   static sheriff2 = 0x72935408;
+  static shinobi = 0x50A6FB9C;
   static shotaro = 0xE7D2A16E;
   static skylift = 0x3E48BF23;
   static slamtruck = 0xC1A8A914;
@@ -7228,7 +7396,9 @@ export class VehicleModel {
   static youga = 0x3E5F6B8;
   static youga2 = 0x3D29CD2B;
   static youga3 = 0x6B73A9BE;
+  static youga4 = 0x589A840C;
   static z190 = 0x3201DD49;
+  static zeno = 0x2714AA93;
   static zentorno = 0xAC5DF515;
   static zhaba = 0x4C8DBA51;
   static zion = 0xBD1B39C3;
@@ -7267,6 +7437,7 @@ export enum VehicleModel {
   asea = 0x94204D89;
   asea2 = 0x9441D8D5;
   asterope = 0x8E9254FB;
+  astron = 0x258C9364;
   autarch = 0xED552C74;
   avarus = 0x81E38F7F;
   avenger = 0x81BD2ED0;
@@ -7280,6 +7451,7 @@ export enum VehicleModel {
   baller4 = 0x25CBE2E2;
   baller5 = 0x1C09CF5E;
   baller6 = 0x27B4E6B0;
+  baller7 = 0x1573422D;
   banshee = 0xC1E908D2;
   banshee2 = 0x25C5AF13;
   barracks = 0xCEEA3F4B;
@@ -7339,6 +7511,7 @@ export enum VehicleModel {
   buffalo = 0xEDD516C6;
   buffalo2 = 0x2BEC3CBE;
   buffalo3 = 0xE2C013E;
+  buffalo4 = 0xDB0C9B04;
   bulldozer = 0x7074F39D;
   bullet = 0x9AE6DDA1;
   burrito = 0xAFBB2CA4;
@@ -7370,6 +7543,7 @@ export enum VehicleModel {
   cerberus = 0xD039510B;
   cerberus2 = 0x287FA449;
   cerberus3 = 0x71D3B6F0;
+  champion = 0xC972A155;
   cheburek = 0xC514AAE0;
   cheetah = 0xB1D95DA0;
   cheetah2 = 0xD4E5F4D;
@@ -7377,6 +7551,7 @@ export enum VehicleModel {
   chimera = 0x675ED7;
   chino = 0x14D69010;
   chino2 = 0xAED64A63;
+  cinquemila = 0xA4F52C13;
   cliffhanger = 0x17420102;
   clique = 0xA29F78B0;
   club = 0x82E47E85;
@@ -7391,6 +7566,7 @@ export enum VehicleModel {
   comet4 = 0x5D1903F9;
   comet5 = 0x276D98A3;
   comet6 = 0x991EFC04;
+  comet7 = 0x440851D8;
   contender = 0x28B67ACA;
   coquette = 0x67BC037;
   coquette2 = 0x3C4E2113;
@@ -7408,6 +7584,7 @@ export enum VehicleModel {
   deathbike2 = 0x93F09558;
   deathbike3 = 0xAE12C99C;
   defiler = 0x30FF0190;
+  deity = 0x5B531351;
   deluxo = 0x586765FB;
   deveste = 0x5EE005DA;
   deviant = 0x4C3FFF49;
@@ -7517,6 +7694,7 @@ export enum VehicleModel {
   gp1 = 0x4992196C;
   graintrailer = 0x3CC7F596;
   granger = 0x9628879C;
+  granger2 = 0xF06C29C7;
   gresley = 0xA3FC0F4D;
   growler = 0x4DC079D7;
   gt500 = 0x8408F33A;
@@ -7539,6 +7717,7 @@ export enum VehicleModel {
   huntley = 0x1D06D681;
   hustler = 0x23CA25F2;
   hydra = 0x39D6E83F;
+  ignus = 0xA9EC907B;
   imorgon = 0xBC7C0A00;
   impaler = 0x83070B62;
   impaler2 = 0x3C26BD0C;
@@ -7565,6 +7744,7 @@ export enum VehicleModel {
   italigtb2 = 0xE33A477B;
   italigto = 0xEC3E3404;
   italirsx = 0xBB78956A;
+  iwagen = 0x27816B7E;
   jackal = 0xDAC67112;
   jb700 = 0x3EAB5555;
   jb7002 = 0x177DA45C;
@@ -7575,6 +7755,7 @@ export enum VehicleModel {
   jet = 0x3F119114;
   jetmax = 0x33581161;
   journey = 0xF8D48E7A;
+  jubilee = 0x1B8165D3;
   jugular = 0xF38C4245;
   kalahari = 0x5852838;
   kamacho = 0xF8C2E0E7;
@@ -7637,6 +7818,7 @@ export enum VehicleModel {
   mule2 = 0xC1632BEB;
   mule3 = 0x85A5B471;
   mule4 = 0x73F4110E;
+  mule5 = 0x501AC93C;
   nebula = 0xCB642637;
   nemesis = 0xDA288376;
   neo = 0x9F6ED5A2;
@@ -7668,6 +7850,7 @@ export enum VehicleModel {
   pariah = 0x33B98FE2;
   patriot = 0xCFCFEB3B;
   patriot2 = 0xE6E967F8;
+  patriot3 = 0xD80F4A44;
   patrolboat = 0xEF813606;
   pbus = 0x885F3671;
   pbus2 = 0x149BD32A;
@@ -7726,6 +7909,7 @@ export enum VehicleModel {
   rebel = 0xB802DD46;
   rebel2 = 0x8612B64B;
   rebla = 0x4F48FC4;
+  reever = 0x76D7C404;
   regina = 0xFF22D208;
   remus = 0x5216AD5E;
   rentalbus = 0xBE819C63;
@@ -7796,6 +7980,7 @@ export enum VehicleModel {
   sheava = 0x30D3F6D8;
   sheriff = 0x9BAA707C;
   sheriff2 = 0x72935408;
+  shinobi = 0x50A6FB9C;
   shotaro = 0xE7D2A16E;
   skylift = 0x3E48BF23;
   slamtruck = 0xC1A8A914;
@@ -7974,7 +8159,9 @@ export enum VehicleModel {
   youga = 0x3E5F6B8;
   youga2 = 0x3D29CD2B;
   youga3 = 0x6B73A9BE;
+  youga4 = 0x589A840C;
   z190 = 0x3201DD49;
+  zeno = 0x2714AA93;
   zentorno = 0xAC5DF515;
   zhaba = 0x4C8DBA51;
   zion = 0xBD1B39C3;
