@@ -14,7 +14,7 @@ namespace WeaponPageCreator
             var weaponsJson = depsFolder + "weapons.json";
 
             var weaponsModelsFile = "../../../articles/weapons/models.md";
-            var imagePath = "~/altv-docs-gta-assets/images/weapon/models/";
+            var imagePath = "~/altv-docs-assets/altv-docs-gta/images/weapon/models/";
 
             /*
              * Read JSON files from gta-v-data-dumps by DurtyFree

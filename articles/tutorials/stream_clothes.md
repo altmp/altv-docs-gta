@@ -19,8 +19,8 @@ Be sure you have the latest updated Clothes tool, check the link before in the `
 6. ```Sixth step```: add the resource name in your ```server.cfg``` and your resource folder into the ```server resource folder```
 
 
-![First step](~/altv-docs-gta-assets/images/tutorials/first.png)
-![Second step](~/altv-docs-gta-assets/images/tutorials/second.png)
+![First step](~/altv-docs-assets/altv-docs-gta/images/tutorials/first.png)
+![Second step](~/altv-docs-assets/altv-docs-gta/images/tutorials/second.png)
 
 <gallery>
 Tutorial clothes firstl.webp| First steps
