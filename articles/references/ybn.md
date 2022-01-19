@@ -16,7 +16,7 @@ Those collisions are formed by primitive shapes and low detailed shaping of the 
 
 YBN's are used for vehicles, buildings, general enviroment and weapons.
 
-![referencePicture](~/altv-docs-gta-assets/images/modding/CollsionExampleVehicle.png)
+![referencePicture](~/altv-docs-assets/altv-docs-gta/images/modding/CollsionExampleVehicle.png)
 
 ## Tools
 

@@ -15,7 +15,7 @@ namespace PedPageCreator
             var pedsJson = depsFolder + "peds.json";
 
             var pedModelsFile = "../../../articles/ped/models.md";
-            var imagePath = "~/altv-docs-gta-assets/images/ped/models/";
+            var imagePath = "~/altv-docs-assets/altv-docs-gta/images/ped/models/";
 
             /*
              * Read JSON files from gta-v-data-dumps by DurtyFree

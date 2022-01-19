@@ -9,7 +9,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_fireextinguisher.png" alt="Missing image &quot;WEAPON_FIREEXTINGUISHER.png&quot;" title="WEAPON_FIREEXTINGUISHER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_fireextinguisher.png" alt="Missing image &quot;WEAPON_FIREEXTINGUISHER.png&quot;" title="WEAPON_FIREEXTINGUISHER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_FIREEXTINGUISHER<br/>
     <b>Hash:</b> 0x60EC506<br/>
@@ -22,7 +22,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_compactlauncher.png" alt="Missing image &quot;WEAPON_COMPACTLAUNCHER.png&quot;" title="WEAPON_COMPACTLAUNCHER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_compactlauncher.png" alt="Missing image &quot;WEAPON_COMPACTLAUNCHER.png&quot;" title="WEAPON_COMPACTLAUNCHER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_COMPACTLAUNCHER<br/>
     <b>Hash:</b> 0x781FE4A<br/>
@@ -31,7 +31,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_emplauncher.png" alt="Missing image &quot;WEAPON_EMPLAUNCHER.png&quot;" title="WEAPON_EMPLAUNCHER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_emplauncher.png" alt="Missing image &quot;WEAPON_EMPLAUNCHER.png&quot;" title="WEAPON_EMPLAUNCHER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_EMPLAUNCHER<br/>
     <b>Hash:</b> 0xDB26713A<br/>
@@ -40,7 +40,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_firework.png" alt="Missing image &quot;WEAPON_FIREWORK.png&quot;" title="WEAPON_FIREWORK" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_firework.png" alt="Missing image &quot;WEAPON_FIREWORK.png&quot;" title="WEAPON_FIREWORK" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_FIREWORK<br/>
     <b>Hash:</b> 0x7F7497E5<br/>
@@ -49,7 +49,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_grenadelauncher.png" alt="Missing image &quot;WEAPON_GRENADELAUNCHER.png&quot;" title="WEAPON_GRENADELAUNCHER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_grenadelauncher.png" alt="Missing image &quot;WEAPON_GRENADELAUNCHER.png&quot;" title="WEAPON_GRENADELAUNCHER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_GRENADELAUNCHER<br/>
     <b>Hash:</b> 0xA284510B<br/>
@@ -57,7 +57,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_grenadelauncher_smoke.png" alt="Missing image &quot;WEAPON_GRENADELAUNCHER_SMOKE.png&quot;" title="WEAPON_GRENADELAUNCHER_SMOKE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_grenadelauncher_smoke.png" alt="Missing image &quot;WEAPON_GRENADELAUNCHER_SMOKE.png&quot;" title="WEAPON_GRENADELAUNCHER_SMOKE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_GRENADELAUNCHER_SMOKE<br/>
     <b>Hash:</b> 0x4DD2DC56<br/>
@@ -65,7 +65,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_hominglauncher.png" alt="Missing image &quot;WEAPON_HOMINGLAUNCHER.png&quot;" title="WEAPON_HOMINGLAUNCHER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_hominglauncher.png" alt="Missing image &quot;WEAPON_HOMINGLAUNCHER.png&quot;" title="WEAPON_HOMINGLAUNCHER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_HOMINGLAUNCHER<br/>
     <b>Hash:</b> 0x63AB0442<br/>
@@ -74,7 +74,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_minigun.png" alt="Missing image &quot;WEAPON_MINIGUN.png&quot;" title="WEAPON_MINIGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_minigun.png" alt="Missing image &quot;WEAPON_MINIGUN.png&quot;" title="WEAPON_MINIGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MINIGUN<br/>
     <b>Hash:</b> 0x42BF8A85<br/>
@@ -82,7 +82,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_railgun.png" alt="Missing image &quot;WEAPON_RAILGUN.png&quot;" title="WEAPON_RAILGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_railgun.png" alt="Missing image &quot;WEAPON_RAILGUN.png&quot;" title="WEAPON_RAILGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_RAILGUN<br/>
     <b>Hash:</b> 0x6D544C99<br/>
@@ -91,7 +91,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_rayminigun.png" alt="Missing image &quot;WEAPON_RAYMINIGUN.png&quot;" title="WEAPON_RAYMINIGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_rayminigun.png" alt="Missing image &quot;WEAPON_RAYMINIGUN.png&quot;" title="WEAPON_RAYMINIGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_RAYMINIGUN<br/>
     <b>Hash:</b> 0xB62D1F67<br/>
@@ -100,7 +100,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_rpg.png" alt="Missing image &quot;WEAPON_RPG.png&quot;" title="WEAPON_RPG" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_rpg.png" alt="Missing image &quot;WEAPON_RPG.png&quot;" title="WEAPON_RPG" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_RPG<br/>
     <b>Hash:</b> 0xB1CA77B1<br/>
@@ -108,7 +108,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_stinger.png" alt="Missing image &quot;WEAPON_STINGER.png&quot;" title="WEAPON_STINGER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_stinger.png" alt="Missing image &quot;WEAPON_STINGER.png&quot;" title="WEAPON_STINGER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_STINGER<br/>
     <b>Hash:</b> 0x687652CE<br/>
@@ -121,7 +121,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_bat.png" alt="Missing image &quot;WEAPON_BAT.png&quot;" title="WEAPON_BAT" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_bat.png" alt="Missing image &quot;WEAPON_BAT.png&quot;" title="WEAPON_BAT" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_BAT<br/>
     <b>Hash:</b> 0x958A4A8F<br/>
@@ -129,7 +129,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_battleaxe.png" alt="Missing image &quot;WEAPON_BATTLEAXE.png&quot;" title="WEAPON_BATTLEAXE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_battleaxe.png" alt="Missing image &quot;WEAPON_BATTLEAXE.png&quot;" title="WEAPON_BATTLEAXE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_BATTLEAXE<br/>
     <b>Hash:</b> 0xCD274149<br/>
@@ -138,7 +138,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_bottle.png" alt="Missing image &quot;WEAPON_BOTTLE.png&quot;" title="WEAPON_BOTTLE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_bottle.png" alt="Missing image &quot;WEAPON_BOTTLE.png&quot;" title="WEAPON_BOTTLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_BOTTLE<br/>
     <b>Hash:</b> 0xF9E6AA4B<br/>
@@ -147,7 +147,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_crowbar.png" alt="Missing image &quot;WEAPON_CROWBAR.png&quot;" title="WEAPON_CROWBAR" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_crowbar.png" alt="Missing image &quot;WEAPON_CROWBAR.png&quot;" title="WEAPON_CROWBAR" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_CROWBAR<br/>
     <b>Hash:</b> 0x84BD7BFD<br/>
@@ -155,7 +155,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_dagger.png" alt="Missing image &quot;WEAPON_DAGGER.png&quot;" title="WEAPON_DAGGER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_dagger.png" alt="Missing image &quot;WEAPON_DAGGER.png&quot;" title="WEAPON_DAGGER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_DAGGER<br/>
     <b>Hash:</b> 0x92A27487<br/>
@@ -164,7 +164,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_flashlight.png" alt="Missing image &quot;WEAPON_FLASHLIGHT.png&quot;" title="WEAPON_FLASHLIGHT" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_flashlight.png" alt="Missing image &quot;WEAPON_FLASHLIGHT.png&quot;" title="WEAPON_FLASHLIGHT" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_FLASHLIGHT<br/>
     <b>Hash:</b> 0x8BB05FD7<br/>
@@ -173,7 +173,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_garbagebag.png" alt="Missing image &quot;WEAPON_GARBAGEBAG.png&quot;" title="WEAPON_GARBAGEBAG" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_garbagebag.png" alt="Missing image &quot;WEAPON_GARBAGEBAG.png&quot;" title="WEAPON_GARBAGEBAG" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_GARBAGEBAG<br/>
     <b>Hash:</b> 0xE232C28C<br/>
@@ -182,7 +182,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_golfclub.png" alt="Missing image &quot;WEAPON_GOLFCLUB.png&quot;" title="WEAPON_GOLFCLUB" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_golfclub.png" alt="Missing image &quot;WEAPON_GOLFCLUB.png&quot;" title="WEAPON_GOLFCLUB" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_GOLFCLUB<br/>
     <b>Hash:</b> 0x440E4788<br/>
@@ -190,7 +190,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_hammer.png" alt="Missing image &quot;WEAPON_HAMMER.png&quot;" title="WEAPON_HAMMER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_hammer.png" alt="Missing image &quot;WEAPON_HAMMER.png&quot;" title="WEAPON_HAMMER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_HAMMER<br/>
     <b>Hash:</b> 0x4E875F73<br/>
@@ -198,7 +198,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_handcuffs.png" alt="Missing image &quot;WEAPON_HANDCUFFS.png&quot;" title="WEAPON_HANDCUFFS" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_handcuffs.png" alt="Missing image &quot;WEAPON_HANDCUFFS.png&quot;" title="WEAPON_HANDCUFFS" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_HANDCUFFS<br/>
     <b>Hash:</b> 0xD04C944D<br/>
@@ -207,7 +207,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_hatchet.png" alt="Missing image &quot;WEAPON_HATCHET.png&quot;" title="WEAPON_HATCHET" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_hatchet.png" alt="Missing image &quot;WEAPON_HATCHET.png&quot;" title="WEAPON_HATCHET" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_HATCHET<br/>
     <b>Hash:</b> 0xF9DCBF2D<br/>
@@ -216,7 +216,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_knife.png" alt="Missing image &quot;WEAPON_KNIFE.png&quot;" title="WEAPON_KNIFE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_knife.png" alt="Missing image &quot;WEAPON_KNIFE.png&quot;" title="WEAPON_KNIFE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_KNIFE<br/>
     <b>Hash:</b> 0x99B507EA<br/>
@@ -224,7 +224,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_machete.png" alt="Missing image &quot;WEAPON_MACHETE.png&quot;" title="WEAPON_MACHETE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_machete.png" alt="Missing image &quot;WEAPON_MACHETE.png&quot;" title="WEAPON_MACHETE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MACHETE<br/>
     <b>Hash:</b> 0xDD5DF8D9<br/>
@@ -233,7 +233,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_nightstick.png" alt="Missing image &quot;WEAPON_NIGHTSTICK.png&quot;" title="WEAPON_NIGHTSTICK" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_nightstick.png" alt="Missing image &quot;WEAPON_NIGHTSTICK.png&quot;" title="WEAPON_NIGHTSTICK" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_NIGHTSTICK<br/>
     <b>Hash:</b> 0x678B81B1<br/>
@@ -241,7 +241,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_poolcue.png" alt="Missing image &quot;WEAPON_POOLCUE.png&quot;" title="WEAPON_POOLCUE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_poolcue.png" alt="Missing image &quot;WEAPON_POOLCUE.png&quot;" title="WEAPON_POOLCUE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_POOLCUE<br/>
     <b>Hash:</b> 0x94117305<br/>
@@ -250,7 +250,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_stone_hatchet.png" alt="Missing image &quot;WEAPON_STONE_HATCHET.png&quot;" title="WEAPON_STONE_HATCHET" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_stone_hatchet.png" alt="Missing image &quot;WEAPON_STONE_HATCHET.png&quot;" title="WEAPON_STONE_HATCHET" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_STONE_HATCHET<br/>
     <b>Hash:</b> 0x3813FC08<br/>
@@ -259,7 +259,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_switchblade.png" alt="Missing image &quot;WEAPON_SWITCHBLADE.png&quot;" title="WEAPON_SWITCHBLADE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_switchblade.png" alt="Missing image &quot;WEAPON_SWITCHBLADE.png&quot;" title="WEAPON_SWITCHBLADE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_SWITCHBLADE<br/>
     <b>Hash:</b> 0xDFE37640<br/>
@@ -268,7 +268,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_wrench.png" alt="Missing image &quot;WEAPON_WRENCH.png&quot;" title="WEAPON_WRENCH" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_wrench.png" alt="Missing image &quot;WEAPON_WRENCH.png&quot;" title="WEAPON_WRENCH" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_WRENCH<br/>
     <b>Hash:</b> 0x19044EE0<br/>
@@ -282,7 +282,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_combatmg.png" alt="Missing image &quot;WEAPON_COMBATMG.png&quot;" title="WEAPON_COMBATMG" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_combatmg.png" alt="Missing image &quot;WEAPON_COMBATMG.png&quot;" title="WEAPON_COMBATMG" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_COMBATMG<br/>
     <b>Hash:</b> 0x7FD62962<br/>
@@ -290,7 +290,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_combatmg_mk2.png" alt="Missing image &quot;WEAPON_COMBATMG_MK2.png&quot;" title="WEAPON_COMBATMG_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_combatmg_mk2.png" alt="Missing image &quot;WEAPON_COMBATMG_MK2.png&quot;" title="WEAPON_COMBATMG_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_COMBATMG_MK2<br/>
     <b>Hash:</b> 0xDBBD7280<br/>
@@ -299,7 +299,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_gusenberg.png" alt="Missing image &quot;WEAPON_GUSENBERG.png&quot;" title="WEAPON_GUSENBERG" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_gusenberg.png" alt="Missing image &quot;WEAPON_GUSENBERG.png&quot;" title="WEAPON_GUSENBERG" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_GUSENBERG<br/>
     <b>Hash:</b> 0x61012683<br/>
@@ -308,7 +308,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_mg.png" alt="Missing image &quot;WEAPON_MG.png&quot;" title="WEAPON_MG" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_mg.png" alt="Missing image &quot;WEAPON_MG.png&quot;" title="WEAPON_MG" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MG<br/>
     <b>Hash:</b> 0x9D07F764<br/>
@@ -316,7 +316,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_raycarbine.png" alt="Missing image &quot;WEAPON_RAYCARBINE.png&quot;" title="WEAPON_RAYCARBINE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_raycarbine.png" alt="Missing image &quot;WEAPON_RAYCARBINE.png&quot;" title="WEAPON_RAYCARBINE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_RAYCARBINE<br/>
     <b>Hash:</b> 0x476BF155<br/>
@@ -330,7 +330,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/gadget_nightvision.png" alt="Missing image &quot;GADGET_NIGHTVISION.png&quot;" title="GADGET_NIGHTVISION" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/gadget_nightvision.png" alt="Missing image &quot;GADGET_NIGHTVISION.png&quot;" title="GADGET_NIGHTVISION" loading="lazy" />
     </div>
     <b>Name:</b> GADGET_NIGHTVISION<br/>
     <b>Hash:</b> 0xA720365C<br/>
@@ -343,7 +343,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/gadget_parachute.png" alt="Missing image &quot;GADGET_PARACHUTE.png&quot;" title="GADGET_PARACHUTE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/gadget_parachute.png" alt="Missing image &quot;GADGET_PARACHUTE.png&quot;" title="GADGET_PARACHUTE" loading="lazy" />
     </div>
     <b>Name:</b> GADGET_PARACHUTE<br/>
     <b>Hash:</b> 0xFBAB5776<br/>
@@ -356,7 +356,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_fertilizercan.png" alt="Missing image &quot;WEAPON_FERTILIZERCAN.png&quot;" title="WEAPON_FERTILIZERCAN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_fertilizercan.png" alt="Missing image &quot;WEAPON_FERTILIZERCAN.png&quot;" title="WEAPON_FERTILIZERCAN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_FERTILIZERCAN<br/>
     <b>Hash:</b> 0x184140A1<br/>
@@ -365,7 +365,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_hazardcan.png" alt="Missing image &quot;WEAPON_HAZARDCAN.png&quot;" title="WEAPON_HAZARDCAN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_hazardcan.png" alt="Missing image &quot;WEAPON_HAZARDCAN.png&quot;" title="WEAPON_HAZARDCAN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_HAZARDCAN<br/>
     <b>Hash:</b> 0xBA536372<br/>
@@ -374,7 +374,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_petrolcan.png" alt="Missing image &quot;WEAPON_PETROLCAN.png&quot;" title="WEAPON_PETROLCAN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_petrolcan.png" alt="Missing image &quot;WEAPON_PETROLCAN.png&quot;" title="WEAPON_PETROLCAN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_PETROLCAN<br/>
     <b>Hash:</b> 0x34A67B97<br/>
@@ -387,7 +387,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_appistol.png" alt="Missing image &quot;WEAPON_APPISTOL.png&quot;" title="WEAPON_APPISTOL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_appistol.png" alt="Missing image &quot;WEAPON_APPISTOL.png&quot;" title="WEAPON_APPISTOL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_APPISTOL<br/>
     <b>Hash:</b> 0x22D8FE39<br/>
@@ -395,7 +395,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_ceramicpistol.png" alt="Missing image &quot;WEAPON_CERAMICPISTOL.png&quot;" title="WEAPON_CERAMICPISTOL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_ceramicpistol.png" alt="Missing image &quot;WEAPON_CERAMICPISTOL.png&quot;" title="WEAPON_CERAMICPISTOL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_CERAMICPISTOL<br/>
     <b>Hash:</b> 0x2B5EF5EC<br/>
@@ -404,7 +404,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_combatpistol.png" alt="Missing image &quot;WEAPON_COMBATPISTOL.png&quot;" title="WEAPON_COMBATPISTOL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_combatpistol.png" alt="Missing image &quot;WEAPON_COMBATPISTOL.png&quot;" title="WEAPON_COMBATPISTOL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_COMBATPISTOL<br/>
     <b>Hash:</b> 0x5EF9FEC4<br/>
@@ -412,7 +412,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_doubleaction.png" alt="Missing image &quot;WEAPON_DOUBLEACTION.png&quot;" title="WEAPON_DOUBLEACTION" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_doubleaction.png" alt="Missing image &quot;WEAPON_DOUBLEACTION.png&quot;" title="WEAPON_DOUBLEACTION" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_DOUBLEACTION<br/>
     <b>Hash:</b> 0x97EA20B8<br/>
@@ -421,7 +421,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_flaregun.png" alt="Missing image &quot;WEAPON_FLAREGUN.png&quot;" title="WEAPON_FLAREGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_flaregun.png" alt="Missing image &quot;WEAPON_FLAREGUN.png&quot;" title="WEAPON_FLAREGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_FLAREGUN<br/>
     <b>Hash:</b> 0x47757124<br/>
@@ -430,7 +430,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_gadgetpistol.png" alt="Missing image &quot;WEAPON_GADGETPISTOL.png&quot;" title="WEAPON_GADGETPISTOL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_gadgetpistol.png" alt="Missing image &quot;WEAPON_GADGETPISTOL.png&quot;" title="WEAPON_GADGETPISTOL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_GADGETPISTOL<br/>
     <b>Hash:</b> 0x57A4368C<br/>
@@ -439,7 +439,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_heavypistol.png" alt="Missing image &quot;WEAPON_HEAVYPISTOL.png&quot;" title="WEAPON_HEAVYPISTOL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_heavypistol.png" alt="Missing image &quot;WEAPON_HEAVYPISTOL.png&quot;" title="WEAPON_HEAVYPISTOL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_HEAVYPISTOL<br/>
     <b>Hash:</b> 0xD205520E<br/>
@@ -448,7 +448,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_marksmanpistol.png" alt="Missing image &quot;WEAPON_MARKSMANPISTOL.png&quot;" title="WEAPON_MARKSMANPISTOL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_marksmanpistol.png" alt="Missing image &quot;WEAPON_MARKSMANPISTOL.png&quot;" title="WEAPON_MARKSMANPISTOL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MARKSMANPISTOL<br/>
     <b>Hash:</b> 0xDC4DB296<br/>
@@ -457,7 +457,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_navyrevolver.png" alt="Missing image &quot;WEAPON_NAVYREVOLVER.png&quot;" title="WEAPON_NAVYREVOLVER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_navyrevolver.png" alt="Missing image &quot;WEAPON_NAVYREVOLVER.png&quot;" title="WEAPON_NAVYREVOLVER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_NAVYREVOLVER<br/>
     <b>Hash:</b> 0x917F6C8C<br/>
@@ -466,7 +466,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_pistol.png" alt="Missing image &quot;WEAPON_PISTOL.png&quot;" title="WEAPON_PISTOL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_pistol.png" alt="Missing image &quot;WEAPON_PISTOL.png&quot;" title="WEAPON_PISTOL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_PISTOL<br/>
     <b>Hash:</b> 0x1B06D571<br/>
@@ -474,7 +474,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_pistol_mk2.png" alt="Missing image &quot;WEAPON_PISTOL_MK2.png&quot;" title="WEAPON_PISTOL_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_pistol_mk2.png" alt="Missing image &quot;WEAPON_PISTOL_MK2.png&quot;" title="WEAPON_PISTOL_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_PISTOL_MK2<br/>
     <b>Hash:</b> 0xBFE256D4<br/>
@@ -483,7 +483,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_pistol50.png" alt="Missing image &quot;WEAPON_PISTOL50.png&quot;" title="WEAPON_PISTOL50" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_pistol50.png" alt="Missing image &quot;WEAPON_PISTOL50.png&quot;" title="WEAPON_PISTOL50" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_PISTOL50<br/>
     <b>Hash:</b> 0x99AEEB3B<br/>
@@ -491,7 +491,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_raypistol.png" alt="Missing image &quot;WEAPON_RAYPISTOL.png&quot;" title="WEAPON_RAYPISTOL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_raypistol.png" alt="Missing image &quot;WEAPON_RAYPISTOL.png&quot;" title="WEAPON_RAYPISTOL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_RAYPISTOL<br/>
     <b>Hash:</b> 0xAF3696A1<br/>
@@ -500,7 +500,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_revolver.png" alt="Missing image &quot;WEAPON_REVOLVER.png&quot;" title="WEAPON_REVOLVER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_revolver.png" alt="Missing image &quot;WEAPON_REVOLVER.png&quot;" title="WEAPON_REVOLVER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_REVOLVER<br/>
     <b>Hash:</b> 0xC1B3C3D1<br/>
@@ -509,7 +509,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_revolver_mk2.png" alt="Missing image &quot;WEAPON_REVOLVER_MK2.png&quot;" title="WEAPON_REVOLVER_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_revolver_mk2.png" alt="Missing image &quot;WEAPON_REVOLVER_MK2.png&quot;" title="WEAPON_REVOLVER_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_REVOLVER_MK2<br/>
     <b>Hash:</b> 0xCB96392F<br/>
@@ -518,7 +518,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_snspistol.png" alt="Missing image &quot;WEAPON_SNSPISTOL.png&quot;" title="WEAPON_SNSPISTOL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_snspistol.png" alt="Missing image &quot;WEAPON_SNSPISTOL.png&quot;" title="WEAPON_SNSPISTOL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_SNSPISTOL<br/>
     <b>Hash:</b> 0xBFD21232<br/>
@@ -527,7 +527,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_snspistol_mk2.png" alt="Missing image &quot;WEAPON_SNSPISTOL_MK2.png&quot;" title="WEAPON_SNSPISTOL_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_snspistol_mk2.png" alt="Missing image &quot;WEAPON_SNSPISTOL_MK2.png&quot;" title="WEAPON_SNSPISTOL_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_SNSPISTOL_MK2<br/>
     <b>Hash:</b> 0x88374054<br/>
@@ -536,7 +536,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_vintagepistol.png" alt="Missing image &quot;WEAPON_VINTAGEPISTOL.png&quot;" title="WEAPON_VINTAGEPISTOL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_vintagepistol.png" alt="Missing image &quot;WEAPON_VINTAGEPISTOL.png&quot;" title="WEAPON_VINTAGEPISTOL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_VINTAGEPISTOL<br/>
     <b>Hash:</b> 0x83839C4<br/>
@@ -550,7 +550,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_advancedrifle.png" alt="Missing image &quot;WEAPON_ADVANCEDRIFLE.png&quot;" title="WEAPON_ADVANCEDRIFLE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_advancedrifle.png" alt="Missing image &quot;WEAPON_ADVANCEDRIFLE.png&quot;" title="WEAPON_ADVANCEDRIFLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_ADVANCEDRIFLE<br/>
     <b>Hash:</b> 0xAF113F99<br/>
@@ -558,7 +558,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_assaultrifle.png" alt="Missing image &quot;WEAPON_ASSAULTRIFLE.png&quot;" title="WEAPON_ASSAULTRIFLE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_assaultrifle.png" alt="Missing image &quot;WEAPON_ASSAULTRIFLE.png&quot;" title="WEAPON_ASSAULTRIFLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_ASSAULTRIFLE<br/>
     <b>Hash:</b> 0xBFEFFF6D<br/>
@@ -566,7 +566,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_assaultrifle_mk2.png" alt="Missing image &quot;WEAPON_ASSAULTRIFLE_MK2.png&quot;" title="WEAPON_ASSAULTRIFLE_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_assaultrifle_mk2.png" alt="Missing image &quot;WEAPON_ASSAULTRIFLE_MK2.png&quot;" title="WEAPON_ASSAULTRIFLE_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_ASSAULTRIFLE_MK2<br/>
     <b>Hash:</b> 0x394F415C<br/>
@@ -575,7 +575,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_bullpuprifle.png" alt="Missing image &quot;WEAPON_BULLPUPRIFLE.png&quot;" title="WEAPON_BULLPUPRIFLE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_bullpuprifle.png" alt="Missing image &quot;WEAPON_BULLPUPRIFLE.png&quot;" title="WEAPON_BULLPUPRIFLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_BULLPUPRIFLE<br/>
     <b>Hash:</b> 0x7F229F94<br/>
@@ -584,7 +584,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_bullpuprifle_mk2.png" alt="Missing image &quot;WEAPON_BULLPUPRIFLE_MK2.png&quot;" title="WEAPON_BULLPUPRIFLE_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_bullpuprifle_mk2.png" alt="Missing image &quot;WEAPON_BULLPUPRIFLE_MK2.png&quot;" title="WEAPON_BULLPUPRIFLE_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_BULLPUPRIFLE_MK2<br/>
     <b>Hash:</b> 0x84D6FAFD<br/>
@@ -593,7 +593,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_carbinerifle.png" alt="Missing image &quot;WEAPON_CARBINERIFLE.png&quot;" title="WEAPON_CARBINERIFLE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_carbinerifle.png" alt="Missing image &quot;WEAPON_CARBINERIFLE.png&quot;" title="WEAPON_CARBINERIFLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_CARBINERIFLE<br/>
     <b>Hash:</b> 0x83BF0278<br/>
@@ -601,7 +601,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_carbinerifle_mk2.png" alt="Missing image &quot;WEAPON_CARBINERIFLE_MK2.png&quot;" title="WEAPON_CARBINERIFLE_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_carbinerifle_mk2.png" alt="Missing image &quot;WEAPON_CARBINERIFLE_MK2.png&quot;" title="WEAPON_CARBINERIFLE_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_CARBINERIFLE_MK2<br/>
     <b>Hash:</b> 0xFAD1F1C9<br/>
@@ -610,7 +610,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_compactrifle.png" alt="Missing image &quot;WEAPON_COMPACTRIFLE.png&quot;" title="WEAPON_COMPACTRIFLE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_compactrifle.png" alt="Missing image &quot;WEAPON_COMPACTRIFLE.png&quot;" title="WEAPON_COMPACTRIFLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_COMPACTRIFLE<br/>
     <b>Hash:</b> 0x624FE830<br/>
@@ -619,7 +619,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_heavyrifle.png" alt="Missing image &quot;WEAPON_HEAVYRIFLE.png&quot;" title="WEAPON_HEAVYRIFLE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_heavyrifle.png" alt="Missing image &quot;WEAPON_HEAVYRIFLE.png&quot;" title="WEAPON_HEAVYRIFLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_HEAVYRIFLE<br/>
     <b>Hash:</b> 0xC78D71B4<br/>
@@ -628,7 +628,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_militaryrifle.png" alt="Missing image &quot;WEAPON_MILITARYRIFLE.png&quot;" title="WEAPON_MILITARYRIFLE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_militaryrifle.png" alt="Missing image &quot;WEAPON_MILITARYRIFLE.png&quot;" title="WEAPON_MILITARYRIFLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MILITARYRIFLE<br/>
     <b>Hash:</b> 0x9D1F17E6<br/>
@@ -637,7 +637,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_specialcarbine.png" alt="Missing image &quot;WEAPON_SPECIALCARBINE.png&quot;" title="WEAPON_SPECIALCARBINE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_specialcarbine.png" alt="Missing image &quot;WEAPON_SPECIALCARBINE.png&quot;" title="WEAPON_SPECIALCARBINE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_SPECIALCARBINE<br/>
     <b>Hash:</b> 0xC0A3098D<br/>
@@ -646,7 +646,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_specialcarbine_mk2.png" alt="Missing image &quot;WEAPON_SPECIALCARBINE_MK2.png&quot;" title="WEAPON_SPECIALCARBINE_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_specialcarbine_mk2.png" alt="Missing image &quot;WEAPON_SPECIALCARBINE_MK2.png&quot;" title="WEAPON_SPECIALCARBINE_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_SPECIALCARBINE_MK2<br/>
     <b>Hash:</b> 0x969C3D67<br/>
@@ -660,7 +660,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_assaultshotgun.png" alt="Missing image &quot;WEAPON_ASSAULTSHOTGUN.png&quot;" title="WEAPON_ASSAULTSHOTGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_assaultshotgun.png" alt="Missing image &quot;WEAPON_ASSAULTSHOTGUN.png&quot;" title="WEAPON_ASSAULTSHOTGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_ASSAULTSHOTGUN<br/>
     <b>Hash:</b> 0xE284C527<br/>
@@ -668,7 +668,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_autoshotgun.png" alt="Missing image &quot;WEAPON_AUTOSHOTGUN.png&quot;" title="WEAPON_AUTOSHOTGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_autoshotgun.png" alt="Missing image &quot;WEAPON_AUTOSHOTGUN.png&quot;" title="WEAPON_AUTOSHOTGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_AUTOSHOTGUN<br/>
     <b>Hash:</b> 0x12E82D3D<br/>
@@ -677,7 +677,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_bullpupshotgun.png" alt="Missing image &quot;WEAPON_BULLPUPSHOTGUN.png&quot;" title="WEAPON_BULLPUPSHOTGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_bullpupshotgun.png" alt="Missing image &quot;WEAPON_BULLPUPSHOTGUN.png&quot;" title="WEAPON_BULLPUPSHOTGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_BULLPUPSHOTGUN<br/>
     <b>Hash:</b> 0x9D61E50F<br/>
@@ -685,7 +685,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_combatshotgun.png" alt="Missing image &quot;WEAPON_COMBATSHOTGUN.png&quot;" title="WEAPON_COMBATSHOTGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_combatshotgun.png" alt="Missing image &quot;WEAPON_COMBATSHOTGUN.png&quot;" title="WEAPON_COMBATSHOTGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_COMBATSHOTGUN<br/>
     <b>Hash:</b> 0x5A96BA4<br/>
@@ -694,7 +694,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_dbshotgun.png" alt="Missing image &quot;WEAPON_DBSHOTGUN.png&quot;" title="WEAPON_DBSHOTGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_dbshotgun.png" alt="Missing image &quot;WEAPON_DBSHOTGUN.png&quot;" title="WEAPON_DBSHOTGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_DBSHOTGUN<br/>
     <b>Hash:</b> 0xEF951FBB<br/>
@@ -703,7 +703,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_heavyshotgun.png" alt="Missing image &quot;WEAPON_HEAVYSHOTGUN.png&quot;" title="WEAPON_HEAVYSHOTGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_heavyshotgun.png" alt="Missing image &quot;WEAPON_HEAVYSHOTGUN.png&quot;" title="WEAPON_HEAVYSHOTGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_HEAVYSHOTGUN<br/>
     <b>Hash:</b> 0x3AABBBAA<br/>
@@ -712,7 +712,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_pumpshotgun.png" alt="Missing image &quot;WEAPON_PUMPSHOTGUN.png&quot;" title="WEAPON_PUMPSHOTGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_pumpshotgun.png" alt="Missing image &quot;WEAPON_PUMPSHOTGUN.png&quot;" title="WEAPON_PUMPSHOTGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_PUMPSHOTGUN<br/>
     <b>Hash:</b> 0x1D073A89<br/>
@@ -720,7 +720,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_pumpshotgun_mk2.png" alt="Missing image &quot;WEAPON_PUMPSHOTGUN_MK2.png&quot;" title="WEAPON_PUMPSHOTGUN_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_pumpshotgun_mk2.png" alt="Missing image &quot;WEAPON_PUMPSHOTGUN_MK2.png&quot;" title="WEAPON_PUMPSHOTGUN_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_PUMPSHOTGUN_MK2<br/>
     <b>Hash:</b> 0x555AF99A<br/>
@@ -729,7 +729,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_sawnoffshotgun.png" alt="Missing image &quot;WEAPON_SAWNOFFSHOTGUN.png&quot;" title="WEAPON_SAWNOFFSHOTGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_sawnoffshotgun.png" alt="Missing image &quot;WEAPON_SAWNOFFSHOTGUN.png&quot;" title="WEAPON_SAWNOFFSHOTGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_SAWNOFFSHOTGUN<br/>
     <b>Hash:</b> 0x7846A318<br/>
@@ -742,7 +742,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_assaultsmg.png" alt="Missing image &quot;WEAPON_ASSAULTSMG.png&quot;" title="WEAPON_ASSAULTSMG" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_assaultsmg.png" alt="Missing image &quot;WEAPON_ASSAULTSMG.png&quot;" title="WEAPON_ASSAULTSMG" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_ASSAULTSMG<br/>
     <b>Hash:</b> 0xEFE7E2DF<br/>
@@ -750,7 +750,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_combatpdw.png" alt="Missing image &quot;WEAPON_COMBATPDW.png&quot;" title="WEAPON_COMBATPDW" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_combatpdw.png" alt="Missing image &quot;WEAPON_COMBATPDW.png&quot;" title="WEAPON_COMBATPDW" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_COMBATPDW<br/>
     <b>Hash:</b> 0xA3D4D34<br/>
@@ -759,7 +759,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_machinepistol.png" alt="Missing image &quot;WEAPON_MACHINEPISTOL.png&quot;" title="WEAPON_MACHINEPISTOL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_machinepistol.png" alt="Missing image &quot;WEAPON_MACHINEPISTOL.png&quot;" title="WEAPON_MACHINEPISTOL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MACHINEPISTOL<br/>
     <b>Hash:</b> 0xDB1AA450<br/>
@@ -768,7 +768,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_microsmg.png" alt="Missing image &quot;WEAPON_MICROSMG.png&quot;" title="WEAPON_MICROSMG" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_microsmg.png" alt="Missing image &quot;WEAPON_MICROSMG.png&quot;" title="WEAPON_MICROSMG" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MICROSMG<br/>
     <b>Hash:</b> 0x13532244<br/>
@@ -776,7 +776,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_minismg.png" alt="Missing image &quot;WEAPON_MINISMG.png&quot;" title="WEAPON_MINISMG" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_minismg.png" alt="Missing image &quot;WEAPON_MINISMG.png&quot;" title="WEAPON_MINISMG" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MINISMG<br/>
     <b>Hash:</b> 0xBD248B55<br/>
@@ -785,7 +785,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_smg.png" alt="Missing image &quot;WEAPON_SMG.png&quot;" title="WEAPON_SMG" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_smg.png" alt="Missing image &quot;WEAPON_SMG.png&quot;" title="WEAPON_SMG" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_SMG<br/>
     <b>Hash:</b> 0x2BE6766B<br/>
@@ -793,7 +793,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_smg_mk2.png" alt="Missing image &quot;WEAPON_SMG_MK2.png&quot;" title="WEAPON_SMG_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_smg_mk2.png" alt="Missing image &quot;WEAPON_SMG_MK2.png&quot;" title="WEAPON_SMG_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_SMG_MK2<br/>
     <b>Hash:</b> 0x78A97CD0<br/>
@@ -807,7 +807,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_heavysniper.png" alt="Missing image &quot;WEAPON_HEAVYSNIPER.png&quot;" title="WEAPON_HEAVYSNIPER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_heavysniper.png" alt="Missing image &quot;WEAPON_HEAVYSNIPER.png&quot;" title="WEAPON_HEAVYSNIPER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_HEAVYSNIPER<br/>
     <b>Hash:</b> 0xC472FE2<br/>
@@ -815,7 +815,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_heavysniper_mk2.png" alt="Missing image &quot;WEAPON_HEAVYSNIPER_MK2.png&quot;" title="WEAPON_HEAVYSNIPER_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_heavysniper_mk2.png" alt="Missing image &quot;WEAPON_HEAVYSNIPER_MK2.png&quot;" title="WEAPON_HEAVYSNIPER_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_HEAVYSNIPER_MK2<br/>
     <b>Hash:</b> 0xA914799<br/>
@@ -824,7 +824,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_marksmanrifle.png" alt="Missing image &quot;WEAPON_MARKSMANRIFLE.png&quot;" title="WEAPON_MARKSMANRIFLE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_marksmanrifle.png" alt="Missing image &quot;WEAPON_MARKSMANRIFLE.png&quot;" title="WEAPON_MARKSMANRIFLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MARKSMANRIFLE<br/>
     <b>Hash:</b> 0xC734385A<br/>
@@ -833,7 +833,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_marksmanrifle_mk2.png" alt="Missing image &quot;WEAPON_MARKSMANRIFLE_MK2.png&quot;" title="WEAPON_MARKSMANRIFLE_MK2" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_marksmanrifle_mk2.png" alt="Missing image &quot;WEAPON_MARKSMANRIFLE_MK2.png&quot;" title="WEAPON_MARKSMANRIFLE_MK2" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MARKSMANRIFLE_MK2<br/>
     <b>Hash:</b> 0x6A6C02E0<br/>
@@ -842,7 +842,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_musket.png" alt="Missing image &quot;WEAPON_MUSKET.png&quot;" title="WEAPON_MUSKET" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_musket.png" alt="Missing image &quot;WEAPON_MUSKET.png&quot;" title="WEAPON_MUSKET" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MUSKET<br/>
     <b>Hash:</b> 0xA89CB99E<br/>
@@ -851,7 +851,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_sniperrifle.png" alt="Missing image &quot;WEAPON_SNIPERRIFLE.png&quot;" title="WEAPON_SNIPERRIFLE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_sniperrifle.png" alt="Missing image &quot;WEAPON_SNIPERRIFLE.png&quot;" title="WEAPON_SNIPERRIFLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_SNIPERRIFLE<br/>
     <b>Hash:</b> 0x5FC3C11<br/>
@@ -864,7 +864,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_stungun.png" alt="Missing image &quot;WEAPON_STUNGUN.png&quot;" title="WEAPON_STUNGUN" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_stungun.png" alt="Missing image &quot;WEAPON_STUNGUN.png&quot;" title="WEAPON_STUNGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_STUNGUN<br/>
     <b>Hash:</b> 0x3656C8C1<br/>
@@ -872,7 +872,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_stungun_mp.png" alt="Missing image &quot;WEAPON_STUNGUN_MP.png&quot;" title="WEAPON_STUNGUN_MP" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_stungun_mp.png" alt="Missing image &quot;WEAPON_STUNGUN_MP.png&quot;" title="WEAPON_STUNGUN_MP" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_STUNGUN_MP<br/>
     <b>Hash:</b> 0x45CD9CF3<br/>
@@ -886,7 +886,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_ball.png" alt="Missing image &quot;WEAPON_BALL.png&quot;" title="WEAPON_BALL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_ball.png" alt="Missing image &quot;WEAPON_BALL.png&quot;" title="WEAPON_BALL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_BALL<br/>
     <b>Hash:</b> 0x23C9F95C<br/>
@@ -894,7 +894,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_bird_crap.png" alt="Missing image &quot;WEAPON_BIRD_CRAP.png&quot;" title="WEAPON_BIRD_CRAP" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_bird_crap.png" alt="Missing image &quot;WEAPON_BIRD_CRAP.png&quot;" title="WEAPON_BIRD_CRAP" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_BIRD_CRAP<br/>
     <b>Hash:</b> 0x6D5E2801<br/>
@@ -902,7 +902,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_bzgas.png" alt="Missing image &quot;WEAPON_BZGAS.png&quot;" title="WEAPON_BZGAS" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_bzgas.png" alt="Missing image &quot;WEAPON_BZGAS.png&quot;" title="WEAPON_BZGAS" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_BZGAS<br/>
     <b>Hash:</b> 0xA0973D5E<br/>
@@ -910,7 +910,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_flare.png" alt="Missing image &quot;WEAPON_FLARE.png&quot;" title="WEAPON_FLARE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_flare.png" alt="Missing image &quot;WEAPON_FLARE.png&quot;" title="WEAPON_FLARE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_FLARE<br/>
     <b>Hash:</b> 0x497FACC3<br/>
@@ -918,7 +918,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_grenade.png" alt="Missing image &quot;WEAPON_GRENADE.png&quot;" title="WEAPON_GRENADE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_grenade.png" alt="Missing image &quot;WEAPON_GRENADE.png&quot;" title="WEAPON_GRENADE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_GRENADE<br/>
     <b>Hash:</b> 0x93E220BD<br/>
@@ -926,7 +926,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_molotov.png" alt="Missing image &quot;WEAPON_MOLOTOV.png&quot;" title="WEAPON_MOLOTOV" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_molotov.png" alt="Missing image &quot;WEAPON_MOLOTOV.png&quot;" title="WEAPON_MOLOTOV" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_MOLOTOV<br/>
     <b>Hash:</b> 0x24B17070<br/>
@@ -934,7 +934,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_pipebomb.png" alt="Missing image &quot;WEAPON_PIPEBOMB.png&quot;" title="WEAPON_PIPEBOMB" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_pipebomb.png" alt="Missing image &quot;WEAPON_PIPEBOMB.png&quot;" title="WEAPON_PIPEBOMB" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_PIPEBOMB<br/>
     <b>Hash:</b> 0xBA45E8B8<br/>
@@ -943,7 +943,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_proxmine.png" alt="Missing image &quot;WEAPON_PROXMINE.png&quot;" title="WEAPON_PROXMINE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_proxmine.png" alt="Missing image &quot;WEAPON_PROXMINE.png&quot;" title="WEAPON_PROXMINE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_PROXMINE<br/>
     <b>Hash:</b> 0xAB564B93<br/>
@@ -952,7 +952,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_smokegrenade.png" alt="Missing image &quot;WEAPON_SMOKEGRENADE.png&quot;" title="WEAPON_SMOKEGRENADE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_smokegrenade.png" alt="Missing image &quot;WEAPON_SMOKEGRENADE.png&quot;" title="WEAPON_SMOKEGRENADE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_SMOKEGRENADE<br/>
     <b>Hash:</b> 0xFDBC8A50<br/>
@@ -960,7 +960,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_snowball.png" alt="Missing image &quot;WEAPON_SNOWBALL.png&quot;" title="WEAPON_SNOWBALL" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_snowball.png" alt="Missing image &quot;WEAPON_SNOWBALL.png&quot;" title="WEAPON_SNOWBALL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_SNOWBALL<br/>
     <b>Hash:</b> 0x787F0BB<br/>
@@ -969,7 +969,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_stickybomb.png" alt="Missing image &quot;WEAPON_STICKYBOMB.png&quot;" title="WEAPON_STICKYBOMB" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_stickybomb.png" alt="Missing image &quot;WEAPON_STICKYBOMB.png&quot;" title="WEAPON_STICKYBOMB" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_STICKYBOMB<br/>
     <b>Hash:</b> 0x2C3731D9<br/>
@@ -982,7 +982,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_tranquilizer.png" alt="Missing image &quot;WEAPON_TRANQUILIZER.png&quot;" title="WEAPON_TRANQUILIZER" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_tranquilizer.png" alt="Missing image &quot;WEAPON_TRANQUILIZER.png&quot;" title="WEAPON_TRANQUILIZER" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_TRANQUILIZER<br/>
     <b>Hash:</b> 0x32A888BD<br/>
@@ -996,7 +996,7 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_knuckle.png" alt="Missing image &quot;WEAPON_KNUCKLE.png&quot;" title="WEAPON_KNUCKLE" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_knuckle.png" alt="Missing image &quot;WEAPON_KNUCKLE.png&quot;" title="WEAPON_KNUCKLE" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_KNUCKLE<br/>
     <b>Hash:</b> 0xD8DF3C3C<br/>
@@ -1005,7 +1005,7 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
-      <img src="~/altv-docs-gta-assets/images/weapon/models/weapon_unarmed.png" alt="Missing image &quot;WEAPON_UNARMED.png&quot;" title="WEAPON_UNARMED" loading="lazy" />
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_unarmed.png" alt="Missing image &quot;WEAPON_UNARMED.png&quot;" title="WEAPON_UNARMED" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_UNARMED<br/>
     <b>Hash:</b> 0xA2719263<br/>

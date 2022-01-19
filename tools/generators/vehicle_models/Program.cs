@@ -15,7 +15,7 @@ namespace VehiclePageCreator
             var vehiclesJson = depsFolder + "vehicles.json";
 
             var vehiclesModelsFile = "../../../articles/vehicle/models.md";
-            var imagePath = "~/altv-docs-gta-assets/images/vehicle/models/";
+            var imagePath = "~/altv-docs-assets/altv-docs-gta/images/vehicle/models/";
 
             /*
              * Read JSON files from gta-v-data-dumps by DurtyFree
