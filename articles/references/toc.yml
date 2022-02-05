@@ -2,6 +2,8 @@
   href: ambient-zones.md
 - name: Audio Flags
   href: audio-flags.md
+- name: Blips
+  href: blips.md
 - name: Checkpoint Types
   href: checkpoints.md
 - name: Controls
@@ -16,6 +18,8 @@
   href: interiors-and-locations.md
 - name: Joaat
   href: joaat.md
+- name: Markers
+  href: markers.md
 - name: Time & Date
   href: time-and-date.md
 - name: Trains
