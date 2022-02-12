@@ -1,6 +1,5 @@
 - name: Documentation
   href: articles/toc.yml
-  homepage: articles/index.md
+  homepage: articles/tutorials/index.md
 - name: API
-  href: api/toc.yml
-  homepage: api/index.md
+  href: https://natives.altv.mp/#/
