@@ -1,3 +1,6 @@
+- name: Tutorials
+  href: tutorials/toc.yml
+  topicHref: tutorials/index.md
 - name: Peds
   href: ped/toc.yml
   topicHref: ped/index.md
@@ -7,9 +10,6 @@
 - name: Weapons
   href: weapons/toc.yml
   topicHref: weapons/index.md
-- name: Tutorials
-  href: tutorials/toc.yml
-  topicHref: tutorials/index.md
 - name: References
   href: references/toc.yml
   topicHref: references/index.md
