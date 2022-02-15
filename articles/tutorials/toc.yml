@@ -16,3 +16,5 @@
   href: stream_weapons.md
 - name: Stream Clothes
   href: stream_clothes.md
+- name: Stream Clothes (Overwrite)
+  href: stream_clothes_overwrite.md
