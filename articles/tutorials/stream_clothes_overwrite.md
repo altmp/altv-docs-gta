@@ -23,7 +23,7 @@ In our example we will use the mpsecurity dlc.
 3. when you have select all clothes you want to add, just click on ```"Build Project"```.
 4. be sure that's alt:V resource is ticked, if it's not for alt:V, you can tick others options.
 5. enter the collection name which we got before.
-6. open the stream.cfg your generated clothes dlc and remove the ``meta:`` part of the file and also the 2 generated meta files in the stream folder.
+6. open the stream.cfg of your generated clothes dlc and remove the ``meta:`` part of the file and also the 2 generated meta files in the stream folder.
 7. in the stream folder you have to rename the ``ped_female.rpf`` and ``ped_male.rpf`` folder to ``dlcName_female.rpf`` and ``dlcName_male.rpf`` (use the correct dlc name here, e.g ``mpsecurity_male.rpf``)
 8. add the resource name in your ```server.cfg``` and your resource folder into the ```server resource folder```
 
