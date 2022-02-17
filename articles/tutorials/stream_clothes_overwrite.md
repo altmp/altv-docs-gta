@@ -28,8 +28,8 @@ In our example we will use the mpsecurity dlc.
 8. add the resource name in your ```server.cfg``` and your resource folder into the ```server resource folder```
 
 
-![First step](~/altv-docs-gta-assets/images/tutorials/stream_clothes/first_overwrite.png)
-![Second step](~/altv-docs-gta-assets/images/tutorials/stream_clothes/second_overwrite.png)
+![First step](~/altv-docs-assets/altv-docs-gta/images/tutorials/stream_clothes/first_overwrite.png)
+![Second step](~/altv-docs-assets/altv-docs-gta/images/tutorials/stream_clothes/second_overwrite.png)
 
 ## **resource.cfg** 
 ```
