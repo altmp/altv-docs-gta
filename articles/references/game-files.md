@@ -76,7 +76,7 @@ YBN's are used for buildings and general environment.
 It declares Path Nodes required for NPCs and calculating GPS Routes.
 
 ### Example
-This is an example inside CodeWalker, how Path Nodes look like
+This is an example inside CodeWalker, how Path Nodes look like<br>
 <img src="https://i.imgur.com/nWd2voy.jpeg" alt="Path Nodes" style="zoom: 50%"/>
 
 ## YTD
@@ -110,7 +110,7 @@ You can create it inside CodeWalker, together with a [YMF (Manifest File)](##YMF
 
 ### Example
 This is the YMAP, that gets included into your CodeWalker Project.
-It contains several Entities,
+It contains several Entities<br>
 <img src="https://i.imgur.com/UaaRsGo.png" alt="YMAP Example" style="zoom: 75%"/>
 
 ## YMF
@@ -134,7 +134,7 @@ Mainly used for Vehicles, usually contains an High Details alternative.
 |   name.yft  |  hi@name.yft |
 
 ### Example
-Inside ZModeler, a vehicle in hi@ format looks like this
+Inside ZModeler, a vehicle in hi@ format looks like this<br>
 <img src="https://i.imgur.com/IeC1hTO.png" alt="YFT Example" style="zoom: 75%"/>
 
 ## YDD
@@ -144,7 +144,7 @@ Inside ZModeler, a vehicle in hi@ format looks like this
 Used for complex Buildings, usually contains several LODs and Models.
 
 ### Example
-Inside OpenIV, it looks like this
+Inside OpenIV, it looks like this<br>
 <img src="https://i.imgur.com/AxViAHL.png" alt="YDD Example" style="zoom: 45%"/>
 
 ## YDR
@@ -155,7 +155,7 @@ Small and simple objects, containing embedded textures or external Textures via.
 Used for Entities, which are combined into a [YTYP](##YTYP)
 
 ### Example
-Inside OpenIV, an YDR looks like this.
+Inside OpenIV, an YDR looks like this<br>
 <img src="https://i.imgur.com/HahxAnr.png" alt="YDD Example" style="zoom: 45%"/>
 
 ## RPF
