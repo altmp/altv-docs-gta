@@ -1018,7 +1018,7 @@
 
 # [JavaScript](#tab/tab1-0)
 ```js
-export class VehicleModel {
+export class WeaponModel {
   static gadget_nightvision = 0xA720365C;
   static gadget_parachute = 0xFBAB5776;
   static weapon_advancedrifle = 0xAF113F99;
