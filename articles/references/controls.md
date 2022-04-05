@@ -1,5 +1,7 @@
 ﻿# Controls
 
+You can find a helpful tool here: <a href="https://mmleczek.com/tools/controls/">GTA 5 Controls Finder</a><br>
+
 # Input Groups
 | Index | Name |
 | ----- | ---- |
