@@ -127,7 +127,7 @@ namespace WeaponPageCreator
 
             gallery.WriteLine("# [JavaScript](#tab/tab1-0)");
             gallery.WriteLine("```js");
-            gallery.WriteLine("export class VehicleModel {");
+            gallery.WriteLine("export class WeaponModel {");
 
             foreach (var weapon in filteredWeapons)
             {

@@ -37,13 +37,13 @@ client-files: [
 ## **stream.cfg**
 ```
 files: [
-  stream/*
+  stream/assets/*
 ]
 
 meta: {
-	stream/meta/weaponkatana.meta: WEAPONINFO_FILE
-	stream/meta/weaponanimations.meta: WEAPON_ANIMATIONS_FILE
-	stream/meta/weaponarchetypes.meta: WEAPON_METADATA_FILE
+	stream/weaponkatana.meta: WEAPONINFO_FILE
+	stream/weaponanimations.meta: WEAPON_ANIMATIONS_FILE
+	stream/weaponarchetypes.meta: WEAPON_METADATA_FILE
 }
 ```
 
@@ -52,9 +52,10 @@ meta: {
 ```
 weapon_tutorial/
 ├─ stream/
-│  ├─ models/
-│  │  ├─ w_pe_pistol.ydr
-│  │  ├─ w_pe_pistol.ytd
+│  ├─ assets/
+│  ├─ assets/models/
+│  │  |  ├─ w_pe_pistol.ydr
+│  │  |  ├─ w_pe_pistol.ytd
 ├─ resource.cfg
 ├─ stream.cfg
 ```
