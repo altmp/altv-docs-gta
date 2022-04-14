@@ -22,18 +22,18 @@ Yet no one knows the meaning or the use behind it.
 
 ### Suffix
 
-| File   | Contains hi@ | Meaning                     | Usage                                                        |     Explanation      |
-| ------ | :----------: | --------------------------- | ------------------------------------------------------------ | :------------------: |
-| Y(BN)  |     Yes      | **B**ou**n**ds              | Collision Information                                        | [<< HERE >>](##YBN)  |
-| Y(ND)  |      No      | Path **N**o**d**e           | Path Node for NPCs & GPS                                     | [<< HERE >>](##YND)  |
-| Y(TD)  |     Yes      | **T**exture **D**irectory   | Compound of Texture Files                                    | [<< HERE >>](##YTD)  |
-| Y(TYP) |      No      | Map **Typ**es               | Map Types                                                    | [<< HERE >>](##YTYP) |
-| Y(MAP) |      No      | **Map** Data                | Collection of Entities to form a Compound                    | [<< HERE >>](##YMAP) |
-| Y(MF)  |      No      | **M**ani**f**est            | Manifest, used to enforce loading of certain [YTYP](##YTYP)s; E.g  used by Entities inside a [YMAP](##YMAP) | [<< HERE >>](##YMF)  |
-| Y(FT)  |  Yes (hi_)   | **F**ragmen**t**            | Complex models such as vehicles, destructible objects.       | [<< HERE >>](##YFT)  |
-| Y(DD)  |     Yes      | **D**rawable **D**ictionary | Dictionary of multiple drawables (Usually used for LODs).    | [<< HERE >>](##YDD)  |
-| Y(DR)  |     Yes      | **Dr**awable                | Generic models, geometry, optional embedded textures and lights. | [<< HERE >>](##YDR)  |
-| RPF    |      No      | **R**AGE **P**ack**f**ile   | Production Format, of a compound containing various Files                                    | [<< HERE >>](##RPF)  |
+| File   | Contains hi@ | Meaning                     | Usage                                                        |
+| ------ | :----------: | --------------------------- | ------------------------------------------------------------ |
+| Y(BN)  |     Yes      | **B**ou**n**ds              | Collision Information                                        |
+| Y(ND)  |      No      | Path **N**o**d**e           | Path Node for NPCs & GPS                                     |
+| Y(TD)  |     Yes      | **T**exture **D**irectory   | Compound of Texture Files                                    |
+| Y(TYP) |      No      | Map **Typ**es               | Map Types                                                    |
+| Y(MAP) |      No      | **Map** Data                | Collection of Entities to form a Compound                    |
+| Y(MF)  |      No      | **M**ani**f**est            | Manifest, used to enforce loading of certain [YTYP](##YTYP)s; E.g  used by Entities inside a [YMAP](##YMAP) |
+| Y(FT)  |  Yes (hi_)   | **F**ragmen**t**            | Complex models such as vehicles, destructible objects.       |
+| Y(DD)  |     Yes      | **D**rawable **D**ictionary | Dictionary of multiple drawables (Usually used for LODs).    |
+| Y(DR)  |     Yes      | **Dr**awable                | Generic models, geometry, optional embedded textures and lights. |
+| RPF    |      No      | **R**AGE **P**ack**f**ile   | Production Format, of a compound containing various Files    |
 
 
 ## YBN
