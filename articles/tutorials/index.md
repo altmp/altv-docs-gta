@@ -1,7 +1,5 @@
 # Overview of Tutorials
 
-[Add Client Mods](add_client_mods.md)
-
 ## Streaming
 [Stream Interiors Proxies](stream_interiorsproxies.meta.md)
 
