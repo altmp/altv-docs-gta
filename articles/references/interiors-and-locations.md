@@ -427,15 +427,15 @@ _Position: -49.415, -558,287, 30.10_
 | hei_dlc_casino_door | 924.369, 47.037, 81.093 |
 
 ## Garages
-| Name / Description | IPL | Position (X, Y, Z) |
-| ------------------ | --- | ------------------ |
+| Name / Description | Position (X, Y, Z) |
+| ------------------ | ------------------ |
 | 2 Car Garage | 173.2903, -1003.6, -99.65707 |
 | 6 Car Garage | 197.8153, -1002.293, -99.65749 |
 | 10 Car Garage | 229.9559, -981.7928, -99.66071 |
 
 ## Apartments
-| Name / Description | IPL | Position (X, Y, Z) |
-| ------------------ | --- | ------------------ |
+| Name / Description | Position (X, Y, Z) |
+| ------------------ | ------------------ |
 | Low End Apartment | 261.4586, -998.8196, -99.00863 |
 | 4 Integrity Way, Apt 28 | -18.07856, -583.6725, 79.46569 |
 | 4 Integrity Way, Apt 30 | -35.31277, -580.4199, 88.71221 |
@@ -454,8 +454,8 @@ _Position: -49.415, -558,287, 30.10_
 | 2133 Mad Wayne Thunder | -1288, 440.748, 97.69459 |
 
 ## Misc
-| Name / Description | IPL | Position (X, Y, Z) |
-| ------------------ | --- | ------------------ |
+| Name / Description | Position (X, Y, Z) |
+| ------------------ | ------------------ |
 | Bunker Interior | 899.5518, -3246.038, -98.04907 |
 | CharCreator | 402.5164, -1002.847, -99.2587 |
 | Mission Carpark | 405.9228, -954.1149, -99.6627 |
