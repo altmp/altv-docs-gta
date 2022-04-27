@@ -7,7 +7,7 @@ This tutorial will show, how to add custom MLO to your server. For this tutorial
 #
 ## Creating the resources 
 1. Open ```dlc.rpf``` or any other ```*.rpf``` archive with one of suggested tools 
-2. Extract the archive like below. Place all ```ybn```, ```ydd```, ```ydr``` and other assets in one folder to load them all with one wildcard (you can split it in subfolders). You also need to describe each meta file. You can drag and drop the files.
+2. Extract the archive like below. Place all ```ybn```, ```ydd```, ```ydr``` and other assets in one folder to load them all with one wildcard (you can split it in subfolders). You also need to describe each meta file. The Data Files List and examples can be found [here](https://docs.altv.mp/gta/articles/references/data-files.html). You can drag and drop the files.
 
 ## **Folder Structure**
 ```
