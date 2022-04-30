@@ -24,16 +24,16 @@ Yet no one knows the meaning or the use behind it.
 
 | File   | Contains hi@ | Meaning                     | Usage                                                        |     Explanation      |
 | ------ | :----------: | --------------------------- | ------------------------------------------------------------ | :------------------: |
-| Y(BN)  |     Yes      | **B**ou**n**ds              | Collision Information                                        | [<< HERE >>](##YBN)  |
-| Y(ND)  |      No      | Path **N**o**d**e           | Path Node for NPCs & GPS                                     | [<< HERE >>](##YND)  |
-| Y(TD)  |     Yes      | **T**exture **D**irectory   | Compound of Texture Files                                    | [<< HERE >>](##YTD)  |
-| Y(TYP) |      No      | Map **Typ**es               | Map Types                                                    | [<< HERE >>](##YTYP) |
-| Y(MAP) |      No      | **Map** Data                | Collection of Entities to form a Compound                    | [<< HERE >>](##YMAP) |
-| Y(MF)  |      No      | **M**ani**f**est            | Manifest, used to enforce loading of certain [YTYP](##YTYP)s; E.g  used by Entities inside a [YMAP](##YMAP) | [<< HERE >>](##YMF)  |
-| Y(FT)  |  Yes (hi_)   | **F**ragmen**t**            | Complex models such as vehicles, destructible objects.       | [<< HERE >>](##YFT)  |
-| Y(DD)  |     Yes      | **D**rawable **D**ictionary | Dictionary of multiple drawables (Usually used for LODs).    | [<< HERE >>](##YDD)  |
-| Y(DR)  |     Yes      | **Dr**awable                | Generic models, geometry, optional embedded textures and lights. | [<< HERE >>](##YDR)  |
-| RPF    |      No      | **R**AGE **P**ack**f**ile   | Production Format, of a compound containing various Files                                    | [<< HERE >>](##RPF)  |
+| Y(BN)  |     Yes      | **B**ou**n**ds              | Collision Information                                        | [<< HERE >>](#ybn)  |
+| Y(ND)  |      No      | Path **N**o**d**e           | Path Node for NPCs & GPS                                     | [<< HERE >>](#ynd)  |
+| Y(TD)  |     Yes      | **T**exture **D**irectory   | Compound of Texture Files                                    | [<< HERE >>](#ytd)  |
+| Y(TYP) |      No      | Map **Typ**es               | Map Types                                                    | [<< HERE >>](#ytyp) |
+| Y(MAP) |      No      | **Map** Data                | Collection of Entities to form a Compound                    | [<< HERE >>](#ymap) |
+| Y(MF)  |      No      | **M**ani**f**est            | Manifest, used to enforce loading of certain [YTYP](#ytyp)s; E.g  used by Entities inside a [YMAP](#ymap) | [<< HERE >>](#ymf)  |
+| Y(FT)  |  Yes (hi_)   | **F**ragmen**t**            | Complex models such as vehicles, destructible objects.       | [<< HERE >>](#yft)  |
+| Y(DD)  |     Yes      | **D**rawable **D**ictionary | Dictionary of multiple drawables (Usually used for LODs).    | [<< HERE >>](#ydd)  |
+| Y(DR)  |     Yes      | **Dr**awable                | Generic models, geometry, optional embedded textures and lights. | [<< HERE >>](#ydr)  |
+| RPF    |      No      | **R**AGE **P**ack**f**ile   | Production Format, of a compound containing various Files                                    | [<< HERE >>](#rpf)  |
 
 
 ## YBN
@@ -83,8 +83,8 @@ This is an example inside CodeWalker, how Path Nodes look like<br>
 [comment]: <> "Texture Directory"
 
 ### Explanation
-Combined with [YFT](##YFT)s, there are embedded Texture and external Textures.
-This is where [YTD](##YTD)s get to use.
+Combined with [YFT](#yft)s, there are embedded Texture and external Textures.
+This is where [YTD](#ytd)s get to use.
 
 Used dynamic to implement Textures.
 
@@ -106,7 +106,7 @@ N/A
 
 ### Explanation
 Collection of Entities to form a Compound.
-You can create it inside CodeWalker, together with a [YMF (Manifest File)](##YMF)
+You can create it inside CodeWalker, together with a [YMF (Manifest File)](#ymf)
 
 ### Example
 This is the YMAP, that gets included into your CodeWalker Project.
@@ -117,7 +117,7 @@ It contains several Entities<br>
 [comment]: <> "Manifest"
 
 ### Explanation
-Required to tell the Game which files are required to be loaded to make [YMAP](##YMAP)s work.
+Required to tell the Game which files are required to be loaded to make [YMAP](#ymap)s work.
 Usually generated manually inside CodeWalker.
 
 ### Example
@@ -151,8 +151,8 @@ Inside OpenIV, it looks like this<br>
 [comment]: <> "Drawables"
 
 ### Explanation
-Small and simple objects, containing embedded textures or external Textures via. [YTD](##YTD)
-Used for Entities, which are combined into a [YTYP](##YTYP)
+Small and simple objects, containing embedded textures or external Textures via. [YTD](#ytd)
+Used for Entities, which are combined into a [YTYP](#ytyp)
 
 ### Example
 Inside OpenIV, an YDR looks like this<br>
