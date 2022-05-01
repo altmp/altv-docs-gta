@@ -10,7 +10,7 @@ This tutorial show, how to add/replace custom weapons for your server.
 
 ## <u>Weapons add-on</u>
 
-### Ready-to-use [example resource](https://github.com/altmp/altv-example-resources/tree/master/weapon-addon)
+Ready-to-use [example resource](https://github.com/altmp/altv-example-resources/tree/master/weapon-addon) based on infinity blade model.
 
 ## Folder structure
 
