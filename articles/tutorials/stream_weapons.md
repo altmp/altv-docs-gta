@@ -10,9 +10,10 @@ This tutorial show, how to add/replace custom weapons for your server.
 
 ## <u>Weapons add-on</u>
 
-### Ready-to-use [example](https://github.com/xxshady/altv-weapon-examples)
+### Ready-to-use [example resource](https://github.com/altmp/altv-example-resources/tree/master/weapon-addon)
 
 ## Folder structure
+
 ```
 weapon_tutorial/
 ├─ stream/
