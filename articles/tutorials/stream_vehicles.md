@@ -1,7 +1,7 @@
 # Stream Vehicles
 This tutorial will show, how to add custom vehicles to your server.
 
-For this tutorial we will use [https://www.gta5-mods.com/vehicles/pfister-meteor-add-on Meteor by Vanillaworks-Team].
+For this tutorial we will use [https://www.gta5-mods.com/vehicles/pfister-meteor-add-on](https://www.gta5-mods.com/vehicles/pfister-meteor-add-on) Meteor by Vanillaworks-Team.
 ## Suggested tools ##
 * [OpenIV](https://openiv.com/)
 * [Codewalker](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)
