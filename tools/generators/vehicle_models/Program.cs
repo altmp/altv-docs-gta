@@ -61,8 +61,12 @@ namespace VehiclePageCreator
             
             foreach (var vehicleClass in vehicleClasses)
             {
-                gallery.WriteLine("<a href=\"#" + vehicleClass.ToLower() + "\">" + vehicleClass + "</a><br/>");
-                
+                gallery.WriteLine($"<a href=\"#{vehicleClass.ToLower()}\">{vehicleClass}</a><br/>");
+            }
+            gallery.WriteLine();
+            
+            foreach (var vehicleClass in vehicleClasses)
+            {
                 gallery.WriteLine("### " + vehicleClass);
                 gallery.WriteLine();
                 gallery.WriteLine("<div class=\"grid-container\">");
