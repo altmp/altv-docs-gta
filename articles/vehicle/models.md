@@ -4,6 +4,18 @@
 
 ## Gallery
 
+### Categories
+
+<a href="#boat">BOAT</a></br>
+<a href="#commercial">COMMERCIAL</a></br>
+<a href="#compact">COMPACT</a></br>
+<a href="#compacts">COMPACTS</a></br>
+<a href="#coupe">COUPE</a></br>
+<a href="#cycle">CYCLE</a></br>
+<a href="#coupe">COUPE</a></br>
+<a href="#emergency">EMERGENCY</a></br>
+etc..
+
 ### BOAT
 
 <div class="grid-container">
