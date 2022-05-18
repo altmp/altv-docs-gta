@@ -4,6 +4,33 @@
 
 ## Gallery
 
+### Categories
+
+<a href="#boat">BOAT</a><br/>
+<a href="#commercial">COMMERCIAL</a><br/>
+<a href="#compact">COMPACT</a><br/>
+<a href="#compacts">COMPACTS</a><br/>
+<a href="#coupe">COUPE</a><br/>
+<a href="#cycle">CYCLE</a><br/>
+<a href="#emergency">EMERGENCY</a><br/>
+<a href="#helicopter">HELICOPTER</a><br/>
+<a href="#industrial">INDUSTRIAL</a><br/>
+<a href="#military">MILITARY</a><br/>
+<a href="#motorcycle">MOTORCYCLE</a><br/>
+<a href="#muscle">MUSCLE</a><br/>
+<a href="#off_road">OFF_ROAD</a><br/>
+<a href="#open_wheel">OPEN_WHEEL</a><br/>
+<a href="#plane">PLANE</a><br/>
+<a href="#rail">RAIL</a><br/>
+<a href="#sedan">SEDAN</a><br/>
+<a href="#service">SERVICE</a><br/>
+<a href="#sport">SPORT</a><br/>
+<a href="#sport_classic">SPORT_CLASSIC</a><br/>
+<a href="#super">SUPER</a><br/>
+<a href="#suv">SUV</a><br/>
+<a href="#utility">UTILITY</a><br/>
+<a href="#van">VAN</a><br/>
+
 ### BOAT
 
 <div class="grid-container">
