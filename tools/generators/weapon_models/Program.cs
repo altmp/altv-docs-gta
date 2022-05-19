@@ -70,6 +70,15 @@ namespace WeaponPageCreator
             gallery.WriteLine("## Gallery");
             gallery.WriteLine();
 
+            gallery.WriteLine("### Categories");
+            gallery.WriteLine();
+
+            foreach (var weaponCategory in weaponCategories)
+            {
+                gallery.WriteLine($"<a href=\"#{weaponCategory.ToLower()}\">{weaponCategory}</a><br/>");
+            }
+            gallery.WriteLine();
+            
             foreach (var weaponCategory in weaponCategories)
             {
                 gallery.WriteLine("### " + weaponCategory);
