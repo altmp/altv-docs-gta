@@ -4,6 +4,25 @@
 
 ## Gallery
 
+### Categories
+
+<a href="#fireextinguisher">FIREEXTINGUISHER</a><br/>
+<a href="#heavy">HEAVY</a><br/>
+<a href="#melee">MELEE</a><br/>
+<a href="#mg">MG</a><br/>
+<a href="#nightvision">NIGHTVISION</a><br/>
+<a href="#parachute">PARACHUTE</a><br/>
+<a href="#petrolcan">PETROLCAN</a><br/>
+<a href="#pistol">PISTOL</a><br/>
+<a href="#rifle">RIFLE</a><br/>
+<a href="#shotgun">SHOTGUN</a><br/>
+<a href="#smg">SMG</a><br/>
+<a href="#sniper">SNIPER</a><br/>
+<a href="#stungun">STUNGUN</a><br/>
+<a href="#thrown">THROWN</a><br/>
+<a href="#tranqilizer">TRANQILIZER</a><br/>
+<a href="#unarmed">UNARMED</a><br/>
+
 ### FIREEXTINGUISHER
 
 <div class="grid-container">
