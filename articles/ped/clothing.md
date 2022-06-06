@@ -35,6 +35,10 @@ The setDlcClothes function, on the other hand, is not affected because the used 
 
 The usage of `setProp` (equivalent to `setPedPropIndex`) and `setDlcProp` is the same as the cloth functions.
 
+> [!TIP]
+> As noted, the use of `setDlcClothes` and `setDlcProp` requires the specification of a dlc hash.
+> If the dlc hash is not known, it can be found in the respective meta file at the entry "dlcName" (needs to be hashed first).
+
 ## Troubleshooting
 
 ### "clothes override data" error in console
