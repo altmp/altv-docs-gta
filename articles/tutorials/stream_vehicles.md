@@ -51,8 +51,8 @@ Resource names <strong>aren't</strong> case sensitive!
 
 
 ### Tips
-1. Additional Data files can be found [https://wiki.altv.mp/wiki/GTA:Data_files here], which may be needed for other mods.<br>
-2. If you're interested of displaying the actual vehicle name. You can do so by adding an entry into the stream.cfg<ref>0x12345 stands for the [https://wiki.altv.mp/wiki/Scripting:Joaat JOAAT Hash] of the gameNameEntry inside the vehicle.meta, replaced with the actual "vehicle name".</ref> <br>
+1. Additional Data files can be found under [https://docs.altv.mp/gta/articles/references/data-files.html](https://docs.altv.mp/gta/articles/references/data-files.html), which may be needed for other mods.<br>
+2. If you're interested of displaying the actual vehicle name. You can do so by adding an entry into the stream.cfg <ref>0x12345 stands for the JOAAT Hash [https://docs.altv.mp/gta/articles/references/joaat.html](https://docs.altv.mp/gta/articles/references/joaat.html) of the gameNameEntry inside the vehicle.meta, replaced with the actual "vehicle name".</ref> <br>
 
 ```
 meta: {
