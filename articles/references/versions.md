@@ -41,6 +41,8 @@ The release dates are using the format **YYYY.MM.DD** and PC release dates are p
 | 1.54 |  | 2021.03.16 |
 | 1.57 | 2372 | 2021.07.20 |
 | 1.58 | 2545 | 2021.12.15 |
+| 1.59 |  | 2022.04.26 |
+| 1.60 | 2628 | 2022.05.17 |
 
 # Useful Snippets
 ## Enums
@@ -80,6 +82,9 @@ let versions = [
     {version: "1.52", buildnumber: "2189", release: "2020.12.15"},
     {version: "1.53", buildnumber: "2215", release: "2021.02.10"},
     {version: "1.54", buildnumber: null, release: "2021.03.16"},
-    {version: "1.57", buildnumber: "2372", release: "2021.07.20"}
+    {version: "1.57", buildnumber: "2372", release: "2021.07.20"},
+    {version: "1.58", buildnumber: "2545", release: "2021.12.15"},
+    {version: "1.59", buildnumber: null, release: "2022.04.26"},
+    {version: "1.60", buildnumber: "2628", release: "2022.05.17"}
 ];
 ```
