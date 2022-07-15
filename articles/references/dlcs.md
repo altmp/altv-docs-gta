@@ -69,6 +69,9 @@ The release dates are using the format **YYYY.MM.DD** and PC release dates are p
 | patchday25ng |  |
 | mptuner | 2021.07.20 |
 | mpsecurity | 2021.12.15 |
+| mpg9ec | 2022.04.26 |
+| patchdayg9ecng |  |
+| mpg9ecpatch | 2022.05.17 |
 
 # Useful snippets
 ## Enums
@@ -141,7 +144,9 @@ const GtaDlcList =
 	"patchday24ng",
 	"patchday25ng",
 	"mptuner",
-	"mpsecurity"
+	"mpsecurity",
+	"mpg9ec",
+	"patchdayg9ecng"
 ];
 ```
 # [C#](#tab/tabid-2)
@@ -213,6 +218,8 @@ public enum GtaDlc
 	patchday24ng,
 	patchday25ng,
 	mptuner,
-	mpsecurity
+	mpsecurity,
+	mpg9ec,
+	patchdayg9ecng
 }
 ```
