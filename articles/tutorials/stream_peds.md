@@ -5,7 +5,7 @@ This tutorial shows, how to add/replace custom peds on your server.
 * [OpenIV](https://openiv.com/)
 #
 ## Creating the resources
-1. Open <code>dlc.rpf</code>( or archive ) and extract all **.ydd**/**.ytd**/**.ymt**/**.ytf** files.
+1. Open <code>dlc.rpf</code>( or archive ) and extract all **.ydd**/**.ytd**/**.ymt**/**.yft** files.
 
 **Note**: If you downloaded retextured ped ( archive contains only **.ytd** files), you could take others from OpenIV, just go to the package where you want to extract your **.ytd** (from archive) and extract files with the same name as your **.ytd file** from the archive (except **.ytd**).
 
@@ -20,7 +20,7 @@ peds_tutorial/
 │  │  ├─ yourmodelname.ydd
 │  │  ├─ yourmodelname.ytd
 │  │  ├─ yourmodelname.ymt
-│  │  ├─ yourmodelname.ytf
+│  │  ├─ yourmodelname.yft
 │  ├─ anynameofmeta.meta
 ├─ resource.cfg
 ├─ stream.cfg
@@ -45,7 +45,7 @@ To make this work you should change:
 type: dlc,
 main: stream.cfg,
 client-files: [
-	stream/*
+	stream/models/*
 ]
 ```
 
