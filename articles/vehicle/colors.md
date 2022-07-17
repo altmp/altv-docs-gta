@@ -1,5 +1,5 @@
 ﻿# Vehicle Colors
-| Id | HEX | RGB | Description |
+| ID | HEX | RGB | Description |
 | -- | --- | --- | ----------- |
 | 0 | ![](https://via.placeholder.com/15/0d1116/0d1116.png) `#0d1116` | 13, 17, 22 | Metallic Black |
 | 1 | ![](https://via.placeholder.com/15/1c1d21/1c1d21.png) `#1c1d21` | 28, 29, 33  | Metallic Graphite Black |
