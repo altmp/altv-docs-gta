@@ -129,6 +129,7 @@ Flag means: that the value of the variable can only be 0 or 1 (false or true). T
 | PED_FLAG_IS_ARRESTING                                 | 450 |
 | PED_FLAG_IS_DECOY_PED                                 | 451 |
 | PED_FLAG_CAN_BE_INCAPACITATED                         | 456 |
+| PED_FLAG_MUTABLE_FORCED_AIM                           | 457 |
 
 ## Config Flag Enum
 
@@ -257,6 +258,7 @@ export enum PedConfigFlag {
     DisableHelmetArmor = 438,
     IsArresting = 450,
     IsDecoyPed = 451,
-    CanBeIncapacitated = 456
+    CanBeIncapacitated = 456,
+    MutableForcedAim = 457
 }
 ```
