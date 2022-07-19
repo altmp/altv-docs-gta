@@ -18,7 +18,7 @@
 | 14 | ![](https://via.placeholder.com/15/515554/515554.png) `#515554` | 81, 85, 84  | Matte Light Grey |
 | 15 | ![](https://via.placeholder.com/15/151921/151921.png) `#151921` | 21, 25, 33  | Util Black |
 | 16 | ![](https://via.placeholder.com/15/1e2429/1e2429.png) `#1e2429` | 30, 36, 41  | Util Black Poly |
-| 17 | ![](https://via.placeholder.com/15/333a3c/333a3c.png) `#333a3c` | 51, 58, 60  | Util Dark silver |
+| 17 | ![](https://via.placeholder.com/15/333a3c/333a3c.png) `#333a3c` | 51, 58, 60  | Util Dark Silver |
 | 18 | ![](https://via.placeholder.com/15/8c9095/8c9095.png) `#8c9095` | 140, 144, 149  | Util Silver |
 | 19 | ![](https://via.placeholder.com/15/39434d/39434d.png) `#39434d` | 57, 67, 77  | Util Gun Metal |
 | 20 | ![](https://via.placeholder.com/15/506272/506272.png) `#506272` | 80, 98, 114  | Util Shadow Silver |
@@ -80,15 +80,15 @@
 | 76 | ![](https://via.placeholder.com/15/1b203e/1b203e.png) `#1b203e` | 27, 32, 62  | Util Midnight Blue |
 | 77 | ![](https://via.placeholder.com/15/275190/275190.png) `#275190` | 39, 81, 144  | Util Blue |
 | 78 | ![](https://via.placeholder.com/15/608592/608592.png) `#608592` | 96, 133, 146  | Util Sea Foam Blue |
-| 79 | ![](https://via.placeholder.com/15/2446a8/2446a8.png) `#2446a8` | 36, 70, 168  | Util Lightning blue |
+| 79 | ![](https://via.placeholder.com/15/2446a8/2446a8.png) `#2446a8` | 36, 70, 168  | Util Lightning Blue |
 | 80 | ![](https://via.placeholder.com/15/4271e1/4271e1.png) `#4271e1` | 66, 113, 225  | Util Maui Blue Poly |
 | 81 | ![](https://via.placeholder.com/15/3b39e0/3b39e0.png) `#3b39e0` | 59, 57, 224  | Util Bright Blue |
 | 82 | ![](https://via.placeholder.com/15/1f2852/1f2852.png) `#1f2852` | 31, 40, 82  | Matte Dark Blue |
 | 83 | ![](https://via.placeholder.com/15/253aa7/253aa7.png) `#253aa7` | 37, 58, 167  | Matte Blue |
 | 84 | ![](https://via.placeholder.com/15/1c3551/1c3551.png) `#1c3551` | 28, 53, 81  | Matte Midnight Blue |
-| 85 | ![](https://via.placeholder.com/15/4c5f81/4c5f81.png) `#4c5f81` | 76, 95, 129  | Worn Dark blue |
+| 85 | ![](https://via.placeholder.com/15/4c5f81/4c5f81.png) `#4c5f81` | 76, 95, 129  | Worn Dark Blue |
 | 86 | ![](https://via.placeholder.com/15/58688e/58688e.png) `#58688e` | 88, 104, 142  | Worn Blue |
-| 87 | ![](https://via.placeholder.com/15/74b5d8/74b5d8.png) `#74b5d8` | 116, 181, 216  | Worn Light blue |
+| 87 | ![](https://via.placeholder.com/15/74b5d8/74b5d8.png) `#74b5d8` | 116, 181, 216  | Worn Light Blue |
 | 88 | ![](https://via.placeholder.com/15/ffcf20/ffcf20.png) `#ffcf20` | 255, 207, 32  | Metallic Taxi Yellow |
 | 89 | ![](https://via.placeholder.com/15/fbe212/fbe212.png) `#fbe212` | 251, 226, 18  | Metallic Race Yellow |
 | 90 | ![](https://via.placeholder.com/15/916532/916532.png) `#916532` | 145, 101, 50  | Metallic Bronze |
@@ -117,9 +117,9 @@
 | 113 | ![](https://via.placeholder.com/15/b0ab94/b0ab94.png) `#b0ab94` | 176, 171, 148  | Worn Honey Beige |
 | 114 | ![](https://via.placeholder.com/15/453831/453831.png) `#453831` | 69, 56, 49  | Worn Brown |
 | 115 | ![](https://via.placeholder.com/15/2a282b/2a282b.png) `#2a282b` | 42, 40, 43  | Worn Dark Brown |
-| 116 | ![](https://via.placeholder.com/15/726c57/726c57.png) `#726c57` | 114, 108, 87  | Worn straw beige |
+| 116 | ![](https://via.placeholder.com/15/726c57/726c57.png) `#726c57` | 114, 108, 87  | Worn Straw Beige |
 | 117 | ![](https://via.placeholder.com/15/6a747c/6a747c.png) `#6a747c` | 106, 116, 124  | Brushed Steel |
-| 118 | ![](https://via.placeholder.com/15/354158/354158.png) `#354158` | 53, 65, 88  | Brushed Black steel |
+| 118 | ![](https://via.placeholder.com/15/354158/354158.png) `#354158` | 53, 65, 88  | Brushed Black Steel |
 | 119 | ![](https://via.placeholder.com/15/9ba0a8/9ba0a8.png) `#9ba0a8` | 155, 160, 168  | Brushed Aluminium |
 | 120 | ![](https://via.placeholder.com/15/5870a1/5870a1.png) `#5870a1` | 88, 112, 161  | Chrome |
 | 121 | ![](https://via.placeholder.com/15/eae6de/eae6de.png) `#eae6de` | 234, 230, 222  | Worn Off White |
@@ -128,7 +128,7 @@
 | 124 | ![](https://via.placeholder.com/15/f9a458/f9a458.png) `#f9a458` | 249, 164, 88  | Worn Light Orange |
 | 125 | ![](https://via.placeholder.com/15/83c566/83c566.png) `#83c566` | 131, 197, 102  | Metallic Securicor Green |
 | 126 | ![](https://via.placeholder.com/15/f1cc40/f1cc40.png) `#f1cc40` | 241, 204, 64  | Worn Taxi Yellow |
-| 127 | ![](https://via.placeholder.com/15/4cc3da/4cc3da.png) `#4cc3da` | 76, 195, 218  | police car blue |
+| 127 | ![](https://via.placeholder.com/15/4cc3da/4cc3da.png) `#4cc3da` | 76, 195, 218  | Police Car Blue |
 | 128 | ![](https://via.placeholder.com/15/4e6443/4e6443.png) `#4e6443` | 78, 100, 67  | Matte Green |
 | 129 | ![](https://via.placeholder.com/15/bcac8f/bcac8f.png) `#bcac8f` | 188, 172, 143  | Matte Brown |
 | 130 | ![](https://via.placeholder.com/15/f8b658/f8b658.png) `#f8b658` | 248, 182, 88  | Worn Orange |
@@ -137,7 +137,7 @@
 | 133 | ![](https://via.placeholder.com/15/81844c/81844c.png) `#81844c` | 129, 132, 76  | Worn Olive Army Green |
 | 134 | ![](https://via.placeholder.com/15/ffffff/ffffff.png) `#ffffff` | 255, 255, 255  | Pure White |
 | 135 | ![](https://via.placeholder.com/15/f21f99/f21f99.png) `#f21f99` | 242, 31, 153  | Hot Pink |
-| 136 | ![](https://via.placeholder.com/15/fdd6cd/fdd6cd.png) `#fdd6cd` | 253, 214, 205  | Salmon pink |
+| 136 | ![](https://via.placeholder.com/15/fdd6cd/fdd6cd.png) `#fdd6cd` | 253, 214, 205  | Salmon Pink |
 | 137 | ![](https://via.placeholder.com/15/df5891/df5891.png) `#df5891` | 223, 88, 145  | Metallic Vermillion Pink |
 | 138 | ![](https://via.placeholder.com/15/f6ae20/f6ae20.png) `#f6ae20` | 246, 174, 32  | Orange |
 | 139 | ![](https://via.placeholder.com/15/b0ee6e/b0ee6e.png) `#b0ee6e` | 176, 238, 110  | Green |
@@ -145,10 +145,10 @@
 | 141 | ![](https://via.placeholder.com/15/0a0c17/0a0c17.png) `#0a0c17` | 10, 12, 23  | Mettalic Black Blue |
 | 142 | ![](https://via.placeholder.com/15/0c0d18/0c0d18.png) `#0c0d18` | 12, 13, 24  | Metallic Black Purple |
 | 143 | ![](https://via.placeholder.com/15/0e0d14/0e0d14.png) `#0e0d14` | 14, 13, 20  | Metallic Black Red |
-| 144 | ![](https://via.placeholder.com/15/9f9e8a/9f9e8a.png) `#9f9e8a` | 159, 158, 138  | hunter green |
+| 144 | ![](https://via.placeholder.com/15/9f9e8a/9f9e8a.png) `#9f9e8a` | 159, 158, 138  | Hunter Green |
 | 145 | ![](https://via.placeholder.com/15/621276/621276.png) `#621276` | 98, 18, 118  | Metallic Purple |
 | 146 | ![](https://via.placeholder.com/15/0b1421/0b1421.png) `#0b1421` | 11, 20, 33  | Metaillic V Dark Blue |
-| 147 | ![](https://via.placeholder.com/15/11141a/11141a.png) `#11141a` | 17, 20, 26  | MODSHOP BLACK1 |
+| 147 | ![](https://via.placeholder.com/15/11141a/11141a.png) `#11141a` | 17, 20, 26  | Modshop Black |
 | 148 | ![](https://via.placeholder.com/15/6b1f7b/6b1f7b.png) `#6b1f7b` | 107, 31, 123  | Matte Purple |
 | 149 | ![](https://via.placeholder.com/15/1e1d22/1e1d22.png) `#1e1d22` | 30, 29, 34  | Matte Dark Purple |
 | 150 | ![](https://via.placeholder.com/15/bc1917/bc1917.png) `#bc1917` | 188, 25, 23  | Metallic Lava Red |
@@ -157,7 +157,7 @@
 | 153 | ![](https://via.placeholder.com/15/7a6c55/7a6c55.png) `#7a6c55` | 122, 108, 85  | Matte Desert Brown |
 | 154 | ![](https://via.placeholder.com/15/c3b492/c3b492.png) `#c3b492` | 195, 180, 146  | Matte Desert Tan |
 | 155 | ![](https://via.placeholder.com/15/5a6352/5a6352.png) `#5a6352` | 90, 99, 82  | Matte Foilage Green |
-| 156 | ![](https://via.placeholder.com/15/81827f/81827f.png) `#81827f` | 129, 130, 127  | DEFAULT ALLOY COLOR |
+| 156 | ![](https://via.placeholder.com/15/81827f/81827f.png) `#81827f` | 129, 130, 127  | Default Alloy |
 | 157 | ![](https://via.placeholder.com/15/afd6e4/afd6e4.png) `#afd6e4` | 175, 214, 228  | Epsilon Blue |
 | 158 | ![](https://via.placeholder.com/15/7a6440/7a6440.png) `#7a6440` | 122, 100, 64  | Pure Gold |
 | 159 | ![](https://via.placeholder.com/15/7f6a48/7f6a48.png) `#7f6a48` | 127, 106, 72  | Brushed Gold |
