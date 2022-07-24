@@ -45,14 +45,14 @@ To make this work you should change:
 type: dlc,
 main: stream.cfg,
 client-files: [
-	stream/models/*
+	stream/*
 ]
 ```
 
 ## **Stream.cfg**
 ```
 files: [
-   stream/*
+   stream/models/*
 ],
 meta: {
    stream/anynameofmeta.meta: PED_METADATA_FILE
