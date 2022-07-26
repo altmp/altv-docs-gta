@@ -86,6 +86,7 @@ let versions = [
     {version: "1.57", buildnumber: "2372", release: "2021.07.20"},
     {version: "1.58", buildnumber: "2545", release: "2021.12.15"},
     {version: "1.59", buildnumber: null, release: "2022.04.26"},
-    {version: "1.60", buildnumber: "2628", release: "2022.05.17"}
+    {version: "1.60", buildnumber: "2628", release: "2022.05.17"},
+    {version: "1.61", buildnumber: "2699", release: "2022.07.26"}
 ];
 ```
