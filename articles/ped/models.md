@@ -412,6 +412,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/a_f_m_genbiker_01.png" alt="Missing image &quot;A_F_M_GenBiker_01.png&quot;" title="A_F_M_GenBiker_01" loading="lazy" />
+    </div>
+    <b>Name:</b> A_F_M_GenBiker_01<br/>
+    <b>Hash:</b> 0x749B5065<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsum2
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/a_f_m_ktown_01.png" alt="Missing image &quot;A_F_M_KTown_01.png&quot;" title="A_F_M_KTown_01" loading="lazy" />
     </div>
     <b>Name:</b> A_F_M_KTown_01<br/>
@@ -1138,6 +1147,15 @@
     <b>Hash:</b> 0x61D201B3<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> basegame
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/a_m_m_genbiker_01.png" alt="Missing image &quot;A_M_M_GenBiker_01.png&quot;" title="A_M_M_GenBiker_01" loading="lazy" />
+    </div>
+    <b>Name:</b> A_M_M_GenBiker_01<br/>
+    <b>Hash:</b> 0xDEE17D7E<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsum2
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -2370,7 +2388,7 @@
     <b>Name:</b> CS_ChrisFormage<br/>
     <b>Hash:</b> 0xC1F380E6<br/>
     <b>Type:</b> CIVMALE<br/>
-    <b>DLC:</b> basegame
+    <b>DLC:</b> patchday27ng
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -4192,6 +4210,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/g_m_m_genthug_01.png" alt="Missing image &quot;G_M_M_GenThug_01.png&quot;" title="G_M_M_GenThug_01" loading="lazy" />
+    </div>
+    <b>Name:</b> G_M_M_GenThug_01<br/>
+    <b>Hash:</b> 0xD303008B<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsum2
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/g_m_m_goons_01.png" alt="Missing image &quot;G_M_M_Goons_01.png&quot;" title="G_M_M_Goons_01" loading="lazy" />
     </div>
     <b>Name:</b> G_M_M_Goons_01<br/>
@@ -4242,7 +4269,7 @@
     <b>Name:</b> G_M_M_Slasher_01<br/>
     <b>Hash:</b> 0x277E179C<br/>
     <b>Type:</b> CIVMALE<br/>
-    <b>DLC:</b> mptuner
+    <b>DLC:</b> patchday27ng
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -4531,6 +4558,15 @@
     <b>Hash:</b> 0x246AF208<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> mpheist
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/ig_agent_02.png" alt="Missing image &quot;IG_Agent_02.png&quot;" title="IG_Agent_02" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Agent_02<br/>
+    <b>Hash:</b> 0x46850B27<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsum2
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -5578,6 +5614,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/ig_mason_duggan.png" alt="Missing image &quot;IG_Mason_Duggan.png&quot;" title="IG_Mason_Duggan" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_Mason_Duggan<br/>
+    <b>Hash:</b> 0x49004F25<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsum2
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/ig_maude.png" alt="Missing image &quot;IG_Maude.png&quot;" title="IG_Maude" loading="lazy" />
     </div>
     <b>Name:</b> IG_Maude<br/>
@@ -6289,6 +6334,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/ig_warehouseboss.png" alt="Missing image &quot;IG_WarehouseBoss.png&quot;" title="IG_WarehouseBoss" loading="lazy" />
+    </div>
+    <b>Name:</b> IG_WarehouseBoss<br/>
+    <b>Hash:</b> 0x42107CA3<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsum2
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/ig_wendy.png" alt="Missing image &quot;IG_Wendy.png&quot;" title="IG_Wendy" loading="lazy" />
     </div>
     <b>Name:</b> IG_Wendy<br/>
@@ -6763,6 +6817,15 @@
     <b>Hash:</b> 0x312B5BC0<br/>
     <b>Type:</b> CIVFEMALE<br/>
     <b>DLC:</b> basegame
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/s_f_m_warehouse_01.png" alt="Missing image &quot;S_F_M_Warehouse_01.png&quot;" title="S_F_M_Warehouse_01" loading="lazy" />
+    </div>
+    <b>Name:</b> S_F_M_Warehouse_01<br/>
+    <b>Hash:</b> 0xE5371B92<br/>
+    <b>Type:</b> CIVFEMALE<br/>
+    <b>DLC:</b> mpsum2
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -7510,6 +7573,15 @@
     <b>Hash:</b> 0xD0BDE116<br/>
     <b>Type:</b> CIVMALE<br/>
     <b>DLC:</b> basegame
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/s_m_m_warehouse_01.png" alt="Missing image &quot;S_M_M_Warehouse_01.png&quot;" title="S_M_M_Warehouse_01" loading="lazy" />
+    </div>
+    <b>Name:</b> S_M_M_Warehouse_01<br/>
+    <b>Hash:</b> 0x27589791<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsum2
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -8683,6 +8755,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/u_m_y_juggernaut_02.png" alt="Missing image &quot;U_M_Y_Juggernaut_02.png&quot;" title="U_M_Y_Juggernaut_02" loading="lazy" />
+    </div>
+    <b>Name:</b> U_M_Y_Juggernaut_02<br/>
+    <b>Hash:</b> 0xA340F5D7<br/>
+    <b>Type:</b> CIVMALE<br/>
+    <b>DLC:</b> mpsum2
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-assets/altv-docs-gta/images/ped/models/u_m_y_justin.png" alt="Missing image &quot;U_M_Y_Justin.png&quot;" title="U_M_Y_Justin" loading="lazy" />
     </div>
     <b>Name:</b> U_M_Y_Justin<br/>
@@ -8868,6 +8949,7 @@ export class PedModel {
   static a_f_m_fatbla_01 = 0xFAB48BCB;
   static a_f_m_fatcult_01 = 0xB5CF80E4;
   static a_f_m_fatwhite_01 = 0x38BAD33B;
+  static a_f_m_genbiker_01 = 0x749B5065;
   static a_f_m_ktown_01 = 0x52C824DE;
   static a_f_m_ktown_02 = 0x41018151;
   static a_f_m_prolhost_01 = 0x169BD1E1;
@@ -8949,6 +9031,7 @@ export class PedModel {
   static a_m_m_eastsa_02 = 0x7DD91AC;
   static a_m_m_farmer_01 = 0x94562DD7;
   static a_m_m_fatlatin_01 = 0x61D201B3;
+  static a_m_m_genbiker_01 = 0xDEE17D7E;
   static a_m_m_genfat_01 = 0x6DD569F;
   static a_m_m_genfat_02 = 0x13AEF042;
   static a_m_m_golfer_01 = 0xA9EB0E42;
@@ -9288,6 +9371,7 @@ export class PedModel {
   static g_m_m_chicold_01 = 0x106D9A99;
   static g_m_m_chigoon_01 = 0x7E4F763F;
   static g_m_m_chigoon_02 = 0xFF71F826;
+  static g_m_m_genthug_01 = 0xD303008B;
   static g_m_m_goons_01 = 0x61ECD362;
   static g_m_m_korboss_01 = 0x352A026F;
   static g_m_m_mexboss_01 = 0x5761F4AD;
@@ -9326,6 +9410,7 @@ export class PedModel {
   static ig_abigail = 0x400AEC41;
   static ig_agatha = 0x6E99BFC8;
   static ig_agent = 0x246AF208;
+  static ig_agent_02 = 0x46850B27;
   static ig_amandatownley = 0x6D1E15F7;
   static ig_andreas = 0x47E4EEA0;
   static ig_ary = 0xCF0C7037;
@@ -9442,6 +9527,7 @@ export class PedModel {
   static ig_manuel = 0xFD418E10;
   static ig_marnie = 0x188232D0;
   static ig_maryann = 0xA36F9806;
+  static ig_mason_duggan = 0x49004F25;
   static ig_maude = 0x3BE8287E;
   static ig_michelle = 0xBF9672F4;
   static ig_miguelmadrazo = 0xA5CD7CD8;
@@ -9521,6 +9607,7 @@ export class PedModel {
   static ig_vincent_2 = 0xBC4BDD3;
   static ig_vincent_3 = 0x15ADD1A5;
   static ig_wade = 0x92991B72;
+  static ig_warehouseboss = 0x42107CA3;
   static ig_wendy = 0x6E47A411;
   static ig_zimbor = 0xB34D6F5;
   static mp_f_bennymech_01 = 0x7F81B0BD;
@@ -9575,6 +9662,7 @@ export class PedModel {
   static s_f_m_shop_high = 0xAE47E4B0;
   static s_f_m_studioassist_01 = 0xC155ACC0;
   static s_f_m_sweatshop_01 = 0x312B5BC0;
+  static s_f_m_warehouse_01 = 0xE5371B92;
   static s_f_y_airhostess_01 = 0x5D71A46F;
   static s_f_y_bartender_01 = 0x780C01BD;
   static s_f_y_baywatch_01 = 0x4A8E5536;
@@ -9658,6 +9746,7 @@ export class PedModel {
   static s_m_m_trucker_01 = 0x59511A6C;
   static s_m_m_ups_01 = 0x9FC37F22;
   static s_m_m_ups_02 = 0xD0BDE116;
+  static s_m_m_warehouse_01 = 0x27589791;
   static s_m_o_busker_01 = 0xAD9EF1BB;
   static s_m_y_airworker = 0x62018559;
   static s_m_y_ammucity_01 = 0x9E08633D;
@@ -9791,6 +9880,7 @@ export class PedModel {
   static u_m_y_hippie_01 = 0xF041880B;
   static u_m_y_imporage = 0x348065F5;
   static u_m_y_juggernaut_01 = 0x90EF5134;
+  static u_m_y_juggernaut_02 = 0xA340F5D7;
   static u_m_y_justin = 0x7DC3908F;
   static u_m_y_mani = 0xC8BB1E52;
   static u_m_y_militarybum = 0x4705974A;
@@ -9856,6 +9946,7 @@ export enum PedModel {
   a_f_m_fatbla_01 = 0xFAB48BCB,
   a_f_m_fatcult_01 = 0xB5CF80E4,
   a_f_m_fatwhite_01 = 0x38BAD33B,
+  a_f_m_genbiker_01 = 0x749B5065,
   a_f_m_ktown_01 = 0x52C824DE,
   a_f_m_ktown_02 = 0x41018151,
   a_f_m_prolhost_01 = 0x169BD1E1,
@@ -9937,6 +10028,7 @@ export enum PedModel {
   a_m_m_eastsa_02 = 0x7DD91AC,
   a_m_m_farmer_01 = 0x94562DD7,
   a_m_m_fatlatin_01 = 0x61D201B3,
+  a_m_m_genbiker_01 = 0xDEE17D7E,
   a_m_m_genfat_01 = 0x6DD569F,
   a_m_m_genfat_02 = 0x13AEF042,
   a_m_m_golfer_01 = 0xA9EB0E42,
@@ -10276,6 +10368,7 @@ export enum PedModel {
   g_m_m_chicold_01 = 0x106D9A99,
   g_m_m_chigoon_01 = 0x7E4F763F,
   g_m_m_chigoon_02 = 0xFF71F826,
+  g_m_m_genthug_01 = 0xD303008B,
   g_m_m_goons_01 = 0x61ECD362,
   g_m_m_korboss_01 = 0x352A026F,
   g_m_m_mexboss_01 = 0x5761F4AD,
@@ -10314,6 +10407,7 @@ export enum PedModel {
   ig_abigail = 0x400AEC41,
   ig_agatha = 0x6E99BFC8,
   ig_agent = 0x246AF208,
+  ig_agent_02 = 0x46850B27,
   ig_amandatownley = 0x6D1E15F7,
   ig_andreas = 0x47E4EEA0,
   ig_ary = 0xCF0C7037,
@@ -10430,6 +10524,7 @@ export enum PedModel {
   ig_manuel = 0xFD418E10,
   ig_marnie = 0x188232D0,
   ig_maryann = 0xA36F9806,
+  ig_mason_duggan = 0x49004F25,
   ig_maude = 0x3BE8287E,
   ig_michelle = 0xBF9672F4,
   ig_miguelmadrazo = 0xA5CD7CD8,
@@ -10509,6 +10604,7 @@ export enum PedModel {
   ig_vincent_2 = 0xBC4BDD3,
   ig_vincent_3 = 0x15ADD1A5,
   ig_wade = 0x92991B72,
+  ig_warehouseboss = 0x42107CA3,
   ig_wendy = 0x6E47A411,
   ig_zimbor = 0xB34D6F5,
   mp_f_bennymech_01 = 0x7F81B0BD,
@@ -10563,6 +10659,7 @@ export enum PedModel {
   s_f_m_shop_high = 0xAE47E4B0,
   s_f_m_studioassist_01 = 0xC155ACC0,
   s_f_m_sweatshop_01 = 0x312B5BC0,
+  s_f_m_warehouse_01 = 0xE5371B92,
   s_f_y_airhostess_01 = 0x5D71A46F,
   s_f_y_bartender_01 = 0x780C01BD,
   s_f_y_baywatch_01 = 0x4A8E5536,
@@ -10646,6 +10743,7 @@ export enum PedModel {
   s_m_m_trucker_01 = 0x59511A6C,
   s_m_m_ups_01 = 0x9FC37F22,
   s_m_m_ups_02 = 0xD0BDE116,
+  s_m_m_warehouse_01 = 0x27589791,
   s_m_o_busker_01 = 0xAD9EF1BB,
   s_m_y_airworker = 0x62018559,
   s_m_y_ammucity_01 = 0x9E08633D,
@@ -10779,6 +10877,7 @@ export enum PedModel {
   u_m_y_hippie_01 = 0xF041880B,
   u_m_y_imporage = 0x348065F5,
   u_m_y_juggernaut_01 = 0x90EF5134,
+  u_m_y_juggernaut_02 = 0xA340F5D7,
   u_m_y_justin = 0x7DC3908F,
   u_m_y_mani = 0xC8BB1E52,
   u_m_y_militarybum = 0x4705974A,
