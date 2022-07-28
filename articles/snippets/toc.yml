@@ -2,3 +2,5 @@
   href: cayo-perico.md
 - name: Model loading
   href: request-model.md
+- name: Minimap position
+  href: minimap-position.md
