@@ -168,7 +168,7 @@ namespace VehiclePageCreator
 
             foreach (var vehicle in sortedVehiclesByName)
             {
-                gallery.WriteLine($"  {vehicle.Name.ToLower()} = {vehicle.HexHash};");
+                gallery.WriteLine($"  {vehicle.Name.ToLower()} = {vehicle.HexHash},");
             }
 
             gallery.WriteLine("}");
