@@ -155,7 +155,7 @@ namespace WeaponPageCreator
 
             foreach (var weapon in filteredWeapons)
             {
-                gallery.WriteLine($"  {weapon.Name.ToLower()} = {weapon.Hash.ToString("X").Insert(0, "0x")};");
+                gallery.WriteLine($"  {weapon.Name.ToLower()} = {weapon.Hash.ToString("X").Insert(0, "0x")},");
             }
 
             gallery.WriteLine("}");
