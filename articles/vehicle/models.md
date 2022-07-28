@@ -6840,7 +6840,7 @@
 
 ### Others
 > [!NOTE]
-
+> This vehicles are in the gamefiles, but can't be used.
 
 <div class="grid-container">
   <div class="grid-item">
