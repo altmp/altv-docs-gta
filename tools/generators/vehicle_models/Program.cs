@@ -108,8 +108,8 @@ namespace VehiclePageCreator
             }
 
             gallery.WriteLine("### Others");
-            gallery.WriteLine(  "> [!NOTE]\n",
-                                "> This vehicles are in the gamefiles, but can't be used.");
+            gallery.WriteLine("> [!NOTE]");
+            gallery.WriteLine("> This vehicles are in the gamefiles, but can't be used.");
             gallery.WriteLine();
             gallery.WriteLine("<div class=\"grid-container\">");
 
