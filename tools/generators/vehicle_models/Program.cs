@@ -17,6 +17,8 @@ namespace VehiclePageCreator
             var vehiclesModelsFile = "../../../articles/vehicle/models.md";
             var imagePath = "~/altv-docs-assets/altv-docs-gta/images/vehicle/models/";
 
+            var skipDlcTag = "g9ec"; //Generation 9 Enhanced Content
+
             /*
              * Read JSON files from gta-v-data-dumps by DurtyFree
              */
@@ -41,7 +43,8 @@ namespace VehiclePageCreator
             var jsonVehicles = readerVehicles.ReadToEnd();
             var vehicles = JsonConvert.DeserializeObject<List<Vehicle>>(jsonVehicles);
 
-            var sortedVehiclesByName = vehicles.OrderBy(x => x.Name);
+            var sortedVehiclesByName = vehicles.OrderBy(x => x.Name).Where(x => !x.DlcName.Contains(skipDlcTag));
+            var sortedVehiclesByNameSkipped = vehicles.OrderBy(x => x.Name).Where(x =>x.DlcName.Contains(skipDlcTag));
 
             /*
              * Generate Images
@@ -63,6 +66,7 @@ namespace VehiclePageCreator
             {
                 gallery.WriteLine($"<a href=\"#{vehicleClass.ToLower()}\">{vehicleClass}</a><br/>");
             }
+            gallery.WriteLine($"<a href=\"#others\">OTHERS</a><br/>");
             gallery.WriteLine();
             
             foreach (var vehicleClass in vehicleClasses)
@@ -103,6 +107,42 @@ namespace VehiclePageCreator
                 gallery.WriteLine();
             }
 
+            gallery.WriteLine("### Others");
+            gallery.WriteLine(  "> [!NOTE]\n",
+                                "> This vehicles are in the gamefiles, but can't be used.");
+            gallery.WriteLine();
+            gallery.WriteLine("<div class=\"grid-container\">");
+
+            foreach (var vehicle in sortedVehiclesByNameSkipped)
+            {
+                gallery.WriteLine("  <div class=\"grid-item\">");
+
+                var vehPath = imagePath + vehicle.Name.ToLower();
+
+                gallery.WriteLine($"    <div class=\"grid-item-img\">");
+                gallery.WriteLine($"      <img src=\"{vehPath}.png\" alt=\"Missing image &quot;{vehicle.Name}.png&quot;\" title=\"{vehicle.Name}\" loading=\"lazy\" />");
+                gallery.WriteLine($"    </div>");
+
+                if (vehicle.DlcName.ToLower() == "titleupdate")
+                {
+                    gallery.WriteLine("    <b>Name:</b> " + vehicle.Name + "<br/>");
+                    gallery.WriteLine("    <b>Hash:</b> " + vehicle.HexHash + "<br/>");
+                    gallery.WriteLine("    <b>Display Name:</b> " + vehicle.DisplayName );
+                }
+                else
+                {
+                    gallery.WriteLine("    <b>Name:</b> " + vehicle.Name + "<br/>");
+                    gallery.WriteLine("    <b>Hash:</b> " + vehicle.HexHash + "<br/>");
+                    gallery.WriteLine("    <b>Display Name:</b> " + vehicle.DisplayName + "<br/>");
+                    gallery.WriteLine("    <b>DLC:</b> " + vehicle.DlcName.ToLower());
+                }
+
+                gallery.WriteLine("  </div>");
+            }
+
+            gallery.WriteLine("</div>");
+            gallery.WriteLine();
+
             /*
              * Generate Snippets
              */
@@ -140,7 +180,7 @@ namespace VehiclePageCreator
             gallery.WriteLine("**Created with [GTA V Data Dumps from DurtyFree](https://github.com/DurtyFree/gta-v-data-dumps)**");
 
             gallery.Close();
-            Console.WriteLine($"{vehiclesModelsFile} created for {vehicles.Count} vehicles.");
+            Console.WriteLine($"{vehiclesModelsFile} created for {sortedVehiclesByName.Count() + sortedVehiclesByNameSkipped.Count()} vehicles.");
 
             Console.WriteLine("This tool is using data files from https://github.com/DurtyFree/gta-v-data-dumps");
         }
