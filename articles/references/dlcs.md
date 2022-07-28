@@ -73,7 +73,7 @@ The release dates are using the format **YYYY.MM.DD** and PC release dates are p
 | patchdayg9ecng |  |
 | mpg9ecpatch | 2022.05.17 |
 | mpsum2 | 2022.07.26 |
-| mpsum2_g9ec |
+| mpsum2_g9ec | |
 
 # Useful snippets
 ## Enums
