@@ -224,7 +224,7 @@ public enum GtaDlc
 	mptuner,
 	mpsecurity,
 	mpg9ec,
-	patchdayg9ecngm
+	patchdayg9ecng,
 	mpsum2,
 	mpsum2_g9ec
 }
