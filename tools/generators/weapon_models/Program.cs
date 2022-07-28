@@ -16,6 +16,8 @@ namespace WeaponPageCreator
             var weaponsModelsFile = "../../../articles/weapons/models.md";
             var imagePath = "~/altv-docs-assets/altv-docs-gta/images/weapon/models/";
 
+            var skipDlcTag = "g9ec"; //Generation 9 Enhanced Content
+
             /*
              * Read JSON files from gta-v-data-dumps by DurtyFree
              */
@@ -31,7 +33,8 @@ namespace WeaponPageCreator
             var jsonWeapons = readerWeapons.ReadToEnd();
             var weapons = JsonConvert.DeserializeObject<List<Weapon>>(jsonWeapons);
 
-            var sortedWeaponsByName = weapons.OrderBy(x => x.Name).ToList();
+            var sortedWeaponsByName = weapons.OrderBy(x => x.Name).ToList().Where(x => !x.DlcName.Contains(skipDlcTag));
+            var sortedWeaponsByNameSkipped = weapons.OrderBy(x => x.Name).ToList().Where(x => x.DlcName.Contains(skipDlcTag));
 
             var weaponCategories = new List<string>();
             foreach (var weapon in weapons)
@@ -39,7 +42,7 @@ namespace WeaponPageCreator
                 if (weapon.Category == null || weapon.Category.Length == 0)
                     continue;
                 
-                if(weapon.TranslatedLabel.English == null || weapon.TranslatedLabel.English == "Invalid")
+                if(weapon.TranslatedLabel == null || weapon.TranslatedLabel.English == null || weapon.TranslatedLabel.English == "Invalid")
                     continue;
 
                 if(weapon.IsVehicleWeapon)

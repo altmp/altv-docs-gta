@@ -17,6 +17,8 @@ namespace PedPageCreator
             var pedModelsFile = "../../../articles/ped/models.md";
             var imagePath = "~/altv-docs-assets/altv-docs-gta/images/ped/models/";
 
+            var skipDlcTag = "g9ec"; //Generation 9 Enhanced Content
+
             /*
              * Read JSON files from gta-v-data-dumps by DurtyFree
              */
@@ -31,7 +33,8 @@ namespace PedPageCreator
             var jsonPeds = readerPeds.ReadToEnd();
             var peds = JsonConvert.DeserializeObject<List<Ped>>(jsonPeds);
 
-            var sortedPedsByName = peds.OrderBy(x => x.Name);
+            var sortedPedsByName = peds.OrderBy(x => x.Name).Where(x => !x.DlcName.Contains(skipDlcTag));
+            var sortedPedsByNameSkipped = peds.OrderBy(x => x.Name).Where(x =>x.DlcName.Contains(skipDlcTag));
 
             /*
              * Generate Images
