@@ -11,9 +11,11 @@ You can modify the minimap position with alt:V internal function.
 import { setMinimapComponentPosition } from 'alt-client';
 
 // Player + Compass + HP
-setMinimapComponentPosition('minimap', 'L', 'T', 0.8, 0.0, 0.150, 0.188888);
+setMinimapComponentPosition('minimap', 'L', 'B', 0.811, -0.768, 0.150, 0.188888);
+// Purple Route
+setMinimapComponentPosition('minimap_mask', 'L', 'B', 0.8355, -0.738, 0.111, 0.159);
 // Map
-setMinimapComponentPosition('minimap_blur', 'L', 'T', 0.775, -0.028, 0.266, 0.237);
+setMinimapComponentPosition('minimap_blur', 'L', 'B', 0.7855, -0.748, 0.266, 0.237);
 ```
 
 To see the new position you have to open the Pause Menu with `Esc` key or use the below snippet. \
