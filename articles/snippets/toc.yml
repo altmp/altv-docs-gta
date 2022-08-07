@@ -1,6 +1,6 @@
 - name: Cayo Perico Island
   href: cayo-perico.md
-- name: Model loading
+- name: Model Loading
   href: request-model.md
-- name: Minimap position
+- name: Minimap Position
   href: minimap-position.md
