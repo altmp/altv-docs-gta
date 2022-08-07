@@ -1,4 +1,4 @@
-# Model loading
+# Model Loading
 
 You need to request some models per natives, before using them. Because natives are non-blocking methods and the game wouldn't wait until the model has been loaded from disk, you need to call them as a async method. Here you can find an example, written in JavaScript how to load them correctly.
 
