@@ -2,166 +2,166 @@
 
 | ID | HEX | RGB | Description |
 | -- | --- | --- | ----------- |
-| 0 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/0d1116.jpg) `#0d1116` | 13, 17, 22 | Metallic Black |
-| 1 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/1c1d21.jpg) `#1c1d21` | 28, 29, 33 | Metallic Graphite Black |
-| 2 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/32383d.jpg) `#32383d` | 50, 56, 61 | Metallic Black Steal |
-| 3 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/454b4f.jpg) `#454b4f` | 69, 75, 79 | Metallic Dark Silver |
-| 4 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/999da0.jpg) `#999da0` | 153, 157, 160 | Metallic Silver |
-| 5 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/c2c4c6.jpg) `#c2c4c6` | 194, 196, 198 | Metallic Blue Silver |
-| 6 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/979a97.jpg) `#979a97` | 151, 154, 151 | Metallic Steel Gray |
-| 7 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/637380.jpg) `#637380` | 99, 115, 128 | Metallic Shadow Silver |
-| 8 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/63625c.jpg) `#63625c` | 99, 98, 92 | Metallic Stone Silver |
-| 9 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/3c3f47.jpg) `#3c3f47` | 60, 63, 71 | Metallic Midnight Silver |
-| 10 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/444e54.jpg) `#444e54` | 68, 78, 84 | Metallic Gun Metal |
-| 11 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/1d2129.jpg) `#1d2129` | 29, 33, 41 | Metallic Anthracite Grey |
-| 12 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/13181f.jpg) `#13181f` | 19, 24, 31 | Matte Black |
-| 13 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/26282a.jpg) `#26282a` | 38, 40, 42 | Matte Gray |
-| 14 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/515554.jpg) `#515554` | 81, 85, 84 | Matte Light Grey |
-| 15 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/151921.jpg) `#151921` | 21, 25, 33 | Util Black |
-| 16 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/1e2429.jpg) `#1e2429` | 30, 36, 41 | Util Black Poly |
-| 17 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/333a3c.jpg) `#333a3c` | 51, 58, 60 | Util Dark Silver |
-| 18 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/8c9095.jpg) `#8c9095` | 140, 144, 149 | Util Silver |
-| 19 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/39434d.jpg) `#39434d` | 57, 67, 77 | Util Gun Metal |
-| 20 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/506272.jpg) `#506272` | 80, 98, 114 | Util Shadow Silver |
-| 21 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/1e232f.jpg) `#1e232f` | 30, 35, 47 | Worn Black |
-| 22 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/363a3f.jpg) `#363a3f` | 54, 58, 63 | Worn Graphite |
-| 23 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/a0a199.jpg) `#a0a199` | 160, 161, 153 | Worn Silver Grey |
-| 24 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/d3d3d3.jpg) `#d3d3d3` | 211, 211, 211 | Worn Silver |
-| 25 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/b7bfca.jpg) `#b7bfca` | 183, 191, 202 | Worn Blue Silver |
-| 26 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/778794.jpg) `#778794` | 119, 135, 148 | Worn Shadow Silver |
-| 27 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/c00e1a.jpg) `#c00e1a` | 192, 14, 26 | Metallic Red |
-| 28 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/da1918.jpg) `#da1918` | 218, 25, 24 | Metallic Torino Red |
-| 29 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/b6111b.jpg) `#b6111b` | 182, 17, 27 | Metallic Formula Red |
-| 30 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/a51e23.jpg) `#a51e23` | 165, 30, 35 | Metallic Blaze Red |
-| 31 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/7b1a22.jpg) `#7b1a22` | 123, 26, 34 | Metallic Graceful Red |
-| 32 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/8e1b1f.jpg) `#8e1b1f` | 142, 27, 31 | Metallic Garnet Red |
-| 33 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/6f1818.jpg) `#6f1818` | 111, 24, 24 | Metallic Desert Red |
-| 34 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/49111d.jpg) `#49111d` | 73, 17, 29 | Metallic Cabernet Red |
-| 35 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/b60f25.jpg) `#b60f25` | 182, 15, 37 | Metallic Candy Red |
-| 36 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/d44a17.jpg) `#d44a17` | 212, 74, 23 | Metallic Sunrise Orange |
-| 37 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/c2944f.jpg) `#c2944f` | 194, 148, 79 | Metallic Classic Gold |
-| 38 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/f78616.jpg) `#f78616` | 247, 134, 22 | Metallic Orange |
-| 39 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/cf1f21.jpg) `#cf1f21` | 207, 31, 33 | Matte Red |
-| 40 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/732021.jpg) `#732021` | 115, 32, 33 | Matte Dark Red |
-| 41 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/f27d20.jpg) `#f27d20` | 242, 125, 32 | Matte Orange |
-| 42 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/ffc91f.jpg) `#ffc91f` | 255, 201, 31 | Matte Yellow |
-| 43 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/9c1016.jpg) `#9c1016` | 156, 16, 22 | Util Red |
-| 44 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/de0f18.jpg) `#de0f18` | 222, 15, 24 | Util Bright Red |
-| 45 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/8f1e17.jpg) `#8f1e17` | 143, 30, 23 | Util Garnet Red |
-| 46 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/a94744.jpg) `#a94744` | 169, 71, 68 | Worn Red |
-| 47 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/b16c51.jpg) `#b16c51` | 177, 108, 81 | Worn Golden Red |
-| 48 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/371c25.jpg) `#371c25` | 55, 28, 37 | Worn Dark Red |
-| 49 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/132428.jpg) `#132428` | 19, 36, 40 | Metallic Dark Green |
-| 50 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/122e2b.jpg) `#122e2b` | 18, 46, 43 | Metallic Racing Green |
-| 51 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/12383c.jpg) `#12383c` | 18, 56, 60 | Metallic Sea Green |
-| 52 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/31423f.jpg) `#31423f` | 49, 66, 63 | Metallic Olive Green |
-| 53 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/155c2d.jpg) `#155c2d` | 21, 92, 45 | Metallic Green |
-| 54 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/1b6770.jpg) `#1b6770` | 27, 103, 112 | Metallic Gasoline Blue Green |
-| 55 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/66b81f.jpg) `#66b81f` | 102, 184, 31 | Matte Lime Green |
-| 56 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/22383e.jpg) `#22383e` | 34, 56, 62 | Util Dark Green |
-| 57 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/1d5a3f.jpg) `#1d5a3f` | 29, 90, 63 | Util Green |
-| 58 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/2d423f.jpg) `#2d423f` | 45, 66, 63 | Worn Dark Green |
-| 59 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/45594b.jpg) `#45594b` | 69, 89, 75 | Worn Green |
-| 60 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/65867f.jpg) `#65867f` | 101, 134, 127 | Worn Sea Wash |
-| 61 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/222e46.jpg) `#222e46` | 34, 46, 70 | Metallic Midnight Blue |
-| 62 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/233155.jpg) `#233155` | 35, 49, 85 | Metallic Dark Blue |
-| 63 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/304c7e.jpg) `#304c7e` | 48, 76, 126 | Metallic Saxony Blue |
-| 64 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/47578f.jpg) `#47578f` | 71, 87, 143 | Metallic Blue |
-| 65 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/637ba7.jpg) `#637ba7` | 99, 123, 167 | Metallic Mariner Blue |
-| 66 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/394762.jpg) `#394762` | 57, 71, 98 | Metallic Harbor Blue |
-| 67 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/d6e7f1.jpg) `#d6e7f1` | 214, 231, 241 | Metallic Diamond Blue |
-| 68 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/76afbe.jpg) `#76afbe` | 118, 175, 190 | Metallic Surf Blue |
-| 69 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/345e72.jpg) `#345e72` | 52, 94, 114 | Metallic Nautical Blue |
-| 70 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/0b9cf1.jpg) `#0b9cf1` | 11, 156, 241 | Metallic Bright Blue |
-| 71 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/2f2d52.jpg) `#2f2d52` | 47, 45, 82 | Metallic Purple Blue |
-| 72 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/282c4d.jpg) `#282c4d` | 40, 44, 77 | Metallic Spinnaker Blue |
-| 73 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/2354a1.jpg) `#2354a1` | 35, 84, 161 | Metallic Ultra Blue |
-| 74 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/6ea3c6.jpg) `#6ea3c6` | 110, 163, 198 | Metallic Bright Blue |
-| 75 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/112552.jpg) `#112552` | 17, 37, 82 | Util Dark Blue |
-| 76 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/1b203e.jpg) `#1b203e` | 27, 32, 62 | Util Midnight Blue |
-| 77 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/275190.jpg) `#275190` | 39, 81, 144 | Util Blue |
-| 78 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/608592.jpg) `#608592` | 96, 133, 146 | Util Sea Foam Blue |
-| 79 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/2446a8.jpg) `#2446a8` | 36, 70, 168 | Util Lightning Blue |
-| 80 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/4271e1.jpg) `#4271e1` | 66, 113, 225 | Util Maui Blue Poly |
-| 81 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/3b39e0.jpg) `#3b39e0` | 59, 57, 224 | Util Bright Blue |
-| 82 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/1f2852.jpg) `#1f2852` | 31, 40, 82 | Matte Dark Blue |
-| 83 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/253aa7.jpg) `#253aa7` | 37, 58, 167 | Matte Blue |
-| 84 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/1c3551.jpg) `#1c3551` | 28, 53, 81 | Matte Midnight Blue |
-| 85 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/4c5f81.jpg) `#4c5f81` | 76, 95, 129 | Worn Dark Blue |
-| 86 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/58688e.jpg) `#58688e` | 88, 104, 142 | Worn Blue |
-| 87 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/74b5d8.jpg) `#74b5d8` | 116, 181, 216 | Worn Light Blue |
-| 88 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/ffcf20.jpg) `#ffcf20` | 255, 207, 32 | Metallic Taxi Yellow |
-| 89 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/fbe212.jpg) `#fbe212` | 251, 226, 18 | Metallic Race Yellow |
-| 90 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/916532.jpg) `#916532` | 145, 101, 50 | Metallic Bronze |
-| 91 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/e0e13d.jpg) `#e0e13d` | 224, 225, 61 | Metallic Yellow Bird |
-| 92 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/98d223.jpg) `#98d223` | 152, 210, 35 | Metallic Lime |
-| 93 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/9b8c78.jpg) `#9b8c78` | 155, 140, 120 | Metallic Champagne |
-| 94 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/503218.jpg) `#503218` | 80, 50, 24 | Metallic Pueblo Beige |
-| 95 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/473f2b.jpg) `#473f2b` | 71, 63, 43 | Metallic Dark Ivory |
-| 96 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/221b19.jpg) `#221b19` | 34, 27, 25 | Metallic Choco Brown |
-| 97 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/653f23.jpg) `#653f23` | 101, 63, 35 | Metallic Golden Brown |
-| 98 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/775c3e.jpg) `#775c3e` | 119, 92, 62 | Metallic Light Brown |
-| 99 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/ac9975.jpg) `#ac9975` | 172, 153, 117 | Metallic Straw Beige |
-| 100 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/6c6b4b.jpg) `#6c6b4b` | 108, 107, 75 | Metallic Moss Brown |
-| 101 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/402e2b.jpg) `#402e2b` | 64, 46, 43 | Metallic Biston Brown |
-| 102 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/a4965f.jpg) `#a4965f` | 164, 150, 95 | Metallic Beechwood |
-| 103 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/46231a.jpg) `#46231a` | 70, 35, 26 | Metallic Dark Beechwood |
-| 104 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/752b19.jpg) `#752b19` | 117, 43, 25 | Metallic Choco Orange |
-| 105 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/bfae7b.jpg) `#bfae7b` | 191, 174, 123 | Metallic Beach Sand |
-| 106 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/dfd5b2.jpg) `#dfd5b2` | 223, 213, 178 | Metallic Sun Bleeched Sand |
-| 107 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/f7edd5.jpg) `#f7edd5` | 247, 237, 213 | Metallic Cream |
-| 108 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/3a2a1b.jpg) `#3a2a1b` | 58, 42, 27 | Util Brown |
-| 109 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/785f33.jpg) `#785f33` | 120, 95, 51 | Util Medium Brown |
-| 110 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/b5a079.jpg) `#b5a079` | 181, 160, 121 | Util Light Brown |
-| 111 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/fffff6.jpg) `#fffff6` | 255, 255, 246 | Metallic White |
-| 112 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/eaeaea.jpg) `#eaeaea` | 234, 234, 234 | Metallic Frost White |
-| 113 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/b0ab94.jpg) `#b0ab94` | 176, 171, 148 | Worn Honey Beige |
-| 114 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/453831.jpg) `#453831` | 69, 56, 49 | Worn Brown |
-| 115 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/2a282b.jpg) `#2a282b` | 42, 40, 43 | Worn Dark Brown |
-| 116 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/726c57.jpg) `#726c57` | 114, 108, 87 | Worn Straw Beige |
-| 117 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/6a747c.jpg) `#6a747c` | 106, 116, 124 | Brushed Steel |
-| 118 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/354158.jpg) `#354158` | 53, 65, 88 | Brushed Black Steel |
-| 119 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/9ba0a8.jpg) `#9ba0a8` | 155, 160, 168 | Brushed Aluminium |
-| 120 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/5870a1.jpg) `#5870a1` | 88, 112, 161 | Chrome |
-| 121 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/eae6de.jpg) `#eae6de` | 234, 230, 222 | Worn Off White |
-| 122 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/dfddd0.jpg) `#dfddd0` | 223, 221, 208 | Util Off White |
-| 123 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/f2ad2e.jpg) `#f2ad2e` | 242, 173, 46 | Worn Orange |
-| 124 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/f9a458.jpg) `#f9a458` | 249, 164, 88 | Worn Light Orange |
-| 125 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/83c566.jpg) `#83c566` | 131, 197, 102 | Metallic Securicor Green |
-| 126 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/f1cc40.jpg) `#f1cc40` | 241, 204, 64 | Worn Taxi Yellow |
-| 127 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/4cc3da.jpg) `#4cc3da` | 76, 195, 218 | Police Car Blue |
-| 128 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/4e6443.jpg) `#4e6443` | 78, 100, 67 | Matte Green |
-| 129 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/bcac8f.jpg) `#bcac8f` | 188, 172, 143 | Matte Brown |
-| 130 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/f8b658.jpg) `#f8b658` | 248, 182, 88 | Worn Orange |
-| 131 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/fcf9f1.jpg) `#fcf9f1` | 252, 249, 241 | Matte White |
-| 132 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/fffffb.jpg) `#fffffb` | 255, 255, 251 | Worn White |
-| 133 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/81844c.jpg) `#81844c` | 129, 132, 76 | Worn Olive Army Green |
-| 134 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/ffffff.jpg) `#ffffff` | 255, 255, 255 | Pure White |
-| 135 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/f21f99.jpg) `#f21f99` | 242, 31, 153 | Hot Pink |
-| 136 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/fdd6cd.jpg) `#fdd6cd` | 253, 214, 205 | Salmon Pink |
-| 137 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/df5891.jpg) `#df5891` | 223, 88, 145 | Metallic Vermillion Pink |
-| 138 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/f6ae20.jpg) `#f6ae20` | 246, 174, 32 | Orange |
-| 139 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/b0ee6e.jpg) `#b0ee6e` | 176, 238, 110 | Green |
-| 140 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/08e9fa.jpg) `#08e9fa` | 8, 233, 250 | Blue |
-| 141 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/0a0c17.jpg) `#0a0c17` | 10, 12, 23 | Mettalic Black Blue |
-| 142 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/0c0d18.jpg) `#0c0d18` | 12, 13, 24 | Metallic Black Purple |
-| 143 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/0e0d14.jpg) `#0e0d14` | 14, 13, 20 | Metallic Black Red |
-| 144 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/9f9e8a.jpg) `#9f9e8a` | 159, 158, 138 | Hunter Green |
-| 145 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/621276.jpg) `#621276` | 98, 18, 118 | Metallic Purple |
-| 146 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/0b1421.jpg) `#0b1421` | 11, 20, 33 | Metaillic V Dark Blue |
-| 147 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/11141a.jpg) `#11141a` | 17, 20, 26 | Modshop Black |
-| 148 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/6b1f7b.jpg) `#6b1f7b` | 107, 31, 123 | Matte Purple |
-| 149 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/1e1d22.jpg) `#1e1d22` | 30, 29, 34 | Matte Dark Purple |
-| 150 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/bc1917.jpg) `#bc1917` | 188, 25, 23 | Metallic Lava Red |
-| 151 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/2d362a.jpg) `#2d362a` | 45, 54, 42 | Matte Forest Green |
-| 152 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/696748.jpg) `#696748` | 105, 103, 72 | Matte Olive Drab |
-| 153 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/7a6c55.jpg) `#7a6c55` | 122, 108, 85 | Matte Desert Brown |
-| 154 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/c3b492.jpg) `#c3b492` | 195, 180, 146 | Matte Desert Tan |
-| 155 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/5a6352.jpg) `#5a6352` | 90, 99, 82 | Matte Foilage Green |
-| 156 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/81827f.jpg) `#81827f` | 129, 130, 127 | Default Alloy |
-| 157 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/afd6e4.jpg) `#afd6e4` | 175, 214, 228 | Epsilon Blue |
-| 158 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/7a6440.jpg) `#7a6440` | 122, 100, 64 | Pure Gold |
-| 159 | ![](https://raw.githubusercontent.com/altmp/altv-docs-assets/master/altv-docs-gta/images/vehicle/colors/7f6a48.jpg) `#7f6a48` | 127, 106, 72 | Brushed Gold |
+| 0 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0d1116.jpg) `#0d1116` | 13, 17, 22 | Metallic Black |
+| 1 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1c1d21.jpg) `#1c1d21` | 28, 29, 33 | Metallic Graphite Black |
+| 2 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/32383d.jpg) `#32383d` | 50, 56, 61 | Metallic Black Steal |
+| 3 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/454b4f.jpg) `#454b4f` | 69, 75, 79 | Metallic Dark Silver |
+| 4 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/999da0.jpg) `#999da0` | 153, 157, 160 | Metallic Silver |
+| 5 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/c2c4c6.jpg) `#c2c4c6` | 194, 196, 198 | Metallic Blue Silver |
+| 6 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/979a97.jpg) `#979a97` | 151, 154, 151 | Metallic Steel Gray |
+| 7 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/637380.jpg) `#637380` | 99, 115, 128 | Metallic Shadow Silver |
+| 8 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/63625c.jpg) `#63625c` | 99, 98, 92 | Metallic Stone Silver |
+| 9 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/3c3f47.jpg) `#3c3f47` | 60, 63, 71 | Metallic Midnight Silver |
+| 10 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/444e54.jpg) `#444e54` | 68, 78, 84 | Metallic Gun Metal |
+| 11 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1d2129.jpg) `#1d2129` | 29, 33, 41 | Metallic Anthracite Grey |
+| 12 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/13181f.jpg) `#13181f` | 19, 24, 31 | Matte Black |
+| 13 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/26282a.jpg) `#26282a` | 38, 40, 42 | Matte Gray |
+| 14 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/515554.jpg) `#515554` | 81, 85, 84 | Matte Light Grey |
+| 15 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/151921.jpg) `#151921` | 21, 25, 33 | Util Black |
+| 16 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1e2429.jpg) `#1e2429` | 30, 36, 41 | Util Black Poly |
+| 17 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/333a3c.jpg) `#333a3c` | 51, 58, 60 | Util Dark Silver |
+| 18 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/8c9095.jpg) `#8c9095` | 140, 144, 149 | Util Silver |
+| 19 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/39434d.jpg) `#39434d` | 57, 67, 77 | Util Gun Metal |
+| 20 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/506272.jpg) `#506272` | 80, 98, 114 | Util Shadow Silver |
+| 21 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1e232f.jpg) `#1e232f` | 30, 35, 47 | Worn Black |
+| 22 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/363a3f.jpg) `#363a3f` | 54, 58, 63 | Worn Graphite |
+| 23 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/a0a199.jpg) `#a0a199` | 160, 161, 153 | Worn Silver Grey |
+| 24 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/d3d3d3.jpg) `#d3d3d3` | 211, 211, 211 | Worn Silver |
+| 25 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b7bfca.jpg) `#b7bfca` | 183, 191, 202 | Worn Blue Silver |
+| 26 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/778794.jpg) `#778794` | 119, 135, 148 | Worn Shadow Silver |
+| 27 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/c00e1a.jpg) `#c00e1a` | 192, 14, 26 | Metallic Red |
+| 28 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/da1918.jpg) `#da1918` | 218, 25, 24 | Metallic Torino Red |
+| 29 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b6111b.jpg) `#b6111b` | 182, 17, 27 | Metallic Formula Red |
+| 30 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/a51e23.jpg) `#a51e23` | 165, 30, 35 | Metallic Blaze Red |
+| 31 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/7b1a22.jpg) `#7b1a22` | 123, 26, 34 | Metallic Graceful Red |
+| 32 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/8e1b1f.jpg) `#8e1b1f` | 142, 27, 31 | Metallic Garnet Red |
+| 33 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/6f1818.jpg) `#6f1818` | 111, 24, 24 | Metallic Desert Red |
+| 34 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/49111d.jpg) `#49111d` | 73, 17, 29 | Metallic Cabernet Red |
+| 35 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b60f25.jpg) `#b60f25` | 182, 15, 37 | Metallic Candy Red |
+| 36 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/d44a17.jpg) `#d44a17` | 212, 74, 23 | Metallic Sunrise Orange |
+| 37 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/c2944f.jpg) `#c2944f` | 194, 148, 79 | Metallic Classic Gold |
+| 38 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f78616.jpg) `#f78616` | 247, 134, 22 | Metallic Orange |
+| 39 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/cf1f21.jpg) `#cf1f21` | 207, 31, 33 | Matte Red |
+| 40 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/732021.jpg) `#732021` | 115, 32, 33 | Matte Dark Red |
+| 41 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f27d20.jpg) `#f27d20` | 242, 125, 32 | Matte Orange |
+| 42 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/ffc91f.jpg) `#ffc91f` | 255, 201, 31 | Matte Yellow |
+| 43 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/9c1016.jpg) `#9c1016` | 156, 16, 22 | Util Red |
+| 44 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/de0f18.jpg) `#de0f18` | 222, 15, 24 | Util Bright Red |
+| 45 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/8f1e17.jpg) `#8f1e17` | 143, 30, 23 | Util Garnet Red |
+| 46 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/a94744.jpg) `#a94744` | 169, 71, 68 | Worn Red |
+| 47 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b16c51.jpg) `#b16c51` | 177, 108, 81 | Worn Golden Red |
+| 48 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/371c25.jpg) `#371c25` | 55, 28, 37 | Worn Dark Red |
+| 49 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/132428.jpg) `#132428` | 19, 36, 40 | Metallic Dark Green |
+| 50 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/122e2b.jpg) `#122e2b` | 18, 46, 43 | Metallic Racing Green |
+| 51 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/12383c.jpg) `#12383c` | 18, 56, 60 | Metallic Sea Green |
+| 52 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/31423f.jpg) `#31423f` | 49, 66, 63 | Metallic Olive Green |
+| 53 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/155c2d.jpg) `#155c2d` | 21, 92, 45 | Metallic Green |
+| 54 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1b6770.jpg) `#1b6770` | 27, 103, 112 | Metallic Gasoline Blue Green |
+| 55 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/66b81f.jpg) `#66b81f` | 102, 184, 31 | Matte Lime Green |
+| 56 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/22383e.jpg) `#22383e` | 34, 56, 62 | Util Dark Green |
+| 57 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1d5a3f.jpg) `#1d5a3f` | 29, 90, 63 | Util Green |
+| 58 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2d423f.jpg) `#2d423f` | 45, 66, 63 | Worn Dark Green |
+| 59 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/45594b.jpg) `#45594b` | 69, 89, 75 | Worn Green |
+| 60 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/65867f.jpg) `#65867f` | 101, 134, 127 | Worn Sea Wash |
+| 61 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/222e46.jpg) `#222e46` | 34, 46, 70 | Metallic Midnight Blue |
+| 62 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/233155.jpg) `#233155` | 35, 49, 85 | Metallic Dark Blue |
+| 63 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/304c7e.jpg) `#304c7e` | 48, 76, 126 | Metallic Saxony Blue |
+| 64 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/47578f.jpg) `#47578f` | 71, 87, 143 | Metallic Blue |
+| 65 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/637ba7.jpg) `#637ba7` | 99, 123, 167 | Metallic Mariner Blue |
+| 66 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/394762.jpg) `#394762` | 57, 71, 98 | Metallic Harbor Blue |
+| 67 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/d6e7f1.jpg) `#d6e7f1` | 214, 231, 241 | Metallic Diamond Blue |
+| 68 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/76afbe.jpg) `#76afbe` | 118, 175, 190 | Metallic Surf Blue |
+| 69 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/345e72.jpg) `#345e72` | 52, 94, 114 | Metallic Nautical Blue |
+| 70 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0b9cf1.jpg) `#0b9cf1` | 11, 156, 241 | Metallic Bright Blue |
+| 71 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2f2d52.jpg) `#2f2d52` | 47, 45, 82 | Metallic Purple Blue |
+| 72 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/282c4d.jpg) `#282c4d` | 40, 44, 77 | Metallic Spinnaker Blue |
+| 73 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2354a1.jpg) `#2354a1` | 35, 84, 161 | Metallic Ultra Blue |
+| 74 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/6ea3c6.jpg) `#6ea3c6` | 110, 163, 198 | Metallic Bright Blue |
+| 75 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/112552.jpg) `#112552` | 17, 37, 82 | Util Dark Blue |
+| 76 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1b203e.jpg) `#1b203e` | 27, 32, 62 | Util Midnight Blue |
+| 77 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/275190.jpg) `#275190` | 39, 81, 144 | Util Blue |
+| 78 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/608592.jpg) `#608592` | 96, 133, 146 | Util Sea Foam Blue |
+| 79 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2446a8.jpg) `#2446a8` | 36, 70, 168 | Util Lightning Blue |
+| 80 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/4271e1.jpg) `#4271e1` | 66, 113, 225 | Util Maui Blue Poly |
+| 81 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/3b39e0.jpg) `#3b39e0` | 59, 57, 224 | Util Bright Blue |
+| 82 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1f2852.jpg) `#1f2852` | 31, 40, 82 | Matte Dark Blue |
+| 83 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/253aa7.jpg) `#253aa7` | 37, 58, 167 | Matte Blue |
+| 84 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1c3551.jpg) `#1c3551` | 28, 53, 81 | Matte Midnight Blue |
+| 85 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/4c5f81.jpg) `#4c5f81` | 76, 95, 129 | Worn Dark Blue |
+| 86 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/58688e.jpg) `#58688e` | 88, 104, 142 | Worn Blue |
+| 87 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/74b5d8.jpg) `#74b5d8` | 116, 181, 216 | Worn Light Blue |
+| 88 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/ffcf20.jpg) `#ffcf20` | 255, 207, 32 | Metallic Taxi Yellow |
+| 89 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/fbe212.jpg) `#fbe212` | 251, 226, 18 | Metallic Race Yellow |
+| 90 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/916532.jpg) `#916532` | 145, 101, 50 | Metallic Bronze |
+| 91 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/e0e13d.jpg) `#e0e13d` | 224, 225, 61 | Metallic Yellow Bird |
+| 92 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/98d223.jpg) `#98d223` | 152, 210, 35 | Metallic Lime |
+| 93 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/9b8c78.jpg) `#9b8c78` | 155, 140, 120 | Metallic Champagne |
+| 94 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/503218.jpg) `#503218` | 80, 50, 24 | Metallic Pueblo Beige |
+| 95 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/473f2b.jpg) `#473f2b` | 71, 63, 43 | Metallic Dark Ivory |
+| 96 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/221b19.jpg) `#221b19` | 34, 27, 25 | Metallic Choco Brown |
+| 97 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/653f23.jpg) `#653f23` | 101, 63, 35 | Metallic Golden Brown |
+| 98 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/775c3e.jpg) `#775c3e` | 119, 92, 62 | Metallic Light Brown |
+| 99 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/ac9975.jpg) `#ac9975` | 172, 153, 117 | Metallic Straw Beige |
+| 100 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/6c6b4b.jpg) `#6c6b4b` | 108, 107, 75 | Metallic Moss Brown |
+| 101 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/402e2b.jpg) `#402e2b` | 64, 46, 43 | Metallic Biston Brown |
+| 102 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/a4965f.jpg) `#a4965f` | 164, 150, 95 | Metallic Beechwood |
+| 103 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/46231a.jpg) `#46231a` | 70, 35, 26 | Metallic Dark Beechwood |
+| 104 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/752b19.jpg) `#752b19` | 117, 43, 25 | Metallic Choco Orange |
+| 105 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/bfae7b.jpg) `#bfae7b` | 191, 174, 123 | Metallic Beach Sand |
+| 106 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/dfd5b2.jpg) `#dfd5b2` | 223, 213, 178 | Metallic Sun Bleeched Sand |
+| 107 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f7edd5.jpg) `#f7edd5` | 247, 237, 213 | Metallic Cream |
+| 108 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/3a2a1b.jpg) `#3a2a1b` | 58, 42, 27 | Util Brown |
+| 109 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/785f33.jpg) `#785f33` | 120, 95, 51 | Util Medium Brown |
+| 110 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b5a079.jpg) `#b5a079` | 181, 160, 121 | Util Light Brown |
+| 111 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/fffff6.jpg) `#fffff6` | 255, 255, 246 | Metallic White |
+| 112 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/eaeaea.jpg) `#eaeaea` | 234, 234, 234 | Metallic Frost White |
+| 113 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b0ab94.jpg) `#b0ab94` | 176, 171, 148 | Worn Honey Beige |
+| 114 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/453831.jpg) `#453831` | 69, 56, 49 | Worn Brown |
+| 115 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2a282b.jpg) `#2a282b` | 42, 40, 43 | Worn Dark Brown |
+| 116 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/726c57.jpg) `#726c57` | 114, 108, 87 | Worn Straw Beige |
+| 117 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/6a747c.jpg) `#6a747c` | 106, 116, 124 | Brushed Steel |
+| 118 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/354158.jpg) `#354158` | 53, 65, 88 | Brushed Black Steel |
+| 119 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/9ba0a8.jpg) `#9ba0a8` | 155, 160, 168 | Brushed Aluminium |
+| 120 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/5870a1.jpg) `#5870a1` | 88, 112, 161 | Chrome |
+| 121 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/eae6de.jpg) `#eae6de` | 234, 230, 222 | Worn Off White |
+| 122 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/dfddd0.jpg) `#dfddd0` | 223, 221, 208 | Util Off White |
+| 123 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f2ad2e.jpg) `#f2ad2e` | 242, 173, 46 | Worn Orange |
+| 124 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f9a458.jpg) `#f9a458` | 249, 164, 88 | Worn Light Orange |
+| 125 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/83c566.jpg) `#83c566` | 131, 197, 102 | Metallic Securicor Green |
+| 126 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f1cc40.jpg) `#f1cc40` | 241, 204, 64 | Worn Taxi Yellow |
+| 127 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/4cc3da.jpg) `#4cc3da` | 76, 195, 218 | Police Car Blue |
+| 128 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/4e6443.jpg) `#4e6443` | 78, 100, 67 | Matte Green |
+| 129 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/bcac8f.jpg) `#bcac8f` | 188, 172, 143 | Matte Brown |
+| 130 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f8b658.jpg) `#f8b658` | 248, 182, 88 | Worn Orange |
+| 131 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/fcf9f1.jpg) `#fcf9f1` | 252, 249, 241 | Matte White |
+| 132 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/fffffb.jpg) `#fffffb` | 255, 255, 251 | Worn White |
+| 133 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/81844c.jpg) `#81844c` | 129, 132, 76 | Worn Olive Army Green |
+| 134 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/ffffff.jpg) `#ffffff` | 255, 255, 255 | Pure White |
+| 135 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f21f99.jpg) `#f21f99` | 242, 31, 153 | Hot Pink |
+| 136 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/fdd6cd.jpg) `#fdd6cd` | 253, 214, 205 | Salmon Pink |
+| 137 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/df5891.jpg) `#df5891` | 223, 88, 145 | Metallic Vermillion Pink |
+| 138 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f6ae20.jpg) `#f6ae20` | 246, 174, 32 | Orange |
+| 139 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b0ee6e.jpg) `#b0ee6e` | 176, 238, 110 | Green |
+| 140 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/08e9fa.jpg) `#08e9fa` | 8, 233, 250 | Blue |
+| 141 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0a0c17.jpg) `#0a0c17` | 10, 12, 23 | Mettalic Black Blue |
+| 142 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0c0d18.jpg) `#0c0d18` | 12, 13, 24 | Metallic Black Purple |
+| 143 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0e0d14.jpg) `#0e0d14` | 14, 13, 20 | Metallic Black Red |
+| 144 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/9f9e8a.jpg) `#9f9e8a` | 159, 158, 138 | Hunter Green |
+| 145 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/621276.jpg) `#621276` | 98, 18, 118 | Metallic Purple |
+| 146 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0b1421.jpg) `#0b1421` | 11, 20, 33 | Metaillic V Dark Blue |
+| 147 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/11141a.jpg) `#11141a` | 17, 20, 26 | Modshop Black |
+| 148 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/6b1f7b.jpg) `#6b1f7b` | 107, 31, 123 | Matte Purple |
+| 149 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1e1d22.jpg) `#1e1d22` | 30, 29, 34 | Matte Dark Purple |
+| 150 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/bc1917.jpg) `#bc1917` | 188, 25, 23 | Metallic Lava Red |
+| 151 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2d362a.jpg) `#2d362a` | 45, 54, 42 | Matte Forest Green |
+| 152 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/696748.jpg) `#696748` | 105, 103, 72 | Matte Olive Drab |
+| 153 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/7a6c55.jpg) `#7a6c55` | 122, 108, 85 | Matte Desert Brown |
+| 154 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/c3b492.jpg) `#c3b492` | 195, 180, 146 | Matte Desert Tan |
+| 155 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/5a6352.jpg) `#5a6352` | 90, 99, 82 | Matte Foilage Green |
+| 156 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/81827f.jpg) `#81827f` | 129, 130, 127 | Default Alloy |
+| 157 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/afd6e4.jpg) `#afd6e4` | 175, 214, 228 | Epsilon Blue |
+| 158 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/7a6440.jpg) `#7a6440` | 122, 100, 64 | Pure Gold |
+| 159 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/7f6a48.jpg) `#7f6a48` | 127, 106, 72 | Brushed Gold |
 
 # Vehicle Colors Array
 
