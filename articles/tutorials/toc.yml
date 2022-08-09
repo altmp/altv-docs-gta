@@ -2,6 +2,8 @@
   href: stream_interiorsproxies.meta.md
 - name: Stream MLOs
   href: stream_mlos.md
+- name: Stream Objects
+  href: stream_objects.md
 - name: Stream PEDs
   href: stream_peds.md
 - name: Stream Sounds
