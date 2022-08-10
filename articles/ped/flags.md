@@ -91,6 +91,7 @@ Flag means: that the value of the variable can only be 0 or 1 (false or true). T
 | PED_FLAG_DISABLE_STOPPING_VEHICLE_ENGINE              | 241 |
 | PED_FLAG_CAN_PLAY_IN_CAR_IDLES                        | 248 |
 | PED_FLAG_IS_ON_STAIRS                                 | 253 |
+| PED_FLAG_DISABLE_CLOSING_VEHICLE_DOOR                 | 264 |
 | PED_FLAG_IS_ON_STAIRS_SLOPE                           | 270 |
 | PED_FLAG_DONT_BLIP_COP                                | 272 |
 | PED_FLAG_CLIMBED_SHIFTED_FENCE                        | 273 |
@@ -221,6 +222,7 @@ export enum PedConfigFlag {
     DisableStoppingVehicleEngine = 241,
     CanPlayInCarIdles = 248,
     IsOnStairs = 253,
+    DisableClosingVehicleDoor = 264,
     IsOnStairsSlope = 270,
     DontBlipCop = 272,
     ClimbedShiftedFence = 273,
