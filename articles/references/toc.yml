@@ -16,12 +16,16 @@
   href: dlcs.md
 - name: HUD Components
   href: hudcomponents.md
+- name: HUD Colors
+  href: hud-colors.md
 - name: Interiors & Locations
   href: interiors-and-locations.md
 - name: Joaat
   href: joaat.md
 - name: Markers
   href: markers.md
+- name: Text formatting
+  href: text-formatting.md
 - name: Time & Date
   href: time-and-date.md
 - name: Trains
