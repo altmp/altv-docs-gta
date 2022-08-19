@@ -69,9 +69,7 @@ namespace WeaponPageCreator
             gallery.WriteLine("<!--- This page gets generated with tools/deps/generators/weapon_models -->");
             gallery.WriteLine("# Weapon Models");
 
-            gallery.WriteLine();
-            gallery.WriteLine("## Gallery");
-            gallery.WriteLine();
+            gallery.WriteLine("Informations provided by <a href='https://forge.plebmasters.de/weapons'>Plebmasters</a>");
 
             gallery.WriteLine("### Categories");
             gallery.WriteLine();

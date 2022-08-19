@@ -45,9 +45,7 @@ namespace PedPageCreator
             gallery.WriteLine("<!--- This page gets generated with tools/deps/generators/ped_models -->");
             gallery.WriteLine("# Ped Models");
 
-            gallery.WriteLine();
-            gallery.WriteLine("## Gallery");
-            gallery.WriteLine();
+            gallery.WriteLine("Informations provided by <a href='https://forge.plebmasters.de/peds'>Plebmasters</a>");
 
             gallery.WriteLine("<div class=\"grid-container\">");
 
