@@ -56,7 +56,7 @@ namespace VehiclePageCreator
             gallery.WriteLine("# Vehicle Models");
 
             gallery.WriteLine("> [!TIP]");
-            gallery.WriteLine("> Informations provided by <a href='https://forge.plebmasters.de/peds'>Pleb Masters: Forge</a>");
+            gallery.WriteLine("> Informations provided by <a href='https://forge.plebmasters.de/vehicles'>Pleb Masters: Forge</a>");
 
             foreach (var vehicleClass in vehicleClasses)
             {

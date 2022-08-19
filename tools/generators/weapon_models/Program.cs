@@ -70,7 +70,7 @@ namespace WeaponPageCreator
             gallery.WriteLine("# Weapon Models");
 
             gallery.WriteLine("> [!TIP]");
-            gallery.WriteLine("> Informations provided by <a href='https://forge.plebmasters.de/peds'>Pleb Masters: Forge</a>");
+            gallery.WriteLine("> Informations provided by <a href='https://forge.plebmasters.de/weapons'>Pleb Masters: Forge</a>");
 
             foreach (var weaponCategory in weaponCategories)
             {

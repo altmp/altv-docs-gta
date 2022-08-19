@@ -2,7 +2,7 @@
 <!--- This page gets generated with tools/deps/generators/vehicle_models -->
 # Vehicle Models
 > [!TIP]
-> Informations provided by <a href='https://forge.plebmasters.de/peds'>Pleb Masters: Forge</a>
+> Informations provided by <a href='https://forge.plebmasters.de/vehicles'>Pleb Masters: Forge</a>
 ### BOAT
 
 <div class="grid-container">

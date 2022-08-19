@@ -2,7 +2,7 @@
 <!--- This page gets generated with tools/deps/generators/weapon_models -->
 # Weapon Models
 > [!TIP]
-> Informations provided by <a href='https://forge.plebmasters.de/peds'>Pleb Masters: Forge</a>
+> Informations provided by <a href='https://forge.plebmasters.de/weapons'>Pleb Masters: Forge</a>
 ### FIREEXTINGUISHER
 
 <div class="grid-container">
