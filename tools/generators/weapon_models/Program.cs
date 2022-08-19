@@ -69,17 +69,9 @@ namespace WeaponPageCreator
             gallery.WriteLine("<!--- This page gets generated with tools/deps/generators/weapon_models -->");
             gallery.WriteLine("# Weapon Models");
 
-            gallery.WriteLine("Informations provided by <a href='https://forge.plebmasters.de/weapons'>Plebmasters</a>");
+            gallery.WriteLine("> [!TIP]");
+            gallery.WriteLine("> Informations provided by <a href='https://forge.plebmasters.de/peds'>Pleb Masters: Forge</a>");
 
-            gallery.WriteLine("### Categories");
-            gallery.WriteLine();
-
-            foreach (var weaponCategory in weaponCategories)
-            {
-                gallery.WriteLine($"<a href=\"#{weaponCategory.ToLower()}\">{weaponCategory}</a><br/>");
-            }
-            gallery.WriteLine();
-            
             foreach (var weaponCategory in weaponCategories)
             {
                 gallery.WriteLine("### " + weaponCategory);
