@@ -1,5 +1,8 @@
 # Weapon Components
 
+> [!TIP]
+> See <a href='https://forge.plebmasters.de/weapons?components=true'>Pleb Masters: Forge</a> for a full list of weapon components.
+
 # Melees
 
 ## Knuckle Duster

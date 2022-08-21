@@ -73,6 +73,9 @@ The release dates are using the format **YYYY.MM.DD** and PC release dates are p
 | patchdayg9ecng |  |
 | mpg9ecpatch | 2022.05.17 |
 
+> [!TIP]
+> See <a href='https://forge.plebmasters.de/dlcs'>Pleb Masters: Forge</a> for a overview of DLCs & their content.
+
 # Useful snippets
 ## Enums
 # [JavaScript](#tab/tabid-1)

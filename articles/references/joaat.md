@@ -4,6 +4,9 @@ Jooat stands for "Jenkis one at a time" and is an hashing algorithm, that is use
 
 The hash is not case sensitive and is already implemented into alt:V API, you can use alt.hash() on server and client side.
 
+> [!TIP]
+> See <a href='https://forge.plebmasters.de/joaatresolver/'>Pleb Masters: Forge</a> JOAAT Tool for a reverse JOAAT hash lookup.
+
 ## Joaat Calculator
 
 Here you can enter a name to get the hash of it as uint32 and hex.

@@ -9,6 +9,9 @@ This method is available to the respective vehicle instance.
 > For cars the `SetWheels(wheelType, wheelId)` method is sufficient to change all 4 wheels. For motorcycles additionally
 > the `SetRearWheels(wheelId)` method is available.
 
+> [!TIP]
+> See <a href='https://forge.plebmasters.de/vehiclemods'>Pleb Masters: Forge</a> for a full list of vehicle wheels.
+
 **Wheel types**
 
 | Id  | Description |

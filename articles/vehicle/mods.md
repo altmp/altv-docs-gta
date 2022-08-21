@@ -3,6 +3,9 @@
 > [!TIP]
 > If there are no further comments, the preferred methods are respectively setMod and getMod.
 
+> [!TIP]
+> See <a href='https://forge.plebmasters.de/vehiclemods'>Pleb Masters: Forge</a> for a full list of vehicle mods.
+
 ## Categories
 
 | Id  | Name                                      | Value Range | Preferred setter                                                                                                                                                                                                                                                            |

@@ -1,5 +1,8 @@
 # Interiors & Locations
 
+> [!TIP]
+> See <a href='https://forge.plebmasters.de/ipls'>Pleb Masters: Forge</a> IPL Browser for a full list of existing IPLs.
+
 # Loading & unloading IPL
 ## Blocking
 ```js

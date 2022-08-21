@@ -5,6 +5,9 @@ Starting with the alt:V 4.0 release, in addition to setting the clothes on the c
 > [!CAUTION]
 > The synchronization of client-side set clothing is valid until the first time a server-side setter is used. To realize the client-side preview of clothes it is recommended to clone the player's ped and display the clothes on this ped (either with natives or using alt.setPedClothes & setPedDlcClothes).
 
+> [!TIP]
+> See <a href='https://forge.plebmasters.de/clothes'>Pleb Masters: Forge</a> for a full list of freemode ped clothes.
+
 ## Introduction
 
 The utilization of the server-side setters is divided into 2 variants:
