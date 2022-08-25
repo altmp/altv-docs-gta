@@ -1,5 +1,5 @@
 ﻿# Stream Objects
-This tutorial will show how to add custom objects to your server. For this tutorial we will use [Billboard Props Pack by War_Reporter](https://www.gta5-mods.com/maps/billboard-props-pack-addon).
+This tutorial will show how to add custom objects to your server. For this tutorial we will use the [alt:V logo](https://github.com/deluvas1911/altv_logo/releases/download/release/altvlogo.zip).
 
 ## Suggested tools
 * [Open IV](https://openiv.com/)
@@ -18,37 +18,11 @@ This tutorial will show how to add custom objects to your server. For this tutor
 
 ## **Folder Structure**
 ```
-billboards/
+altvlogo/
 |-> stream/
 |    |-> assets/
-|    |    |-> block_01.ydr
-|    |    |-> block_02.ydr
-|    |    |-> block_03.ydr
-|    |    |-> block_04.ydr
-|    |    |-> block_05.ydr
-|    |    |-> block_06.ydr
-|    |    |-> sign_big_01.ydr
-|    |    |-> sign_big_02.ydr
-|    |    |-> sign_big_03.ydr
-|    |    |-> sign_big_04.ydr
-|    |    |-> sign_big_05.ydr
-|    |    |-> sign_big_06.ydr
-|    |    |-> sign_big_07.ydr
-|    |    |-> sign_big_08.ydr
-|    |    |-> sign_shop_a_01.ydr
-|    |    |-> sign_shop_a_02.ydr
-|    |    |-> sign_shop_a_03.ydr
-|    |    |-> sign_shop_a_04.ydr
-|    |    |-> sign_shop_b_01.ydr
-|    |    |-> sign_shop_b_01+hidr.ytd
-|    |    |-> sign_shop_b_02.ydr
-|    |    |-> sign_shop_b_02+hidr.ytd
-|    |    |-> sign_shop_b_03.ydr
-|    |    |-> sign_shop_b_03+hidr.ytd
-|    |    |-> sign_shop_b_04.ydr
-|    |    |-> sign_shop_b_04+hidr.ytd
-|    |    \-> sign_shop_c_01.ydr
-|    \-> def_props.ytyp
+|    |    |-> tw_altv_logo.ydr
+|    \    \-> tw_altv_logo.ytyp
 |-> resource.cfg
 \-> stream.cfg
 ```
@@ -70,8 +44,24 @@ files: [
 ]
 
 meta: {
-  stream/def_props.ytyp: DLC_ITYP_REQUEST
+  stream/assets/tw_altv_logo.ytyp: DLC_ITYP_REQUEST
 }
 ```
 
-Add the `billboards` (folder name is your resource name) for the `server.cfg` file.
+Add the `altvlogo` (folder name is your resource name) to the `server.cfg` file inside the resource section.
+
+## Spawning the object
+
+To spawn the object now, use the following snippet:
+
+```js
+async function spawnLogo() {
+    const modelHash = alt.hash("tw_altv_logo");
+    await alt.Utils.requestModel(modelHash);
+    native.createObject(modelHash, 0, 0, 100, false, false, false);
+}
+```
+
+Executing this code will result in this awesome view:
+
+<img src="https://raw.githubusercontent.com/deluvas1911/altv_logo/main/altvlogo.png" loading="lazy" />
