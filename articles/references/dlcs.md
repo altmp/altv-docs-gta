@@ -55,7 +55,7 @@ The release dates are using the format **YYYY.MM.DD** and PC release dates are p
 | mpimportexport | 2016.12.13 |
 | mpspecialraces | 2017.03.14 |
 | mpgunrunning | 2017.06.13 |
-| mpairraces |  |
+| mpairraces | |
 | mpsmuggler | 2017.08.29 |
 | mpchristmas2017 | 2017.12.12 |
 | mpassault | 2018.03.20 |
@@ -66,12 +66,16 @@ The release dates are using the format **YYYY.MM.DD** and PC release dates are p
 | mpsum | 2020.08.11 |
 | mpheist4 | 2020.12.15 |
 | patchday24ng | 2021.02.10 |
-| patchday25ng |  |
+| patchday25ng | |
 | mptuner | 2021.07.20 |
 | mpsecurity | 2021.12.15 |
 | mpg9ec | 2022.04.26 |
-| patchdayg9ecng |  |
+| patchdayg9ecng | |
 | mpg9ecpatch | 2022.05.17 |
+| mpsum2 | 2022.07.26 |
+| patchday27ng | 2022.07.26 |
+| mpsum2_g9ec | 2022.07.26 |
+| patchday27g9ecng | 2022.07.26 |
 
 > [!TIP]
 > See <a href='https://forge.plebmasters.de/dlcs'>Pleb Masters: Forge</a> for a overview of DLCs & their content.
@@ -149,7 +153,12 @@ const GtaDlcList =
 	"mptuner",
 	"mpsecurity",
 	"mpg9ec",
-	"patchdayg9ecng"
+	"patchdayg9ecng",
+	"mpg9ecpatch",
+	"mpsum2",
+	"patchday27ng",
+	"mpsum2_g9ec",
+	"patchday27g9ecng"
 ];
 ```
 # [C#](#tab/tabid-2)
@@ -223,6 +232,11 @@ public enum GtaDlc
 	mptuner,
 	mpsecurity,
 	mpg9ec,
-	patchdayg9ecng
+	patchdayg9ecng,
+	mpg9ecpatch,
+	mpsum2,
+	patchday27ng,
+	mpsum2_g9ec,
+	patchday27g9ecng
 }
 ```
