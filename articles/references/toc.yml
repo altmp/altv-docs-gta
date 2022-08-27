@@ -10,14 +10,14 @@
   href: controls.md
 - name: Data Files
   href: data-files.md
-- name: Game Files
-  href: game-files.md
 - name: DLCs
   href: dlcs.md
-- name: HUD Components
-  href: hudcomponents.md
+- name: Game Files
+  href: game-files.md
 - name: HUD Colors
   href: hud-colors.md
+- name: HUD Components
+  href: hudcomponents.md
 - name: Interiors & Locations
   href: interiors-and-locations.md
 - name: Joaat
@@ -30,9 +30,9 @@
   href: time-and-date.md
 - name: Trains
   href: trains.md
-- name: Weather
-  href: weather.md
 - name: Versions
   href: versions.md
+- name: Weather
+  href: weather.md
 - name: Ybn
   href: ybn.md

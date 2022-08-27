@@ -1,3 +1,7 @@
+- name: Stream Clothes
+  href: stream_clothes.md
+- name: Stream Clothes (Overwrite)
+  href: stream_clothes_overwrite.md
 - name: Stream Interiorsproxies.meta
   href: stream_interiorsproxies.meta.md
 - name: Stream MLOs
@@ -14,7 +18,3 @@
   href: stream_vehicles.md
 - name: Stream Weapons
   href: stream_weapons.md
-- name: Stream Clothes
-  href: stream_clothes.md
-- name: Stream Clothes (Overwrite)
-  href: stream_clothes_overwrite.md
