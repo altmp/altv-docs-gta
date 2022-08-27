@@ -1,12 +1,12 @@
 - name: Appearance
   href: appearance.md
-- name: Models
-  href: models.md
-- name: Clothing
-  href: clothing.md
-- name: Config Flags
-  href: flags.md
 - name: Bodyparts
   href: bodyparts.md
 - name: Bones
   href: bones.md
+- name: Clothing
+  href: clothing.md
+- name: Config Flags
+  href: flags.md
+- name: Models
+  href: models.md
