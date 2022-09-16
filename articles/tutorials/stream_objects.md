@@ -1,6 +1,16 @@
 ﻿# Stream Objects
 This tutorial will show how to add custom objects to your server. For this tutorial we will use the [alt:V logo](https://github.com/deluvas1911/altv_logo/releases/download/release/altvlogo.zip).
 
+> [!WARNING]
+> As of the current state (alt:V 13.x) there are several conditions for the resource name which could crash the client.
+> To avoid those crashes, follow those rules for naming the resource:
+> 
+> - All lowercase
+> - No special characters
+> - Must begin with a letter
+> 
+> More information regarding this issue can be found at [GitHub issue #436](https://github.com/altmp/altv-issues/issues/436)
+
 ## Suggested tools
 * [Open IV](https://openiv.com/)
 * [Codewalker](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)
