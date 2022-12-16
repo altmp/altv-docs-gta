@@ -23,31 +23,26 @@ weapon_tutorial/
 │  ├─ weaponkatana.meta
 │  ├─ weaponarchetypes.meta
 │  ├─ weaponanimations.meta
-├─ resource.cfg
-├─ stream.cfg
+├─ resource.toml
+├─ stream.toml
 ```
 
-## **resource.cfg**
+## **resource.toml**
 ```
-type: dlc,
-main: stream.cfg,
+type = 'dlc',
+main = 'stream.toml',
 
-client-files: [
-  stream/*
-]
+client-files = [ 'stream/*' ]
 ```
 
-## **stream.cfg**
+## **stream.toml**
 ```
-files: [
-  stream/assets/*
-]
+files = [ 'stream/assets/*' ]
 
-meta: {
-	stream/weaponkatana.meta: WEAPONINFO_FILE
-	stream/weaponanimations.meta: WEAPON_ANIMATIONS_FILE
-	stream/weaponarchetypes.meta: WEAPON_METADATA_FILE
-}
+[meta]
+'stream/weaponkatana.meta' = 'WEAPONINFO_FILE'
+'stream/weaponanimations.meta' = 'WEAPON_ANIMATIONS_FILE'
+'stream/weaponarchetypes.meta' = 'WEAPON_METADATA_FILE'
 ```
 
 ## <u>Weapons replace</u>
@@ -59,29 +54,23 @@ weapon_tutorial/
 │  ├─ assets/models/
 │  │  |  ├─ w_pe_pistol.ydr
 │  │  |  ├─ w_pe_pistol.ytd
-├─ resource.cfg
-├─ stream.cfg
+├─ resource.toml
+├─ stream.toml
 ```
 
-## **resource.cfg**
+## **resource.toml**
 ```
-type: dlc,
-main: stream.cfg,
+type = 'dlc',
+main = 'stream.toml',
 
-client-files: [
-  stream/*
-]
+client-files = [ 'stream/*' ]
 ```
 
-## **stream.cfg**
+## **stream.toml**
 ```
-files: [
-  stream/*
-]
+files = [ 'stream/*' ]
 
-meta: {
-
-}
+[meta]
 ```
 
 ## <u>Edit weapons damages</u> 

@@ -16,7 +16,7 @@ Be sure you have the latest updated Clothes tool, check the link before in the `
 3. ```Third step```: when you have select all clothes you want to add, just click on ```"Build Project"```.
 4. ```Fourth step```: be sure that's alt:V resource is ticked, if it's not for alt:V, you can tick others options.
 5. ```Fifth step```: give a name to your clothes collection, and create a folder for your exported resource
-6. ```Sixth step```: add the resource name in your ```server.cfg``` and your resource folder into the ```server resource folder```
+6. ```Sixth step```: add the resource name in your ```server.toml``` and your resource folder into the ```server resource folder```
 
 
 ![First step](~/altv-docs-assets/altv-docs-gta/images/tutorials/first.png)
@@ -27,25 +27,22 @@ Tutorial clothes firstl.webp| First steps
 Tutorial_clothes_second.png| Last Steps
 </gallery>
 
-## **resource.cfg** 
+## **resource.toml** 
 ```
-type: dlc,
-main: stream.cfg,
-client-files: [
-  stream/*
-]
+type = 'dlc',
+main = 'stream.toml',
+client-files = [ 'stream/*' ]
 ```
 
-## **stream.cfg**
+## **stream.toml**
 ```
-files: [
-  stream/ped_male.rpf/*
-  stream/ped_female.rpf/*
+files = [
+  'stream/ped_male.rpf/*'
+  'stream/ped_female.rpf/*'
 ]
-meta: {
-  stream/mp_m_freemode_01_mp_m_ClothesTutorial.meta: SHOP_PED_APPAREL_META_FILE
-  stream/mp_f_freemode_01_mp_f_ClothesTutorial.meta: SHOP_PED_APPAREL_META_FILE
-}
+[meta]
+'stream/mp_m_freemode_01_mp_m_ClothesTutorial.meta' = 'SHOP_PED_APPAREL_META_FILE'
+'stream/mp_f_freemode_01_mp_f_ClothesTutorial.meta' = 'SHOP_PED_APPAREL_META_FILE'
 ```
 
 ## Folder structure 
@@ -64,8 +61,8 @@ clotheResource/
 │  │  ├─ mp_f_freemode_01_mp_f_ClothesTutorial.ymt
 │  ├─ mp_m_freemode_01_mp_m_ClothesTutorial.meta
 │  ├─ mp_f_freemode_01_mp_f_ClothesTutorial.meta
-├─ resource.cfg
-├─ stream.cfg
+├─ resource.toml
+├─ stream.toml
 ```
 
 With this tutorial you can add every clothes you want for your server, GTA5 main characters clothes will not work with this tutorial, same for NPC add-on.

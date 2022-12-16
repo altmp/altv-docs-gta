@@ -116,28 +116,23 @@ burgershot/
 |    |-> vb_03_strm_0.ymap
 |    |-> vb_occl_01.ymap
 |    \-> vespucci_burgershot_milo_.ymap
-|-> resource.cfg
-\-> stream.cfg
+|-> resource.toml
+\-> stream.toml
 ```
 
-## **resource.cfg** 
+## **resource.toml** 
 ```
-type: dlc,
-main: stream.cfg,
+type = 'dlc',
+main: 'stream.toml',
 
-client-files: [
-  stream/*
-]
+client-files = [ 'stream/*' ]
 ```
 
-## **stream.cfg**
+## **stream.toml**
 ```
-files: [
-  stream/*
-]
+files = [ 'stream/*' ]
 
-meta: {
-}
+[meta]
 ```
 
-Add the ```burgershot``` (folder name is your resource name) for the ```server.cfg``` file.
+Add the ```burgershot``` (folder name is your resource name) for the ```server.toml``` file.

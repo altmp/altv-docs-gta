@@ -24,32 +24,28 @@ soundtutorial/
 │  │  │  │  │  ├─ example_animal.awc
 │  │  │  │  ├─ weapons_player/
 │  │  │  │  │  ├─ example_smg_sound.awc
-├─ resource.cfg
-├─ stream.cfg
+├─ resource.toml
+├─ stream.toml
 ```
 
-## **Resource.cfg**
+## **resource.toml**
 
 ```
-type: dlc,
-main: stream.cfg,
+type = 'dlc',
+main = 'stream.toml',
 
-client-files: [
-  stream/*
-]
+client-files = [ 'stream/*' ]
 ```
 
-## **Stream.cfg**
+## **stream.toml**
 
 ```
-files: [
-]
+files = [ ]
 
-meta: {
-  	stream/x64/audio/sfx/resident: AUDIO_WAVEPACK
-  	stream/x64/audio/sfx/weapons_player: AUDIO_WAVEPACK
-	stream/x64/audio/sfx/animals: AUDIO_WAVEPACK
-}
+[meta]
+'stream/x64/audio/sfx/resident' = 'AUDIO_WAVEPACK'
+'stream/x64/audio/sfx/weapons_player' = 'AUDIO_WAVEPACK'
+'stream/x64/audio/sfx/animals' = 'AUDIO_WAVEPACK'
 ```
 
 You will need to enter the correct name of each basic sound resource in gta (resident, weapons_player, animals etc....)

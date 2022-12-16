@@ -20,7 +20,7 @@ This tutorial will show how to add custom objects to your server. For this tutor
 2. Extract the archive like below:
     * Place all `ydr`, `yft`, `ytd` and other assets in the folder `stream\assets\`. For organizational reasons, these files can be distributed into subfolders  
     * Place all `ytyp` files into the folder `stream\`
-3. You have to specify the ytyp files in the resources stream.cfg. More information at the bottom of this article
+3. You have to specify the ytyp files in the resources stream.toml. More information at the bottom of this article
 
 > [!WARNING]
 > If your resource does not contain ytyp files it is not possible to spawn the objects using natives.\
@@ -33,32 +33,27 @@ altvlogo/
 |    |-> assets/
 |    |    |-> tw_altv_logo.ydr
 |    \    \-> tw_altv_logo.ytyp
-|-> resource.cfg
-\-> stream.cfg
+|-> resource.toml
+\-> stream.toml
 ```
 
-## **resource.cfg**
+## **resource.toml**
 ```
-type: dlc,
-main: stream.cfg,
+type = 'dlc',
+main = 'stream.toml',
 
-client-files: [
-  stream/*
-]
+client-files = [ 'stream/*' ]
 ```
 
-## **stream.cfg**
+## **stream.toml**
 ```
-files: [
-  stream/assets/*
-]
+files = [ 'stream/assets/*' ]
 
-meta: {
-  stream/assets/tw_altv_logo.ytyp: DLC_ITYP_REQUEST
-}
+[meta]
+'stream/assets/tw_altv_logo.ytyp' = 'DLC_ITYP_REQUEST'
 ```
 
-Add the `altvlogo` (folder name is your resource name) to the `server.cfg` file inside the resource section.
+Add the `altvlogo` (folder name is your resource name) to the `server.toml` file inside the resource section.
 
 ## Spawning the object
 

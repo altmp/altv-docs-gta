@@ -22,8 +22,8 @@ peds_tutorial/
 │  │  ├─ yourmodelname.ymt
 │  │  ├─ yourmodelname.yft
 │  ├─ anynameofmeta.meta
-├─ resource.cfg
-├─ stream.cfg
+├─ resource.toml
+├─ stream.toml
 ```
 
 **Note**: You could divide metafiles and your ped models into subfolders as you wish. The only rule is to pass the right paths to metafiles and subfolders should be inside the stream folder.
@@ -40,21 +40,18 @@ To make this work you should change:
 ```
 **Note**: You can mix models in one meta file, just paste new ```<Item>``` block into ```<InitDatas>``` and change model name ( or other stuff ) in meta file.
 
-## **Resource.cfg**
+## **resource.toml**
 ```
-type: dlc,
-main: stream.cfg,
-client-files: [
-	stream/*
-]
+type = 'dlc',
+main = 'stream.toml',
+
+client-files = [ 'stream/*' ]
 ```
 
-## **Stream.cfg**
+## **stream.toml**
 ```
-files: [
-   stream/models/*
-],
-meta: {
-   stream/anynameofmeta.meta: PED_METADATA_FILE
-}
+files = [ 'stream/models/*' ]
+
+[meta]
+'stream/anynameofmeta.meta' = 'PED_METADATA_FILE'
 ```

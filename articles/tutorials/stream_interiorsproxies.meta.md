@@ -20,29 +20,24 @@ Download the MLO from the link above and add it as a resource to your Server. Yo
 i-streamer/
 |-> stream/
 |    |-> interiorproxies.meta
-|-> resource.cfg
-\-> stream.cfg
+|-> resource.toml
+\-> stream.toml
 ```
 
-### **resource.cfg**
+### **resource.toml**
 ```
-type: dlc,
-main: stream.cfg,
+type = 'dlc',
+main: 'stream.toml',
 
-client-files: [
-  stream/*
-]
+client-files = [ 'stream/*' ]
 ```
 
-### **stream.cfg**
+### **stream.toml**
 ```
-files: [
-  stream/*
-]
+files = [ 'stream/*' ]
 
-meta: {
-  stream/interiorproxies.meta: INTERIOR_PROXY_ORDER_FILE
-}
+[meta]
+'stream/interiorproxies.meta' = 'INTERIOR_PROXY_ORDER_FILE'
 ```
 
 ### **interiorproxies.meta**
@@ -57,4 +52,4 @@ You can add every ```milo_``` as a ```<Item>``` into ```proxies```
     </proxies>
 </SInteriorOrderData>
 ```
-Add the ```i-streamer``` (folder name is your resource name) for the ```server.cfg``` file.
+Add the ```i-streamer``` (folder name is your resource name) for the ```server.toml``` file.
