@@ -23,28 +23,26 @@ In our example we will use the mpsecurity dlc.
 3. when you have select all clothes you want to add, just click on ```"Build Project"```.
 4. be sure that's alt:V resource is ticked, if it's not for alt:V, you can tick others options.
 5. enter the collection name which we got before.
-6. open the stream.cfg of your generated clothes dlc and remove the ``meta:`` part of the file and also the 2 generated meta files in the stream folder.
+6. open the stream.toml of your generated clothes dlc and remove the ``[meta]`` part of the file and also the 2 generated meta files in the stream folder.
 7. in the stream folder you have to rename the ``ped_female.rpf`` and ``ped_male.rpf`` folder to ``dlcName_female.rpf`` and ``dlcName_male.rpf`` (use the correct dlc name here, e.g ``mpsecurity_male.rpf``)
-8. add the resource name in your ```server.cfg``` and your resource folder into the ```server resource folder```
+8. add the resource name in your ```server.toml``` and your resource folder into the ```server resource folder```
 
 
 ![First step](~/altv-docs-assets/altv-docs-gta/images/tutorials/stream_clothes/first_overwrite.png)
 ![Second step](~/altv-docs-assets/altv-docs-gta/images/tutorials/stream_clothes/second_overwrite.png)
 
-## **resource.cfg** 
+## **resource.toml** 
 ```
-type: dlc,
-main: stream.cfg,
-client-files: [
-  stream/*
-]
+type = 'dlc',
+main = 'stream.toml',
+client-files = [ 'stream/*' ]
 ```
 
-## **stream.cfg**
+## **stream.toml**
 ```
-files: [
-  stream/mpsecurity_male.rpf/*
-  stream/mpsecurity_female.rpf/*
+files = [
+  'stream/mpsecurity_male.rpf/*'
+  'stream/mpsecurity_female.rpf/*'
 ]
 ```
 
@@ -62,8 +60,8 @@ clotheResource/
 │  │  │  ├─ jbib_000_u.ydd
 │  │  │  ├─ jbib_diff_000_a_uni.ytd
 │  │  ├─ mp_f_freemode_01_mp_f_security.ymt
-├─ resource.cfg
-├─ stream.cfg
+├─ resource.toml
+├─ stream.toml
 ```
 
 With this tutorial you can add every clothes you want for your server, GTA5 main characters clothes will not work with this tutorial, same for NPC add-on.

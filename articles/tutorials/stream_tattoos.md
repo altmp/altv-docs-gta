@@ -50,28 +50,23 @@ You can find a list here: https://github.com/DurtyFree/gta-v-data-dumps/blob/mas
 2. Image name needs to match the ytd file name
 
 
-## **resource.cfg**
+## **resource.toml**
 ```
-type: dlc,
-main: stream.cfg,
+type = 'dlc',
+main = 'stream.toml',
 
-client-files: [
-  stream/*
-]
+client-files = [ 'stream/*' ]
 ```
 
-## **stream.cfg** 
+## **stream.toml** 
 ```
-files: [
-  stream/assets/*
-]
+files = [ 'stream/assets/*' ]
 
-meta: {
-    stream/customtattoos_overlays.xml: PED_OVERLAY_FILE
-    stream/shop_tattoo.meta: TATTOO_SHOP_DLC_FILE
-}
+[meta]
+'stream/customtattoos_overlays.xml' = 'PED_OVERLAY_FILE'
+'stream/shop_tattoo.meta' = 'TATTOO_SHOP_DLC_FILE'
 ```
 
 # **Final touch** 
-Add the ```custom_tattoos``` to the resource list inside the ```server.cfg``` file.<ref>custom_tattoos stands for the resource name which is represented by your folder name.</ref><br><br>
+Add the ```custom_tattoos``` to the resource list inside the ```server.toml``` file.<ref>custom_tattoos stands for the resource name which is represented by your folder name.</ref><br><br>
 Resource names **aren't** case sensitive!
