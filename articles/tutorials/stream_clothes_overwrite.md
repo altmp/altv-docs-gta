@@ -33,8 +33,8 @@ In our example we will use the mpsecurity dlc.
 
 ## **resource.toml** 
 ```
-type = 'dlc',
-main = 'stream.toml',
+type = 'dlc'
+main = 'stream.toml'
 client-files = [ 'stream/*' ]
 ```
 

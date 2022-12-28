@@ -26,8 +26,8 @@ i-streamer/
 
 ### **resource.toml**
 ```
-type = 'dlc',
-main: 'stream.toml',
+type = 'dlc'
+main: 'stream.toml'
 
 client-files = [ 'stream/*' ]
 ```
