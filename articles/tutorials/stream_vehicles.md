@@ -19,40 +19,37 @@ For this tutorial we will use [https://www.gta5-mods.com/vehicles/pfister-meteor
 ![](~/altv-docs-assets/altv-docs-gta/images/tutorials/Stream_Vehicles-FolderStructure.png)
 
 
-## **resource.cfg**
+## **resource.toml**
 ```
-type: dlc,
-main: stream.cfg,
-client-files: [
-	stream/*
-]
+type = 'dlc'
+main = 'stream.toml'
+
+client-files = [ 'stream/*' ]
 ```
 
-## **stream.cfg**
+## **stream.toml**
 ```
-files: [
-	stream/assets/*
-]
-meta: {
-	stream/vehicles.meta: VEHICLE_METADATA_FILE
-	stream/carvariations.meta: VEHICLE_VARIATION_FILE
-	stream/handling.meta: HANDLING_FILE
-	stream/carcols.meta: CARCOLS_FILE
-	stream/audio/sfx/dlc_meteor: AUDIO_WAVEPACK
-	stream/audio/meteor_game.dat: AUDIO_GAMEDATA
-	stream/audio/meteor_sounds.dat: AUDIO_SOUNDDATA
-	stream/audio/meteor_amp.dat: AUDIO_SYNTHDATA
-}
+files = [ 'stream/assets/*' ]
+
+[meta]
+'stream/vehicles.meta' = 'VEHICLE_METADATA_FILE'
+'stream/carvariations.meta' = 'VEHICLE_VARIATION_FILE'
+'stream/handling.meta' = 'HANDLING_FILE'
+'stream/carcols.meta' = 'CARCOLS_FILE'
+'stream/audio/sfx/dlc_meteor' = 'AUDIO_WAVEPACK'
+'stream/audio/meteor_game.dat' = 'AUDIO_GAMEDATA'
+'stream/audio/meteor_sounds.dat' = 'AUDIO_SOUNDDATA'
+'stream/audio/meteor_amp.dat' = 'AUDIO_SYNTHDATA'
 ```
 
 # Final touch
-Add the ```meteor``` to the resource list inside the ```server.cfg``` file.<ref>meteor stands for the resource name which is represented by your folder name.</ref><br><br>
+Add the ```meteor``` to the resource list inside the ```server.toml``` file.<ref>meteor stands for the resource name which is represented by your folder name.</ref><br><br>
 Resource names <strong>aren't</strong> case sensitive!
 
 
 ### Tips
 1. Additional Data files can be found under [https://docs.altv.mp/gta/articles/references/data-files.html](https://docs.altv.mp/gta/articles/references/data-files.html), which may be needed for other mods.<br>
-2. If you're interested of displaying the actual vehicle name. You can do so by adding an entry into the stream.cfg <ref>0x12345 stands for the JOAAT Hash [https://docs.altv.mp/gta/articles/references/joaat.html](https://docs.altv.mp/gta/articles/references/joaat.html) of the gameNameEntry inside the vehicle.meta, replaced with the actual "vehicle name".</ref> <br>
+2. If you're interested of displaying the actual vehicle name. You can do so by adding an entry into the stream.toml <ref>0x12345 stands for the JOAAT Hash [https://docs.altv.mp/gta/articles/references/joaat.html](https://docs.altv.mp/gta/articles/references/joaat.html) of the gameNameEntry inside the vehicle.meta, replaced with the actual "vehicle name".</ref> <br>
 
 ```
 meta: {
