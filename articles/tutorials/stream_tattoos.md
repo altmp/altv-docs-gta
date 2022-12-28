@@ -52,8 +52,8 @@ You can find a list here: https://github.com/DurtyFree/gta-v-data-dumps/blob/mas
 
 ## **resource.toml**
 ```
-type = 'dlc',
-main = 'stream.toml',
+type = 'dlc'
+main = 'stream.toml'
 
 client-files = [ 'stream/*' ]
 ```
