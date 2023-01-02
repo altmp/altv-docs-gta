@@ -16,3 +16,4 @@ natives.createPed(2, modelHash, 0, 0, 70, 0, false, false);
 - [createPed native](https://natives.altv.mp/#/0xD49F9B0955C367DE)
 - [alt.log](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_log)
 - [alt.hash](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_hash)
+- [alt.Utils.requestModel](https://docs.altv.mp/js/api/alt-client.Utils_1.html#_altmp_altv_types_alt_client_Utils_1_requestModel)
