@@ -37,7 +37,7 @@ client-files = [ 'stream/*' ]
 ## **stream.toml**
 ```
 files = [
-  'stream/ped_male.rpf/*'
+  'stream/ped_male.rpf/*',
   'stream/ped_female.rpf/*'
 ]
 [meta]
