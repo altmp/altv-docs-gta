@@ -90,6 +90,15 @@
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_railgunxm3.png" alt="Missing image &quot;WEAPON_RAILGUNXM3.png&quot;" title="WEAPON_RAILGUNXM3" loading="lazy" />
+    </div>
+    <b>Name:</b> WEAPON_RAILGUNXM3<br/>
+    <b>Hash:</b> 0xFEA23564<br/>
+    <b>Display Name:</b> Railgun<br/>
+    <b>DLC:</b> mpchristmas3
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_rayminigun.png" alt="Missing image &quot;WEAPON_RAYMINIGUN.png&quot;" title="WEAPON_RAYMINIGUN" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_RAYMINIGUN<br/>
@@ -143,6 +152,15 @@
     <b>Hash:</b> 0xF9E6AA4B<br/>
     <b>Display Name:</b> Bottle<br/>
     <b>DLC:</b> mpbeach
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_candycane.png" alt="Missing image &quot;WEAPON_CANDYCANE.png&quot;" title="WEAPON_CANDYCANE" loading="lazy" />
+    </div>
+    <b>Name:</b> WEAPON_CANDYCANE<br/>
+    <b>Hash:</b> 0x6589186A<br/>
+    <b>Display Name:</b> Candy Cane<br/>
+    <b>DLC:</b> mpchristmas3
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -487,6 +505,15 @@
     <b>Name:</b> WEAPON_PISTOL50<br/>
     <b>Hash:</b> 0x99AEEB3B<br/>
     <b>Display Name:</b> Pistol .50
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_pistolxm3.png" alt="Missing image &quot;WEAPON_PISTOLXM3.png&quot;" title="WEAPON_PISTOLXM3" loading="lazy" />
+    </div>
+    <b>Name:</b> WEAPON_PISTOLXM3<br/>
+    <b>Hash:</b> 0x1BC4FDB9<br/>
+    <b>Display Name:</b> WM 29 Pistol<br/>
+    <b>DLC:</b> mpchristmas3
   </div>
   <div class="grid-item">
     <div class="grid-item-img">
@@ -903,6 +930,15 @@
 <div class="grid-container">
   <div class="grid-item">
     <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_acidpackage.png" alt="Missing image &quot;WEAPON_ACIDPACKAGE.png&quot;" title="WEAPON_ACIDPACKAGE" loading="lazy" />
+    </div>
+    <b>Name:</b> WEAPON_ACIDPACKAGE<br/>
+    <b>Hash:</b> 0xF7F1E25E<br/>
+    <b>Display Name:</b> Acid Package<br/>
+    <b>DLC:</b> mpchristmas3
+  </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
       <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_ball.png" alt="Missing image &quot;WEAPON_BALL.png&quot;" title="WEAPON_BALL" loading="lazy" />
     </div>
     <b>Name:</b> WEAPON_BALL<br/>
@@ -1038,6 +1074,7 @@
 export class WeaponModel {
   static gadget_nightvision = 0xA720365C;
   static gadget_parachute = 0xFBAB5776;
+  static weapon_acidpackage = 0xF7F1E25E;
   static weapon_advancedrifle = 0xAF113F99;
   static weapon_appistol = 0x22D8FE39;
   static weapon_assaultrifle = 0xBFEFFF6D;
@@ -1054,6 +1091,7 @@ export class WeaponModel {
   static weapon_bullpuprifle_mk2 = 0x84D6FAFD;
   static weapon_bullpupshotgun = 0x9D61E50F;
   static weapon_bzgas = 0xA0973D5E;
+  static weapon_candycane = 0x6589186A;
   static weapon_carbinerifle = 0x83BF0278;
   static weapon_carbinerifle_mk2 = 0xFAD1F1C9;
   static weapon_ceramicpistol = 0x2B5EF5EC;
@@ -1113,12 +1151,14 @@ export class WeaponModel {
   static weapon_pistol = 0x1B06D571;
   static weapon_pistol_mk2 = 0xBFE256D4;
   static weapon_pistol50 = 0x99AEEB3B;
+  static weapon_pistolxm3 = 0x1BC4FDB9;
   static weapon_poolcue = 0x94117305;
   static weapon_precisionrifle = 0x6E7DDDEC;
   static weapon_proxmine = 0xAB564B93;
   static weapon_pumpshotgun = 0x1D073A89;
   static weapon_pumpshotgun_mk2 = 0x555AF99A;
   static weapon_railgun = 0x6D544C99;
+  static weapon_railgunxm3 = 0xFEA23564;
   static weapon_raycarbine = 0x476BF155;
   static weapon_rayminigun = 0xB62D1F67;
   static weapon_raypistol = 0xAF3696A1;
@@ -1153,6 +1193,7 @@ export class WeaponModel {
 export enum WeaponModel {
   gadget_nightvision = 0xA720365C,
   gadget_parachute = 0xFBAB5776,
+  weapon_acidpackage = 0xF7F1E25E,
   weapon_advancedrifle = 0xAF113F99,
   weapon_appistol = 0x22D8FE39,
   weapon_assaultrifle = 0xBFEFFF6D,
@@ -1169,6 +1210,7 @@ export enum WeaponModel {
   weapon_bullpuprifle_mk2 = 0x84D6FAFD,
   weapon_bullpupshotgun = 0x9D61E50F,
   weapon_bzgas = 0xA0973D5E,
+  weapon_candycane = 0x6589186A,
   weapon_carbinerifle = 0x83BF0278,
   weapon_carbinerifle_mk2 = 0xFAD1F1C9,
   weapon_ceramicpistol = 0x2B5EF5EC,
@@ -1228,12 +1270,14 @@ export enum WeaponModel {
   weapon_pistol = 0x1B06D571,
   weapon_pistol_mk2 = 0xBFE256D4,
   weapon_pistol50 = 0x99AEEB3B,
+  weapon_pistolxm3 = 0x1BC4FDB9,
   weapon_poolcue = 0x94117305,
   weapon_precisionrifle = 0x6E7DDDEC,
   weapon_proxmine = 0xAB564B93,
   weapon_pumpshotgun = 0x1D073A89,
   weapon_pumpshotgun_mk2 = 0x555AF99A,
   weapon_railgun = 0x6D544C99,
+  weapon_railgunxm3 = 0xFEA23564,
   weapon_raycarbine = 0x476BF155,
   weapon_rayminigun = 0xB62D1F67,
   weapon_raypistol = 0xAF3696A1,
