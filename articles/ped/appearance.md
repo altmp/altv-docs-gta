@@ -123,7 +123,7 @@ player.getHeadBlendPaletteColor(id);
 ```
 ***
 
-### Face feature
+### Face feature (micro morph)
 
 Index ranges from 0 to 19. e.g. nose length, chin shape.
 Scale ranges from -1.0 to 1.0.
@@ -139,7 +139,7 @@ const ped = alt.Player.local;
 const index = 0;
 const scale = 0.5;
 
-native.setPedFaceFeature(ped, index, scale);
+native.setPedMicroMorph(ped, index, scale);
 ```
 # [server](#tab/tab3-1)
 **To set face feature**
@@ -210,7 +210,7 @@ import * as alt from 'alt-client';
 const ped = alt.Player.local;
 const overlayID = 0;
 
-native.getPedHeadOverlayValue(ped, overlayID);
+native.getPedHeadOverlay(ped, overlayID);
 ```
 # [server](#tab/tab4-1)
 **To set head overlay**
@@ -270,7 +270,7 @@ const colorType = 0;
 const colorID = 0;
 const secondColorID = 0;
 
-native.setPedHeadOverlayColor(ped, overlayID, colorType, colorID, secondColorID);
+native.setPedHeadOverlayTint(ped, overlayID, colorType, colorID, secondColorID);
 ```
 # [server](#tab/tab5-1)
 **To set head overlay color**
@@ -303,7 +303,7 @@ import * as alt from 'alt-client';
 const ped = alt.Player.local;
 const index = 0;
 
-native.setPedEyeColor(ped, index);
+native.setHeadBlendEyeColor(ped, index);
 ```
 
 **To get eye color**
@@ -314,7 +314,7 @@ import * as alt from 'alt-client';
 
 const ped = alt.Player.local;
 
-native.getPedEyeColor(ped);
+native.getHeadBlendEyeColor(ped);
 ```
 # [server](#tab/tab6-1)
 **To set eye color**
@@ -353,7 +353,7 @@ const ped = alt.Player.local;
 const colorID = 0;
 const highlightColorID = 0;
 
-native.setPedHairColor(ped, colorID, highlightColorID);
+native.setPedHairTint(ped, colorID, highlightColorID);
 ```
 # [server](#tab/tab7-1)
 **To set hair color**
