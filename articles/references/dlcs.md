@@ -76,7 +76,7 @@ The release dates are using the format **YYYY.MM.DD** and PC release dates are p
 | patchday27ng | 2022.07.26 |
 | mpsum2_g9ec | 2022.07.26 |
 | patchday27g9ecng | 2022.07.26 |
-| patchday28ng | 2022.07.26 |
+| patchday28ng | 2022.10.25 |
 | mpchristmas3_g9ec | 2022.12.13 |
 | mpchristmas3 | 2022.12.13 |
 | patchday28g9ecng | 2023.02.01 |
