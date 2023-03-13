@@ -275,3 +275,68 @@ This weather ID is more noticeable at night.
         <b>Time: 00:00</b>
     </div>
 </div>
+
+## Enums
+# [C#](#tab/tabid-1)
+```cs
+public enum GtaWeather
+{
+    ExtraSunny = 0,
+    Clear = 1,
+    Clouds = 2,
+    Smog = 3,
+    Foggy = 4,
+    Overcast = 5,
+    Rain = 6,
+    Thunder = 7,
+    LightRain = 8,
+    SmoggyLightRain = 9,
+    VeryLightSnow = 10,
+    WindyLightSnow = 11,
+    LightSnow = 12,
+    Christmas = 13,
+    Halloween = 14
+}
+```
+# [JavaScript](#tab/tabid-2)
+```js
+const GtaWeatherList =
+[
+    "ExtraSunny",
+    "Clear",
+    "Clouds",
+    "Smog",
+    "Foggy",
+    "Overcast",
+    "Rain",
+    "Thunder",
+    "LightRain",
+    "SmoggyLightRain",
+    "VeryLightSnow",
+    "WindyLightSnow",
+    "LightSnow",
+    "Christmas",
+    "Halloween"
+];
+```
+# [TypeScript](#tab/tabid-3)
+```ts
+enum GtaWeather
+{
+    ExtraSunny = 0,
+    Clear = 1,
+    Clouds = 2,
+    Smog = 3,
+    Foggy = 4,
+    Overcast = 5,
+    Rain = 6,
+    Thunder = 7,
+    LightRain = 8,
+    SmoggyLightRain = 9,
+    VeryLightSnow = 10,
+    WindyLightSnow = 11,
+    LightSnow = 12,
+    Christmas = 13,
+    Halloween = 14
+}
+```

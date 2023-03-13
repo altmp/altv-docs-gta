@@ -172,7 +172,7 @@ const GtaDlcList =
 ];
 ```
 # [C#](#tab/tabid-2)
-```c#
+```cs
 public enum GtaDlc
 {
 	mpbeach,
