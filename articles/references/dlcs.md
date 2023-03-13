@@ -76,6 +76,11 @@ The release dates are using the format **YYYY.MM.DD** and PC release dates are p
 | patchday27ng | 2022.07.26 |
 | mpsum2_g9ec | 2022.07.26 |
 | patchday27g9ecng | 2022.07.26 |
+| patchday28ng | 2022.10.25 |
+| mpchristmas3_g9ec | 2022.12.13 |
+| mpchristmas3 | 2022.12.13 |
+| patchday28g9ecng | 2023.02.01 |
+| mpchristmas3_patch1 | 2023.02.28 |
 
 > [!TIP]
 > See <a href='https://forge.plebmasters.de/dlcs'>Pleb Masters: Forge</a> for a overview of DLCs & their content.
@@ -84,7 +89,7 @@ The release dates are using the format **YYYY.MM.DD** and PC release dates are p
 ## Enums
 # [JavaScript](#tab/tabid-1)
 ```js
-const GtaDlcList = 
+const GtaDlcList =
 [
 	"mpbeach",
 	"spupgrade",
@@ -158,11 +163,16 @@ const GtaDlcList =
 	"mpsum2",
 	"patchday27ng",
 	"mpsum2_g9ec",
-	"patchday27g9ecng"
+	"patchday27g9ecng",
+	"patchday28ng",
+	"mpchristmas3_g9ec",
+	"mpchristmas3",
+	"patchday28g9ecng",
+	"mpchristmas3_patch1"
 ];
 ```
 # [C#](#tab/tabid-2)
-```c#
+```cs
 public enum GtaDlc
 {
 	mpbeach,
@@ -237,6 +247,11 @@ public enum GtaDlc
 	mpsum2,
 	patchday27ng,
 	mpsum2_g9ec,
-	patchday27g9ecng
+	patchday27g9ecng,
+	patchday28ng,
+	mpchristmas3_g9ec,
+	mpchristmas3,
+	patchday28g9ecng,
+	mpchristmas3_patch1
 }
 ```
