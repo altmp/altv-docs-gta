@@ -551,7 +551,7 @@ export enum PedConfigFlag {
     UseLockpickVehicleEntryAnimations = 426,
     IgnoreInteriorCheckForSprinting = 427,
     SwatHeliSpawnWithinLastSpottedLocation = 428,
-    DisableStartingVehicleEngine = 429, // DisableStartEngine
+    DisableStartingVehicleEngine = 429,
     IgnoreBeingOnFire = 430,
     DisableTurretOrRearSeatPreference = 431,
     DisableWantedHelicopterSpawning = 432,
