@@ -1,3 +1,5 @@
+- name: Overwrite Gameconfig
+  href: overwrite_gameconfig.md
 - name: Stream Clothes
   href: stream_clothes.md
 - name: Stream Clothes (Overwrite)
