@@ -91,6 +91,8 @@
 | des_farmhs_endimap  |                   |                             |
 | des_farmhs_end_occl |                   |                             |
 
+---
+
 # Manual loading & unloading
 
 ## Blocking
@@ -344,6 +346,8 @@ game.removeIpl(iplName);
 | Power Broker Conservative | ex_sm_13_office_03b | -1579.708, -564.9634, 108.5229 |
 | Power Broker Polished     | ex_sm_13_office_03c | -1579.693, -564.8981, 108.5229 |
 
+---
+
 ## Clubs & Warehouses
 
 | Name / Description | IPL                                                               | Position (X, Y, Z)             |
@@ -464,6 +468,8 @@ game.removeIpl(iplName);
 | hei_yacht_heist_DistantLights |                                |
 | hei_yacht_heist_LODLights     |                                |
 
+---
+
 #### Aircraft Carrier
 
 | IPL                       | Position                     |
@@ -494,6 +500,8 @@ game.removeIpl(iplName);
 | canyonriver01     | 532.1309, 4526.187, 89.79387 |
 | canyonriver01_lod |                              |
 | railing_start     |                              |
+
+---
 
 #### North Yankton
 
@@ -554,6 +562,8 @@ game.removeIpl(iplName);
 | farm_int            |                             |
 | des_farmhs_endimap  |                             |
 | des_farmhs_end_occl |                             |
+
+---
 
 #### Morgue
 
