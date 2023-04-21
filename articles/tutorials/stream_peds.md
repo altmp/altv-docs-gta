@@ -18,9 +18,9 @@ peds_tutorial/
 ├─ stream/
 │  ├─ models/
 │  │  ├─ yourmodelname.ydd
-│  │  ├─ yourmodelname.ytd
-│  │  ├─ yourmodelname.ymt
 │  │  ├─ yourmodelname.yft
+│  │  ├─ yourmodelname.ymt
+│  │  ├─ yourmodelname.ytd
 │  ├─ anynameofmeta.meta
 ├─ resource.toml
 ├─ stream.toml
