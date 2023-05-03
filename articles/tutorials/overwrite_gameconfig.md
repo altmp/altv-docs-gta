@@ -1,5 +1,5 @@
 # Overwrite Gameconfig Pools
-This tutorial show, how you can change the gamepool sizes (requires alt:V v15 and higher).
+This tutorial show, how you can extend the gamepool sizes (requires alt:V v15 and higher).
 
 ## Suggested tools
 * [OpenIV](https://openiv.com/)
@@ -8,7 +8,7 @@ This tutorial show, how you can change the gamepool sizes (requires alt:V v15 an
 1. Create a resource folder with a name of your choice.
 2. Create a resource.toml like the example below.
 3. Get the current value and name of a pool from your gameconfig in the update.rpf.
-4. Add the name of the pool you want to change and the new value below the [pools] section.
+4. Add the name of the pool and the value to extend below the [pools] section.
 
 ## **resource.toml**
 ```
