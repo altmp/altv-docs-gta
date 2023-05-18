@@ -1,22 +1,13 @@
 # Overwrite Gameconfig Pools
-This tutorial show, how you can extend the gamepool sizes (requires alt:V v15 and higher).
+To extend the gameconfig pools, you need to add the following example to your server.toml.
 
-## Suggested tools
-* [OpenIV](https://openiv.com/)
-
-## Creating the resources
-1. Create a resource folder with a name of your choice.
-2. Create a resource.toml like the example below.
-3. Get the current value and name of a pool from your gameconfig in the update.rpf.
-4. Add the name of the pool and the value to extend below the [pools] section.
-
-## **resource.toml**
 ```
-type = "rpf"
-
 [pools]
 "DrawableStore" = 240420
 ```
+
+1. Get the current value and name of a pool from your gameconfig in the update.rpf.
+2. Add the name of the pool and the value to extend below the [pools] section.
 
 ## Default raised pools by alt:V
 
