@@ -79,7 +79,6 @@
 | ex_dt1_02_office_02b              | Arcadius Business Centre (Executive Rich) | -141.1987, -620.913, 168.8205    |
 | bkr_bi_hw1_13_int                 | Lost Clubhouse                            | 984.1552, -95.3662, 74.50        |
 | FIBlobbyfake                      | FIB interior                              | **TBD**                          |
-| hei_sm_16_interior_v_bahama_milo_ | Bahama Mamas                              | **TBD**                          |
 | ch1_02_closed                     | **TBD**                                   | **TBD**                          |
 
 ## [Unloaded IPLs](#tab/defaults-2)
