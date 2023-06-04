@@ -1,5 +1,5 @@
 ﻿# Stream Objects
-This tutorial will show how to add custom objects to your server. For this tutorial we will use the [alt:V logo](https://github.com/deluvas1911/altv_logo/releases/download/release/altvlogo.zip).
+This tutorial will show how to add custom objects to your server. For this tutorial we will use the [alt:V logo](https://github.com/altmp/altv-example-resources/tree/master/object-addon/stream/assets).
 
 > [!WARNING]
 > As of the current state (alt:V 13.x) there are several conditions for the resource name which could crash the client.
@@ -66,7 +66,3 @@ async function spawnLogo() {
     native.createObject(modelHash, 0, 0, 100, false, false, false);
 }
 ```
-
-Executing this code will result in this awesome view:
-
-<img src="https://raw.githubusercontent.com/deluvas1911/altv_logo/main/altvlogo.png" loading="lazy" />
