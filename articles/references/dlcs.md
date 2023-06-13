@@ -81,6 +81,10 @@ The release dates are using the format **YYYY.MM.DD** and PC release dates are p
 | mpchristmas3 | 2022.12.13 |
 | patchday28g9ecng | 2023.02.01 |
 | mpchristmas3_patch1 | 2023.02.28 |
+| mp2023_01 | 2023.06.13 |
+| mp2023_01_g9ec | 2023.06.13 |
+| patch2023_01 | 2023.06.13 |
+| patch2023_01_g9ec | 2023.06.13 |
 
 > [!TIP]
 > See <a href='https://forge.plebmasters.de/dlcs'>Pleb Masters: Forge</a> for a overview of DLCs & their content.
@@ -168,7 +172,11 @@ const GtaDlcList =
 	"mpchristmas3_g9ec",
 	"mpchristmas3",
 	"patchday28g9ecng",
-	"mpchristmas3_patch1"
+	"mpchristmas3_patch1",
+	"mp2023_01",
+	"mp2023_01_g9ec",
+	"patch2023_01",
+	"patch2023_01_g9ec"
 ];
 ```
 # [C#](#tab/tabid-2)
@@ -252,6 +260,10 @@ public enum GtaDlc
 	mpchristmas3_g9ec,
 	mpchristmas3,
 	patchday28g9ecng,
-	mpchristmas3_patch1
+	mpchristmas3_patch1,
+	mp2023_01,
+	mp2023_01_g9ec,
+	patch2023_01,
+	patch2023_01_g9ec
 }
 ```
