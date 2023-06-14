@@ -835,6 +835,15 @@
     <b>Display Name:</b> SMG Mk II<br/>
     <b>DLC:</b> mpgunrunning
   </div>
+  <div class="grid-item">
+    <div class="grid-item-img">
+      <img src="~/altv-docs-assets/altv-docs-gta/images/weapon/models/weapon_tecpistol.png" alt="Missing image &quot;WEAPON_TECPISTOL.png&quot;" title="WEAPON_TECPISTOL" loading="lazy" />
+    </div>
+    <b>Name:</b> WEAPON_TECPISTOL<br/>
+    <b>Hash:</b> 0x14E5AFD5<br/>
+    <b>Display Name:</b> Tactical SMG<br/>
+    <b>DLC:</b> mp2023_01
+  </div>
 </div>
 
 ### SNIPER
@@ -1182,6 +1191,7 @@ export class WeaponModel {
   static weapon_stungun_mp = 0x45CD9CF3;
   static weapon_switchblade = 0xDFE37640;
   static weapon_tacticalrifle = 0xD1D5F52B;
+  static weapon_tecpistol = 0x14E5AFD5;
   static weapon_tranquilizer = 0x32A888BD;
   static weapon_unarmed = 0xA2719263;
   static weapon_vintagepistol = 0x83839C4;
@@ -1301,6 +1311,7 @@ export enum WeaponModel {
   weapon_stungun_mp = 0x45CD9CF3,
   weapon_switchblade = 0xDFE37640,
   weapon_tacticalrifle = 0xD1D5F52B,
+  weapon_tecpistol = 0x14E5AFD5,
   weapon_tranquilizer = 0x32A888BD,
   weapon_unarmed = 0xA2719263,
   weapon_vintagepistol = 0x83839C4,
