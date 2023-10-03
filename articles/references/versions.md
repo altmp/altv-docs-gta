@@ -48,6 +48,7 @@ The release dates are using the format **YYYY.MM.DD** and PC release dates are p
 | 1.64 | 2802 | 2022.12.13 |
 | 1.66 | 2824 | 2023.02.01 |
 | 1.67 | 2944 | 2023.06.13 |
+| 1.67 | 3028 | 2023.10.03 |
 
 # Useful Snippets
 ## Enums
