@@ -3,7 +3,7 @@
 Starting with the alt:V 4.0 release, in addition to setting the clothes on the client side (native: setPedComponentVariation), it is also possible to set them on the server side (setClothes, setDlcClothes, setProp, setDlcProp).
 
 > [!CAUTION]
-> The synchronization of client-side set clothing is valid until the first time a server-side setter is used. To realize the client-side preview of clothes it is recommended to clone the player's ped (native: `clonePed(alt.Player.local, false, false, false)`) and display the clothes on this ped (either with natives or using setPedDlcClothes & setPedDlcProp).
+> The synchronization of client-side set clothing is valid until the first time a server-side setter is used. To realize the client-side preview of clothes it is recommended to [clone the player's ped](https://docs.altv.mp/articles/ped.html#local-ped-api) and display the clothes on this ped (either with natives or using setPedDlcClothes & setPedDlcProp).
 
 > [!TIP]
 > See <a href='https://forge.plebmasters.de/clothes'>Pleb Masters: Forge</a> for a full list of freemode ped clothes.
