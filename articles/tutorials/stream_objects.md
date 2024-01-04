@@ -19,8 +19,15 @@ This tutorial will show how to add custom objects to your server. For this tutor
 1. Open the `dlc.rpf` (or however your rpf file is named) archive with one of suggested tools
 2. Extract the archive like below:
     * Place all `ydr`, `yft`, `ytd` and other assets in the folder `stream\assets\`. For organizational reasons, these files can be distributed into subfolders  
-    * Place all `ytyp` files into the folder `stream\`
+    * Place all `ytyp` files into the folder `stream\assets\`. Like `ydr` these files can be distributed into subfolder.
 3. You have to specify the ytyp files in the resources stream.toml. More information at the bottom of this article
+
+> [!NOTE]
+> 'DLC_ITYP_REQUEST'/'.ytyp' is a special case in [meta] declaration.      
+> It must be in the files folder like the object data.            
+> if it doesn't load, checks the path to the file including upper/lower case in [meta].                     
+> Only the auto load is controlled via the [meta] declaration (you save the alt.loadYtyp in the script)
+
 
 > [!WARNING]
 > If your resource does not contain ytyp files it is not possible to spawn the objects using natives.\
