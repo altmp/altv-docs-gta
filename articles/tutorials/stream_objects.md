@@ -32,7 +32,7 @@ altvlogo/
 |-> stream/
 |    |-> assets/
 |    |    |-> tw_altv_logo.ydr
-|    \    \-> tw_altv_logo.ytyp
+|    \-> tw_altv_logo.ytyp
 |-> resource.toml
 \-> stream.toml
 ```
@@ -50,7 +50,7 @@ client-files = [ 'stream/*' ]
 files = [ 'stream/assets/*' ]
 
 [meta]
-'stream/assets/tw_altv_logo.ytyp' = 'DLC_ITYP_REQUEST'
+'stream/tw_altv_logo.ytyp' = 'DLC_ITYP_REQUEST'
 ```
 
 Add the `altvlogo` (folder name is your resource name) to the `server.toml` file inside the resource section.
