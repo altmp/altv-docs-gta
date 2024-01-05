@@ -20,3 +20,5 @@
   href: stream_vehicles.md
 - name: Stream Weapons
   href: stream_weapons.md
+- name: Stream Audio Occlusions
+  href: stream_audio_occlusions.md
