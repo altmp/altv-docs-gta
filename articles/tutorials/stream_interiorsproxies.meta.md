@@ -15,10 +15,24 @@ Download the MLO from the link above and add it as a resource to your Server. Yo
 3. Create a resourcefolder with the following structure below.
 4. Create a ```interiorproxies.meta``` file inside the stream folder in your resourcefolder. You can see below at ```interiorproxies.meta``` how the file should look.
 
+> [!NOTE]
+> [meta] declaration excludes special cases like 'DLC_ITYP_REQUEST'/'.ytyp' see -> [Stream Objects](https://docs.altv.mp/gta/articles/tutorials/stream_objects.html)
+>
+> Require inside `client-files = [ 'stream/*' ]` of `resource.toml`
+>
+> Require outside `files = [ 'stream/assets/*' ]` of `stream.toml`
+> 
+>
+> You will get this error if you place them inside `files`
+> > [12:40:47][Error] Can't find asset store for file "interiorproxies.meta"
+> > 
+> >[12:40:47][Error] Can't load asset file "stream/interiorproxies.meta"
+
 ### **Folder Structure**
 ```
 i-streamer/
 |-> stream/
+|    |-> assets/
 |    |-> interiorproxies.meta
 |-> resource.toml
 \-> stream.toml
@@ -34,7 +48,7 @@ client-files = [ 'stream/*' ]
 
 ### **stream.toml**
 ```
-files = [ 'stream/*' ]
+files = [ 'stream/assets/*' ]
 
 [meta]
 'stream/interiorproxies.meta' = 'INTERIOR_PROXY_ORDER_FILE'
