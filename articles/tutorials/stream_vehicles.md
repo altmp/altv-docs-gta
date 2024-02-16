@@ -2,24 +2,58 @@
 This tutorial will show, how to add custom vehicles to your server.
 
 For this tutorial we will use [https://www.gta5-mods.com/vehicles/pfister-meteor-add-on](https://www.gta5-mods.com/vehicles/pfister-meteor-add-on) Meteor by Vanillaworks-Team.
-## Suggested tools ##
+
+## Two ways to add vehicle dlc
+
+There are two ways to add custom vehicle.
+
+1. Simple
+2. Long
+
+## Simple way
+
+Just throw the dlc.rpf as resource (available since [v15](https://docs.altv.mp/articles/changelogs/15_0.html))
+
+```
+.
+├── resources/
+│   └── meteor/
+│       └── dlc.rpf
+└── server.toml
+```
+
+> [!NOTE]
+> `resource.toml` is not even needed!
+
+Add "meteor" resource to `resources` in `server.toml` like this:
+
+```toml
+resources = [
+  "meteor",
+  # other resources...
+]
+```
+
+## Long way
+
+### Suggested tools ##
 * [OpenIV](https://openiv.com/)
 * [Codewalker](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)
 * [Template for fast creating](https://github.com/Carbon-Open-Source-Factory/addon_vehicle_template)
 
-## Creating the resources
+### Creating the resources
 1. Open ```dlc.rpf``` or any other ```*.rpf``` archive with one of suggested tools.
 2. You can drag and drop the files to extract the archive like below.
 3. Place all ```ytd```, ```yft```, ```ydd``` and other assets in one folder to load them all with one wildcard (you can split it in subfolders).<ref>The safe maximum size of a .ytd / ytf file is 16 MB.</ref>
 4. You also need to describe each meta file.<ref>.meta files are XML files. It's required to not break the XML formatting, otherwise it will cause problems. They're easily openable with every texteditor around.</ref>
 
 
-## Folder Structure
+### Folder Structure
 
 ![](~/altv-docs-assets/altv-docs-gta/images/tutorials/Stream_Vehicles-FolderStructure.png)
 
 
-## **resource.toml**
+### **resource.toml**
 ```
 type = 'dlc'
 main = 'stream.toml'
@@ -27,7 +61,7 @@ main = 'stream.toml'
 client-files = [ 'stream/*' ]
 ```
 
-## **stream.toml**
+### **stream.toml**
 ```
 files = [ 'stream/assets/*' ]
 
@@ -42,7 +76,7 @@ files = [ 'stream/assets/*' ]
 'stream/audio/meteor_amp.dat' = 'AUDIO_SYNTHDATA'
 ```
 
-# Final touch
+### Final touch
 Add the ```meteor``` to the resource list inside the ```server.toml``` file.<ref>meteor stands for the resource name which is represented by your folder name.</ref><br><br>
 Resource names <strong>aren't</strong> case sensitive!
 
@@ -60,7 +94,7 @@ gxt: {
 }
 ```
 
-## Sample file
+### Sample file
 Virus Scan: https://www.virustotal.com/gui/url/8bdb9b4319493b298ae5a38631e253d478c79e58476ebd55a599dad3f6cb555c/detection
 
 File: https://www.mediafire.com/file/i09jha5h3gy8kt5/car_lowbike.zip/file
