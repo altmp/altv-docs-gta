@@ -322,13 +322,19 @@
     </div>
     <div class="grid-item">
         <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/empty.jpg" alt="Checkpoint 41" title="Checkpoint 41" loading="lazy" />
+        </div>
+        <b>ID 41</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
             <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_42.jpeg" alt="Checkpoint 42" title="Checkpoint 42" loading="lazy" />
         </div>
         <b>ID 42</b>
     </div>
     <div class="grid-item">
         <div class="grid-item-img">
-            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_43.jpeg" alt="Checkpoint 43" title="Checkpoint 43" loading="lazy" />
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/empty.jpg" alt="Checkpoint 43" title="Checkpoint 43" loading="lazy" />
         </div>
         <b>ID 43</b>
     </div>
@@ -337,6 +343,138 @@
             <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_44.jpeg" alt="Checkpoint 44" title="Checkpoint 44" loading="lazy" />
         </div>
         <b>ID 44</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_45.jpeg" alt="Checkpoint 45" title="Checkpoint 45" loading="lazy" />
+        </div>
+        <b>ID 45</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_46.jpeg" alt="Checkpoint 46" title="Checkpoint 46" loading="lazy" />
+        </div>
+        <b>ID 46</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_47.jpeg" alt="Checkpoint 47" title="Checkpoint 47" loading="lazy" />
+        </div>
+        <b>ID 47</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_48.jpeg" alt="Checkpoint 48" title="Checkpoint 48" loading="lazy" />
+        </div>
+        <b>ID 48</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_49.jpeg" alt="Checkpoint 49" title="Checkpoint 49" loading="lazy" />
+        </div>
+        <b>ID 49</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/empty.jpg" alt="Checkpoint 50" title="Checkpoint 50" loading="lazy" />
+        </div>
+        <b>ID 50</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/empty.jpg" alt="Checkpoint 51" title="Checkpoint 51" loading="lazy" />
+        </div>
+        <b>ID 51</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/empty.jpg" alt="Checkpoint 52" title="Checkpoint 52" loading="lazy" />
+        </div>
+        <b>ID 52</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/empty.jpg" alt="Checkpoint 53" title="Checkpoint 53" loading="lazy" />
+        </div>
+        <b>ID 53</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_54.jpeg" alt="Checkpoint 54" title="Checkpoint 54" loading="lazy" />
+        </div>
+        <b>ID 54</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_55.jpeg" alt="Checkpoint 55" title="Checkpoint 55" loading="lazy" />
+        </div>
+        <b>ID 55</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_56.jpeg" alt="Checkpoint 56" title="Checkpoint 56" loading="lazy" />
+        </div>
+        <b>ID 56</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_57.jpeg" alt="Checkpoint 57" title="Checkpoint 57" loading="lazy" />
+        </div>
+        <b>ID 57</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_58.jpeg" alt="Checkpoint 58" title="Checkpoint 58" loading="lazy" />
+        </div>
+        <b>ID 58</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_59.jpeg" alt="Checkpoint 59" title="Checkpoint 59" loading="lazy" />
+        </div>
+        <b>ID 59</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_60.jpeg" alt="Checkpoint 60" title="Checkpoint 60" loading="lazy" />
+        </div>
+        <b>ID 60</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_61.jpeg" alt="Checkpoint 61" title="Checkpoint 61" loading="lazy" />
+        </div>
+        <b>ID 61</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_62.jpeg" alt="Checkpoint 62" title="Checkpoint 62" loading="lazy" />
+        </div>
+        <b>ID 62</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_63.jpeg" alt="Checkpoint 63" title="Checkpoint 63" loading="lazy" />
+        </div>
+        <b>ID 63</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_64.jpeg" alt="Checkpoint 64" title="Checkpoint 64" loading="lazy" />
+        </div>
+        <b>ID 64</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_65.jpeg" alt="Checkpoint 65" title="Checkpoint 65" loading="lazy" />
+        </div>
+        <b>ID 65</b>
+    </div>
+    <div class="grid-item">
+        <div class="grid-item-img">
+            <img src="~/altv-docs-assets/altv-docs-gta/images/checkpoints/checkpoint_66.jpeg" alt="Checkpoint 66" title="Checkpoint 66" loading="lazy" />
+        </div>
+        <b>ID 66</b>
     </div>
 </div>
 
