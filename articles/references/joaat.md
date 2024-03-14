@@ -1,6 +1,6 @@
 # Joaat
 
-Jooat stands for "Jenkis one at a time" and is an hashing algorithm, that is used by GTA V to hash names to uint32 values. You can't get the model name from a hashed value, that's only possible by brute forcing the values.
+Jooat stands for "Jenkins One At A Time" and is an hashing algorithm, that is used by GTA V to hash names to uint32 values. You can't get the model name from a hashed value, that's only possible by brute forcing the values.
 
 The hash is not case sensitive and is already implemented into alt:V API, you can use alt.hash() on server and client side.
 
