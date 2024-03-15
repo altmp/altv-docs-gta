@@ -1,6 +1,39 @@
 ﻿# Stream Objects
 This tutorial will show how to add custom objects to your server. For this tutorial we will use the [alt:V logo](https://github.com/altmp/altv-example-resources/tree/master/object-addon/stream/assets).
 
+## Two ways to add object dlc
+
+There are two ways to add objects.
+
+1. Simple
+2. Long
+
+## Simple way
+
+Just throw the dlc.rpf as resource (available since [v15](https://docs.altv.mp/articles/changelogs/15_0.html))
+
+```
+.
+├── resources/
+│   └── altvlogo/
+│       └── dlc.rpf
+└── server.toml
+```
+
+> [!NOTE]
+> `resource.toml` is not even needed!
+
+Add "meteor" resource to `resources` in `server.toml` like this:
+
+```toml
+resources = [
+  "altvlogo",
+  # other resources...
+]
+```
+
+## Long way
+
 > [!WARNING]
 > As of the current state (alt:V 13.x) there are several conditions for the resource name which could crash the client.
 > To avoid those crashes, follow those rules for naming the resource:
@@ -11,11 +44,11 @@ This tutorial will show how to add custom objects to your server. For this tutor
 > 
 > More information regarding this issue can be found at [GitHub issue #436](https://github.com/altmp/altv-issues/issues/436)
 
-## Suggested tools
+### Suggested tools
 * [Open IV](https://openiv.com/)
 * [Codewalker](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)
 
-## Creating the resources
+### Creating the resources
 1. Open the `dlc.rpf` (or however your rpf file is named) archive with one of suggested tools
 2. Extract the archive like below:
     * Place all `ydr`, `yft`, `ytd` and other assets in the folder `stream\assets\`. For organizational reasons, these files can be distributed into subfolders  
@@ -28,7 +61,7 @@ This tutorial will show how to add custom objects to your server. For this tutor
 > If it doesn't load, check the path to the file including upper/lower case in [meta].                     
 > Only the auto load is controlled via the [meta] declaration (you save the [alt.loadYtyp](https://docs.altv.mp/js/api/alt-client.html#_altmp_altv_types_alt_client_loadYtyp) in the script)
 
-## **Folder Structure**
+### **Folder Structure**
 ```
 altvlogo/
 |-> stream/
@@ -39,7 +72,7 @@ altvlogo/
 \-> stream.toml
 ```
 
-## **resource.toml**
+### **resource.toml**
 ```
 type = 'dlc'
 main = 'stream.toml'
@@ -47,7 +80,7 @@ main = 'stream.toml'
 client-files = [ 'stream/*' ]
 ```
 
-## **stream.toml**
+### **stream.toml**
 ```
 files = [ 'stream/assets/*' ]
 
