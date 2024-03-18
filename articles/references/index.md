@@ -1,6 +1,7 @@
 # Overview of References
 
 [Ambient Zones](ambient-zones.md) \
+[Animpost FX](animpost-fx.md) \
 [Audio Flags](audio-flags.md) \
 [Blips](blips.md) \
 [Checkpoint Types](checkpoints.md) \
