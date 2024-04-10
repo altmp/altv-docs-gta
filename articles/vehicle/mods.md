@@ -56,8 +56,6 @@
 | 44  | Exterior Parts                            | 0+          |                                                                                                                                                                                                                                                                             |
 | 45  | Tank                                      | 0+          |                                                                                                                                                                                                                                                                             |
 | 46  | Door / Windows                            | 0+          |
-
-  |
 | 47  | Wheels Rear Or Hydraulics                 | 0+          |                                                                                                                                                                                                                                                                             |
 | 48  | Livery                                    | 0+          |                                                                                                                                                                                                                                                                             |
 | 66  | Primary Color                             | 0+          | IVehicle.primaryColor [JS](http://docs.altv.mp/js/api/alt-server.Vehicle.html#_altmp_altv_types_alt_server_Vehicle_primaryColor) [C#](http://docs.altv.mp/cs/api/AltV.Net.Elements.Entities.IVehicle.html#AltV_Net_Elements_Entities_IVehicle_PrimaryColor)                 |
