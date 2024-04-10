@@ -15,7 +15,7 @@ Just throw the dlc.rpf as resource (available since [v15](https://docs.altv.mp/a
 ```
 .
 ├── resources/
-│   └── altvlogo/
+│   └── <your name>/
 │       └── dlc.rpf
 └── server.toml
 ```
@@ -23,11 +23,11 @@ Just throw the dlc.rpf as resource (available since [v15](https://docs.altv.mp/a
 > [!NOTE]
 > `resource.toml` is not even needed!
 
-Add "meteor" resource to `resources` in `server.toml` like this:
+Add your resource to `resources` in `server.toml` like this:
 
 ```toml
 resources = [
-  "altvlogo",
+  "<your resource name>",
   # other resources...
 ]
 ```
@@ -95,9 +95,9 @@ Add the `altvlogo` (folder name is your resource name) to the `server.toml` file
 To spawn the object now, use the following snippet:
 
 ```js
-async function spawnLogo() {
-    const modelHash = alt.hash("tw_altv_logo");
-    await alt.Utils.requestModel(modelHash);
-    native.createObject(modelHash, 0, 0, 100, false, false, false);
-}
+import alt from 'alt-client';
+
+const pos = new alt.Vector3(0, 3, 72);
+const rot = alt.Vector3.zero;
+new alt.LocalObject('tw_altv_logo', pos, rot);
 ```
