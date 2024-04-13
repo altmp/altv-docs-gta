@@ -1,7 +1,7 @@
 # Stream MLOs
 This tutorial will show, how to add custom MLO to your server. For this tutorial we will use [GTA IV Burgershot by Smallo](https://www.gta5-mods.com/maps/gtaiv-burgershot-interior-sp-and-fivem).
 
-## Two ways to add vehicle dlc
+## Two ways to add custom MLO
 
 There are two ways to add custom MLO.
 
