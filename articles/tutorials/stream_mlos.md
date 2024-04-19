@@ -1,15 +1,48 @@
 # Stream MLOs
 This tutorial will show, how to add custom MLO to your server. For this tutorial we will use [GTA IV Burgershot by Smallo](https://www.gta5-mods.com/maps/gtaiv-burgershot-interior-sp-and-fivem).
 
-## Suggested tools 
+## Two ways to add custom MLO
+
+There are two ways to add custom MLO.
+
+1. Simple
+2. Long
+
+## Simple way
+
+Just throw the dlc.rpf as resource (available since [v15](https://docs.altv.mp/articles/changelogs/15_0.html))
+
+```
+.
+├── resources/
+│   └── burgershot/
+│       └── dlc.rpf
+└── server.toml
+```
+
+> [!NOTE]
+> `resource.toml` is not even needed!
+
+Add the `burgetshot` (folder name is your resource name) resource to `resources` array in `server.toml` like this
+
+```toml
+resources = [
+  "burgershot",
+  # other resources...
+]
+```
+
+## Long way
+
+### Suggested tools 
 * [Open IV](https://openiv.com/)
 * [Codewalker](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)
 #
 ## Creating the resources 
-1. Open ```dlc.rpf``` or any other ```*.rpf``` archive with one of suggested tools 
-2. Extract the archive like below. Place all ```ybn```, ```ydd```, ```ydr``` and other assets in one folder to load them all with one wildcard (you can split it in subfolders). You also need to describe each meta file. The Data Files List and examples can be found [here](https://docs.altv.mp/gta/articles/references/data-files.html). You can drag and drop the files.
+1. Open `dlc.rpf` or any other `*.rpf` archive with one of suggested tools 
+2. Extract the archive like below. Place all `ybn`, `ydd`, `ydr` and other assets in one folder to load them all with one wildcard (you can split it in subfolders). You also need to describe each meta file. The Data Files List and examples can be found [here](https://docs.altv.mp/gta/articles/references/data-files.html). You can drag and drop the files.
 
-## **Folder Structure**
+### **Folder Structure**
 ```
 burgershot/
 |-> stream/
@@ -120,19 +153,24 @@ burgershot/
 \-> stream.toml
 ```
 
-## **resource.toml** 
-```
+### **resource.toml** 
+```toml
 type = 'dlc'
 main = 'stream.toml'
 
 client-files = [ 'stream/*' ]
 ```
 
-## **stream.toml**
-```
+### **stream.toml**
+```toml
 files = [ 'stream/*' ]
-
-[meta]
 ```
 
-Add the ```burgershot``` (folder name is your resource name) for the ```server.toml``` file.
+3. Add the `burgetshot` (folder name is your resource name) resource to `resources` array in `server.toml` like this
+
+```toml
+resources = [
+  "burgershot",
+  # other resources...
+]
+```
