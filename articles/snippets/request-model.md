@@ -2,6 +2,9 @@
 
 You need to request some models per natives, before using them. Because natives are non-blocking methods and the game wouldn't wait until the model has been loaded from disk, you need to call them as a async method. Here you can find an example, written in JavaScript how to load them correctly.
 
+> [!NOTE]
+> If you need to load model for ped, vehicle or object consider using [LocalVehicle](https://docs.altv.mp/js/api/alt-client.LocalVehicle.html), [LocalPed](https://docs.altv.mp/js/api/alt-client.LocalPed.html) or [LocalObject](https://docs.altv.mp/js/api/alt-client.LocalObject.html) API, these classes load the model under the hood for you.
+
 # Example
 
 ## Usage of RequestModel Method
